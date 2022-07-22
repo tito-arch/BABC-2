@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://babcblog.netlify.app/
 languageCode: en-us
 title: BABC Blog
 theme : PaperMod
