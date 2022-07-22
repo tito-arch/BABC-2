@@ -3,7 +3,7 @@ languageCode: en-us
 title: BABC Blog
 theme : PaperMod
 
-
+googleAnalytics: G-GY76RH501F
 
 
 params:
@@ -43,5 +43,8 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+
+  
+   
 #
    
