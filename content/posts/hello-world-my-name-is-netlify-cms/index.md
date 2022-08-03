@@ -1,7 +1,13 @@
 ---
 title: Hello world my name is netlify cms
 date: 2022-08-03T10:12:05.980Z
-image: https://source.unsplash.com/random
+cover:
+     image: "https://source.unsplash.com/random"
+     alt: "netlify cms"
+     caption: "bunnieABC is still creating me "
+
+cartegories: ["netlify"]
+tags: ["bunnieabc"]
 ---
 hello don't mind  me am just bieng moved around[](https://unsplash.com/photos/jrb9JCmD01w) <https://source.unsplash.com/random>
 
