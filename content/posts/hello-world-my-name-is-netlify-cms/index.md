@@ -23,6 +23,8 @@ label: "Posts" # Used in the UI
 
 folder: "content/posts" # The path to the folder where the documents are stored
 
+![cms cms cms](<https://source.unsplash.com/random> "...")
+
 ```
 backend:
   name: git-gateway
