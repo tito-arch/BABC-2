@@ -8,7 +8,7 @@ cover:
      alt: "its my birthday"
      caption: "bunnieABC created me "
 
-cartegories: ["ree-born"]
+cartegories: ["ree-born" "trends"]
 tags: ["bunnieabc"]
 ---
 
