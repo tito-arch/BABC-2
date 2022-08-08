@@ -5,7 +5,8 @@ cover:
      image: "https://source.unsplash.com/random"
      alt: "netlify cms"
      caption: "bunnieABC is still creating me "
-
+description: spf13-vim is a cross platform distribution of vim plugins and resources
+  for Vim.
 cartegories: ["netlify"]
 tags: ["bunnieabc"]
 ---
