@@ -6,9 +6,9 @@ draft: false
 cover:
      image: "img/buildingNtesting.jpg"
      alt: "its my birthday"
-     caption: "bunnieABC created me "
+     caption: "bunnieABC created me"
 
-cartegories: ["ree-born" "trends"]
+
 tags: ["bunnieabc"]
 ---
 
