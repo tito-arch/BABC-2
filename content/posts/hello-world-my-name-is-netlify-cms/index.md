@@ -2,22 +2,23 @@
 title: Hello world my name is netlify cms
 date: 2022-08-03T10:12:05.980Z
 cover:
-     image: "https://source.unsplash.com/random"
-     alt: "netlify cms"
-     caption: "bunnieABC is still creating me "
+  image: https://source.unsplash.com/random
+  alt: netlify cms
+  caption: "bunnieABC is still creating me "
 
-description: spf13-vim is a cross platform distribution of vim plugins and resources
-  for Vim.
-slug: spf13-vim-3-0-release-and-new-website
+description: spf13-vim is a cross platform distribution of vim plugins and resources for
+  Vim.
+slug: world-netlify-cms
 categories:
-- Development
-- VIM
+  - Development
+  - VIM
 
 tags:
-- .vimrc
-- plugins
-- spf13-vim
-- vim
+  - .vimrc
+  - plugins
+  - spf13-vim
+  - vim
+  - hello
 ---
 hello don't mind  me am just bieng moved around[](https://unsplash.com/photos/jrb9JCmD01w) <https://source.unsplash.com/random>
 
