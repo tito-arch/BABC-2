@@ -1,7 +1,4 @@
-#---
-#title: "About"
-
-#---
-
-
-#Here's a bit about me.
+---
+title: "About"
+---
+Here's a bit about me.
