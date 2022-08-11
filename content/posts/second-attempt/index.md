@@ -2,6 +2,12 @@
 title: second attempt
 date: 2022-08-11T13:09:42.527Z
 image: https://source.unsplash/random
+description: this is a short descrption
+tags:
+  - .vimrc
+  - spf13-vim
+categories:
+  - Development
 ---
 this is the second attempt to check on meta description
 
