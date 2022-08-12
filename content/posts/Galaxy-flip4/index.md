@@ -11,6 +11,7 @@ tags:
 categories:
   - Device review
   - Android
+draft: false
 ---
 #### How much will it cost?
 
