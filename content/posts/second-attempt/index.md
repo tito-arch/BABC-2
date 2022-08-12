@@ -9,15 +9,15 @@ tags:
 categories:
   - Development
 ---
-# How much will it cost?
+#### How much will it cost?
 
 Anything around $999 to $1100
 
-# What are the Galaxy Z flip4 and release date?
+#### What are the Galaxy Z flip4 and release date?
 
 The official release date is on the 2nd of September 2022 but it is available to those who want to use the product before.
 
-# Why choose the Galaxy Z flip4?
+#### Why choose the Galaxy Z flip4?
 
 Here is what makes the galaxy flip/fold 4 phones from the future…
 
@@ -65,13 +65,13 @@ Also allows the people being snapped to view the image from behind which is real
 
   F.No (aperture): F2.4
 
-  ### Rear Camera (Dual camera setup) This is where the intelligent features kick in.
+  #### Rear Camera (Dual camera setup) This is where the intelligent features kick in.
 
-  ### 12MP Ultra Wide Camera, 
+  #### 12MP Ultra Wide Camera, 
 
   Pixel size: 1.12μm,FOV: 123˚,F.No (aperture): F2.2
 
-  ### 12MP Wide-angle Camera,
+  #### 12MP Wide-angle Camera,
 
 ![Everything you need to know about the Samsung Galaxy Z flip4.](screenshot-from-2022-08-12-17-38-12.webp "photo by samsung.com")
 
@@ -89,7 +89,7 @@ Dual Pixel AF, OIS,Pixel size: 1.8μm,FOV: 83˚,F.No (aperture): F1.8
 
          The device, Data Cable, Ejection Pin, Quick Start Guide
 
-  # Galaxy Z flip4 Summary.
+  ### Galaxy Z flip4 Summary.
 
   ![Everything you need to know about the Samsung Galaxy Z flip4](galaxy-z-flip4_highlights_compact_img.jpg "image courtesy to samsun.com")
 
@@ -99,7 +99,7 @@ This is a blow to the scuba divers and swimming YouTubers so I guess you’ll ha
 
  It comes with Virus and malware protection powered by McAfee and a secure folder or in my words (vault) to keep your credentials and any other stuff you want to throw in safe.
 
-![Everything you need to know about the Samsung Galaxy Z flip4.](https://source.unsplash.com/YOyZVglvuQ8 "Photo by <a href=\\"https://unsplash.com/@franckinjapan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\">Franck</a> on <a href=\\"https://unsplash.com/s/photos/safe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\">Unsplash</a>   ")
+![]()
 
 Of course, it comes with a OneUI 4.1 based on Android 12
 
