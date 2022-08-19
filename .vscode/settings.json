@@ -12,5 +12,6 @@
         },
         "editor.minimap.enabled": false
     },
-    "frontMatter.dashboard.openOnStart": true
+    "frontMatter.dashboard.openOnStart": true,
+    "frontMatter.content.autoUpdateDate": false
 }

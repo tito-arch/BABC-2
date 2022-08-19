@@ -52,18 +52,9 @@
     {
       "title": "content",
       "path": "[[workspace]]/content"
-    },
-    {
-      "title": "hello-world-my-name-is-netlify-cms",
-      "path": "[[workspace]]/content/posts/hello-world-my-name-is-netlify-cms"
     }
   ],
-  "frontMatter.taxonomy.tags": [
-    ".vimrc",
-    "plugins",
-    "spf13-vim",
-    "vim"
-  ],
+  "frontMatter.taxonomy.tags": [],
   "frontMatter.taxonomy.categories": [
     "Development",
     "VIM"
