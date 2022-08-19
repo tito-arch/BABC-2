@@ -1,7 +1,7 @@
 ---
 title: Everything you need to know about the Samsung Galaxy Z flip4
 date: 2022-08-11T13:09:42.527Z
-image: screenshot-from-2022-08-12-16-29-02-1-.png
+image: https://source.unsplash.com/YVvfrXDYQXE
 description: "The all new samsung galaxy Z flip4 2022 "
 tags:
   - galaxy flip4
