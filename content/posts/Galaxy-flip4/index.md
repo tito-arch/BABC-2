@@ -17,7 +17,7 @@ draft: false
 
 Anything around $999 to $1100
 
-#### What are the Galaxy Z flip4 and release date?
+#### What is  the Galaxy Z flip4 and release date?
 
 The official release date is on the 2nd of September 2022 but it is available to those who want to use the product before.
 

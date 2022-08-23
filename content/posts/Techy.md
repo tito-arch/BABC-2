@@ -19,7 +19,7 @@ Yesterday my maker was in labour pains and couldn't
 
 My elder sister is [Sister Home](https://bunnieabc.com) and I am [little bunnie](https://blog.bunnieabc.com).
 
-Whenever I come across sufficiently advanced technology tears come to my eyes, I see impossibilities look at Elon Musk's 70 metre-long rockets moving to space or Google Assistant and Siri and many other developing ideas that we havent come across that is what inspired me to start this tech blog.  
+Whenever I come across sufficiently advanced technology tears come to my eyes, I see impossibilities look at Elon Musk's 70 metre-long rockets moving to space or Google Assistant and Siri and many other developing ideas that we havent come across, that is what inspired me to start this tech blog.  
 
 Share what you have come across too. `https://bunnieabc.com/#contact`
 
