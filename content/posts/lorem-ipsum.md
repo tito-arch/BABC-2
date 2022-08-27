@@ -4,9 +4,9 @@ image = "/uploads/whatsapp-image-2022-03-03-at-7-36-16-pm.jpeg"
 tags = []
 title = "Lorem Ipsum"
 [cover]
-alt = "lorem ipsum"
-caption = "lorem ipsum"
-image = "/uploads/whatsapp-image-2022-03-03-at-7-36-16-pm.jpeg"
+alt = ""
+caption = ""
+image = ""
 
 +++
 ## This is a random A/B test
