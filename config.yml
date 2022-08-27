@@ -1,50 +1,33 @@
+---
 baseURL: https://blog.bunnieabc.com/
 languageCode: en-us
 title: BABC Blog
-theme : PaperMod
-
+theme: PaperMod
 googleAnalytics: UA-235280790-1
-
-
 params:
   homeInfoParams:
-    Title: "Yowzha!"
-    Content: Don't memorize I need you back. 
+    Title: Yowzha!
+    Content: Don't memorize I need you back.
   socialIcons:
-    - name: instagram
-      url: "https://www.instagram.com/bunniestore.ke/"
-    - name: twitter
-      url: "https://twitter.com/IhwagiTitus"
-    - name: github
-      url: "https://github.com/tito-arch"
-
+  - name: instagram
+    url: https://www.instagram.com/bunniestore.ke/
+  - name: twitter
+    url: https://twitter.com/IhwagiTitus
+  - name: github
+    url: https://github.com/tito-arch
   cover:
     linkFullImages: true
-
   ShowBreadCrumbs: true
-
   ShowReadingTime: true
-
   ShowShareButtons: true
-
   ShowPostNavLinks: true
-
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 30
-
-  
-   
-#
-   
+  - url: "/archives/"
+    name: Archives
+    weight: 3
+    identifier: archives
+  - url: "/tags/"
+    name: Tags
+    weight: 2
+    identifier: tags
