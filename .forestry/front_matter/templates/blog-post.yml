@@ -20,5 +20,3 @@ fields:
 - type: list
   name: categories
   label: categories
-pages:
-- content/posts/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit.md
