@@ -3,7 +3,6 @@ article = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam effi
 cartegories = []
 date = 2022-08-10T21:00:00Z
 description = "\"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...\""
-draft = true
 image = ""
 image_url = "https://source.unsplash.com/random"
 tags = []
