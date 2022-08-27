@@ -9,11 +9,12 @@ fields:
     required: true
     min: 10
     max: 60
+  description: Enter the Article's title.
 - type: datetime
   name: date
   label: date
   config:
-    date_format: yyyy/dd/yyyy
+    date_format: ''
     time_format: ''
     required: true
   default: now
@@ -24,6 +25,7 @@ fields:
     required: true
     min: 40
     max: 160
+  description: 'Enter a short description of the new post. Clue: Enter a summary'
 - type: field_group
   name: cover
   label: cover
@@ -31,12 +33,18 @@ fields:
   - type: file
     name: image
     label: image
+    description: All images should have an <strong><em>alt</em></strong><em> this
+      should be the same as the title of the post</em>
   - type: text
     name: alt
     label: alt
+    description: All images should have an <strong><em>alt</em></strong><em> this
+      should be the same as the title of the post</em>
   - type: text
     name: caption
     label: caption
+    description: Describe the <strong>source</strong> of the photo eg. <br>(<em>image
+      sourced from</em> source.unsplash.com/random)
   description: This section is <strong>mandatory</strong> to enhance the <strong><em>User
     Experience  </em></strong>~<strong><em>CTO</em></strong>
 - type: list
@@ -46,6 +54,7 @@ fields:
     use_select: false
     min: 2
     max: 5
+  description: Add the most relevant tags to help us manage how content is displayed.
 - type: list
   name: categories
   label: categories
@@ -53,6 +62,9 @@ fields:
     use_select: false
     min: 1
     max: 2
+  description: Add a category or two to ease navigation around the site.
 - type: file
   name: image
   label: image
+  description: All images should have an <strong><em>alt</em></strong><em> this should
+    be the same as the title of the post</em>
