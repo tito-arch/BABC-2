@@ -27,3 +27,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- content/posts/lorem-ipsum.md
