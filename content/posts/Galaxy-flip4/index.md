@@ -11,6 +11,10 @@ tags:
 categories:
 - Device review
 - Android
+cover:
+  image: "/uploads/flipz.webp"
+  alt: Everything you need to know about the Samsung Galaxy Z flip4
+  caption: Samsung Flip Z
 
 ---
 #### How much will it cost?
@@ -81,7 +85,7 @@ Also allows the people being snapped to view the image from behind which is real
 Dual Pixel AF, OIS,Pixel size: 1.8μm,FOV: 83˚,F.No (aperture): F1.8
 
 * OIS (Optical Image Stabilization) for Wide-angle Camera
-  * 
+  \*
   * Super clear glass with Corning® Gorilla® Glass with DX for Wide-angle Camera
   * Up to 10x digital zoom
 
