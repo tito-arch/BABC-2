@@ -23,11 +23,15 @@ params:
   ShowPostNavLinks: true
 menu:
   main:
-  - url: "/archives/"
-    name: Archives
-    weight: 3
-    identifier: archives
-  - url: "/tags/"
-    name: Tags
-    weight: 2
-    identifier: tags
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
