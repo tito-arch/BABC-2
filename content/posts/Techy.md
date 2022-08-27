@@ -9,7 +9,7 @@ cover:
   caption: bunnieABC created me
 tags:
   - bunnieabc
-  categories:
+categories:
 - Device review
 - Android
 image: imageedit_4_3671584613.jpg
