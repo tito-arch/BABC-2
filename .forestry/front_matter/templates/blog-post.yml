@@ -46,3 +46,13 @@ fields:
   config:
     required: false
   label: Image url
+- name: article
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+    min: 500
+  label: Article
