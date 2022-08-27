@@ -2,6 +2,7 @@
 categories = ["meta"]
 date = 2022-08-27T20:33:18Z
 description = "Zuck is the boss around facebook and meta"
+draft = true
 image = "/uploads/flipz.webp"
 tags = ["zuck2", "zuck"]
 title = "Zuck the boss"
