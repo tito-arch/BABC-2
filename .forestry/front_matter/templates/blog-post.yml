@@ -56,5 +56,3 @@ fields:
       format: markdown
     min: 500
   label: Article
-pages:
-- content/posts/lorem-ipsum.md
