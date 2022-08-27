@@ -15,19 +15,26 @@ params:
     url: https://twitter.com/IhwagiTitus
   - name: github
     url: https://github.com/tito-arch
+    
   cover:
     linkFullImages: true
-  ShowBreadCrumbs: true
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    searchHidden: false
+
 menu:
   main:
-  - url: "/archives/"
-    name: Archives
-    weight: 3
-    identifier: archives
-  - url: "/tags/"
-    name: Tags
-    weight: 2
-    identifier: tags
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
