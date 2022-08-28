@@ -31,7 +31,7 @@ Here is what makes the galaxy Z flip4 a phone from the future…
 
 * It’s small,  enough to fit your shirt pocket and disappear.
 
-                                          **Dimensions**
+ **Dimensions**
 
 1.  _Folded: 71.9 x 84.9 x 17.1mm, (Hinge) - 15.9mm (Sagging)_ 
 2.  _Unfolded: 71.9 x 165.2 x 6.9mm 144HZ refresh rate )._
