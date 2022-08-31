@@ -68,3 +68,5 @@ fields:
   label: image
   description: All images should have an <strong><em>alt</em></strong><em> this should
     be the same as the title of the post</em>
+pages:
+- content/posts/should-kenyans-get-excited-about-digital-plates.md
