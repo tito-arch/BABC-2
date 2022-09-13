@@ -1,15 +1,14 @@
 +++
 categories = ["AI"]
 date = 2022-09-06T21:00:00Z
-description = "Ameca is still being built and still not quite efficient, he is built not to look like a human but like a fictional robot from the movies."
-draft = true
-image = ""
+description = "A robot is a machine that does not necessarily look like a human that can replicate one or more tasks with less or no human intervention."
+image = "/uploads/untitled-design.png"
 tags = ["Robotics", "AI"]
 title = "Meet the world's most interesting Robots."
 [cover]
 alt = "Meet the world's most exciting Robots."
 caption = ""
-image = "/uploads/sophia-the-robot.jpg"
+image = "/uploads/untitled-design.png"
 
 +++
 # Meet the world's most exciting Robots.
@@ -62,7 +61,7 @@ She is the most advanced robot and often participates in talks all over the worl
 
 ![Meet the world's most exciting Robots.](/uploads/fbf8gvuuyamjgk4.png)
 
-Pepper is an intelligent semi-humanoid robot that was built to curb labor shortages. Where? I have no idea. Just like ASIMO and Sophia, Pepper has a gender and is male. He moves on a rolling base. The company, **soft bank robotics** says that it was the first robot to recognize faces and human emotions. 
+Pepper is an intelligent semi-humanoid robot that was built to curb labor shortages. Where? I have no idea. Just like ASIMO and Sophia, Pepper has a gender and is male. He moves on a rolling base. The company, **soft bank robotics** says that it was the first robot to recognize faces and human emotions.
 
 Today, companies use Pepper to interact with their customers since the robot is very good at collecting data this helps companies to understand the taste of their customers. According to [iee.org](https://robots.ieee.org/robots/pepper/), Renault, Nestle, and Uniqlo have used Pepper to interact with their customers. Pepper does not look intimidating. it is short and friendly and only costs **$1,500 per robot.** You can purchase the robot by visiting their website [here](https://www.softbankrobotics.com/emea/en/contact-us).
 
@@ -72,4 +71,22 @@ Today, companies use Pepper to interact with their customers since the robot is 
 
 Ameca is still being built and still not quite efficient, he is built not to look like a human but like a fictional robot from the movies. He is made of plastic and metal and can perform movements like moving his arms, making facials, and even recognizing people and gestures.
 
- Ameca's purpose is for entertainment and will be seen around often in ten years' time he is still on a mission and very promising.
+Ameca's purpose is for entertainment and will be seen around often in ten years' time he is still on a mission and very promising.
+
+## 5. ATLAS.
+
+![](/uploads/atlas-dynamic.jpg)
+
+Atlas is a product of an American company founded in 1992 -Boston Dynamics. The company was once owned by Alphabet INC -Google's parent company and Soft bank which owns Pepper. Today Boston Dynamics parent company is still Hyundai Motor Group.
+
+Atlas has a height of 1.5m and a weight of 89 kg. Like ASIMO he is also one of the most agile robots around. The last Atlas update was done in 2021, he can walk on an inclined surface, do backflips, dance among others and perform gymnastics somersaults and handstands.  
+
+The robot is still too expensive at 75,000.
+
+## 6. SPOT.
+
+![](/uploads/chironix-senses-spot-leica-1.jpg)
+
+Spot is a robotic dog by Boston Dynamics the creators of Atlas. Spot can perform various tasks like patrol a warehouse overnight while you sleep or just as an assistant, carry stuff around, inspect and place misplaced stuff since he comes with an arm strong enough to lift blocks and open doors by himself, and also maintain machines.
+
+ He uses cameras and Lidars to map his environment.
