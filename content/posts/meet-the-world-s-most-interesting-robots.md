@@ -55,7 +55,7 @@ Unlike ASIMO, Sophia is a social-humanoid robot that is more intelligent, she us
 
 She is the most advanced robot and often participates in talks all over the world about AI, and weather amongst others, this alone has given her popularity and a public figure title. There is much more about Sophia.
 
-{{< youtube UgkxxdWKvcK6yuWBuclEKlhbLlCbP9-p8PcA >}}
+{{< youtube G-zyTlZQYpE >}}
 
 ## 3. PEPPER.
 
