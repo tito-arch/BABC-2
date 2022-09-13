@@ -57,6 +57,8 @@ She is the most advanced robot and often participates in talks all over the worl
 
 {{< youtube G-zyTlZQYpE >}}
 
+sophia sings better than you would [here](https://www.youtube.com/clip/UgkxxdWKvcK6yuWBuclEKlhbLlCbP9-p8PcA).
+
 ## 3. PEPPER.
 
 ![Meet the world's most exciting Robots.](/uploads/fbf8gvuuyamjgk4.png)
