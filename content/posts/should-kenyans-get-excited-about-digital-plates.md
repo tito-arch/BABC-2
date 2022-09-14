@@ -1,7 +1,7 @@
 +++
 categories = ["Digital numberplates"]
 date = 2022-08-30T22:27:39Z
-description = "These are next-generation vehicle identification devices mounted on car bumpers that emit radio signals to provide tracking information and additional data."
+description = "Digital number plates are next-generation vehicle identification devices mounted on car bumpers that emit radio signals to provide tracking information."
 image = "/uploads/kenyadigitalnumberplates.jpeg"
 tags = ["cs matiangi", "kenyan number plates", "number plates ", "digital number plates", "NTSA "]
 title = "Should Kenyans get excited about digital plates?"
@@ -13,9 +13,9 @@ image = "/uploads/kenyadigitalnumberplates.jpeg"
 +++
 # What are digital number plates?
 
-These are next-generation vehicle identification devices mounted on car bumpers that emit radio signals to provide tracking information and additional data.
+Digital number plates are next-generation vehicle identification devices mounted on car bumpers that emit radio signals to provide tracking information and additional data.
 
-We have seen a lot of technologies being used on our roads to aid fight against breaking the national transport laws including [cameras](https://roadsafety.transport.nsw.gov.au/speeding/speedcameras/howdo_theywork.html) installed along the **Ksh 32 billion (US$360 million)** Thika Superhighway or sophisticated [**radar guns **](https://en.wikipedia.org/wiki/Radar_speed_gun)that get you pulled over.
+We have seen a lot of technologies being used on our roads to aid fight against breaking the national transport laws including [cameras](https://roadsafety.transport.nsw.gov.au/speeding/speedcameras/howdo_theywork.html) installed along the **Ksh 32 billion (US$360 million)** Thika Superhighway or sophisticated [radar guns ](https://en.wikipedia.org/wiki/Radar_speed_gun)that get you pulled over.
 
 Ever wondered how KENHA intelligence identifies all trucks that could be above a certain mass captures the number plate and displays it on an LED screen with instructions (**_KDD 405Z <EXIT_**) to filter which vehicles to be inspected on the weighing bridge? [Read more. ](https://uzalendonews.co.ke/kenha-installs-spy-cameras-to-nab-rogue-transporters/)
 
@@ -49,6 +49,6 @@ Production of these identification plates will be done by the government to ensu
 4. It will reduce the tax evasion crisis since plates will be issued at the port of entry.
 5. The plates have a modern design and are appealing.
 
-All these advantages don't come with at least one disadvantage which in **my opinion** who wants the government always on their track. When we spy or eavesdrop on someone, **_we are trying to gain information that is not being willingly shared with us._** Some people are not ready for this but we can live with that that is if you run errands that are top secret like building the Next google. To those feeling being spayed is not on their to-do list here is a quote for you. 
+All these advantages don't come with at least one disadvantage which in **my opinion** who wants the government always on their track. When we spy or eavesdrop on someone, **_we are trying to gain information that is not being willingly shared with us._** Some people are not ready for this but we can live with that that is if you run errands that are top secret like building the Next google. To those feeling being spayed is not on their to-do list here is a quote for you.
 
 > **_Spying is a like a game of chess: Sometimes you have to withdraw, sometimes you have to sacrifice one of your pieces to win - preferably a knight rather than a king or queen._** [John Rhys-Davies](https://www.brainyquote.com/topics/spying-quotes)
