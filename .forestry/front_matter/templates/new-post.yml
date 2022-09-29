@@ -1,5 +1,5 @@
 ---
-label: New Post
+label: New post
 hide_body: false
 fields:
 - type: text
@@ -27,5 +27,3 @@ fields:
 - type: file
   name: image
   label: image
-pages:
-- content/posts/Galaxy-flip4/index.md
