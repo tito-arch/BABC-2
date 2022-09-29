@@ -1,6 +1,7 @@
 ---
 title: I am born
 date: 2022-07-22T01:38:54+03:00
+description: 'The all new samsung galaxy Z flip4 2022 '
 draft: false
 description: 'The all new samsung galaxy Z flip4 2022 '
 cover:
