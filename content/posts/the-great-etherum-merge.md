@@ -5,7 +5,7 @@ description = "BABC Blog was launched on July 22nd,2022 to evangalise "
 draft = true
 image = ""
 tags = ["Tito", "Draft"]
-title = "The Great Etherum merge"
+title = "The Great Etherum merge."
 [cover]
 alt = ""
 caption = ""
