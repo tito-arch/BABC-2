@@ -69,7 +69,6 @@ fields:
   description: All images should have an <strong><em>alt</em></strong><em> this should
     be the same as the title of the post</em>
 pages:
-- content/posts/lorem-ipsum.md
 - content/posts/meet-the-world-s-most-interesting-robots.md
 - content/posts/should-kenyans-get-excited-about-digital-plates.md
 - content/posts/the-great-etherum-merge.md
