@@ -25,3 +25,5 @@ The Beacon chain was launched on December 2020 to prove whether the idea of Proo
 The Beacon chain was the ledger that coordinated and organized Ethereum-stakers.
 
 ## The Merge.
+
+"_The Merge_", as the name suggests was the merging of the Beacon chain and the Mainnet. This meant that Ethereum would henceforth use Proof of Stake (PoS) consensus to validate transaction requests rather than the old Proof of Work that Bitcoin still uses.
