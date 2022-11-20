@@ -14,6 +14,14 @@ image = "/uploads/zoltan-tasi-unxmhzcqjxg-unsplash.jpg"
 +++
 # The Great Ethereum merge.
 
-On December 1, 2020, Ethereum shipped the Beacon chain this would then merge with the Mainnet on September 15, 2022, which existed since it was launched in 2015. This was "**The Merge**".
+On **December 1, 2020**, Ethereum shipped the Beacon chain this would then merge with the Mainnet on September 15, 2022, which existed since it was launched in 2015. This and some other events were referred to as  "**The Merge**".
 
-[842ofHC6MaI](https://source.unsplash.com/842ofHC6MaI 'Photo by <a href="https://unsplash.com/ja/@yancymin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yancy Min</a> on <a href="https://unsplash.com/s/photos/github?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>   ')
+![The Great Ethereum merge.](/uploads/yancy-min-842ofhc6mai-unsplash-1.jpg 'Photo by <a href="https://unsplash.com/ja/@yancymin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yancy Min</a> on <a href="https://unsplash.com/s/photos/github?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>   ')
+
+## The Beacon Chain.
+
+The Beacon chain was launched on December 2020 to prove whether the idea of Proof of Stake (PoS) consensus logic was sustainable before deploying to Ethereum's Mainnet. It ran alongside the existing Proof of Work (PoW) consensus but did nothing until The merge was successful.
+
+The Beacon chain was the ledger that coordinated and organized Ethereum-stakers.
+
+## The Merge.
