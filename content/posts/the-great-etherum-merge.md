@@ -1,10 +1,10 @@
 +++
 categories = ["Crypto"]
 date = 2022-09-16T23:43:26Z
-description = "BABC Blog was launched on July 22nd,2022 to evangalise "
+description = "Ethereum switched from Proof of Work to Proof of Stake to stop alot of energy consumption."
 draft = true
 image = ""
-tags = ["Tito", "Draft"]
+tags = ["Cryptocurrencies", "Ethereum"]
 title = "The Great Ethereum merge."
 [cover]
 alt = "The great Ethereum merge."
