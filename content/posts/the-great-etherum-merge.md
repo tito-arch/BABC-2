@@ -7,8 +7,8 @@ image = ""
 tags = ["Tito", "Draft"]
 title = "The Great Etherum merge."
 [cover]
-alt = ""
-caption = ""
-image = ""
+alt = "The great Ethereum merge."
+caption = "Photo by <a href=\"https://unsplash.com/@zoltantasi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Zoltan Tasi</a> on <a href=\"https://unsplash.com/s/photos/ethereum?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>   "
+image = "/uploads/zoltan-tasi-unxmhzcqjxg-unsplash.jpg"
 
 +++
