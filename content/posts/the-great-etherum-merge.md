@@ -26,8 +26,20 @@ The Beacon chain was the ledger that coordinated and organized Ethereum-stakers.
 
 ## The Merge.
 
-"_The Merge_", as the name suggests was the merging of the Beacon chain and the Mainnet. This meant that Ethereum would henceforth use Proof of Stake (PoS) consensus to validate transaction requests rather than the old Proof of Work that Bitcoin still uses. The Beacon chain ceased to exist.
+"_The Merge_", as the name suggests was the merging of the Beacon chain and the Mainnet. This meant that Ethereum would henceforth use Proof of Stake (PoS) consensus to validate transaction requests rather than the old Proof of Work that Bitcoin still uses. The Beacon chain ceased to exist after the merge.
 
 It involved:
 
-* All previous miners switched off their workers
+* All previous miners switched off their workers since Eth is no longer mineable.
+* All transactions were prohibited to avoid loss of coins.
+* All previous transaction histories from the PoW algorithm since the Genesis block would merge with the new records so that all transactions would be valid.
+
+## Proof of Work vs Proof of Stake.
+
+In the world of Blockchains, all nodes agree on one state. For this reason, an algorithm is needed, a consensus algorithm is a path that all nodes follow to settle on a joint agreement.
+
+Some of these algorithms are:
+
+* Proof of Work (PoW).
+* Proof of Stake (PoS).
+* Proof of Authority (PoA).
