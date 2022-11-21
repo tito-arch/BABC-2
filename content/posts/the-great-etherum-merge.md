@@ -43,3 +43,5 @@ Some of these algorithms are:
 * Proof of Work (PoW).
 * Proof of Stake (PoS).
 * Proof of Authority (PoA).
+
+### Proof of Work consensus algorithm.
