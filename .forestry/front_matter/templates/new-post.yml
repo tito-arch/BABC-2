@@ -28,4 +28,5 @@ fields:
   name: image
   label: image
 pages:
+- content/computer-logic.md
 - content/data-capture-methods.md
