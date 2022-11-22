@@ -17,7 +17,7 @@ This  is an aspect of computer design concerning the fundamental operations and 
 
 Electronic pulses can be made to follow a set of rules if they are passed through certain components. These components act like electronic switches and are called **gates.**
 
-The 3 common gates are the **AND**, **OR** and **NOT** gates. Other such gates **NOR** and **NAND** are made by combining two of these together.
+The 3 common gates are the **AND**, **OR,** and **NOT** gates. Other such gates **NOR** and **NAND** are made by combining two of these together.
 
 ![](/uploads/1.jpg)
 
@@ -43,7 +43,7 @@ we can show logical operations in logic diagrams. In logic diagrams, we draw inp
 
 AND gates can have two or more inputs, but they only have one possible output. if the input is **1** then the output will also be 1, but in any other combinations, the output will be **0**. For a two-input gate, there will be four possible combinations.
 
-                                    **A two-input AND logic gate**
+                    **A two-input AND logic gate**
 
 ![](/uploads/7.PNG)
 
@@ -51,7 +51,7 @@ AND gates can have two or more inputs, but they only have one possible output. i
 
 ![](/uploads/9.PNG)
 
-                              **Practical applications of AND gate**  
+                     **Practical applications of AND gate**  
 
 Gates are equivalent to combinations of switches. We can make a simple circuit using switches, a battery, and a bulb that will perform the same logical way as an AND gate.
 
@@ -66,14 +66,14 @@ The **Logic OR Function** function states that an output action will become **TR
 ![](/uploads/11.PNG)
 
                        **![](/uploads/8-1.PNG)**
-
+    
                                        **Practical applications of OR gate**
 
 In an OR gate the switches in the circuit are in parallel. in the two output circuits, the bulb will light if either switches A or B is closed. it will also light if both of the switches are closed. In the OR gates switching circuit the bulb will only write when one or more of the switches are closed.
 
 ![](/uploads/12-1.PNG)
 
-####  The NOT gate
+#### The NOT gate
 
 Unlike the other gates, the NOT gate has only one input. But like the other gates, It has only one output. Sometimes the NOT gate is called an **inverter**
 
@@ -97,13 +97,13 @@ Suppose we want to find out what happens when the inputs A=0 and B=1 go through 
 
 ![](/uploads/17.PNG)![](/uploads/18.PNG)
 
-####   The NOR gate
+#### The NOR gate
 
 The NOR gate is formed by combining an OR gate with a NOT gate. To work out the output we go through two steps. First, we work out the inputs and outputs for the OR gate. These are now the inputs for the NOT gate. The second step is working out the output of putting these inputs through the NOT gate.
 
 ![](/uploads/19.PNG)
 
-**NB-**like the AND and OR gates, The NAND and NOR gates may have more than one input and like all gates, there is only ever one output. 
+\**NB-**like the AND and OR gates, The NAND and NOR gates may have more than one input and like all gates, there is only ever one output.
 
 we saw before that 0 and 1 in actual computers do not mean off and on. But it is useful to think of them as switches for explaining logic diagrams. Actually,0 means a pulse of low voltage and 1 means a pulse of high voltage.
 
