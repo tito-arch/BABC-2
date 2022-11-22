@@ -65,9 +65,8 @@ The **Logic OR Function** function states that an output action will become **TR
 
 ![](/uploads/11.PNG)
 
-                       **![](/uploads/8-1.PNG)**
-    
-                                       **Practical applications of OR gate**
+    **![](/uploads/8-1.PNG)**
+     **Practical applications of OR gate**
 
 In an OR gate the switches in the circuit are in parallel. in the two output circuits, the bulb will light if either switches A or B is closed. it will also light if both of the switches are closed. In the OR gates switching circuit the bulb will only write when one or more of the switches are closed.
 
@@ -81,7 +80,7 @@ because it has the effect of making the output the opposite of the input, so if 
 
 ![](/uploads/13.PNG)
 
-                              **Practical application of NOT gate**
+    **Practical application of NOT gate**
 
 ![](/uploads/14.PNG)
 
@@ -115,6 +114,6 @@ An XOR gate (also known as an EOR, or EXOR gate) – pronounced as Exclusive OR 
 
 #### X-NOR gate
 
-In the XOR gate operation, the output is only 1 when only one input is 1. The output is logical 0 when both inputs are the same, meaning they are either 1 or 0. But in the XNOR gate, the inverse is true. Hence the output is 0 when only one input is 0, and the output is 1 when both inputs are the same (i.e. either two 0’s or two 1’s)
+In the **XOR** gate operation, the output is only **1** when only one input is **1**. The output is logical 0 when both inputs are the same, meaning they are either 1 or 0. But in the XNOR gate, the inverse is true. Hence the output is 0 when only one input is 0, and the output is 1 when both inputs are the same (i.e. either two 0’s or two 1’s)
 
 ![](/uploads/21.PNG)
