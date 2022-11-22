@@ -45,3 +45,11 @@ Some of these algorithms are:
 * Proof of Authority (PoA).
 
 ### Proof of Work consensus algorithm.
+
+To validate transactions and add new blocks to the blockchain, validators have to prove that they have the ability to do so. This could be thought of as trying to unlock a chest. So, the more people making the guesses, the more guesses, the more the chances of getting it right.
+
+Back to bitcoin, for you to be successful to add new blocks:
+
+one needs very high computing power - this causes a lot of energy waste used to run and cool idle machines this being the largest drawback.
+
+> It is important to note that only 21,000,000 bitcoins can exist, this can only change if the protocal is changed.
