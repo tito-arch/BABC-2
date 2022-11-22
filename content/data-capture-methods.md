@@ -1,6 +1,5 @@
 +++
 date = 2022-11-21T08:00:00Z
-draft = true
 image = ""
 tags = ["magnetic encoding", "OCR", "mark sensing", "barcodes", "MICR", "capture ", "data"]
 title = "Data capture methods"
