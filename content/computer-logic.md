@@ -1,5 +1,6 @@
 +++
 date = 2022-11-22T08:00:00Z
+draft = true
 image = ""
 tags = ["NOT gate", "OR gate", "Logic elements", "chips", "logic gates", "AND gates", "computer logic"]
 title = "computer logic"
