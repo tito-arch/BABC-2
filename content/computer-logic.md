@@ -6,7 +6,7 @@ title = "computer logic"
 [cover]
 alt = "logic gate picture"
 caption = "Everything you need to know about computer logic"
-image = "/uploads/scientists-developed-ultra-high-speed-high-efficiency-optoelectronic-logic-gates.jfif"
+image = "/uploads/cover1.PNG"
 
 +++
 # Everything you need to know about computer logic
