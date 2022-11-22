@@ -52,4 +52,8 @@ Back to bitcoin, for you to be successful to add new blocks:
 
 one needs very high computing power - this causes a lot of energy waste used to run and cool idle machines this being the largest drawback.
 
-> It is important to note that only 21,000,000 bitcoins can exist, this can only change if the protocal is changed.
+> It is important to note that only 21,000,000 bitcoins can exist which was intentional so that to make bitcoin as scarce as Gold and curb inflation, this can only change if the protocal is changed.
+
+### _The tragedy of commons._
+
+In the future probably in 2050, bitcoin will hit the 21,000,000 mark. This is a good and a bad thing, it will mean that there will be no bounties for creating new blocks and miners will only earn transaction fees. This could result in miners leaving the pool for other more profitable pools with time fewer miners will mine bitcoin thus decreasing the network difficulty which would leave bitcoin exposed to the [51% attack](https://en.bitcoinwiki.org/wiki/51%25_attack).
