@@ -16,7 +16,7 @@ If you’re wondering how data capture works or how it could benefit your busine
 
 ![picture by shutterstock](/uploads/data.PNG "data capture")
 
-\**Data capture-**This is the process of getting information together for the computer to process.
+**Data capture-**This is the process of getting information together for the computer to process.
 
 ## Indirect and direct methods of capture
 
@@ -104,7 +104,7 @@ Process Flows can provide manual keying, verification services and even hybrid a
 
 #### Digital forms web or App
 
-When collecting information from users, which doesn’t exist already, it often makes sense to capture the data through a digital form either on the web, via an intranet page or smartphone app. Digital forms can be designed to structure the answers and data collected by avoiding too many open answers. They can also dynamically adapt to responses and prepopulate where information exists already. Ie. address
+When collecting information from users, which doesn’t exist already, it often makes sense to capture the data through a digital form either on the web, via an intranet page, or smartphone app. Digital forms can be designed to structure the answers and data collected by avoiding too many open answers. They can also dynamically adapt to responses and prepopulate where information exists already. Ie. address
 
 #### Web scraping
 
