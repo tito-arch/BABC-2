@@ -4,9 +4,9 @@ image = ""
 tags = ["NOT gate", "OR gate", "Logic elements", "chips", "logic gates", "AND gates", "computer logic"]
 title = "computer logic"
 [cover]
-alt = ""
-caption = ""
-image = ""
+alt = "logic gate picture"
+caption = "Everything you need to know about computer logic"
+image = "/uploads/scientists-developed-ultra-high-speed-high-efficiency-optoelectronic-logic-gates.jfif"
 
 +++
 # Everything you need to know about computer logic
@@ -43,15 +43,13 @@ we can show logical operations in logic diagrams. In logic diagrams, we draw inp
 
 AND gates can have two or more inputs, but they only have one possible output. if the input is **1** then the output will also be 1, but in any other combinations, the output will be **0**. For a two-input gate, there will be four possible combinations.
 
-                    **A two-input AND logic gate**
+                **A two-input AND logic gate**
 
-![](/uploads/7.PNG)
-
-                               **A three-input AND logic gate**
+                **A three-input AND logic gate**
 
 ![](/uploads/9.PNG)
 
-                     **Practical applications of AND gate**  
+                  **Practical applications of AND gate**  
 
 Gates are equivalent to combinations of switches. We can make a simple circuit using switches, a battery, and a bulb that will perform the same logical way as an AND gate.
 
