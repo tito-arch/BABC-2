@@ -4,9 +4,9 @@ image = ""
 tags = ["magnetic encoding", "OCR", "mark sensing", "barcodes", "MICR", "capture ", "data"]
 title = "Data capture methods"
 [cover]
-alt = ""
-caption = ""
-image = ""
+alt = "picture of "
+caption = "How to capture data"
+image = "/uploads/capture.PNG"
 
 +++
 # **What is data capture?**
