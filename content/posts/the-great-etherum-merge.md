@@ -61,7 +61,7 @@ In the future probably by 2050, bitcoin will hit the 21,000,000 mark. This is a 
 
 ## Proof of Stake consensus algorithm.
 
-Ethereum switched to Proof of Stake there were some major reasons behind that but we'll get to that in a minute.
+Ethereum switched to Proof of Stake there were some primary reasons behind that but we'll get to that in a minute.
 
 Unlike Proof of Work, this way of reaching a consensus does not need a lot of computing power since a validator is chosen quickly.
 
