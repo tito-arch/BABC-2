@@ -64,12 +64,23 @@ Ethereum switched to Proof of Stake there were some major reasons behind that bu
 
 Unlike Proof of Work, this way of reaching a consensus does not need a lot of computing power since a validator is chosen quickly.
 
-To become a validator, you have to invest in buying a network stake of **_32 ETH_** as the case in Ethereum, the more the coins .. the more the chances of being selected as the next validator. However, this is not the only criteria used to select the next validator since it would favor those with more stake -The rich.  
+To become a validator, you have to invest in buying a network stake of **_32 ETH_** as the case in Ethereum, the more the coins .. the more the chances of being selected as the next validator. However, this is not the only criteria used to select the next validator since it would favor those with more stake -The rich.
 
 Nodes are randomly selected to be validators of the next block based on:
 
 * The staking age.
 * Randomization.
-* The nodes wealth
+* The nodes wealth.
 
-This three factors ensure that the choosing the next validator is fair & square. Still, those with more coins are favoured but better than the Proof of Work consensus which favors those with high computation power & more electricity.
+![The Great Ethereum merge.](/uploads/screenshot-from-2022-11-21-14-57-44.png "The Eth merge")
+
+These three factors ensure that choosing the next validator is fair & square. Still, those with more coins are favored but better than the Proof of Work consensus which favors those with high computation power & more electricity.
+
+## Ethereum and Proof of Stake.
+
+The main reasons for the merge were:
+
+* To make Ethereum more green which means less energy consumption, especially energy from un renewable sources.
+* To make Ethereum more scalable this is by improving the transaction speeds, reaching a consensus does not need workers.
+
+> It's important to note that Proof of Stake does not make Ethereum faster as it does not affect the network capacity.
