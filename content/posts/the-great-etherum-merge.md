@@ -2,7 +2,6 @@
 categories = ["Crypto"]
 date = 2022-09-16T23:43:26Z
 description = "Ethereum switched from Proof of Work to Proof of Stake to stop alot of energy consumption."
-draft = true
 image = ""
 tags = ["Cryptocurrencies", "Ethereum"]
 title = "The Great Ethereum merge."
@@ -54,6 +53,8 @@ one needs very high computing power - this causes a lot of energy waste used to 
 
 > It is important to note that only 21,000,000 bitcoins can exist which was intentional so that to make bitcoin as scarce as Gold and curb inflation, this can only change if the protocal is changed.
 
+{{< youtube 3EUAcxhuoU4 >}}
+
 ### _The tragedy of commons._
 
 In the future probably by 2050, bitcoin will hit the 21,000,000 mark. This is a good and a bad thing, it will mean that there will be no bounties for creating new blocks and miners will only earn transaction fees. This could result in miners leaving the pool for other more profitable pools with time fewer miners will mine bitcoin thus decreasing the network difficulty which would leave bitcoin exposed to the [51% attack](https://en.bitcoinwiki.org/wiki/51%25_attack).
@@ -64,13 +65,15 @@ Ethereum switched to Proof of Stake there were some major reasons behind that bu
 
 Unlike Proof of Work, this way of reaching a consensus does not need a lot of computing power since a validator is chosen quickly.
 
-To become a validator, you have to invest in buying a network stake of **_32 ETH_** as the case in Ethereum, the more the coins .. the more the chances of being selected as the next validator. However, this is not the only criteria used to select the next validator since it would favor those with more stake -The rich.
+  {{< youtube psKDXvXdr7k >}}
+
+To become a validator, you have to invest in buying a network stake of **_32 ETH_** as the case in Ethereum, the more the coins .. the more the chances of being selected as the next validator. However, this is not the only criteria used to determine the next validator since it would favor those with more stake -The rich.
 
 Nodes are randomly selected to be validators of the next block based on:
 
 * The staking age.
 * Randomization.
-* The nodes wealth.
+* The node's wealth.
 
 ![The Great Ethereum merge.](/uploads/screenshot-from-2022-11-21-14-57-44.png "The Eth merge")
 
@@ -80,7 +83,7 @@ These three factors ensure that choosing the next validator is fair & square. St
 
 The main reasons for the merge were:
 
-* To make Ethereum more green which means less energy consumption, especially energy from un renewable sources.
-* To make Ethereum more scalable this is by improving the transaction speeds, reaching a consensus does not need workers.
+* Making Ethereum green means less energy consumption, especially energy from non-renewable sources.
+* To make Ethereum more scalable is by improving the transaction speeds, reaching a consensus does not need workers.
 
 > It's important to note that Proof of Stake does not make Ethereum faster as it does not affect the network capacity.
