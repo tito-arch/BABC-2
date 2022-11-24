@@ -11,7 +11,7 @@ caption = "Photo by <a href=\"https://unsplash.com/@zoltantasi?utm_source=unspla
 image = "/uploads/zoltan-tasi-unxmhzcqjxg-unsplash.jpg"
 
 +++
-# The Great Ethereum merge.
+# 
 
 On **December 1, 2020**, Ethereum shipped the Beacon chain this would then merge with the Mainnet on September 15, 2022, which existed since it was launched in 2015. This and some other events were referred to as  "**The Merge**".
 
