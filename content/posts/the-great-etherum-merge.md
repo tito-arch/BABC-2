@@ -62,4 +62,14 @@ In the future probably by 2050, bitcoin will hit the 21,000,000 mark. This is a 
 
 Ethereum switched to Proof of Stake there were some major reasons behind that but we'll get to that in a minute.
 
-Unlike Proof of Work 
+Unlike Proof of Work, this way of reaching a consensus does not need a lot of computing power since a validator is chosen quickly.
+
+To become a validator, you have to invest in buying a network stake of **_32 ETH_** as the case in Ethereum, the more the coins .. the more the chances of being selected as the next validator. However, this is not the only criteria used to select the next validator since it would favor those with more stake -The rich.  
+
+Nodes are randomly selected to be validators of the next block based on:
+
+* The staking age.
+* Randomization.
+* The nodes wealth
+
+This three factors ensure that the choosing the next validator is fair & square. Still, those with more coins are favoured but better than the Proof of Work consensus which favors those with high computation power & more electricity.
