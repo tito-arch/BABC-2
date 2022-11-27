@@ -7,7 +7,7 @@ title = "computer logic"
 [cover]
 alt = "picture of logic gates"
 caption = "Everything you need to know about computer logic"
-image = "/uploads/cover1.PNG"
+image = "/uploads/d.PNG"
 
 +++
 # Everything you need to know about computer logic
