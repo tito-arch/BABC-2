@@ -7,7 +7,7 @@ title = "Data capture methods"
 [cover]
 alt = "picture demonstrating data capture"
 caption = "Data capture methods"
-image = "/uploads/capture.PNG"
+image = "/uploads/dat.PNG"
 
 +++
 # **What is data capture?**
