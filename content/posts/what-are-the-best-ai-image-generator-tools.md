@@ -70,6 +70,16 @@ NightCafe is a web tool that creates images from text prompts in specific art st
 
 ![](/uploads/ai-art-generator.PNG)
 
-You are limited to five free creations each day, and the process can be a bit slow due to heavy traffic. To create more than that, you’ll need to purchase additional credit packs starting at $7.99.  Here are some of the most creative works done using Night cafe
+You are limited to five free creations each day, and the process can be a bit slow due to heavy traffic. To create more than that, you’ll need to purchase additional credit packs starting at $7.99.  Here are some of the most creative works done using Night cafe.
 
 ![](/uploads/cafe.PNG)
+
+### Midjourney
+
+ Midjourney is operated through a Discord server and uses Discord bot commands to generate high-quality images in a particularly artistic style. Users can input a text prompt to create clear and stunning images.
+
+![](/uploads/midjourney.PNG)
+
+ Unlike DALL-E, Midjourney will generate pictures of celebrities and public figures. Discord users often use the software to imaginatively visualize their favorite actors in certain film roles.  Here are some of the most creative works done using Midjourney.
+
+![](/uploads/untitled-2.jpg)
