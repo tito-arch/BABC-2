@@ -83,3 +83,13 @@ You are limited to five free creations each day, and the process can be a bit sl
  Unlike DALL-E, Midjourney will generate pictures of celebrities and public figures. Discord users often use the software to imaginatively visualize their favorite actors in certain film roles.  Here are some of the most creative works done using Midjourney.
 
 ![](/uploads/untitled-2.jpg)
+
+### Craiyon (Formerly DALL-E mini)
+
+Unlike DALL-E, Craiyon is completely free to use and accessible to anyone through its website. All you need to do is enter a text prompt and Craiyon will take around two minutes to generate images from the interactive web demo.
+
+![](/uploads/crayon.PNG)
+
+Another key difference between DALL-E and Craiyon is that the software is not censored at all, meaning that absolutely any prompt will be accepted by the AI generator. You can also request the picture to be created in a certain style too.
+
+![](/uploads/untitled-3.jpg)
