@@ -2,12 +2,12 @@
 date = 2022-11-26T08:00:00Z
 draft = true
 image = "/uploads/untitled-1.jpg"
-tags = []
+tags = ["image generator", "text to image", "Ai"]
 title = "What Are The Best Ai Image Generator Tools?"
 [cover]
-alt = "Ai futuristic city"
+alt = "Ai generated pictures "
 caption = "What Are The Best Ai Image Generator Tools?"
-image = "/uploads/ai-envisions-a-futuristic-sustainable-city-with-air-purifying-biophilic-skyscrapers.png"
+image = "/uploads/untitled-1.jpg"
 
 +++
 ## The best Ai image to text generators
