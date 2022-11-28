@@ -15,7 +15,7 @@ image = "/uploads/kenyadigitalnumberplates.jpeg"
 
 Digital number plates are next-generation vehicle identification devices mounted on car bumpers that emit radio signals to provide tracking information and additional data.
 
-We have seen a lot of technologies being used on our roads to aid fight against breaking the national transport laws including [cameras](https://roadsafety.transport.nsw.gov.au/speeding/speedcameras/howdo_theywork.html) installed along the **Ksh 32 billion (US$360 million)** Thika Superhighway or sophisticated [radar guns ](https://en.wikipedia.org/wiki/Radar_speed_gun)that get you pulled over.
+We have seen a lot of technologies being used on our roads to aid the fight against breaking national transport laws including [cameras](https://roadsafety.transport.nsw.gov.au/speeding/speedcameras/howdo_theywork.html) installed along the **Ksh 32 billion (US$360 million)** Thika Superhighway or sophisticated [radar guns ](https://en.wikipedia.org/wiki/Radar_speed_gun)that get you pulled over.
 
 Ever wondered how KENHA intelligence identifies all trucks that could be above a certain mass captures the number plate and displays it on an LED screen with instructions (**_KDD 405Z <EXIT_**) to filter which vehicles to be inspected on the weighing bridge? [Read more. ](https://uzalendonews.co.ke/kenha-installs-spy-cameras-to-nab-rogue-transporters/)
 
@@ -25,11 +25,11 @@ Ever wondered how KENHA intelligence identifies all trucks that could be above a
 
 ### The security features include:
 
-This will help monitor motor vehicles within and across the borders which have proven to be difficult as the number has increased from 3.2 to now 4.8 million in two years.
+This will help monitor motor vehicles within and across the borders which has proven to be difficult as the number has increased from 3.2 to now 4.8 million in two years.
 
 * Unique QR (quick response) code.
-* Unique laser etched NTSA serial number.
-* Hot stamped chromium-based hologram.
+* Unique laser-etched NTSA serial number.
+* Hot-stamped chromium-based hologram.
 * An in-built microchip is accessible by authorities remotely.
 * Same font size.
 

@@ -11,7 +11,7 @@ caption = ""
 image = "/uploads/untitled-design.png"
 
 +++
-# Meet the world's most exciting Robots.
+# 
 
 ## Robots, what are they?
 
@@ -81,7 +81,7 @@ Ameca's purpose is for entertainment and will be seen around often in ten years'
 
 Atlas is a product of an American company founded in 1992 -Boston Dynamics. The company was once owned by Alphabet INC -Google's parent company and Soft bank which owns Pepper. Today Boston Dynamics parent company is still Hyundai Motor Group.
 
-Atlas has a height of 1.5m and a weight of 89 kg. Like ASIMO he is also one of the most agile robots around. The last Atlas update was done in 2021, he can walk on an inclined surface, do backflips, dance among others and perform gymnastics somersaults and handstands.  
+Atlas has a height of 1.5m and a weight of 89 kg. Like ASIMO he is also one of the most agile robots around. The last Atlas update was done in 2021, he can walk on an inclined surface, do backflips, dance among others and perform gymnastics somersaults and handstands.
 
 The robot is still too expensive at 75,000.
 
@@ -91,4 +91,4 @@ The robot is still too expensive at 75,000.
 
 Spot is a robotic dog by Boston Dynamics the creators of Atlas. Spot can perform various tasks like patrol a warehouse overnight while you sleep or just as an assistant, carry stuff around, inspect and place misplaced stuff since he comes with an arm strong enough to lift blocks and open doors by himself, and also maintain machines.
 
- He uses cameras and Lidars to map his environment.
+He uses cameras and Lidars to map his environment.

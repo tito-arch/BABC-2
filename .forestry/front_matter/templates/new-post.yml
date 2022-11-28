@@ -27,3 +27,11 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- content/computer-logic.md
+- content/data-capture-methods.md
+- content/posts/computer-logic.md
+- content/posts/data-capture-methods.md
+- content/posts/what-are-the-best-ai-image-generator-tools.md
+- content/posts/what-is-network-topology.md
+- content/posts/what-s-app-new-features-2022.md
