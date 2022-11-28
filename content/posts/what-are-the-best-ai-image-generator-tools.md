@@ -24,7 +24,7 @@ And, as with anything else in the world of AI, there are several options to choo
 
 So if you’re feeling confused about which AI Image generator you should use, this is a complete guide to the best options out there
 
-### [DALL-E 2](https://openai.com/dall-e-2/)
+## [DALL-E 2](https://openai.com/dall-e-2/)
 
 DALL-E 2 is probably the AI image generator you heard about first. Many consider it to be the best of these tools, though the competition is catching up quickly. DALL-E 2 has an easy-to-use interface and will spit out some mind-blowing creations.
 
