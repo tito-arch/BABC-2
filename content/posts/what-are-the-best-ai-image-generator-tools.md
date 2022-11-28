@@ -10,8 +10,6 @@ caption = "What Are The Best Ai Image Generator Tools?"
 image = "/uploads/untitled-1.jpg"
 
 +++
-## The best Ai image to text generators
-
 With the help of AI image generators, anyone can create stunning art with ease.
 
 While the concept of an **AI art generator** is new, it’s growing in popularity.
@@ -26,7 +24,7 @@ And, as with anything else in the world of AI, there are several options to choo
 
 So if you’re feeling confused about which AI Image generator you should use, this is a complete guide to the best options out there
 
-### DALL-E 2
+### [DALL-E 2](https://openai.com/dall-e-2/)
 
 DALL-E 2 is probably the AI image generator you heard about first. Many consider it to be the best of these tools, though the competition is catching up quickly. DALL-E 2 has an easy-to-use interface and will spit out some mind-blowing creations.
 
@@ -76,11 +74,11 @@ You are limited to five free creations each day, and the process can be a bit sl
 
 ### Midjourney
 
- Midjourney is operated through a Discord server and uses Discord bot commands to generate high-quality images in a particularly artistic style. Users can input a text prompt to create clear and stunning images.
+Midjourney is operated through a Discord server and uses Discord bot commands to generate high-quality images in a particularly artistic style. Users can input a text prompt to create clear and stunning images.
 
 ![](/uploads/midjourney.PNG)
 
- Unlike DALL-E, Midjourney will generate pictures of celebrities and public figures. Discord users often use the software to imaginatively visualize their favorite actors in certain film roles.  Here are some of the most creative works done using Midjourney.
+Unlike DALL-E, Midjourney will generate pictures of celebrities and public figures. Discord users often use the software to imaginatively visualize their favorite actors in certain film roles.  Here are some of the most creative works done using Midjourney.
 
 ![](/uploads/untitled-2.jpg)
 
