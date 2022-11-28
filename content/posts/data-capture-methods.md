@@ -16,7 +16,7 @@ If you’re wondering how data capture works or how it could benefit your busine
 
 ![picture by shutterstock](/uploads/data.PNG "data capture")
 
-**Data capture-**This is the process of getting information together for the computer to process.
+**Data capture** is the process of getting information together for the computer to process.
 
 ## Indirect and direct methods of capture
 
