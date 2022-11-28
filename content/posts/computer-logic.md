@@ -1,6 +1,5 @@
 +++
 date = 2022-11-22T08:00:00Z
-draft = true
 image = ""
 tags = ["EX-NOR gate", "EX-OR gate", "NAND gate", "OR gate", "AND gate", "NOT gate"]
 title = "computer logic"
