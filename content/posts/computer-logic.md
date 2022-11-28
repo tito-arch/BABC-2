@@ -2,7 +2,7 @@
 date = 2022-11-22T08:00:00Z
 draft = true
 image = ""
-tags = ["EX-NOR gate", "EX-OR gate", "Truth table", "chips", "NAND gate", "logic gates", "OR gate", "AND gate", "NOT gate"]
+tags = ["EX-NOR gate", "EX-OR gate", "NAND gate", "OR gate", "AND gate", "NOT gate"]
 title = "computer logic"
 [cover]
 alt = "picture of logic gates"
@@ -40,19 +40,19 @@ A gate that performs a simple operation is called a **logic element.** To see ho
 
 we can show logical operations in logic diagrams. In logic diagrams, we draw inputs on the left and label them with letters. Arrowed lines show the directions of the flow of logic.
 
-#### The AND gate
+### The AND gate
 
 AND gates can have two or more inputs, but they only have one possible output. if the input is **1** then the output will also be 1, but in any other combinations, the output will be **0**. For a two-input gate, there will be four possible combinations.
 
-**A two-input AND logic gate**
+#### **A two-input AND logic gate**
 
 ![](/uploads/7.PNG)
 
-**A 3-input AND logic gate**
+#### **A 3-input AND logic gate**
 
 ![/uploads/9.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/9.PNG)
 
-**A practical application of AND gate**
+#### **A practical application of AND gate**
 
 Gates are equivalent to combinations of switches. We can make a simple circuit using switches, a battery, and a bulb that will perform the same logical way as an AND gate.
 
@@ -60,7 +60,7 @@ Gates are equivalent to combinations of switches. We can make a simple circuit u
 
 The two switches are open. Any other combination of the switches (eg A open and B closed) means the bulb will not light up.
 
-#### The OR gate
+### The OR gate
 
 The **Logic OR Function** function states that an output action will become **TRUE** if either one “OR” more events are **TRUE,** but the order in which they occur is unimportant as it does not affect the final result.
 
@@ -68,13 +68,13 @@ The **Logic OR Function** function states that an output action will become **TR
 
 ![](/uploads/8-1.PNG)
 
-**A practical application of OR gate**
+#### **A practical application of OR gate**
 
 In an OR gate the switches in the circuit are in parallel. in the two output circuits, the bulb will light if either switches A or B is closed. it will also light if both of the switches are closed. In the OR gates switching circuit the bulb will only write when one or more of the switches are closed.
 
 ![/uploads/12-1.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/12-1.PNG)
 
-#### The NOT gate
+### The NOT gate
 
 Unlike the other gates, the NOT gate has only one input. But like the other gates, It has only one output. Sometimes the NOT gate is called an **inverter**
 
@@ -106,7 +106,7 @@ The NOR gate is formed by combining an OR gate with a NOT gate. To work out the 
 
 ![/uploads/19.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/19.PNG)
 
-**NB-**like the AND and OR gates, The NAND and NOR gates may have more than one input and like all gates, there is only ever one output.
+\**NB-**like the AND and OR gates, The NAND and NOR gates may have more than one input and like all gates, there is only ever one output.
 
 we saw before that 0 and 1 in actual computers do not mean off and on. But it is useful to think of them as switches for explaining logic diagrams. Actually,0 means a pulse of low voltage and 1 means a pulse of high voltage.
 
