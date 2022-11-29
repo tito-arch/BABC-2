@@ -22,7 +22,7 @@ WhatsApp was only available on **iOS** at the time of launch and on other device
 * No Gimmicks
 * No Games
 
-This means that conversations remain between you and your family and friends. 
+This means that conversations remain between you and your family and friends.
 
 ## Back to the future,
 
@@ -36,4 +36,4 @@ In a green shirt (quite unusual) but clarified was due to the WhatsApp news, Mar
 
 ### Communities.
 
-ejyS5ybq0xI&t=2s
+{{< youtube ejyS5ybq0xI&t=2s >}}
