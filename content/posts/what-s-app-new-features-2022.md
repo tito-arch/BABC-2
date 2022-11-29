@@ -31,3 +31,9 @@ Despite all those years of existence, the app still boasts these features. Like 
 ### 2022
 
 ![](/uploads/mika-baumeister-ukdkh25_wc0-unsplash.jpg)
+
+In a green shirt (quite unusual) but clarified was due to the WhatsApp news, Mark Zuckerberg (Zuck the boss) announced the new features the greatest being communities on WhatsApp. These were the updates that the WhatsApp team had been working on all year.
+
+### Communities.
+
+ejyS5ybq0xI&t=2s
