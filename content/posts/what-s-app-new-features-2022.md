@@ -36,4 +36,4 @@ In a green shirt (quite unusual) but clarified was due to the WhatsApp news, Mar
 
 ### Communities.
 
-{{< youtube ejyS5ybq0xI&t=2s >}}
+{{< youtube ejyS5ybq0xI&t >}}
