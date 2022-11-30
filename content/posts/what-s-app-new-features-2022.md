@@ -37,3 +37,5 @@ In a green shirt (quite unusual) but clarified was due to the WhatsApp news, Mar
 ### Communities.
 
 {{< youtube ejyS5ybq0xI&t >}}
+
+Communities are a great  way to organize related groups. This comes with tools to enable Admins to easily broadcast messages
