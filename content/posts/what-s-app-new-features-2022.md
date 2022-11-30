@@ -1,6 +1,5 @@
 +++
 date = 2022-11-23T21:00:00Z
-draft = true
 image = ""
 tags = ["Meta", "Whatsapp", "App updates"]
 title = "What's App new features 2022"
