@@ -1,18 +1,18 @@
 +++
-date = ""
+date = 2022-11-23T21:00:00Z
 draft = true
 image = ""
-tags = []
+tags = ["Meta", "Whatsapp", "App updates"]
 title = "What's App new features 2022"
 [cover]
-alt = ""
-caption = ""
-image = ""
+alt = "Introducing communities ....."
+caption = "Image by WhatsApp."
+image = "/uploads/screenshot-from-2022-11-30-23-29-53.png"
 
 +++
 # Introducing communities .....
 
-Ranked amongst the most popular messaging apps in the world, Meta's WhatsApp has over 2 billion active users today. The app was launched on November 2009 by [**Jan Koum**](https://en.wikipedia.org/wiki/Jan_Koum) **and** [**Brian Acton**](https://en.wikipedia.org/wiki/Brian_Acton)**.**  The two buddies created it from the idea of not missing calls while in the gym.
+Ranked amongst the most popular messaging apps in the world, Meta's WhatsApp has over 2 billion active users today. The app was launched on November 2009 by [**Jan Koum**](https://en.wikipedia.org/wiki/Jan_Koum) **and** [**Brian Acton**](https://en.wikipedia.org/wiki/Brian_Acton)**.**  The two buddies created it from the idea of not missing calls (Voice-over-IP-service) while in the gym.
 
 In 2014 Facebook acquired WhatsApp for **$19 Billion.** Acton would later leave the company to co-found [Signal](https://en.wikipedia.org/wiki/Signal_(software)).
 
@@ -43,3 +43,7 @@ Communities are a great way to organize related groups. This comes with tools to
 > **_"_**Communities on WhatsApp enables people to bring together separate groups under one umbrella with a structure that works for them. That way people can receive updates sent to the entire Community and easily organize smaller discussion groups on what matters to them. Communities contain powerful tools for admins, including announcement messages that are sent to everyone and control over which groups can be included._" **\~ WA**._
 
 Ok got the idea? a best-use case could be a boss in charge of many departments like Operations, Financial, etc, and have multiple WhatsApp groups for each. He can create a cluster of groups and post announcements to all groups with one message like "day off tomorrow" 
+
+Features like reactions, large file sharing, polls, 32-person calls, and shareable meeting links for later are also available.
+
+The communities feature comes with a brand-new tab on the left.
