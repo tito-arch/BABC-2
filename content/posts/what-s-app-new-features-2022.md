@@ -38,4 +38,9 @@ In a green shirt (quite unusual) but clarified was due to the WhatsApp news, Mar
 
 {{< youtube ejyS5ybq0xI&t >}}
 
-Communities are a great  way to organize related groups. This comes with tools to enable Admins to easily broadcast messages
+Communities are a great way to organize related groups. This comes with tools to enable Admins to easily broadcast messages to related groups.
+
+>   
+>  **_"_**Communities on WhatsApp enables people to bring together separate groups under one umbrella with a structure that works for them. That way people can receive updates sent to the entire Community and easily organize smaller discussion groups on what matters to them. Communities contain powerful tools for admins, including announcement messages that are sent to everyone and control over which groups can be included.**_" \~ WA._**
+
+ 
