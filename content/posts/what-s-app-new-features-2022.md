@@ -37,7 +37,7 @@ In a green shirt (quite unusual) but clarified was due to the WhatsApp news, Mar
 
 Communities are a great way to organize related groups. This comes with tools to enable Admins to easily broadcast messages to related groups.
 
-> **_"_**Communities on WhatsApp enables people to bring together separate groups under one umbrella with a structure that works for them. That way people can receive updates sent to the entire Community and easily organize smaller discussion groups on what matters to them. Communities contain powerful tools for admins, including announcement messages that are sent to everyone and control over which groups can be included._" **\~ WA**._
+>  _"_Communities on WhatsApp enables people to bring together separate groups under one umbrella with a structure that works for them. That way people can receive updates sent to the entire Community and easily organize smaller discussion groups on what matters to them. Communities contain powerful tools for admins, including announcement messages that are sent to everyone and control over which groups can be included._" **\~ WA**._
 
 Ok got the idea? a best-use case could be a boss in charge of many departments like Operations, Financial, etc, and have multiple WhatsApp groups for each. He can create a cluster of groups and post announcements to all groups with one message like "day off tomorrow"
 
