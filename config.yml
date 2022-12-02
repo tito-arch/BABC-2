@@ -22,7 +22,7 @@ params:
     ShowReadingTime: true
     ShowShareButtons: true
     ShowPostNavLinks: true
-    searchHidden: false
+    searchHidden: true
 
 menu:
   main:
