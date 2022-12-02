@@ -36,7 +36,7 @@ Here are some of the most creative works done using dalle
 
 ![](/uploads/untitled-1.jpg)
 
-### Stable diffusion
+## [Stable diffusion](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjVoNbPudv7AhWa0HcKHTzcCOMYABACGgJlZg&ohost=www.google.com&cid=CAESbOD2A0H1lhEWroGa3oGMmpniEaQxfSBvcSUQbC5XoU3nYqHBukFlVw3tJ-GXPQszUPn1fNVCl39mXKNzdNCMbjB38eYqVv4FLdkJhhCvamaepmZxsR6F_SukDOEmXdsw5oIktgvlwUCwYF7Gow&sig=AOD64_2rVaaZy6oObDj2TR2vwsLjLLHpow&q&adurl&ved=2ahUKEwiugc3Pudv7AhWgi_0HHe0aCFsQ0Qx6BAgJEAE)
 
 While you might have to wait a long time to get access to DALL-E 2, there is an AI text-to-image generator that gets top marks for accessibility, and that is Stable Diffusion.
 
@@ -48,9 +48,9 @@ The beta version of Stable Diffusion can produce photorealistic 512×512 pixel i
 
 Here are some of the most creative works done using Stable diffusion
 
-![](/uploads/stable-diffusion.PNG)
+[![](/uploads/stable-diffusion.PNG)](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiKtMuu8dr7AhUm7-0KHRVNDHwYABABGgJkZw&ohost=www.google.com&cid=CAESbOD2BINEvNuzIuc-pPOnr564KLqJFVX3rjCcsNESdWBw08X4tk3asgMPIja_HA8a0o7wkwLdqulBLEHyT8e7gLJRZngwwYA4VyLpUe_BbnOf2oQ4UB4hBU_BKRTWi7UC9rjdGHlcCOVwBONZXg&sig=AOD64_062KfLLmVO_2Ik5g94PtgRzMulzg&q&adurl&ved=2ahUKEwjU_sOu8dr7AhVEyRoKHaO6COUQ0Qx6BAgLEAE)
 
-### Jasper.ai.
+### [Jasper.a.i](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi2mJ_wudv7AhXhC6IDHfBoCiUYABADGgJsZQ&ohost=www.google.com&cid=CAESbOD2RyCMC9nMZ1V3SWZB4rIrpLBeSO0VfkMuoYd5sQcM88amNISjWP_hcvWTXT6szGe5YhaQTMVY7BASy48QiyTkAqqTWHQHzasx184_LPpYQdZVeRRpYpUMr7ZVH1h0KthOBnoTnV2aHnK6pQ&sig=AOD64_1jW57ugFCmF-psEAOWJ_U5OJcEeg&q&adurl&ved=2ahUKEwiRkZjwudv7AhWGgv0HHSY5DXEQ0Qx6BAgJEAE)
 
 Jasper.ai is the best image generator tool for creating high-quality images on the market.
 
@@ -62,7 +62,7 @@ With a basic and advanced editor, you can create any image you need without any 
 
 ![](/uploads/jasper1.PNG)
 
-### Night cafe
+### [Night cafe](https://nightcafe.studio/)
 
 NightCafe is a web tool that creates images from text prompts in specific art styles. For example, you can choose styles such as “oil painting,” “cubist,” “fantasy,” or “3D game.” NightCafe also includes the ability to make videos, and it has a pretty decent community around it.
 
@@ -72,7 +72,7 @@ You are limited to five free creations each day, and the process can be a bit sl
 
 ![](/uploads/cafe.PNG)
 
-### Midjourney
+### [Midjourney](https://midjourney.com/)
 
 Midjourney is operated through a Discord server and uses Discord bot commands to generate high-quality images in a particularly artistic style. Users can input a text prompt to create clear and stunning images.
 
@@ -82,7 +82,7 @@ Unlike DALL-E, Midjourney will generate pictures of celebrities and public figur
 
 ![](/uploads/untitled-2.jpg)
 
-### Craiyon (Formerly DALL-E mini)
+### [Craiyon](https://www.craiyon.com/) (Formerly DALL-E mini)
 
 Unlike DALL-E, Craiyon is completely free to use and accessible to anyone through its website. All you need to do is enter a text prompt and Craiyon will take around two minutes to generate images from the interactive web demo.
 
@@ -92,7 +92,7 @@ Another key difference between DALL-E and Craiyon is that the software is not ce
 
 ![](/uploads/untitled-3.jpg)
 
-### Pixray
+### [Pixray](https://pixray.com/)
 
 Pixray is a versatile text-to-image converter that works as an API, browser website, and PC application. Although Pixray has an elegant and straightforward interface, its inexplicable customizations and custom AI engine make it perfect for tech-savvy people.
 
@@ -102,7 +102,7 @@ While forming pictures . is a fun process with Pixray, its real potential comes 
 
 ![](/uploads/pix.PNG)
 
-### StarryAi
+### [StarryAi](https://www.starryai.com/)
 
 This tool is easy to use and only requires a short description of what you want the image to be about.
 
