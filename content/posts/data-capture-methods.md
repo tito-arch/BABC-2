@@ -12,7 +12,7 @@ image = "/uploads/dat.PNG"
 +++
 # **Data collection methods?**
 
-![picture by shutterstock](/uploads/data.PNG "data capture")
+![](/uploads/capture.PNG)
 
 **Data capture** is the process of getting information together for the computer to process.
 
