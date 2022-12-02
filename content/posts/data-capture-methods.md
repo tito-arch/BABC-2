@@ -2,7 +2,7 @@
 date = 2022-11-22T08:00:00Z
 draft = true
 image = ""
-tags = ["Manual keying", "IDR", "ICR", "Magnetic encoding", "Mark sensing", "Barcodes", "OCR", "MICR", "Data"]
+tags = ["IDR", "ICR", "Magnetic encoding", "Mark sensing", "Barcodes", "OCR", "MICR"]
 title = "Data capture methods"
 [cover]
 alt = "picture demonstrating data capture"
@@ -10,9 +10,7 @@ caption = "Data capture methods"
 image = "/uploads/dat.PNG"
 
 +++
-# **What is data capture?**
-
-If you’re wondering how data capture works or how it could benefit your business, this guide is for you.
+# **Data collection methods?**
 
 ![picture by shutterstock](/uploads/data.PNG "data capture")
 
@@ -46,17 +44,7 @@ Barcode codes are made up of a series of light and dark bands. To feed the infor
 
 ![picture of a barcode](/uploads/6561c465492053b519b9dee4f90a4c05.jpg "barcode")
 
-After capturing the information, barcode scanners link to a host computer or tablet and transmit that information in real time, without additional human intervention. This helps retailers automate **data collection** processes and reduce human errors like inventory tracking and processing point-of-sale transactions.
-
-#### Types of barcodes
-
-##### 1-dimensional (1D) barcodes
-
-1D barcodes are a series of black and white bars that can store information like a product’s type, size, and color. You can find 1D barcodes on the top of universal product codes (**UPCs**) of a product’s packaging. This helps track packages through package delivery service providers like UPS, FedEx, the US Postal Service, and Canada Post.
-
-##### 2-dimensional (2D) barcodes
-
-2D barcodes are more complex than 1D barcodes. They can include more information than just text, like price, inventory levels, and even a product image. There are plenty of barcode scanners that support 2D barcodes. While not all barcode scanners can read 2D barcodes, Lightspeed Retail POS is compatible with several wireless barcode scanners that support 2D barcodes.
+After grabbing the details, barcode scanners link to a host computer or tablet and transmit that data in real-time, without additional human intervention. This helps to automate **data collection** processes and reduce errors like inventory tracking and processing point-of-sale transactions.
 
 #### Mark sensing
 
