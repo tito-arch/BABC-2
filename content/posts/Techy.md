@@ -10,7 +10,12 @@ tags:
 - bunnieabc
 categories:
 - Device review
-- Android
+- Emerging Issues
+- AI/ML
+- Web3.0/Third Web
+- Data Capture
+- Space
+
 image: imageedit_4_3671584613.jpg
 
 ---
