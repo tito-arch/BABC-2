@@ -21,7 +21,7 @@ Whatever the reason, this form of **artificial intelligence** is quickly becomin
 
 And, as with anything else in the world of AI, there are several options to choose from when it comes to AI art generators.
 
-So if you’re feeling confused about which AI Image generator you should use, this is a complete guide to the best options out there
+So if you’re feeling confused about which AI Image generator you should use, this is a complete guide to the best options out there.
 
 ## [DALL-E 2](https://openai.com/dall-e-2/)
 
