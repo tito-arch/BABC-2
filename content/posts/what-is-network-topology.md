@@ -1,12 +1,13 @@
 +++
+categories = ["Computer science"]
 date = 2022-11-25T08:00:00Z
-draft = true
+description = "All messages that are sent and received through a network must be represented using a data signal."
 image = ""
-tags = ["Ring topology", "Mesh topology", "Bus topology", "Star topology", "Token ring Topology", "Ethernet topology", "Logical topology"]
+tags = ["Network Topology", "Mesh topology", "Star topology", "Token ring Topology", "Ethernet topology"]
 title = "What is network topology"
 [cover]
 alt = "picture of how network topologies work"
-caption = "What is network topologies"
+caption = ""
 image = "/uploads/these-three-security-trends-are-key-to-decentralize-artificial-intelligence-_-hackernoon.jfif"
 
 +++
