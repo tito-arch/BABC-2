@@ -27,7 +27,7 @@ Overall, interacting with ChatGPT is similar to having a conversation with anoth
 
 # Where can chat GPT be used?
 
-1. **Customer service:** Chatbots can be used to assist customers with common questions or issues they may have. For example, a chatbot could be used to help customers track their orders, make returns, or find information about a product or service.
+1. **Customer service:** Chatbots can be used to assist customers with common questions or issues they may have. For example, a chatbot could be used to help customers track their orders, make returns or find information about a product or service.
 2. **Educational support**: Chatbots can be used to give information and even answer questions on a wide range of data. For example, a chatbot could be used to help students with their homework, explain difficult concepts, or provide information about a particular subject.
 3. **Personal assistants:** Chatbots can be used to help users manage their daily tasks and schedules. For example, a chatbot could be used to remind users of appointments, manage their to-do lists, or provide directions to a particular location.
 4. **Social companionship:** Chatbots can be used to provide a sense of social connection and engage in conversation with users. For example, a chatbot could be used to provide emotional support, listen to users’ concerns, or simply engage in casual conversation.
