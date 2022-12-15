@@ -1,6 +1,6 @@
 +++
 categories = ["Ai"]
-date = 2022-12-15T15:25:01Z
+date = 2022-12-01T15:25:01Z
 description = "Generative Pre-trained Transformer 3 is an autoregressive language model that uses deep learning to produce human-like text"
 image = ""
 tags = ["Chat GPT", "Ai"]
