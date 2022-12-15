@@ -8,7 +8,7 @@ title = "What is chat GPT and why you need it"
 [cover]
 alt = "images of chatting robots"
 caption = "image sourced from google"
-image = "/uploads/3.png"
+image = "/uploads/1.JPG"
 
 +++
 # What is Chat GPT?
