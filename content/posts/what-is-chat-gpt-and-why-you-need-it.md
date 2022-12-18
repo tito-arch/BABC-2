@@ -11,13 +11,13 @@ caption = "image credits: Open AI"
 image = "/uploads/openailogo.webp"
 
 +++
-# [chatGPT](https://chat.openai.com/chat)
+# [chat GPT](https://chat.openai.com/chat)
 
-[Chat GPT ](https://chat.openai.com/chat)(**Generative Pretrained Transformer**) is a type of natural language processing (**NLP**) technology that uses machine learning algorithms to generate human-like responses to text-based inputs. The technology is based on a type of language model known as a **Transforme**r, which uses attention mechanisms to process and generate text.
+[Chat GPT ](https://chat.openai.com/chat)(**Generative Pretrained Transformer**) is a type of natural language processing (**NLP**) technology that uses machine learning algorithms to generate human-like responses to text-based inputs. It is developed, owned, and maintained by [Open AI](https://en.wikipedia.org/wiki/OpenAI) a company founded by Elon Musk & Sam Altman. Open AI has also created other technologies like [DALL-E 2](https://blog.bunnieabc.com/posts/what-are-the-best-ai-image-generator-tools/#dall-e-2httpsopenaicomdall-e-2), an AI system that can create realistic images and art from a description in natural language. Chat GPT technology is based on a type of language model known as a **Transformer**, which uses attention mechanisms to process and generate text.
 
 Chat GPT works by training a **large neural network** on a large corpus of text data, such as articles, books, or conversation transcripts. The model uses this training data to learn the patterns and structures of human language, including grammar, syntax, and vocabulary. Once trained, the model can be used to generate responses to input text in a way that is similar to how a human would respond.
 
-## How to use chatGPT?
+## How to use chat GPT?
 
 The model is designed to be able to hold conversations on a wide range of topics, so users can ask ChatGPT about anything that they are interested in. The model may not have knowledge about every topic, but it will do its best to generate a **relevant** and **coherent** response based on the information it has been trained on.
 
