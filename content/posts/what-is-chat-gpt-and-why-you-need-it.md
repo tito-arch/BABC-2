@@ -4,22 +4,20 @@ date = 2022-12-01T15:25:01Z
 description = "Generative Pre-trained Transformer 3 is an autoregressive language model that uses deep learning to produce human-like text"
 image = ""
 tags = ["Chat GPT", "Ai"]
-title = "What is chat GPT and why you need it"
+title = "Exploring the Capabilities of Chat GPT a comprehensive guide"
 [cover]
 alt = "images of chatting robots"
 caption = "image sourced from google"
 image = "/uploads/jh.png"
 
 +++
-## Exploring the Capabilities of Chat GPT: A Comprehensive Guide on How to Use and Benefit from this Advanced Natural Language Processing Technology
-
-## [chatGPT](https://chat.openai.com/chat)
+# [chatGPT](https://chat.openai.com/chat)
 
 [Chat GPT ](https://chat.openai.com/chat)(**Generative Pretrained Transformer**) is a type of natural language processing (**NLP**) technology that uses machine learning algorithms to generate human-like responses to text-based inputs. The technology is based on a type of language model known as a **Transforme**r, which uses attention mechanisms to process and generate text.
 
 Chat GPT works by training a **large neural network** on a large corpus of text data, such as articles, books, or conversation transcripts. The model uses this training data to learn the patterns and structures of human language, including grammar, syntax, and vocabulary. Once trained, the model can be used to generate responses to input text in a way that is similar to how a human would respond.
 
-## How to use [chatGPT?]()
+## How to use chatGPT?
 
 The model is designed to be able to hold conversations on a wide range of topics, so users can ask ChatGPT about anything that they are interested in. The model may not have knowledge about every topic, but it will do its best to generate a **relevant** and **coherent** response based on the information it has been trained on.
 
