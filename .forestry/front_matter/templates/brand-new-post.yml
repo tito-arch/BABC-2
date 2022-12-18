@@ -8,7 +8,7 @@ fields:
   config:
     required: true
     min: 10
-    max: 60
+    max: 67
   description: Enter the Article's title.
 - type: datetime
   name: date
