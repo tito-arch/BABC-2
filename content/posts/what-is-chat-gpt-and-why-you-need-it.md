@@ -6,9 +6,9 @@ image = ""
 tags = ["Chat GPT", "Ai"]
 title = "Exploring the Capabilities of Chat GPT a comprehensive guide"
 [cover]
-alt = "images of chatting robots"
-caption = "image sourced from google"
-image = "/uploads/jh.png"
+alt = "Open AI logo"
+caption = "image credits: Open AI"
+image = "/uploads/openailogo.webp"
 
 +++
 # [chatGPT](https://chat.openai.com/chat)
