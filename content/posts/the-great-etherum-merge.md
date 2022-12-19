@@ -59,13 +59,13 @@ one needs very high computing power - this causes a lot of energy waste used to 
 
 In the future probably by 2050, bitcoin will hit the 21,000,000 mark. This is a good and a bad thing, it will mean that there will be no bounties for creating new blocks and miners will only earn transaction fees. This could result in miners leaving the pool for other more profitable pools with time fewer miners will mine bitcoin thus decreasing the network difficulty which would leave bitcoin exposed to the [51% attack](https://en.bitcoinwiki.org/wiki/51%25_attack).
 
-## Proof of Stake consensus algorithm.
+### Proof of Stake consensus algorithm.
 
 Ethereum switched to Proof of Stake there were some primary reasons behind that but we'll get to that in a minute.
 
 Unlike Proof of Work, this way of reaching a consensus does not need a lot of computing power since a validator is chosen quickly.
 
-  {{< youtube psKDXvXdr7k >}}
+{{< youtube psKDXvXdr7k >}}
 
 To become a validator, you have to invest in buying a network stake of **_32 ETH_** as the case in Ethereum, the more the coins .. the more the chances of being selected as the next validator. However, this is not the only criteria used to determine the next validator since it would favor those with more stake -The rich.
 
