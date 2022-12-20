@@ -20,13 +20,14 @@ fields:
   default: now
 - name: author
   type: select
-  default: []
+  default: BABC
   config:
-    required: false
+    required: true
     options:
     - M.I.Titus
     - P.Mwangi
     - R.Kipchirchir
+    - BABC
     source:
       type: simple
       section: 
