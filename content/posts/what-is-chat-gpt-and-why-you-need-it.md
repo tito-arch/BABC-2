@@ -59,25 +59,21 @@ Natural language processing (NLP) is a subfield of artificial intelligence that 
    6. **Increased efficiency:** Chatbots can operate 24/7 and can handle multiple tasks or conversations simultaneously, making them more efficient than human workers who may need breaks or can only handle one task at a time.
    7. **Improved user experience:** Chatbots can provide a more engaging and interactive experience for users, allowing them to ask questions and receive instant responses. This can be particularly useful for tasks that require a high degree of interactivity, such as educational support or social companionship.
 
-      ## What are the challenges of using a chat GPT?
-      1. GPT chatbots are trained on a large amount of text data, which means they can generate responses that are fluent and coherent. However, they may not always provide accurate or relevant answers to questions, especially if the questions are outside the scope of the training data.
-      2. GPT chatbots are not able to browse the internet or access external information sources, which means they may not be able to provide answers to questions that require real-time or up-to-date information.
-      3. GPT chatbots are not able to learn from the interactions they have with users, which means their responses may not improve over time or become more personalized.
-      4. GPT chatbots may generate responses that contain biased or offensive language, which can be a concern for users who are sensitive to these issues.
-      5. GPT chatbots are not able to interpret the tone or context of a conversation, which can lead to misunderstandings or inappropriate responses.
-      6. GPT chatbots may not be able to handle complex or open-ended questions, and may instead provide generic or repetitive responses.
-      7. GPT chatbots may not be able to handle multiple concurrent conversations, and may instead get confused or provide irrelevant responses.
+      ## What are the challenges of using a chat GPT and other models?
+      1. GPTs are trained on a large amount of text data, which means they can generate responses that are fluent and coherent. However, they may not always provide accurate or relevant answers to questions, especially if the questions are outside the scope of the training data.
+      2. GPTs are not able to browse the internet or access external information sources, which means they may not be able to provide answers to questions that require real-time or up-to-date information.
+      3. GPTs are not able to learn from the interactions they have with users, which means their responses may not improve over time or become more personalized.
+      4. GPTs may generate responses that contain biased or offensive language, which can be a concern for users who are sensitive to these issues.
+      5. GPTs are not able to interpret the tone or context of a conversation, which can lead to misunderstandings or inappropriate responses.
+      6. GPTs may not be able to handle complex or open-ended questions, and may instead provide generic or repetitive responses.
+      7. GPTs may not be able to handle multiple concurrent conversations, and may instead get confused or provide irrelevant responses.
 
+   > **ChatGPT sometimes writes plausible-sounding but incorrect or nonsensical answers.**
+   >
    > _It's important to keep in mind that chat GPT is not perfect, and it may not always be able to provide accurate or relevant responses, or understand complex or nuanced inputs. It's always a good idea to verify the output of the model and use your own judgment when interpreting and using its responses_
 
    **_Resources_**
 
-   [Natural Language Processing with Deep Learning](https://nlp.stanford.edu/nlpwithdeeplearning/)
+   [OpenAI.com]()
 
-   [The Transformer](https://arxiv.org/abs/1706.03762)
-
-   [Generative Pre-training from Pixels](https://openai.com/blog/gpt-3-pixel-level-generation/)
-
-   [Open AI](https://openai.com/blog/gpt-3-language-models-are-few-shot-learners/)
-
-   [NLP Overview: A Comprehensive Guide to Natural Language Processing]( https://www.analyticsinsight.net/nlp-overview-comprehensive-guide-to-natural-language-processing/)
+   [chatGPT](chat.openai.com)
