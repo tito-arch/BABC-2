@@ -1,7 +1,7 @@
 ---
 title: 'I am born : '
 date: 2022-07-22T01:38:54.000+03:00
-description: 'BABC Blog was launched on July 22nd,2022 to evangalise '
+description: 'BABC Blog was launched on July 22nd,2022 to evangalise technology. '
 cover:
   image: img/buildingNtesting.jpg
   alt: its my birthday
