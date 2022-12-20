@@ -1,4 +1,5 @@
 +++
+author = "P.Mwangi"
 categories = ["Computer science"]
 date = 2022-12-05T08:00:00Z
 description = "All messages that are sent and received through a network must be represented using a data signal."
