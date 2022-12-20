@@ -18,6 +18,22 @@ fields:
     time_format: ''
     required: true
   default: now
+- name: author
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - M.I.Titus
+    - P.Mwangi
+    - R.Kipchirchir
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Author
+  description: Insert authors name
 - type: text
   name: description
   label: description
