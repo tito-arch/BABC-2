@@ -1,5 +1,5 @@
 ---
-title: I am born
+title: 'I am born : '
 date: 2022-07-22T01:38:54.000+03:00
 description: 'BABC Blog was launched on July 22nd,2022 to evangalise '
 cover:
@@ -7,16 +7,14 @@ cover:
   alt: its my birthday
   caption: bunnieABC created me
 tags:
+- Genesis
+- 'Initial '
 - bunnieabc
 categories:
 - Device review
-- Emerging Issues
-- AI/ML
-- Web3.0/Third Web
-- Data Capture
-- Space
-
+- Android
 image: imageedit_4_3671584613.jpg
+author: M.I.Titus
 
 ---
 Hi!

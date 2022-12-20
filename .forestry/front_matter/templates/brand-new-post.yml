@@ -85,6 +85,7 @@ fields:
   description: All images should have an <strong><em>alt</em></strong><em> this should
     be the same as the title of the post</em>
 pages:
+- content/posts/Techy.md
 - content/posts/development.md
 - content/posts/how-does-the-metaverse-relate-to-virtual-reality.md
 - content/posts/is-virtual-reality-the-future.md
