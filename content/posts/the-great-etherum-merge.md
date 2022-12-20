@@ -1,4 +1,5 @@
 +++
+author = "M.I.Titus"
 categories = ["Crypto"]
 date = 2022-09-16T23:43:26Z
 description = "Ethereum switched from Proof of Work to Proof of Stake to stop alot of energy consumption."
