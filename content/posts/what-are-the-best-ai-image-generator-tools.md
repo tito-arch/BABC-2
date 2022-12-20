@@ -1,4 +1,5 @@
 +++
+author = "P.Mwangi"
 categories = ["Ai"]
 date = 2022-11-26T08:00:00Z
 description = "The best Ai image to text generators in 2022"
