@@ -1,5 +1,8 @@
 +++
+author = "BABC"
+categories = []
 date = 2022-10-01T07:00:00Z
+description = ""
 image = ""
 tags = ["EX-NOR gate", "EX-OR gate", "NAND gate", "OR gate", "AND gate", "NOT gate"]
 title = "computer logic"

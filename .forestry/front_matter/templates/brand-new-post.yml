@@ -87,6 +87,7 @@ fields:
     be the same as the title of the post</em>
 pages:
 - content/posts/Techy.md
+- content/posts/computer-logic.md
 - content/posts/development.md
 - content/posts/how-does-the-metaverse-relate-to-virtual-reality.md
 - content/posts/is-virtual-reality-the-future.md
