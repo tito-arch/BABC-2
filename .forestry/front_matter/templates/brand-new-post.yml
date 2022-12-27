@@ -25,7 +25,6 @@ fields:
     required: true
     options:
     - M.I.Titus
-    - P.Mwangi
     - R.Kipchirchir
     - BABC
     source:
