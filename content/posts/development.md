@@ -10,6 +10,6 @@ title = "Development"
 [cover]
 alt = "Flowers"
 caption = ""
-image = "/uploads/ai-envisions-a-futuristic-sustainable-city-with-air-purifying-biophilic-skyscrapers-1.jfif"
+image = "/uploads/admin.PNG"
 
 +++
