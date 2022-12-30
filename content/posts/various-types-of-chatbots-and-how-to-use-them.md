@@ -26,7 +26,7 @@ A chatbot is a “ computer program designed to simulate a conversation with hum
 
 ### 1. Menu/button-based chatbots
 
-**-**Menu/button-based chatbots can be found in a variety of places, such as messaging apps, websites, and mobile apps. They are designed to be easy to use, as users can simply select an option or button to get the information they need or complete a task.
+Menu/button-based chatbots can be found in a variety of places, such as messaging apps, websites, and mobile apps. They are designed to be easy to use, as users can simply select an option or button to get the information they need or complete a task.
 
 Here is an example of how a menu/button-based chatbot might work:
 
