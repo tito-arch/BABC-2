@@ -9,6 +9,6 @@ title = "A complete guide on the various types of chatbots"
 [cover]
 alt = ""
 caption = ""
-image = "/uploads/chat-bot-1.jfif"
+image = "/uploads/dfghjk.PNG"
 
 +++
