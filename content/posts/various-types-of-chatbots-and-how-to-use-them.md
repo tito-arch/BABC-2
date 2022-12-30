@@ -24,7 +24,7 @@ A chatbot is a “ computer program designed to simulate a conversation with hum
 
 ## What are the different types of chatbots?
 
-### **1.**Menu/button-based chatbots
+### 1. Menu/button-based chatbots
 
 **-**Menu/button-based chatbots can be found in a variety of places, such as messaging apps, websites, and mobile apps. They are designed to be easy to use, as users can simply select an option or button to get the information they need or complete a task.
 
@@ -42,7 +42,7 @@ Chatbot: "Great choice! Do you have a specific brand in mind? You can choose fro
 
 **Chatbot:** "Got it! Here are some Nike sneakers we have available. Which one would you like to purchase?"
 
-### **2.**Linguistic Based (Rule-Based Chatbots)
+### 2. Linguistic Based (Rule-Based Chatbots)
 
 Rule-based chatbots are often used in customer service or support contexts, where they can provide quick and accurate responses to common questions or issues. They are typically programmed to recognize specific keywords or phrases, and they respond with a pre-written message or set of instructions.
 
@@ -54,4 +54,4 @@ Here is an example of how a linguistic-based chatbot might work:
 
 **User:** "I forgot my password and can't log in."
 
-**Chatbot:** "No problem! You can reset your password by clicking on the 'Forgot Password' link on the login page. Alternatively, you can also contact our customer service team for assistance."
+**Chatbot:** "No problem! You can reset your password by clicking on the 'Forgot Password link on the login page. Alternatively, you can also contact our customer service team for assistance."
