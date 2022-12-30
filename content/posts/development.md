@@ -10,6 +10,6 @@ title = "Development"
 [cover]
 alt = "Flowers"
 caption = ""
-image = "/uploads/fghbjnfghj.PNG"
+image = "/uploads/fghbjnfghj.jpg"
 
 +++
