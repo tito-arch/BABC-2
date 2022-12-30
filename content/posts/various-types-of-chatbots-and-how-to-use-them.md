@@ -48,10 +48,10 @@ Rule-based chatbots are often used in customer service or support contexts, wher
 
 Here is an example of how a linguistic-based chatbot might work:
 
-User: "I need help with my account."
+**User:** "I need help with my account."
 
-Chatbot: "I'm sorry to hear that. Can you please tell me more about the issue you are experiencing with your account?"
+**Chatbot:** "I'm sorry to hear that. Can you please tell me more about the issue you are experiencing with your account?"
 
-User: "I forgot my password and can't log in."
+**User:** "I forgot my password and can't log in."
 
-Chatbot: "No problem! You can reset your password by clicking on the 'Forgot Password' link on the login page. Alternatively, you can also contact our customer service team for assistance."
+**Chatbot:** "No problem! You can reset your password by clicking on the 'Forgot Password' link on the login page. Alternatively, you can also contact our customer service team for assistance."
