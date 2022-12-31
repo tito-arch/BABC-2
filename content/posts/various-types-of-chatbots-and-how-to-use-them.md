@@ -12,6 +12,10 @@ caption = ""
 image = "/uploads/dfghjk.PNG"
 
 +++
+Most of us at this point once or twice have used a chatbot either knowing or without knowing. but have you ever wondered how they work?
+
+How do we interact with them?, what types of different chatbots are there?. Before we dive in and answer these questions, let’s quickly cover the basics.
+
 # What is a chatbot?
 
 A chatbot is a “ computer program designed to simulate a conversation with human users, especially over the Internet.” Chatbots are often used in customer service, marketing, and other areas where automated communication with customers or users is necessary.
