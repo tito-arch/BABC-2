@@ -14,7 +14,7 @@ image = "/uploads/dfghjk.PNG"
 +++
 Most of us at this point once or twice have used a chatbot either knowing or without knowing. but have you ever wondered how they work?
 
-How do we interact with them?, what types of different chatbots are there?. Before we dive in and answer these questions, let’s quickly cover the basics.
+How do we interact with them? What types of different chatbots are there?. Before we dive in and answer these questions, let’s quickly cover the basics.
 
 # What is a chatbot?
 
@@ -59,3 +59,41 @@ Here is an example of how a linguistic-based chatbot might work:
 **User:** "I forgot my password and can't log in."
 
 **Chatbot:** "No problem! You can reset your password by clicking on the 'Forgot Password link on the login page. Alternatively, you can also contact our customer service team for assistance."
+
+### 3. Keyword recognition-based chatbots.
+
+Keyword recognition-based chatbots are a type of chatbot that uses a set of pre-defined keywords or phrases to understand and respond to user input.
+
+These chatbots are often used in customer service or support contexts. They are used to provide quick and accurate responses to common questions or issues.
+
+This is made possible by the back-end program that runs these chatbots, which can recognize a specific set of keywords or phrases, then responds with a prewritten message or set of instructions. Here is an example of how a keyword recognition-based chatbot might work:
+
+**User:** "I need help with my account."
+
+**Chatbot:** "I'm sorry to hear that. Can you please tell me more about the issue you are experiencing with your account?"
+
+**User:** "I forgot my password and can't log in."
+
+**Chatbot:** "No problem! You can reset your password by clicking on the 'Forgot Password link on the login page. Alternatively, you can also contact our customer service team for assistance.
+
+### 4. Machine learning chatbots
+
+AI chatbots are programmed with natural language processing (NLP) and machine learning algorithms, which allow them to learn and adapt to new situations. They are more complex and time-consuming to develop and train than rule-based chatbots, but they can provide a more personalized and human-like experience for users. Here is an example of how a machine-learning chatbot might work:
+
+**User:** "I'm looking for a new pair of sneakers."
+
+**Chatbot:** "Sure thing! What type of sneakers are you looking for? You can choose from running shoes, basketball shoes, casual shoes, or hiking shoes."
+
+User: "I'm looking for running shoes."
+
+**Chatbot:** "Great choice! Do you have a specific brand in mind? You can choose from Nike, Adidas, ASICs, or New Balance."
+
+**User**: "I'm not sure, just something comfortable and affordable."
+
+**Chatbot:** "Got it! Here are some options that might fit your criteria. Which one do you like the most?"
+
+AI chatbots can potentially understand and respond in different languages and can analyze user behavior and mood to provide more personalized communication. They are a good investment for businesses that have a lot of user data and want to provide more personalized customer service and enhance user engagement. AI chatbots can handle customer queries from beginning to end without the need for human intervention and are available around the clock.
+
+![](/uploads/ai-bot.PNG)
+
+### 5. The hybrid model
