@@ -97,3 +97,17 @@ AI chatbots can potentially understand and respond in different languages and ca
 ![](/uploads/ai-bot.PNG)
 
 ### 5. The hybrid model
+
+This is the most commonly used chatbot among the mentioned above. This is because Hybrid chatbots are designed to take advantage of the strengths of different chatbot models in order to provide a more comprehensive and flexible user experience. For example, a hybrid chatbot might use a rule-based system to handle common questions and a machine learning system to handle more complex or open-ended queries.
+
+For example, if a user brings another topic that is not among the listed prompts, the chatbot is able to pick up and answer appropriately.
+
+![](/uploads/virtua-spirits.PNG)
+
+### 6. Voice bots
+
+Voice bots are designed to understand and respond to spoken requests and commands, using natural language processing (NLP) and machine learning algorithms to interpret and understand user input. They can perform a wide range of tasks, such as answering questions, setting reminders, making phone calls, playing music, and controlling smart home devices.
+
+They are often used for tasks that are easier to perform with voice commands, such as setting reminders or playing music, and they can be especially useful for people who have difficulty using a keyboard or other input devices.
+
+Examples of voice bots include Apple's Siri, Amazon's Alexa, and Google's Assistant.And another special case example is Sophia the Robot. She communicates by using voice bot software powered by Ai
