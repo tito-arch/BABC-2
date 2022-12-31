@@ -12,3 +12,4 @@ caption = ""
 image = "/uploads/4xfefdpqrxqqkqxmcincmh-970-80-jpg.webp"
 
 +++
+Microsoft has released its first big update to Windows 11, known as the [version 22H2 release, or the 2022 Update](https://www.windowscentral.com/windows-11-version-22h2).
