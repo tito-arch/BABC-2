@@ -145,3 +145,9 @@ These chatbots that are designed to provide customer service and support to user
 * save business resources.
 
 ![](/uploads/customer.PNG)
+
+### 9. Entertainment chatbots
+
+Entertainment chatbots are chatbots that are designed to provide a unique and fun experience for users. These chatbots are typically used to improve engagement with a brand and provide entertainment value to users. Entertainment chatbots can be complex to build, as they require artificial intelligence to interpret a wide range of user inputs and provide original and humorous responses.  Examples of entertainment chatbots include weather bots, gaming bots, and social media bots, such as those used by Netflix to write stand-up comedy routines for digital characters. One case example is:
+
+{{< youtube [j-zTrfiQMSY](https://www.youtube.com/embed/j-zTrfiQMSY "https://www.youtube.com/embed/j-zTrfiQMSY") >}}
