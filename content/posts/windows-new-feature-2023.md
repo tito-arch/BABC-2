@@ -7,8 +7,8 @@ image = ""
 tags = ["Microsoft", "Windows "]
 title = "Microsoft Windows New Feature 2023"
 [cover]
-alt = ""
-caption = ""
+alt = "microsoft updates"
+caption = "(image sourced from microsoft.com"
 image = "/uploads/4xfefdpqrxqqkqxmcincmh-970-80-jpg.webp"
 
 +++
