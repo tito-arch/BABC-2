@@ -1,5 +1,5 @@
 +++
-author = "BABC"
+author = "P.Gitau"
 categories = ["Ai"]
 date = 2022-12-15T10:45:10Z
 description = "A chatbot is a “ computer program designed to simulate a conversation with human users, especially over the Internet.”"
@@ -138,10 +138,10 @@ Here is an example of how an appointment-scheduling chatbot might work:
 
 These chatbots that are designed to provide customer service and support to users. These chatbots are often used to handle common questions and walk users through processes, such as booking an appointment or purchasing a product. If a support chatbot is unable to provide a response, it can pass the conversation on to a human support agent. Support chatbots can be used in a variety of industries, including banking, retail, human resources, digital marketing, and healthcare. They can help businesses in the following ways:
 
-*  handle repetitive questions and  focus on more important user queries
-*  collect contact information
-*  Provide proactive support
-*  collect customer feedback
+* handle repetitive questions and  focus on more important user queries
+* collect contact information
+* Provide proactive support
+* collect customer feedback
 * save business resources.
 
 ![](/uploads/customer.PNG)
@@ -150,4 +150,4 @@ These chatbots that are designed to provide customer service and support to user
 
 Entertainment chatbots are chatbots that are designed to provide a unique and fun experience for users. These chatbots are typically used to improve engagement with a brand and provide entertainment value to users. Entertainment chatbots can be complex to build, as they require artificial intelligence to interpret a wide range of user inputs and provide original and humorous responses.  Examples of entertainment chatbots include weather bots, gaming bots, and social media bots, such as those used by Netflix to write stand-up comedy routines for digital characters. One case example is:
 
-{{< youtube [j-zTrfiQMSY](https://www.youtube.com/embed/j-zTrfiQMSY "https://www.youtube.com/embed/j-zTrfiQMSY") >}}
+{{< youtube j-zTrfiQMSY  >}}
