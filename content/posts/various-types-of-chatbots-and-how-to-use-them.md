@@ -112,4 +112,4 @@ They are often used for tasks that are easier to perform with voice commands, su
 
 Examples of voice bots include Apple's Siri, Amazon's Alexa, and Google's Assistant.And another special case example is Sophia the Robot. She communicates by using voice bot software powered by Ai
 
-{{<<iframe width="864" height="486" src="[https://www.youtube.com/embed/Ml9v3wHLuWI](https://www.youtube.com/embed/Ml9v3wHLuWI "https://www.youtube.com/embed/Ml9v3wHLuWI")" title="Will Smith Tries Online Dating" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>}}
+{{< youtube Ml9v3wHLuWI >}}
