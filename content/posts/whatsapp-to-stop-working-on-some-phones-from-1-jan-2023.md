@@ -1,5 +1,5 @@
 +++
-author = "BABC"
+author = "P.Gitau"
 categories = ["Emerging Issues"]
 date = 2022-12-25T12:28:38Z
 description = "WhatsApp will cease support for a selection of iPhones and Android handsets as we enter a new year"
