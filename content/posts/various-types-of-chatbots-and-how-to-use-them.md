@@ -100,7 +100,7 @@ AI chatbots can potentially understand and respond in different languages and ca
 
 This is the most commonly used chatbot among the mentioned above. This is because Hybrid chatbots are designed to take advantage of the strengths of different chatbot models in order to provide a more comprehensive and flexible user experience. For example, a hybrid chatbot might use a rule-based system to handle common questions and a machine learning system to handle more complex or open-ended queries.
 
-For example, if a user brings another topic that is not among the listed prompts, the chatbot is able to pick up and answer appropriately.
+For example, if a user brings another topic that is not among the listed prompts, the chatbot can pick up and answer appropriately.
 
 ![](/uploads/virtua-spirits.PNG)
 
@@ -110,6 +110,38 @@ Voice bots are designed to understand and respond to spoken requests and command
 
 They are often used for tasks that are easier to perform with voice commands, such as setting reminders or playing music, and they can be especially useful for people who have difficulty using a keyboard or other input devices.
 
-Examples of voice bots include Apple's Siri, Amazon's Alexa, and Google's Assistant.And another special case example is Sophia the Robot. She communicates by using voice bot software powered by Ai
+Examples of voice bots include Apple's Siri, Amazon's Alexa, and Google's Assistant. And another special case example is Sophia the Robot. She communicates by using voice bot software powered by Ai
 
 {{< youtube Ml9v3wHLuWI >}}
+
+### 7. Appointment scheduling or Booking Chatbots
+
+Appointment scheduling or booking chatbots can be found in a variety of places, such as websites, messaging apps, and mobile apps. They are designed to be convenient and easy to use, allowing users to schedule appointments or book services quickly and easily.
+
+Here is an example of how an appointment-scheduling chatbot might work:
+
+**User:** "I need to schedule an appointment for a haircut."
+
+**Chatbot:** "Sure thing! What date and time would you like to schedule your appointment?"
+
+**User:** "Can I schedule an appointment for next Wednesday at 3pm?"
+
+**Chatbot:** "I'm sorry, but we don't have any available appointments at that time. However, we do have openings on Thursday at 2pm or 4pm. Which one would you prefer?"
+
+**User:** "Thursday at 4pm works for me."
+
+**Chatbot:** "Great! Your appointment has been scheduled for Thursday at 4pm. Is there anything else I can help with?
+
+![](/uploads/appointment.PNG)
+
+### 8. Customer support chatbots
+
+These chatbots that are designed to provide customer service and support to users. These chatbots are often used to handle common questions and walk users through processes, such as booking an appointment or purchasing a product. If a support chatbot is unable to provide a response, it can pass the conversation on to a human support agent. Support chatbots can be used in a variety of industries, including banking, retail, human resources, digital marketing, and healthcare. They can help businesses in the following ways:
+
+*  handle repetitive questions and  focus on more important user queries
+*  collect contact information
+*  Provide proactive support
+*  collect customer feedback
+* save business resources.
+
+![](/uploads/customer.PNG)
