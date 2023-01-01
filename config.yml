@@ -1,6 +1,7 @@
 ---
 baseURL: https://blog.bunnieabc.com/
 languageCode: en-us
+timeZone: Africa/Nairobi
 title: BABC Blog
 theme: PaperMod
 googleAnalytics: UA-235280790-1
