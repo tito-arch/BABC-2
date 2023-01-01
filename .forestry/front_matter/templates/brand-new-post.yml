@@ -20,13 +20,14 @@ fields:
   default: now
 - name: author
   type: select
-  default: []
+  default: BABC
   config:
-    required: false
+    required: true
     options:
     - M.I.Titus
-    - P.Mwangi
     - R.Kipchirchir
+    - BABC
+    - P.Gitau
     source:
       type: simple
       section: 
@@ -86,13 +87,16 @@ fields:
     be the same as the title of the post</em>
 pages:
 - content/posts/Techy.md
-- content/posts/development.md
+- content/posts/computer-logic.md
 - content/posts/how-does-the-metaverse-relate-to-virtual-reality.md
 - content/posts/is-virtual-reality-the-future.md
 - content/posts/meet-the-world-s-most-interesting-robots.md
 - content/posts/should-kenyans-get-excited-about-digital-plates.md
 - content/posts/the-great-etherum-merge.md
+- content/posts/various-types-of-chatbots-and-how-to-use-them.md
 - content/posts/what-are-the-best-ai-image-generator-tools.md
 - content/posts/what-is-chat-gpt-and-why-you-need-it.md
 - content/posts/what-is-network-topology.md
 - content/posts/what-s-app-new-features-2022.md
+- content/posts/whatsapp-to-stop-working-on-some-phones-from-1-jan-2023.md
+- content/posts/windows-new-feature-2023.md
