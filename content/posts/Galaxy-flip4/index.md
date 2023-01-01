@@ -17,6 +17,7 @@ cover:
   caption: Samsung Flip Z
 author: M.I.Titus
 
+
 ---
 #### How much will it cost?
 
