@@ -30,3 +30,8 @@ Since the introduction of computers in the business world around the 1950's a lo
 This is the foremost talked about technology on the internet right now, especially due to the recent introduction of chat GPT and this is expected to dominate the entire internet and revolutionize how we do things. But for those who are new to this topic, let's dive in.
 
 Artificial intelligence can be defined as a branch of computer science that is concerned with the development of machines. That emulates human qualities such as learning, reasoning, communicating, seeing, and hearing. computer scientists and engineers 
+
+ghjkfghjkfghjm,vbnm
+
+* dff
+* dff
