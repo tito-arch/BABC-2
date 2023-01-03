@@ -40,4 +40,4 @@ There are four main application areas of Artificial intelligence.
 
 ### Expert systems
 
-This is software designed to make a computer 
+This is software designed to make a computer to operate at the level of a human expert in a specific narrow area of specialisation such as medical diagnosis, finacial forcasting etc.An expert system being a software system 
