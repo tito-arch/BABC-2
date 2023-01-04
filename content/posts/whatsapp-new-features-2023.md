@@ -1,7 +1,7 @@
 +++
 author = "P.Gitau"
 categories = ["Emerging Issues"]
-date = 2023-01-02T21:31:27Z
+date = 2023-01-03T21:31:27Z
 description = "WhatsApp 3D Avatars can be used as profile photos or custom stickers."
 image = ""
 tags = ["Applications", "Whatsapp"]
