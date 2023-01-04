@@ -22,7 +22,7 @@ WhatsApp is a **free instant messaging** app available on both **Android** and *
 
 with these avatars, you will be able to use your avatar as your profile photo and you will also be allowed to even choose out of **36 custom stickers** that will symbolize different emotions and characters for a particular avatar.
 
-For those who are WhatsApp users but like keeping a low profile about themselves and keeping their life private WhatsApp avatars got u since now you will not be required to use your photo. you can easily use these 3D avatars. 
+For those who are WhatsApp users but like keeping a low profile about themselves and keeping their life private WhatsApp avatars got u since now you will not be required to use your photo. you can easily use these **3D avatars**. 
 
 ![](/uploads/02_avatars-in-chat.webp)
 
