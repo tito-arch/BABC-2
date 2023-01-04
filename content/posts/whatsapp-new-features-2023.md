@@ -14,7 +14,7 @@ image = "/uploads/facebook-avatars.webp"
 +++
 ## Introducing 3D Avatars to WhatsApp
 
-WhatsApp is a **free instant messaging** app available on both **Android** and **iPhone** with 2+ billion registered users According to **2022** statistics. With this large amount of traffic, there is pressure to constantly improve performance and user experience every now and then, but WhatsApp never disappoints with its updates now and then even if they can be a little bit frustrating when you switch your phone and find you need to restart because of an update but sure it's for the best.
+WhatsApp is a **free instant messaging** app available on both **Android** and **iPhone** with 2+ billion registered users According to **2022** statistics. With this large amount of traffic, there is pressure to constantly improve performance and user experience every now and then, but WhatsApp never disappoints with its updates now and then. Even if it can be a little bit frustrating when you switch your phone and find you need to restart your phone because of an update but let's all agree it's for the best.
 
 **Dec 7 2022** was a great day for WhatsApp users since WhatsApp announced the release of WhatsApp avatars which is a new personalized way to express yourself, these avatars represent a **_digital version_** of oneself these avatars are unique for each person since they will be created and customized from a billion combinations of hairstyles, outfits, and facial expressions.
 
