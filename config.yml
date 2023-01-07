@@ -17,13 +17,12 @@ params:
   - name: github
     url: https://github.com/tito-arch
     
-  cover:
-    linkFullImages: true
-    ShowBreadCrumbs: true
-    ShowReadingTime: true
-    ShowShareButtons: true
-    ShowPostNavLinks: true
-    searchHidden: true
+Params:
+  ShowReadingTime: true
+  linkFullImages: true
+  ShowBreadCrumbs: true
+
+ 
 
 menu:
   main:
