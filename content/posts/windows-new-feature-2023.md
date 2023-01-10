@@ -12,6 +12,8 @@ caption = "(image sourced from microsoft.com"
 image = "/uploads/4xfefdpqrxqqkqxmcincmh-970-80-jpg.webp"
 
 +++
-Microsoft has released its first big update to Windows 11, known as the version 22H2 release, or the 2022 Update.
+Windows 11 was released on October 5, and while it is a better version of Windows 10, many people are still using the old version because they are not sure if it is stable. Its been a year now  since its release and Microsoft have been working hard on **_polishing_** and **fixing** the **bugs** and performance of Windows 11 
+
+**is it worth it to update from Windows 10 to 11?** Yes, it is worth it since Windows 11 comes with a wide range of features, either previous updates of Windows 10 or new features introduced in Windows 11. That being said, we can now look at the noticeable improvements, performance, and design changes in the Windows 11 update.
 
 {{< youtube dkcd3ATQq1w  >}}
