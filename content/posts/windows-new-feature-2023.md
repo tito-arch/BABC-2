@@ -18,6 +18,10 @@ Windows 11 was released on October 5, and while it is a better version of Window
 
 ### App folders in the Start menu
 
-Microsoft introduced a brand-new design for the start menu which has been built from the ground up. With Windows 11 version 22H2, now the user can be able to customize the pinned apps area, create app folders, and resize the pinned apps to show one more or one fewer row. When you want to create an app folder all you have to do is drag one app icon over the other, wait a bit then let go to create the folder. If you want to rename a folder, first reorganize apps within a folder, and then move the folder around in the pinned area of the start menu. This freedom to create and personally reorganize your apps and folders gives users a great experience since it helps the Start menu feel less cluttered.
+Microsoft introduced a brand-new design for the start menu which has been built from the ground up. With Windows 11 version 22H2, now the user can be able to customize the pinned apps area, create app folders, and resize the pinned apps to show one more or one fewer row.
+
+![](/uploads/6aw6sreihwwjhqj7r9tnoe-970-80.gif)
+
+ When you want to create an app folder all you have to do is drag one app icon over the other, wait a bit then let go to create the folder. If you want to rename a folder, first reorganize apps within a folder, and then move the folder around in the pinned area of the start menu. This freedom to create and personally reorganize your apps and folders gives users a great experience since it helps the Start menu feel less cluttered.
 
 {{< youtube dkcd3ATQq1w  >}}
