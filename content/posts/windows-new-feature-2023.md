@@ -24,4 +24,12 @@ Microsoft introduced a brand-new design for the start menu which has been built 
 
  When you want to create an app folder all you have to do is drag one app icon over the other, wait a bit then let go to create the folder. If you want to rename a folder, first reorganize apps within a folder, and then move the folder around in the pinned area of the start menu. This freedom to create and personally reorganize your apps and folders gives users a great experience since it helps the Start menu feel less cluttered.
 
+### File Explorer
+
+There are a ton of improvements to File Explorer with Windows 11 version 22H2, First, the new "Home" page which is now the default page when you open the file explorer app Previous users of Windows 10 can notice a slight change in layout with a new "favorites" and "recent" area below the usual quick access folders. 
+
+![](/uploads/file-explorer.png)
+
+Microsoft has also moved user folders from the "THIS PC" page, which now only shows storage devices. This takes time to get accustomed to but after using it a little bit you get the hang of it. now if you want to access your user folders, you are required to use the new Home page or the sidebar.
+
 {{< youtube dkcd3ATQq1w  >}}
