@@ -67,4 +67,14 @@ Microsoft has finally addressed the Taskbar functionality which was not availabl
 
 We can't ignore the obvious notable changes that the action center has received. Let's start with "focus assist" which used to be located in the quick setting and has now been renamed "do not disturb" and moved to the notification panel. Microsoft knows the value of time and the role that time plays, so they added a new "focus" timer under the calendar flyout which actually makes sense users can even sync the focus timer with their to-do list or even Spotify.
 
+#### Bluetooth's action 
+
+Finally, Microsoft has improved the Bluetooth action which is found in the quick setting panel. In the previous version, it was not possible to view or control Bluetooth devices in the action menu. And if you tried to click the Bluetooth tooth device you would be given the option to edit it in the settings window which was quite frustrating for me. 
+
+![](/uploads/bluetooth.png)
+
+But this has been made quite simple since all the actions can be done work can be done on the action menu which makes this behavior in line with the other quick setting actions.
+
+This video covers all we have talked about in-depth. Make sure you watch it.
+
 {{< youtube dkcd3ATQq1w  >}}
