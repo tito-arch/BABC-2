@@ -6,7 +6,7 @@ description = "Get informed about this cool Microsoft features to boost your pro
 draft = true
 image = ""
 tags = ["Microsoft", "Windows "]
-title = "Microsoft Windows New Feature 2023"
+title = " Everything you need to know about Microsoft's latest OS update "
 [cover]
 alt = "microsoft updates"
 caption = "(image sourced from microsoft.com"
@@ -14,3 +14,5 @@ image = "/uploads/4xfefdpqrxqqkqxmcincmh-970-80-jpg.webp"
 
 +++
 Microsoft has released its first big update to Windows 11, known as the version 22H2 release, or the 2022 Update.
+
+{{< youtube dkcd3ATQq1w  >}}
