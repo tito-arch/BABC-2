@@ -32,4 +32,15 @@ There are a ton of improvements to File Explorer with Windows 11 version 22H2, F
 
 Microsoft has also moved user folders from the "THIS PC" page, which now only shows storage devices. This takes time to get accustomed to but after using it a little bit you get the hang of it. now if you want to access your user folders, you are required to use the new Home page or the sidebar. Finally, Microsoft is also adding tabs to the file explorer app. Many people have been asking for this feature, which just works as expected, just like in browsers e.g. Chrome, and Firefox, the tabs are found along the top of the app where you can open new tabs, and switch between them.
 
+### Touch Improvements
+
+With the 2022 update, Microsoft further improves the touch experience for touch users with the introduction of gestures. The previous version had a "tablet mode" interface which was only for tablet users. With this new update, Microsoft has changed the interface for desktop touch users as well. The new gestures available with version 22H2 are:
+
+> * Swipe up from the bottom middle of the screen to access Start.
+> * Swipe right in the Start menu to access the All Apps list.
+> * Swipe up from the bottom right of the screen to access Control Center.
+> * Three finger swipe left or right in the middle of the screen to switch between open apps.
+> * Three finger swipe up in the middle of the screen to access Task View.
+> * Three-finger swipes down in the middle of the screen to minimize all running apps.
+
 {{< youtube dkcd3ATQq1w  >}}
