@@ -39,8 +39,16 @@ With the 2022 update, Microsoft further improves the touch experience for touch 
 > * Swipe up from the bottom middle of the screen to access Start.
 > * Swipe right in the Start menu to access the All Apps list.
 > * Swipe up from the bottom right of the screen to access Control Center.
-> * Three finger swipe left or right in the middle of the screen to switch between open apps.
-> * Three finger swipe up in the middle of the screen to access Task View.
+> * Three-finger swipe left or right in the middle of the screen to switch between open apps.
+> * Three-finger swipes up in the middle of the screen to access Task View.
 > * Three-finger swipes down in the middle of the screen to minimize all running apps.
+
+### Apps
+
+Microsoft has updated and added several in-box app experiences with the 2022 update for Windows 11, Let's start with Task manager. The new design is similar to other Windows 11 updates. This is quite an improvement for Microsoft since the last time we saw an update in the UI of the task manager was over ten years ago with Windows 8. This new interface has a sidebar on the left side which contains all the different tabs that the task manager has e.g. startup, user, details, service, and performance tabs. The hamburger menu can be used to access them.
+
+![](/uploads/taskmanager.png)
+
+We can also notice relocations of actions such as "end task" and "run new task" which have been moved to the top right corner. Just below the windows controls, the graphs have also been made to match your system accent color. Microsoft is building new apps called **Clipchamp** and **family safety** with this new update.
 
 {{< youtube dkcd3ATQq1w  >}}
