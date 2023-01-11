@@ -4,6 +4,7 @@ languageCode: en-us
 timeZone: Africa/Nairobi
 title: BABC Blog
 theme: PaperMod
+defaultTheme: auto
 googleAnalytics: UA-235280790-1
 params:
   homeInfoParams:
@@ -21,6 +22,9 @@ Params:
   ShowReadingTime: true
   linkFullImages: true
   ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  showShareButtons: true
+  
 
  
 
