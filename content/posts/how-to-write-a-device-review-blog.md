@@ -3,6 +3,7 @@ author = "P.Gitau"
 categories = ["tutorial"]
 date = 2023-01-14T19:57:27Z
 description = "A must know hack for writing device review tutorial "
+draft = true
 image = ""
 tags = ["writers", "tutorial"]
 title = "How to write a device review blog"
