@@ -16,4 +16,6 @@ Before we even dive into this broad topic of quantum computing, I think the best
 
 W**hat is the difference between Quantum computers and other classical computers?**
 
-A quantum computer uses quantum bits or qubits which can be either 0 or 1 at the same time and this is what gives a quantum computer its superior computing power in contrast a normal classical computer uses bits.
+A quantum computer uses quantum bits or qubits which can be either 0 or 1 at the same time and this is what gives a quantum computer its superior computing power in contrast  to a normal classical computer that uses bits which are basically 0's and 1's.
+
+more about this read the full article [here](https://blog.bunnieabc.com/posts/computer-logic/#everything-you-need-to-know-about-computer-logic)
