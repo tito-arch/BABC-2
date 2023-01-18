@@ -17,7 +17,6 @@ cover:
   caption: Samsung Flip Z
 author: M.I.Titus
 
-
 ---
 #### How much will it cost?
 
@@ -33,26 +32,26 @@ Here is what makes the galaxy Z flip4 a phone from the future…
 
 * It’s small,  enough to fit your shirt pocket and disappear.
 
- **Dimensions**
+    {{< video "https://images.samsung.com/is/content/samsung/assets/africa_en/2208/pcd/smartphones/PCD_Combo_KV_Main-KV_1440x640_pc_v1.mp4" "my-5" >}}
 
-1.  _Folded: 71.9 x 84.9 x 17.1mm, (Hinge) - 15.9mm (Sagging)_ 
-2.  _Unfolded: 71.9 x 165.2 x 6.9mm 144HZ refresh rate )._
+**Dimensions**
+
+1. _Folded: 71.9 x 84.9 x 17.1mm, (Hinge) - 15.9mm (Sagging)_
+2. _Unfolded: 71.9 x 165.2 x 6.9mm 144HZ refresh rate )._
 
 * Epic design is foldable and has two screens so that you can view notifications on the cover screen if you don't want to spend an extra ($374.99) for the galaxy watch 4.
-
-
 * Cover Screen 1.9" Super AMOLED Display 512 x 260 302 pp this also allows you to unleash the power of the dual camera setup as you can capture “selfies” and pre-view them without un flipping the device
 
 ![Everything you need to know about the Samsung Galaxy Z flip4.](screenshot-from-2022-08-12-17-38-47.webp "photo by samsung.com")
 
 \-also allows the people being snapped to view the image from behind which is really cool.
 
-Intelligent features, _you don't come across these features daily._      
+Intelligent features, _you don't come across these features daily._
 
 * Scene Optimizer- to make your photos stand out.
 * Shot suggestions.
 
- **What colors are available, Galaxy 4 colors;**
+**What colors are available, Galaxy 4 colors;**
 
 ### For basic colors
 
@@ -87,15 +86,15 @@ Made for a particular customer or user (bespoke edition) - only available in cer
 * Pixel size: 1.12μm,FOV: 123˚,F.No (aperture): F2.2
 * 12MP Wide-angle Camera
 * Dual Pixel AF, OIS,Pixel size: 1.8μm,FOV: 83˚,F.No (aperture): F1.8
-* OIS (Optical Image Stabilization) for Wide-angle Camera 
+* OIS (Optical Image Stabilization) for Wide-angle Camera
 * Super clear glass with Corning® Gorilla® Glass with DX for Wide-angle Camera
 * Up to 10x digital zoom
 
 ### What you will get in the box
 
-* Galaxy Z Flip4, the device. 
+* Galaxy Z Flip4, the device.
 * Data Cable.
-*  Ejection Pin.
+* Ejection Pin.
 * Quick Start Guide.
 
 ### Galaxy Z flip4 Summary.
