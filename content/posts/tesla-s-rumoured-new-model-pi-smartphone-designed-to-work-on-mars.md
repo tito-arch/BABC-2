@@ -24,6 +24,8 @@ When it comes to Elon Musk, he always encourages **critical thinking** and new *
 
 Tesla is a car company that pays attention to the look of its products and performance, that's why it's ranked to be among the best electric car-selling companies in the world.
 
+![](/uploads/tesla-model-pi-1.jpg)
+
 The same did not change while making this phone even by looking at model pi's outside cover you will definitely know you are looking at the next-gen phone this is because tesla has put a photochromic coating at the surface of the phone which allows the phone to change its color when turning it in the sunlight.
 
 Also, you will notice the tesla logo which is stemmed behind the back of the model pi. just like apple does with its products, but the difference here is that tesla's logo is a sign of quality that you can trust the phone.
