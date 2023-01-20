@@ -12,9 +12,9 @@ caption = ""
 image = "/uploads/maxresdefault.webp"
 
 +++
-Before we even dive into this broad topic of quantum computing, I think the best approach would be to answer the most frequently asked questions about quantum computing so that we get a base understanding of quantum computing. so lets get started. this questions I've received more than 10 tens in Quora.
+Before we even dive into this broad topic of quantum computing, I think the best approach would be to answer the most frequently asked questions about quantum computing so that we get a base understanding of quantum computing. so let's get started. this questions I've received more than 10 tens in Quora.
 
-W**hat is the difference between Quantum computers and other classical computers?**
+### **What is the difference between Quantum computers and other classical computers?**
 
 A quantum computer uses quantum bits or qubits which can be either 0 or 1 at the same time and this is what gives a quantum computer its superior computing power in contrast to a normal classical computer that uses bits that are basically 0s and 1s.
 
@@ -40,10 +40,16 @@ I think since we are looking at quantum computing it will be wise  as well to kn
 
 If you want to read all the use cases and applications of quantum mechanics, read [here](www.blog.bunnieabc.com)
 
-by now you have a little clue of what quantum mechanics is. so dive a little bit in the **quantum computing** world let's start by learning **superposition.**
+By now you have a little clue about what quantum mechanics is, so dive a little bit into the **quantum computing** world let's start by learning **superposition.**
 
 ## What is superposition?
 
 The ability of a quantum system to be in multiple states at the same time until it is measured. A good real-life example is a spinning coin when the coin is rotating we can't actually state if the side facing us is either heads or tails that's obvious because it's spinning now this leads us to entanglement from the word itself it means something joined or intertwined. The same applies to quantum computing.
 
-If two entangled pennies are spun they are obviously going to rotate in the same direction and if they were to be stopped they will stop in one side either tails or heads. So by using a dilution refrigerator which is actually a refrigerator that is made to be so cold to cool quantum chips the coldness is effective for creating superposition and then entangling quantum chips the more spins the more memory and more memory means faster computing processes.
+If two entangled pennies are spun they are obviously going to rotate in the same direction and if they were to be stopped they will stop in one side either tails or heads. So by using a **dilution refrigerator** which is actually a refrigerator that is made to be so cold to cool quantum chips the coldness is effective for creating superposition and then entangling quantum chips the more spins the more memory and more memory means faster computing processes.
+
+This leads us to the third property of quantum mechanics, which is interference.
+
+## What is interference?
+
+Interference is the net effect of the combination of two or more wave trains moving on intersecting or coincident paths. This interference can be used to control quantum states and actually amplify the kind of signals that are towards the right answer and cancel the ones that are leading to the wrong answer.
