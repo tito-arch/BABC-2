@@ -32,8 +32,18 @@ I think since we are looking at quantum computing it will be wise  as well to kn
 
 ## What is quantum mechanics?
 
- Well, there are many versions of what **quantum mechanics** is but ill just tell you my version from what i understand it's a branch of **physics** just like others, which mostly deals with tiny objects which are very isolated and very cold. Computer scientists are using this knowledge in quantum to actually build new computers which actually operate on different kinds of rules than our normal computers e.g. _phones._
+ Well, there are many versions of what **quantum mechanics** is but I'll just tell you my version from what i understand it's a branch of **physics** just like others, which mostly deals with tiny objects which are very isolated and very cold. Computer scientists are using this knowledge in quantum to actually build new computers which actually operate on different kinds of rules than our normal computers e.g. _phones._
 
  It's not once or twice that you ran out of phone storage, so this means that the normal classical computers have a certain limit of computation power. So quantum computing comes to solve this problem by developing new machines that are able to adapt as the complexity of our calculations continues to rise.
 
  What's even more shocking is that quantum computers perform better when the problem at hand is more complex. When this technology is applied at the right places, the end product is just unimaginable. Scientists are still working on perfecting it and as we are talking right now they are real life-applications of quantum mechanics, maybe you are using them without even realizing it. a good and obvious example is **cryptography.**
+
+If you want to read all the use cases and applications of quantum mechanics, read [here](www.blog.bunnieabc.com)
+
+by now you have a little clue of what quantum mechanics is. so dive a little bit in the **quantum computing** world let's start by learning **superposition.**
+
+## What is superposition?
+
+The ability of a quantum system to be in multiple states at the same time until it is measured. A good real-life example is a spinning coin when the coin is rotating we can't actually state if the side facing us is either heads or tails that's obvious because it's spinning now this leads us to entanglement from the word itself it means something joined or intertwined. The same applies to quantum computing.
+
+If two entangled pennies are spun they are obviously going to rotate in the same direction and if they were to be stopped they will stop in one side either tails or heads. So by using a dilution refrigerator which is actually a refrigerator that is made to be so cold to cool quantum chips the coldness is effective for creating superposition and then entangling quantum chips the more spins the more memory and more memory means faster computing processes.
