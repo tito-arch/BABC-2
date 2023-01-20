@@ -5,7 +5,7 @@ date = 2023-01-11T22:52:06Z
 description = "Devices that perform quantum computations are known as quantum computers"
 image = ""
 tags = ["Quantum computers", "computers"]
-title = "What is quantum computing"
+title = "Exploring the World of Quantum Computing: A Beginner's Guide"
 [cover]
 alt = ""
 caption = ""
