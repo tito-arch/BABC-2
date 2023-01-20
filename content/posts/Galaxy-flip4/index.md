@@ -32,8 +32,6 @@ Here is what makes the galaxy Z flip4 a phone from the future…
 
 * It’s small,  enough to fit your shirt pocket and disappear.
 
-    {{< video "https://images.samsung.com/is/content/samsung/assets/africa_en/2208/pcd/smartphones/PCD_Combo_KV_Main-KV_1440x640_pc_v1.mp4" "my-5" >}}
-
 **Dimensions**
 
 1. _Folded: 71.9 x 84.9 x 17.1mm, (Hinge) - 15.9mm (Sagging)_
