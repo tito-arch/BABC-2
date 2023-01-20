@@ -9,7 +9,7 @@ title = "What is quantum computing"
 [cover]
 alt = ""
 caption = ""
-image = "/uploads/maxresdefault.jpg"
+image = "/uploads/maxresdefault.webp"
 
 +++
 Before we even dive into this broad topic of quantum computing, I think the best approach would be to answer the most frequently asked questions about quantum computing so that we get a base understanding of quantum computing. so lets get started. this questions I've received more than 10 tens in Quora.
@@ -26,4 +26,4 @@ Now, this is the lowest energy state, so you could call it the zero state, or we
 
 **Are Quantum computers a replacement for classical computers?** 
 
-This is the most asked question about the quantum computer, but I hate to break it to you the answer is **NO.** Since quantum computers are not supercomputers or even universally faster. They are only faster for special types of calculations, which in that case must be complex calculations. But if you just want to use quantum computers to watch a video or browse the internet don't expect to get any kind of improvement in terms of speed you may even be shocked to realize they are even slower at doing normal computing processes. 
+This is the most asked question about the quantum computer, but I hate to break it to you the answer is **NO.** Since quantum computers are not supercomputers or even universally faster. They are only faster for special types of calculations, which in that case must be complex calculations. But if you just want to use quantum computers to watch a video or browse the internet don't expect to get any kind of improvement in terms of speed you may even be shocked to realize they are even slower at doing normal computing processes.
