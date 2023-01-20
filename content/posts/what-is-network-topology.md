@@ -94,7 +94,7 @@ A **_token_** is used to exchange data from one station to another a token can b
 
   ### Mesh topology
 
-  This is the most common type of technology used in a wide-area network where there are many paths between different locations. Devices are connected with many redundant interconnections between the nodes. in a true mesh topology, every node has a connection to every other node in the network. 
+  This is the most common type of technology used in a wide-area network where there are many paths between different locations. Devices are connected with many redundant interconnections between the nodes. in a true mesh topology, every node has a connection to every other node in the network.
 
   ![](/uploads/mesh-topology.png)
 
@@ -136,12 +136,12 @@ A **_token_** is used to exchange data from one station to another a token can b
 
   ![](/uploads/tree.PNG)
 
-  ##### Advantages of hybrid topology
+  ##### Advantages of hybrid topology.
 * Offers the easiest method for error detection and troubleshooting
 * Highly effective and flexible networking topology
 * It is scalable so you can increase your network size
 
-  ##### Disadvantage of hybrid topology
+  ##### Disadvantages of hybrid topology
 * Requires professional management
 * Needs monitoring software
 * Equipment costs are high
