@@ -36,9 +36,9 @@ Tesla is known to make solar panels to harness solar energy no wonder pi phones 
 
 Manufacturer of electric batteries, the same experts who built this technology are the same ones who built the model pi battery. Making one watch movies, watch videos on the internet, and play games comfortably without having to worry about your battery.
 
-By looking at the camera you will notice something is missing! Yes, the fingerprint, unlike other phones' model pi fingerprint, will now be located on the screen itself, and you can barely notice it.
+![](/uploads/6lqzlc344nae7exfqd7yfdvmsa.webp)
 
-yeah, it performs just fine like other physical fingerprints just better this time.
+By looking at the camera you will notice something is missing! Yes, the fingerprint, unlike other phones' model pi fingerprint, will now be located on the screen itself, and you can barely notice it. yeah, it performs just fine like other physical fingerprints just better this time.
 
 ## What will model pi do that other phones can't?
 
@@ -48,8 +48,12 @@ Using the model pi you can use it to store crypto or even transact other busines
 
 live is because since Mars residents will be using the same phone and 'Mars coin' this means that we can do business with people on Mars crazy right!
 
+![](/uploads/mars-coin-640x411.webp)
+
 This phone will also use the Starlink satellites owned by Elon Musk himself. integrating with this new technology means that this phone will have a mind-blowing internet connection even with weak signal strength.
 
 Starlink will also extend its connections to Mars, making sure if you are on Earth or Mars, the experience is the same. The phone will also run neural link technology which is still being developed. With this technology you will be able to control your phone using your mind scientists are still working on this with actually several successes read more[ here](www.blog.bunnieabc.com)
 
 Still, the model pie will integrate with other Tesla products like electric vehicles, home batteries, and even solar panels.
+
+![](/uploads/55ioeldn7opqnj2wpnmd2sugqi.jpg)
