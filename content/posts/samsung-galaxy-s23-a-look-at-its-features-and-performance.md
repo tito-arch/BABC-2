@@ -14,5 +14,3 @@ image = "/uploads/s22-bora-purple_main2.jpg"
 
 +++
 # Epic nights are coming.
-
-[Reserve now!](https://shopsamsung.page.link/HAzA2xPwWFALcJ9r5) we might earn a commission by using this link.
