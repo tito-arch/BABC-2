@@ -28,15 +28,15 @@ Now, this is the lowest energy state, so you could call it the zero state, or we
 
 This is the most asked question about the quantum computer, but I hate to break it to you the answer is **NO.** Since quantum computers are not supercomputers or even universally faster. They are only faster for special types of calculations, which in that case must be complex calculations. But if you just want to use quantum computers to watch a video or browse the internet don't expect to get any kind of improvement in terms of speed you may even be shocked to realize they are even slower at doing normal computing processes.
 
-I think since we are looking at quantum computing it will be wise  as well to know 
+I think since we are looking at quantum computing it will be wise  as well to know
 
 ## What is quantum mechanics?
 
- Well, there are many versions of what **quantum mechanics** is but I'll just tell you my version from what I understand it's a branch of **physics** just like others, which mostly deals with tiny objects which are very isolated and very cold. Computer scientists are using this knowledge in quantum to actually build new computers which actually operate on different kinds of rules than our normal computers e.g. _phones._
+Well, there are many versions of what **quantum mechanics** is but I'll just tell you my version from what I understand it's a branch of **physics** just like others, which mostly deals with tiny objects which are very isolated and very cold. Computer scientists are using this knowledge in quantum to actually build new computers which actually operate on different kinds of rules than our normal computers e.g. _phones._
 
- It's not once or twice that you ran out of phone storage, so this means that normal classical computers have a certain limit of computation power. So quantum computing comes to solve this problem by developing new machinesthat cano adapt as the complexity of our calculations continues to rise.
+It's not once or twice that you ran out of phone storage, so this means that normal classical computers have a certain limit of computation power. So quantum computing comes to solve this problem by developing new machines that can adapt as the complexity of our calculations continues to rise.
 
- What's even more shocking is that quantum computers perform better when the problem at hand is more complex. When this technology is applied at the right places, the end product is just unimaginable. Scientists are still working on perfecting it and as we are talking right now they are real life-applications of quantum mechanics, maybe you are using them without even realizing it. a good and obvious example is **cryptography.**
+What's even more shocking is that quantum computers perform better when the problem at hand is more complex. When this technology is applied at the right places, the end product is just unimaginable. Scientists are still working on perfecting it and as we are talking right now they are real life-applications of quantum mechanics, maybe you are using them without even realizing it. a good and obvious example is **cryptography.**
 
 If you want to read all the use cases and applications of quantum mechanics, read [here](www.blog.bunnieabc.com)
 
@@ -54,7 +54,7 @@ This leads us to the third property of quantum mechanics, which is interference.
 
 Interference is the net effect of the combination of two or more wave trains moving on intersecting or coincident paths. This interference can be used to control quantum states and actually amplify the kind of signals that are towards the right answer and cancel the ones that are leading to the wrong answer.
 
-## How are quantum computers made? 
+## How are quantum computers made?
 
 The first step is that you need to have a physical object and by physical I mean qubits which can actually handle superposition entanglement and interference. Also, you have to remember Not many objects in our real world can be able to be entangled therefore to achieve this quantum state we need things like ions, atoms, and in this case, superconducting qubits which are made from a superconducting material.
 
