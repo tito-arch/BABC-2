@@ -8,9 +8,9 @@ image = ""
 tags = ["Android", "Samsung "]
 title = "Samsung Galaxy S23: A Look at its Features and Performance"
 [cover]
-alt = ""
-caption = ""
-image = ""
+alt = "Samsung Galaxy S23: A Look at its Features and Performance"
+caption = "Image credits: Samsung.com"
+image = "/uploads/s22-bora-purple_main2.jpg"
 
 +++
 # Epic nights are coming.
