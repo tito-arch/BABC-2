@@ -18,7 +18,7 @@ Last year Microsoft introduced the Windows update for version 22H2, which came w
 
 This is frustrating because, to be honest, I want to sign in with or without an internet connection. And yes, I am not saying that I don't have a Microsoft account nor am I saying that online accounts are bad, no, but the only thing against me is this limitation to only sign in with an online account.
 
-This is more frustrating for new Microsoft users since this will now be the default way to use Windows 11. But still, there is a work for the method that you can use, but many don't know this so if you are reading this consider yourself lucky. if you want to skip this option, open the command prompt, and type a special command which I will provide to everyone who reads until the end. It's only after typing this command that you will be given the option to set up your pc with an offline account.
+This is more frustrating for new Microsoft users since this will now be the default way to use Windows 11. But still, there is a work around for the method that you can use, but many don't know this so if you are reading this consider yourself lucky. if you want to skip this option, open the command prompt, and type a special command which I will provide to everyone who reads until the end. It's only after typing this command that you will be given the option to set up your pc with an offline account.
 
 But the fact that you must do this in the first place is just frustrating. This is a new strategy that Microsoft is using since out of all the platforms to start with Chrome web browser allows one to sign in without a Google account in guest mode.
 
