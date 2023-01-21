@@ -4,7 +4,7 @@ categories = ["Device review"]
 date = 2023-01-15T11:31:57Z
 description = " The Future of Phones is Here: Introducing Tesla's Model Pi"
 image = ""
-tags = ["Tesla", "Android"]
+tags = ["Elon Musk", "Tesla"]
 title = "Tesla's Rumoured New 'MODEL Pi' smartphone designed to work on mars"
 [cover]
 alt = ""
