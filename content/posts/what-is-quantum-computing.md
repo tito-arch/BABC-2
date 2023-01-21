@@ -44,7 +44,7 @@ By now you have a little clue about what quantum mechanics is, so dive a little 
 
 ## What is superposition?
 
-The ability of a quantum system to be in multiple states at the same time until it is measured. A good real-life example is a spinning coin when the coin is rotating we can't actually state if the side facing us is either heads or tails that's obvious because it's spinning now which leads us to entanglement from the word itself it means something joined or intertwined. The same applies to quantum computing.
+The ability of a quantum system to be in multiple states at the same time until it is measured. A good real-life example is a spinning coin when the coin is rotating we can't actually state if the side facing us is either heads or tails that's obvious because it's spinning now this leads us to entanglement from the word itself it means something joined or intertwined. The same applies to quantum computing.
 
 If two entangled pennies are spun they are obviously going to rotate in the same direction and if they were to be stopped they will stop on one side either tails or heads. So by using a **dilution refrigerator** which is actually a refrigerator that is made to be so cold to cool quantum chips, the coldness is effective for creating superposition and then entangling quantum chips the more spins the more memory and more memory means faster computing processes.
 
