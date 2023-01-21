@@ -14,7 +14,7 @@ image = "/uploads/tesla-model-pi.webp"
 +++
 Every year there is a new brand-new phone from the large companies **Huawei**, **Apple,** and  **Samsung** which have something in common. When it comes to improving their products, they only modify one feature, let's say the camera or even the storage capacity or the cover, but we don't get new features at all.
 
-It's the same every time except for some nice user experience improvements actually if you buy a new phone before you even open it you actually know what is inside it and even what to expect I don't know if it's me alone with high expectations which make me accept something new something from the future something no one has ever seen.
+It's the same every time except for some nice user experience improvements actually if you buy a new phone before you even open it you actually know what is inside it and even what to expect I don't know if it's me alone with high expectations which make me except something new like something from the future something no one has ever seen.
 
 But this is excepted to change with an announcement from **Elon Musk** that a new phone model **_(model pi)_** will be with us soon. This shakes the whole phone industry because as we know When it comes to electric cars, **Tesla** is known to produce the most quality and affordable electric cars.
 
@@ -34,15 +34,15 @@ I also happened to notice the four cameras at the back which are arranged in a n
 
 Tesla is known to make solar panels to harness solar energy no wonder pi phones come with a small solar panel that you can connect if you don't have electricity near you. We also know Tesla has been the leading
 
-Manufacturer of electric batteries, the same experts who built this technology are the same ones who built the model pi battery. Making one watch movies, watch videos on the internet, and play games comfortably without having to worry about your battery.
+Manufacturer of electric batteries, the same experts who built this technology are the same ones who built the model pi battery. enabling one to watch movies, watch videos on the internet, and play games comfortably without having to worry about your battery.
 
 ![](/uploads/6lqzlc344nae7exfqd7yfdvmsa.webp)
 
-By looking at the camera you will notice something is missing! Yes, the fingerprint, unlike other phones' model pi fingerprint, will now be located on the screen itself, and you can barely notice it. yeah, it performs just fine like other physical fingerprints just better this time.
+By looking at the back you will notice something is missing! Yes, the fingerprint, unlike other phones' model pi fingerprint, will now be located on the screen itself, and you can barely notice it. yeah, it performs just fine like other physical fingerprints just better this time.
 
 ## What will model pi do that other phones can't?
 
-Well, thanks to the new chip that Tesla has put you will be able to know my crypto using just your phone. and not just the crypto we know as 'Mars coin' which will be made specifically for Mars citizens.
+Well, thanks to the new chip that Tesla has put you will be able to now my crypto using just your phone. and not just the crypto we know as 'Mars coin' which will be made specifically for Mars citizens.
 
 Using the model pi you can use it to store crypto or even transact other business which in the long run means you have your bank or atm with you. The reason I said this phone is going to revolutionize the world and how we
 
