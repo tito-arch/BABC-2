@@ -42,7 +42,7 @@ By looking at the back you will notice something is missing! Yes, the fingerprin
 
 ## What will model pi do that other phones can't?
 
-Well, thanks to the new chip that Tesla has put you will be able to now my crypto using just your phone. and not just the crypto we know as 'Mars coin' which will be made specifically for Mars citizens.
+Well, thanks to the new chip that Tesla has put you will be able to now mine crypto using just your phone. and not just the crypto we know this time it will be called 'Mars coin' which will be made specifically for Mars citizens.
 
 Using the model pi you can use it to store crypto or even transact other business which in the long run means you have your bank or atm with you. The reason I said this phone is going to revolutionize the world and how we
 
@@ -50,9 +50,9 @@ live is because since Mars residents will be using the same phone and 'Mars coin
 
 ![](/uploads/mars-coin-640x411.webp)
 
-This phone will also use the Starlink satellites owned by Elon Musk himself. integrating with this new technology means that this phone will have a mind-blowing internet connection even with weak signal strength.
+This phone will also use the Starlink satellites owned by Elon Musk himself. integrating with this new technology means that this phone will have a mind-blowing internet connection even with weak signal strength you can still access the internet or make calls.
 
-Starlink will also extend its connections to Mars, making sure if you are on Earth or Mars, the experience is the same. The phone will also run neural link technology which is still being developed. With this technology you will be able to control your phone using your mind scientists are still working on this with actually several successes read more[ here](www.blog.bunnieabc.com)
+Starlink will also extend its connections to Mars, making sure if you are on Earth or Mars, the experience is the same. The phone will also run neural link technology which is still being developed. With this technology you will be able to control your phone using your mind. scientists are still working on this with actually several successes read more[ here](www.blog.bunnieabc.com)
 
 Still, the model pie will integrate with other Tesla products like electric vehicles, home batteries, and even solar panels.
 
