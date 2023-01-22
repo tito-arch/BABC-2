@@ -56,3 +56,16 @@ They'll love you for it.
 ## The Final Score
 
 Firstly, remind your reader (once again) of your years of experience in this area and what makes you the perfect person to give a final evaluation. It's not required for every review, but a rating definitely helps. Sum up your thoughts and opinions on the product with a rating. 5 out of 5 stars? 1 out of 2 thumbs? Let people know what you think.
+
+A device review blog post can have the following subheadings:
+
+ 1. Introduction - This section should provide an overview of the device and what it offers.
+ 2. Design and Build - This section should cover the physical design and build quality of the device.
+ 3. Display - This section should cover the quality and resolution of the device's display.
+ 4. Camera - This section should cover the quality and features of the device's camera(s).
+ 5. Performance - This section should cover the device's performance, including its processor, RAM, and storage.
+ 6. Battery Life - This section should cover the device's battery life and how long it lasts on a single charge.
+ 7. Software - This section should cover the device's operating system and any pre-installed apps.
+ 8. Connectivity - This section should cover the device's connectivity options, such as Wi-Fi, Bluetooth, and cellular.
+ 9. Additional Features - This section should cover any additional features the device offers, such as water resistance, fingerprint sensor, etc.
+10. Conclusion - This section should summarize the device's strengths and weaknesses and provide a final verdict on whether or not to recommend it.
