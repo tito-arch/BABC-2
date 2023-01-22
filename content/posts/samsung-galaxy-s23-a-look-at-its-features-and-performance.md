@@ -9,7 +9,7 @@ tags = ["Android", "Samsung "]
 title = "Samsung Galaxy S23: A Look at its Features and Performance"
 [cover]
 alt = "Samsung Galaxy S23: A Look at its Features and Performance"
-caption = "Image credits: Samsung.com"
+caption = "Image credits: Youtube | 4RMD"
 image = "/uploads/s23desing.webp"
 
 +++
