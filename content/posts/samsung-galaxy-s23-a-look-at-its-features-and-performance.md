@@ -10,15 +10,21 @@ title = "Samsung Galaxy S23: A Look at its Features and Performance"
 [cover]
 alt = "Samsung Galaxy S23: A Look at its Features and Performance"
 caption = "Image credits: Samsung.com"
-image = "/uploads/s22-bora-purple_main2.jpg"
+image = "/uploads/s23desing.webp"
 
 +++
 # Price & availability.
 
 The s23, plus, and ultra are expected to cost **$799,$1000, and 1250** respectively. According to [Ross Young's leak, ](https://twitter.com/DSCCRoss/status/1578078242531164165?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1578079110047232000%7Ctwgr%5E5fca590040514eb746e5aaf5f5b02dcbde739f3f%7Ctwcon%5Es2_&ref_url=https%3A%2F%2Fwww.techradar.com%2Fnews%2Fthe-samsung-galaxy-s23-could-appear-in-these-four-color-options) they will be available in **Beige, Black Green, and Light Pink** colors.
 
-The release date is on February **1, 2023, at 20:00 PM CAT**  on the Samsung website. ![](/uploads/s23release.webp)
+The release date is on February **1, 2023, at 20:00 PM CAT**  on the Samsung website. ![Samsung Galaxy S23: A Look at its Features and Performance](/uploads/s23release.webp "Image credits: Samsung.com")
 
-# Epic nights are coming.
+## All things design and Build.
+
+The phone has slightly curved edges just like other [Samsung phones]() but you will notice that the cameras no longer have the island like the s21. It has more of an ultra design. There is not much information about the design yet.
+
+![Samsung Galaxy S23: A Look at its Features and Performance](/uploads/s22-bora-purple_main2.jpg "Image credits: Samsung.com")
+
+## Epic nights are coming.
 
 The Samsung Galaxy s23 is expected to be released on Feb 1, 2023.
