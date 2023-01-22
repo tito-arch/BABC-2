@@ -14,6 +14,6 @@ image = ""
 +++
 # Epic nights are coming.
 
-{{< tweet user**=**"SanDiegoZoo" id**=**"1453110110599868418" >}}
+
 
 [Reserve now!](https://shopsamsung.page.link/HAzA2xPwWFALcJ9r5) we might earn a commission by using this link.
