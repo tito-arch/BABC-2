@@ -20,7 +20,7 @@ Moore's Law is a prediction made by **Gordon Moore**, the co-founder of Intel, i
 
 Apple has recently released its latest MacBook, an epic next-generation creation featuring 96 Gigs of RAM. Normally computers with this high capability are not available to the public as they are super expensive. They were only used for memory-intensive tasks like video editing, 3D rendering, and scientific simulations: you can now experience this type of high-end "desktop" on your lap. And with power comes 22 hours of battery life, the longest a Mac has ever seen.
 
-* From $166.58/mo. for 12 mo. or $1999[**](https://www.apple.com/macbook-pro-14-and-16/#footnote-2)
+* From $166.58/mo. for 12 mo. or $1999
 * 14.2-inch or 16.2-inch  
   Liquid Retina XDR display
 * Apple M2 Pro  
