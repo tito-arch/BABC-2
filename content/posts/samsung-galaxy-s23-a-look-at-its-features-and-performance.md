@@ -20,7 +20,7 @@ The release date is on February **1, 2023, at 20:00 PM CAT**  on the Samsung web
 
 ## All things design and Build.
 
-The phone has slightly curved edges just like other [Samsung phones]() but you will notice that the cameras no longer have the camera's island like the s21. It has more of an ultra design with standalone cameras. There is not much information about the design yet.
+The phone has slightly curved edges just like other [Samsung phones](https://blog.bunnieabc.com/posts/galaxy-flip4/) but you will notice that the cameras no longer have the camera's island like the s21. It has more of an ultra design with standalone cameras. There is not much information about the design yet.
 
 ![Samsung Galaxy S23: A Look at its Features and Performance](/uploads/s22-bora-purple_main2.jpg "Image credits: Samsung.com")
 
