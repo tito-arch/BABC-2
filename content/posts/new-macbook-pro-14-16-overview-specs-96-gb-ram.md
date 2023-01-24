@@ -30,7 +30,7 @@ Apple has recently released its latest MacBook, an epic next-generation creation
 * Up to 22 hours of battery life
 * Touch ID
 
-                               [**Buy**](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch)
+   [**Buy**](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch)
 
 ![](/uploads/screenshot-from-2023-01-24-23-09-09.png)
 
