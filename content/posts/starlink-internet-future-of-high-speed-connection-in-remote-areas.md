@@ -8,8 +8,8 @@ image = ""
 tags = ["starlink", "space x"]
 title = "Starlink Internet: Future of High-Speed Connection in remote Areas"
 [cover]
-alt = ""
-caption = ""
-image = ""
+alt = "Starlink Internet: Future of High-Speed Connection in remote Areas"
+caption = "image credits: Starlink.com"
+image = "/uploads/image.webp"
 
 +++
