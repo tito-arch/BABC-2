@@ -45,3 +45,5 @@ For the first time the snapdragon chip ships globally, normally it doesn't since
 S23 and s23+ will have 8GB RAM and 128GB+ total storage capacity for the Ultra two RAM options of 8GB or 12GB  and 256GB, 512GB, or 1TB of total storage
 
 ## Epic nights are coming...
+
+{{< youtube XSC-ZqgsLXM >}}
