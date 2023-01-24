@@ -13,8 +13,43 @@ caption = "Image credits: Apple.com"
 image = "/uploads/macbookpro.jpg"
 
 +++
-## The Moore's Law:
+# The Moore's Law:
 
 Moore's Law is a prediction made by **Gordon Moore**, the co-founder of Intel, in 1965 **_that the number of transistors on a microchip would double approximately every 18-24 months,_** this period is approximately 2 years. This prediction has been observed to hold true over the years, leading to a rapid increase in the power and efficiency of computer processors. In real life, this same law is seen in the formation of a baby. In 9 months two small cells combine to form billions of complex cells to form a human baby, they keep doubling each month as the baby grows. **Evolution.**
 
-Apple has recently released its latest MacBook, an epic next-generation creation featuring 96 Gigs of RAM. Normally computers with this high capability are not available to the public as they are super expensive. They were only used for memory-intensive tasks like video editing, 3D rendering, and scientific simulations: you can now experience this type of high-end desktop on your lap.
+## 6x faster than the Intel-based Macbook
+
+Apple has recently released its latest MacBook, an epic next-generation creation featuring 96 Gigs of RAM. Normally computers with this high capability are not available to the public as they are super expensive. They were only used for memory-intensive tasks like video editing, 3D rendering, and scientific simulations: you can now experience this type of high-end "desktop" on your lap. And with power comes 22 hours of battery life, the longest a Mac has ever seen.
+
+![](/uploads/screenshot-from-2023-01-24-23-09-09.png)
+
+                                         M2 Pro | M2 Max
+
+***
+
+**M2 Pro: Performance like never before.**
+
+Packed with more than 40 billion transistors on a fingertip.
+
+![M2 Pro chip](https://www.apple.com/v/macbook-pro-14-and-16/d/images/overview/modal/m2_pro_memory__ey38zvrqkfiq_large.jpg)
+
+* 12-core CPU
+* 19-core GPU
+* 32GB unified memory
+* 200GB Memory bandwidth
+
+ **M2 Max: Go even further.**
+
+![M2 Max chip](https://www.apple.com/v/macbook-pro-14-and-16/d/images/overview/modal/m2_max_memory__bleficjb6rma_large.jpg)
+
+Twice the memory bandwidth of the M2 and over 67 billion transistors.
+
+* 12-core CPU
+* 38-core GPU
+* 400GB Memory bandwidth
+
+### No fan.
+
+### No noise.
+
+### Just AIR
