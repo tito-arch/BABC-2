@@ -28,6 +28,8 @@ The phone has slightly curved edges just like other [Samsung phones](https://blo
 
 The Samsung s23, S23 Plus, and s23 Ultra might have a 6.1-inch display, and a 6.6-inch display respectively both 1080p OLED displays and 120Hz refresh rate, the ultra gets away with a 6.8-inch display and a 1440p OLED display with a 120Hz refresh rate.
 
+As if that is not enough, Qualcomm's ultrasonic under-display fingerprint sensor.
+
 ## Camera & Performance
 
 ### Camera:
