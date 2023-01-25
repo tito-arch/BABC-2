@@ -37,8 +37,14 @@ Round-trip time (RTT) is the total time it takes for a packet of data to travel 
 
 Starlink satellites are launched into outer space by SpaceX rockets, and there has been a need to send more of them leading to the development of the starship that can carry a payload of 400 compared to the 60 Starlink satellites Falcon 9 can deploy once (currently). 
 
-A possible 40,000 will be deployed to cover the earth. It will require about 100 Starship launches to satisfy the earth. It is important that they are regularly serviced & tracked while in space and are burnt when they can't work anymore to reduce space trash. Imagine thousands of bodies over our heads, this would cause shadows -A disadvantage of launching objects to space.
+A possible 40,000 will be deployed to cover the earth. It will require about 100 Starship launches to satisfy the earth. It is important that they are regularly serviced & tracked while in space and are burnt when they can't work anymore to reduce space trash. Imagine thousands of bodies over our heads, this would cause shadows -A disadvantage of launching objects into space.
 
 ### See how the satellites get into their final operational orbits
 
 {{< youtube VIQr1UyhwWk >}}
+
+Starlink offers speeds of up to 50-500 mb/s ranging from $110 to $500 uncapped internet. 
+
+This technology will now be available in Kenya in a few months. [Order now](https://www.starlink.com/deposit/?invitationCode=bac3f2cb-d738-4c02-8810-d92e7faf45d5&processorToken=850570f5-68dc-4137-8e51-43d76401e8f8)
+
+![](/uploads/screenshot-from-2023-01-25-20-39-49.png)
