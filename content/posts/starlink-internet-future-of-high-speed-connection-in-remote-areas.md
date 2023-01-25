@@ -17,4 +17,16 @@ Founded by SpaceX founders Elon & Kimbal Musk and Gwynne Shotwell -(chief and op
 
 ## Satellite Internet What is It? 
 
-Starlink is a concentration of thousands of satellites orbiting Low Earth Orbit (LEO) -much closer to earth at about 550km all over the earth. As of now Jan 25, there are about 4,000 Starlink satellites orbiting the earth at a speed of about 17,500 miles per hour (28,000 km/h). Traditionally geostationary satellites 
+Starlink is a concentration of thousands of satellites orbiting Low Earth Orbit (LEO) -much closer to earth, at about 550km all over the earth. As of now Jan 25, 2023, there are about 4,000 Starlink satellites orbiting the earth at a speed of about 17,500 miles per hour (28,000 km/h). Traditionally geostationary satellites were the technology that existed, Starlink could be considered as their advancement. They have (they still exist) big dishes to receive data with a diameter of about 9 meters and the smallest up to 3 meters compared to Starlink's portable pizza-sized dishes.
+
+Geostationary satellites had high latency (the time it takes to send and receive a signal) causing long loading times, lags, and other issues. 
+
+![](/uploads/screenshot-from-2023-01-25-09-59-13.png)
+
+As illustrated, a Starlink satellite makes 70 roundtrips while a Geostationary satellite makes a single roundtrip at the same time making it 70 times slower, Easy!
+
+### Latency vs Roundtrip (RTT)
+
+Round-trip time (RTT) is the total time it takes for a packet of data to travel from its source to its destination and back, while Latency is the time it takes for the data to travel from its source to its destination.
+
+ 
