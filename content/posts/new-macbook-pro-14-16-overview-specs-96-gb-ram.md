@@ -30,7 +30,7 @@ Apple has recently released its latest MacBook, an epic next-generation creation
 * Up to 22 hours of battery life
 * Touch ID
 
-   [**Buy**](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch)
+  [**Buy**](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch)
 
 ![](/uploads/screenshot-from-2023-01-24-23-09-09.png)
 
@@ -51,9 +51,9 @@ Packed with more than 40 billion transistors on a fingertip.
 
 **M2 Max: Go even further.**
 
-![M2 Max chip](https://www.apple.com/v/macbook-pro-14-and-16/d/images/overview/modal/m2_max_memory__bleficjb6rma_large.jpg)
-
 Twice the memory bandwidth of the M2 and over 67 billion transistors.
+
+![M2 Max chip](https://www.apple.com/v/macbook-pro-14-and-16/d/images/overview/modal/m2_max_memory__bleficjb6rma_large.jpg)
 
 * 12-core CPU
 * 38-core GPU
