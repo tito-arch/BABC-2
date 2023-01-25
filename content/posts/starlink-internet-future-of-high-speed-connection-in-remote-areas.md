@@ -15,11 +15,15 @@ image = "/uploads/image.webp"
 +++
 Founded by SpaceX founders Elon & Kimbal Musk and Gwynne Shotwell -(chief and operating officer at SpaceX), Starlink Internet is engineered and maintained by the Aerospace company Space Explorations Technologies Incorporation. Starlink Internet is a division of SpaceX, the first to launch a rocket into low earth orbit and recover the booster for reusing. The main goal of starting SpaceX was to make space travel cheaper. Having achieved this was the most appropriate company to send thousands of satellites to orbit to provide cheap, uncensored satellite internet.
 
-## Satellite Internet What is It? 
+## Satellite Internet What is It?
 
-Starlink is a concentration of thousands of satellites orbiting Low Earth Orbit (LEO) -much closer to earth, at about 550km all over the earth. As of now Jan 25, 2023, there are about 4,000 Starlink satellites orbiting the earth at a speed of about 17,500 miles per hour (28,000 km/h). Traditionally geostationary satellites were the technology that existed, Starlink could be considered as their advancement. They have (they still exist) big dishes to receive data with a diameter of about 9 meters and the smallest up to 3 meters compared to Starlink's portable pizza-sized dishes.
+Starlink is a concentration of thousands of satellites orbiting Low Earth Orbit (LEO) -much closer to earth, at about 550km all over the earth. As of now Jan 25, 2023, there are about 4,000 Starlink satellites orbiting the earth at a speed of about 17,500 miles per hour (28,000 km/h).
 
-Geostationary satellites had high latency (the time it takes to send and receive a signal) causing long loading times, lags, and other issues. 
+Traditionally geostationary satellites were the technology that existed, Starlink could be considered as their advancement. They have (they still exist) big dishes to receive data with a diameter of about 9 meters and the smallest up to 3 meters compared to Starlink's portable pizza-sized dishes.
+
+Geostationary/geosynchronous satellites are where a satellite remains in a fixed position relative to a point on the Earth's surface. They may seem stationary but are actually moving at the same speed as the Earth.
+
+Geostationary satellites had high latency (the time it takes to send and receive a signal) causing long loading times, lags, and other issues.
 
 ![](/uploads/screenshot-from-2023-01-25-09-59-13.png)
 
@@ -29,4 +33,8 @@ As illustrated, a Starlink satellite makes 70 roundtrips while a Geostationary s
 
 Round-trip time (RTT) is the total time it takes for a packet of data to travel from its source to its destination and back, while Latency is the time it takes for the data to travel from its source to its destination.
 
- 
+## How does it work?
+
+Starlink satellites are launched into outer space by SpaceX rockets, and there has been a need to send more of them leading to the development of the starship that can carry a payload of 400 compared to the 60 Starlink satellites Falcon 9 can deploy (currently). A possible 40,000 will be deployed to cover the earth. It will require about 100 Starship launches to satisfy the earth.
+
+{{< youtube VIQr1UyhwWk >}}
