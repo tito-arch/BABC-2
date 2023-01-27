@@ -3,6 +3,7 @@ author = "M.I.Titus"
 categories = ["Cryptocurrencies"]
 date = 2023-01-27T05:32:05Z
 description = "Solana is a high-performance blockchain platform that aims to provide fast and low-cost transactions for decentralized applications."
+draft = true
 image = ""
 tags = ["Web3", "Solana", "Sol"]
 title = "Unlocking the Power of Solana Token: A Must-Read for Investors"
@@ -22,4 +23,4 @@ Solana was created in 2017 by [Anatoly Yakovenko](https://www.crunchbase.com/per
 
 Solana uses the Proof of History (PoH) consensus algorithm to secure its network. Unlike [Proof of Work and Proof of Stake](https://blog.bunnieabc.com/posts/the-great-etherum-merge/#proof-of-work-vs-proof-of-stake), this way of verifying transactions neither requires high computational power nor high stake like 32 ETH in the case of Ethereum. It just makes a short statement on the state of the blockchain and sends it to all participating and new nodes (computers).
 
-{{<youtube rywOYfGu4EA&t=71s>}}
+{{< youtube rywOYfGu4EA&t >}}
