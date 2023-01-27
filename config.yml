@@ -24,6 +24,7 @@ Params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   showShareButtons: true
+  ShowPostNavLinks: true
   
 
  
