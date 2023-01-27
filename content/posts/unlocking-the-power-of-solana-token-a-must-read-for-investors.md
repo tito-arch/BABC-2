@@ -18,7 +18,7 @@ A blockchain platform is used to deploy Decentralized Apps (Dapps) that run on t
 
 **_uh-oh!_ Still didn't get it?**
 
-Look at it this way, blockchain platforms, and an apps store like Google & App store have some similarities.
+Look at it this way, blockchain platforms, and an apps store like GooglePlay & App store have some similarities.
 
 _They provide a marketplace for people to discover apps_ but blockchain platforms rely on decentralized and use consensus mechanisms to verify transactions and data and are uncensored by a single entity like Google or Apple.
 
