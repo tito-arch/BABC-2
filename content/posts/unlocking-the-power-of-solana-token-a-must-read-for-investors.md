@@ -22,3 +22,5 @@ Solana was created in 2017 by [Anatoly Yakovenko](https://www.crunchbase.com/per
 ## Solana's Consensus Algorithm.
 
 Solana uses the Proof of History (PoH) consensus algorithm to secure its network. Unlike [Proof of Work and Proof of Stake](https://blog.bunnieabc.com/posts/the-great-etherum-merge/#proof-of-work-vs-proof-of-stake), this way of verifying transactions neither requires high computational power nor high stake like 32 ETH in the case of Ethereum. It just makes a short statement on the state of the blockchain and sends it to all participating and new nodes (computers).
+
+{{<youtube rywOYfGu4EA&t=71s>}}
