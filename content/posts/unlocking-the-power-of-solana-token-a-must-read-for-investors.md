@@ -22,7 +22,7 @@ Look at it this way, blockchain platforms, and an apps store like GooglePlay & A
 
 _They provide a marketplace for people to discover apps:_ but, blockchain platforms rely on decentralized and use consensus mechanisms to verify transactions and data and are uncensored by a single entity like Google or Apple.
 
-Solana was created in 2017 by [Anatoly Yakovenko](https://www.crunchbase.com/person/anatoly-yakovenko) a Russian-born entrepreneur to satisfy all three desirable properties of a proper blockchain:  scalable, secure, and decentralized, since it's so fast (able to handle 710,000 per second not exceeding 176 bytes) and has lower gas fees than Ethereum has led many to dub it an "Ethereum killer". Like ETH, Solana has smart contracts (self-executing code that automatically carries out the terms of an agreement having met certain conditions).
+Solana was created in 2017 by [Anatoly Yakovenko](https://www.crunchbase.com/person/anatoly-yakovenko) a Russian-born entrepreneur to satisfy all three desirable properties of a proper blockchain:  scalable, secure, and decentralized, since it's so fast (able to handle 710,000 transactions per second not exceeding 176 bytes) and has lower gas fees than Ethereum has led many to dub it an "Ethereum killer". Like ETH, Solana has smart contracts (self-executing code that automatically carries out the terms of an agreement having met certain conditions).
 
 ## Solana's Consensus Algorithm.
 
