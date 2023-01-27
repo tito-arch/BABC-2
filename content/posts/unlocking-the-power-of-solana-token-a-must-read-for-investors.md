@@ -26,9 +26,9 @@ _They provide a marketplace for people to discover apps:_ but, blockchain platfo
 
 ## Solana's Consensus Algorithm.
 
-Solana uses the Proof of History (PoH) consensus algorithm to secure its network. Unlike [Proof of Work and Proof of Stake](https://blog.bunnieabc.com/posts/the-great-etherum-merge/#proof-of-work-vs-proof-of-stake), this way of verifying transactions neither requires high computational power nor high stake like 32 ETH in the case of Ethereum. It just makes a short statement on the state of the blockchain and sends it to all participating and new nodes (nodes in a blockchain mean computers).
+Solana uses the [Proof of History (PoH)](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274) consensus algorithm to secure its network. Unlike [Proof of Work and Proof of Stake](https://blog.bunnieabc.com/posts/the-great-etherum-merge/#proof-of-work-vs-proof-of-stake), this way of verifying transactions neither requires high computational power nor high stake like 32 ETH in the case of Ethereum. It just makes a short statement on the state of the blockchain and sends it to all participating and new nodes (nodes in a blockchain mean computers).
 
-Traditionally, blockchains compute transactions one at a time to avoid conflicts. Unlike the Ethereum Virtual Machine and the EOS Web Assembly (WASM), Solana runs multiple transactions in parallel powered by Sealevel, (the world's first parallel smart contracts run-time)
+Traditionally, blockchains compute transactions one at a time to avoid conflicts. Unlike the Ethereum Virtual Machine and the EOS Web Assembly (WASM), Solana runs multiple transactions in parallel powered by [Sealevel — Parallel Processing Thousands of Smart Contracts](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192), (the world's first parallel smart contracts run-time)
 
 ## The State of Solana.
 
