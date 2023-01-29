@@ -9,7 +9,7 @@ title = "Computer Logic Fundamentals: Gates, Chips, Logic Elements & More"
 [cover]
 alt = "picture of logic gates"
 caption = "Everything you need to know about computer logic"
-image = "/uploads/d.PNG"
+image = "/uploads/jl16e.jpg"
 
 +++
 # Everything you need to know about computer logic
