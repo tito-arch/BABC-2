@@ -7,8 +7,8 @@ image = ""
 tags = ["EX-OR gate", "NAND gate", "OR gate", "AND gate", "NOT gate"]
 title = "Computer Logic Fundamentals: Gates, Chips, Logic Elements & More"
 [cover]
-alt = "picture of logic gates"
-caption = "Everything you need to know about computer logic"
+alt = "Computer Logic Fundamentals: Gates, Chips, Logic Elements & More"
+caption = "image credits: Intel"
 image = "/uploads/jl16e.jpg"
 
 +++
