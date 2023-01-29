@@ -12,7 +12,7 @@ caption = ""
 image = "/uploads/maxresdefault.webp"
 
 +++
-Before we even dive into this broad topic of quantum computing, I think the best approach would be to answer the most frequently asked questions about quantum computing so that we get a base understanding of quantum computing. so let's get started. this questions I've received more than 10 tens in Quora.
+Before we even dive into this broad topic of quantum computing, I think the best approach would be to answer the most frequently asked questions about quantum computing so that we get a base understanding of quantum computing. So let's get started. this questions I've received more than 10 tens in Quora.
 
 ### **What is the difference between Quantum computers and other classical computers?**
 
@@ -36,7 +36,7 @@ Well, there are many versions of what **quantum mechanics** is but I'll just tel
 
 It's not once or twice that you ran out of phone storage, so this means that normal classical computers have a certain limit of computation power. So quantum computing comes to solve this problem by developing new machines that can adapt as the complexity of our calculations continues to rise.
 
-What's even more shocking is that quantum computers perform better when the problem at hand is more complex. When this technology is applied at the right places, the end product is just unimaginable. Scientists are still working on perfecting it and as we are talking right now they are real life-applications of quantum mechanics, maybe you are using them without even realizing it. a good and obvious example is **cryptography.**
+What's even more shocking is that quantum computers perform better when the problem at hand is more complex. When this technology is applied at the right places, the end product is just unimaginable. Scientists are still working on perfecting it and as we are talking right now they are real life-applications of quantum mechanics, maybe you are using them without even realizing it. A good and obvious example is **cryptography.**
 
 If you want to read all the use cases and applications of quantum mechanics, read [here](www.blog.bunnieabc.com)
 
@@ -44,7 +44,7 @@ By now you have a little clue about what quantum mechanics is, so dive a little 
 
 ## What is superposition?
 
-The ability of a quantum system to be in multiple states at the same time until it is measured. A good real-life example is a spinning coin when the coin is rotating we can't actually state if the side facing us is either heads or tails that's obvious because it's spinning now this leads us to entanglement from the word itself it means something joined or intertwined. The same applies to quantum computing.
+The ability of a quantum system to be in multiple states at the same time until it is measured. A good real-life example is a spinning coin when the coin is rotating we can't actually state if the side facing us is either heads or tails that's obvious because it's spinning now which leads us to entanglement from the word itself it means something joined or intertwined. The same applies to quantum computing.
 
 If two entangled pennies are spun they are obviously going to rotate in the same direction and if they were to be stopped they will stop on one side either tails or heads. So by using a **dilution refrigerator** which is actually a refrigerator that is made to be so cold to cool quantum chips, the coldness is effective for creating superposition and then entangling quantum chips the more spins the more memory and more memory means faster computing processes.
 
@@ -56,6 +56,6 @@ Interference is the net effect of the combination of two or more wave trains mov
 
 ## How are quantum computers made?
 
-The first step is that you need to have a physical object and by physical I mean qubits which can actually handle superposition entanglement and interference. Also, you have to remember Not many objects in our real world can be able to be entangled therefore to achieve this quantum state we need things like ions, atoms, and in this case, superconducting qubits which are made from a superconducting material.
+The first step is that you need to have a physical object and by physical I mean qubits which can actually handle superposition entanglement and interference. Also, you have to remember Not many objects in our real world can be able to be entangled therefore to achieve this quantum state we need things like ions, atoms, and in this case, superconducting qubits which are made from superconducting material.
 
 Overall this process to make quantum computers is actually very expensive and needs to be done by experts in this field, but research is still ongoing on how these computers are going to be accessible to anyone in the world even at your office or even in your basement. Actually, a quantum model which is run in the cloud is accessible so that people can go try it for themselves and unlock the supercomputing power of this machine.
