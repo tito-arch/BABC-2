@@ -44,7 +44,7 @@ As much as you would love to hear me say yes blockchain is bitcoin, the answer i
 
 ![](/uploads/bitcoin-blockchain-security-concept-internet-cloud-computing-record-highs-bitcoin-blockchain-security-concept-103397943.jpg)
 
-Many say that bitcoin is used to do illegal businesses, but that is a big misconception. Bitcoin is the most popular cryptocurrency at the time of writing this blog and is mostly used to trade. across the internet and even in other areas, even banks, this is because it's simple and ideal and the best part is that its value keeps rising up and if you are an investor bitcoin is something you should look at.
+Many say that bitcoin is used to do illegal businesses, but that is a big misconception. Bitcoin is the most popular cryptocurrency at the time of writing this blog and is mostly used to trade. across the internet and even in other areas, even banks, this is because it's simple and ideal and the best part is that its value keeps rising up and if you are an investor bitcoin is something you should look at. if you are interested to know more about bitcoin and other trade tokens read [here.](https://z6rfaq36-lcvlg.instant.forestry.io/posts/the-future-of-trade-understanding-blockchain-technology/)
 
 ## Is bitcoin the future?
 
