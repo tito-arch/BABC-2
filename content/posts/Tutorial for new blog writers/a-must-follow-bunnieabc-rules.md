@@ -24,6 +24,7 @@ image = "/uploads/360_f_321897961_zquh4dfwpmgamvfkd4tp4ms9lwfvqxhq.webp"
     [plagiarism checker ](https://www.check-plagiarism.com/)
  6. For correct pronunciation and spelling, install the Grammarly extension or log in to their website.[ this is the website](https://www.grammarly.com/)
  7. Make sure all stock images you choose do not have a label or a brand stamp on them. You can use [Pexel ](https://www.pexels.com/)or [Unsplash ](https://unsplash.com/)for free images.
+    * an example of the stamped image
  8. Make sure your article is **SEO** friendly by making sure you use keywords. "still don't know what keywords are read"[ here ]()
  9. People you should follow for inspiration who are great successful bloggers.
     * [H-educate](https://h-educate.com/)
