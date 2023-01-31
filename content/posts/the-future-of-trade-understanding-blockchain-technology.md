@@ -20,7 +20,7 @@ After having the same problem for a while, another friend introduced me to the *
 
 ## what is blockchain?
 
-Blockchain technology is just the same as the one I mentioned before but instead of having that middle friend to connect you will be the buyer, This time now you are granted the power to connect directly without having any middlemen.
+Blockchain technology is just the same as the one I mentioned before but instead of having that middle friend to connect you with be the buyer, This time now you are granted the power to connect directly without having any middlemen.
 
 ![](/uploads/concept-closure-protection-technology-blockchain-encryption-internet-traffic-101126214.jpg)
 
