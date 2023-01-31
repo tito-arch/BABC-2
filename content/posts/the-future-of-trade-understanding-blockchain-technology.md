@@ -23,6 +23,8 @@ After having the same problem for a while, another friend introduced me to the *
 
 Blockchain technology is just the same as the one I mentioned before but instead of having that middle friend to connect you will be the buyer, This time now you are granted the power to connect directly without having any middlemen.
 
+![](/uploads/concept-closure-protection-technology-blockchain-encryption-internet-traffic-101126214.jpg)
+
 When I talk about middlemen I mean **banks, brands, and companies** that connect you and get something in return. Actually, in the world where we live, it's hard to trust any of these companies especially if you are trading or exchanging something sensitive.
 
 ## How does blockchain work?
@@ -32,6 +34,8 @@ When I talk about middlemen I mean **banks, brands, and companies** that connect
 ## If everyone validates, how do I believe blockchain is secure?
 
 Don't worry if you are asking yourself this, we have all been there? Blockchain uses **cryptography** to basically encode all the transactions. So everyone can actually see all the validated transactions.
+
+![](/uploads/global-network-across-planet-earth-blockchain-global-network-across-planet-earth-blockchain-elements-image-136686433.jpg)
 
 But you can not read what exactly was sold or bought. And remember even if anyone can see the transactions it's not actually trackable of who actually did the transaction since all the data is **_encoded_**. In conclusion, blockchain is like a ledger transaction system where all things that are being traded are not owned by a single company but by everyone in the world, that's why in other words blockchain is referred to us **peer to peer network**.
 
@@ -45,4 +49,8 @@ Many say that bitcoin is used to do illegal businesses, but that is a big miscon
 
 ## Is bitcoin the future?
 
-As of now blockchain is still in the research state and researchers are still finding some of the use cases to use blockchain. But as of now, there are actually a lot of public blockchains like bitcoin and Ethereum and even types of private bitcoins which are not yet released but eventually will what we are sure of is that blockchain is surely going to be the future of trade and this means dying of companies like banks or even business middlemen another use case is cryptography actually a good example is the WhatsApp app which uses cryptography to encrypt messages from the sender and receiver making sure all the conversation is kept between the two of you safe and secret
+As of now blockchain is still in the research state and researchers are still finding some of the use cases to use blockchain. But as of now, there are actually a lot of public blockchains like bitcoin and Ethereum and even types of private bitcoins which are not yet released but eventually will.
+
+![](/uploads/blockchain-business-technology-hand-holding-digital-tablet-buildings-element-image-ar-elements-furnished-139623743.jpg)
+
+What we are sure of is that blockchain is surely going to be the future of trade and this means dying of companies like banks or even business middlemen another use case is cryptography actually a good example is the WhatsApp app which uses cryptography to encrypt messages from the sender and receiver making sure all the conversation is kept between the two of you safe and secret.
