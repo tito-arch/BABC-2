@@ -33,16 +33,14 @@ It's basically a network of computers that all have the same history of transact
 
 Don't worry if you are asking yourself this, we have all been there? Blockchain uses cryptography to basically encode all the transactions. So everyone can actually see all the validated transactions.
 
-But you can not read what exactly was sold or bought. And remember even if anyone can see the transactions it's not actually trackable of who actually did the transaction since all the data is encoded. In conclusion, blockchain is like a ledger transaction system where all things that are being traded are not owned by a single company but by everyone in the world, that's why in other words blockchain is referred to us peer to peer network.
+But you can not read what exactly was sold or bought. And remember even if anyone can see the transactions it's not actually trackable of who actually did the transaction since all the data is encoded. In conclusion, blockchain is like a ledger transaction system where all things that are being traded are not owned by a single company but by everyone in the world, that's why in other words blockchain is referred to us **peer to peer network**.
 
 ## Is blockchain the same as bitcoin?
 
-As much as you would love to hear me say yes blockchain is bitcoin, the answer is **No**, why ill tell you may be the first time to hear bitcoin was in a movie where the bad guys maybe kidnapped someone
+As much as you would love to hear me say yes blockchain is bitcoin, the answer is **No**, why ill tell you. Maybe the first time to hear bitcoin was in a movie where the bad guys maybe kidnapped someone. and asked to be paid in bitcoin or even after a hacker hacking maybe your laptop asks for money in terms of bitcoin did you ever ask yourself why...
 
-and asked to be paid maybe in bitcoin or even after a hacker hacking maybe your laptop asks for money in terms of bitcoin did you ever ask yourself why...
+Many say that bitcoin is used to do illegal businesses, but that is a big misconception. Bitcoin is the most popular cryptocurrency at the time of writing this blog and is mostly used to trade. across the internet and even in other areas, even banks, this is because it's simple and ideal and the best part is that its value keeps rising up and if you are an investor bitcoin is something you should look at.
 
-Many say that bitcoin is used to do illegal businesses, but that is a big misconception. Bitcoin is the most popular cryptocurrency at the time of writing this blog and is mostly used to trade. across the internet and even in other areas even banks this is because it's simple and ideal and the best part is that its value keeps rising up and if you are an investor bitcoin is something you should look at.
-
-## is bitcoin the future?
+## Is bitcoin the future?
 
 As of now blockchain is still in the research state and researchers are still finding some of the use cases to use blockchain. But as of now, there are actually a lot of public blockchains like bitcoin and Ethereum and even types of private bitcoins which are not yet released but eventually will what we are sure of is that blockchain is surely going to be the future of trade and this means dying of companies like banks or even business middlemen another use case is cryptography actually a good example is the WhatsApp app which uses cryptography to encrypt messages from the sender and receiver making sure all the conversation is kept between the two of you safe and secret
