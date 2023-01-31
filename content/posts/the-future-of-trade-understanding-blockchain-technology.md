@@ -12,7 +12,7 @@ caption = "image credits:dreamstime"
 image = "/uploads/blockchain-man-using-laptop-blockchain-man-using-laptop-modern-gray-chair-108198502.webp"
 
 +++
-I'm sure you have heard the word trade once or twice. **Trade** was invented long ago by our ancestors. like everything we do nowadays involves trade. There are many types of trade but today let's focus on one trade here **blockchain**, in simple terms ill give you an example of how **blockchain** is a form of trade. if I was to sell my laptop I would look at a store I trust **eBay** being one of them **Amazon, jiji Kenya,** etc. 
+I'm sure you have heard the word trade once or twice. **Trade** was invented long ago by our ancestors. like everything we do nowadays involves trade. There are many types of trade but today let's focus on one trade here **blockchain**, in simple terms ill give you an example of how **blockchain** is a form of trade. if I was to sell my laptop I would look at a store I trust **eBay** being one of them **Amazon, jiji Kenya,** etc.
 
 But most of the time your first option is not **eBay** or **Jumia** It's that one friend who told you that he had a friend who also wanted a laptop or would give you a great deal even if it's something in return. But whenever a deal exceeds more than one person, it's completely difficult to trust each other.
 
@@ -44,7 +44,7 @@ As much as you would love to hear me say yes blockchain is bitcoin, the answer i
 
 ![](/uploads/bitcoin-blockchain-security-concept-internet-cloud-computing-record-highs-bitcoin-blockchain-security-concept-103397943.jpg)
 
-Many say that bitcoin is used to do illegal businesses, but that is a big misconception. Bitcoin is the most popular cryptocurrency at the time of writing this blog and is mostly used to trade. across the internet and even in other areas, even banks, this is because it's simple and ideal and the best part is that its value keeps rising up and if you are an investor bitcoin is something you should look at. if you are interested to know more about bitcoin and other trade tokens read [here.](https://z6rfaq36-lcvlg.instant.forestry.io/posts/the-future-of-trade-understanding-blockchain-technology/)
+Many say that bitcoin is used to do illegal businesses, but that is a big misconception. Bitcoin is the most popular cryptocurrency at the time of writing this blog and is mostly used to trade. across the internet and even in other areas, even banks, this is because it's simple and ideal and the best part is that its value keeps rising up and if you are an investor bitcoin is something you should look at. if you are interested to know more about bitcoin and other trade tokens read [here.](https://blog.bunnieabc.com/posts/unlocking-the-power-of-solana-token-a-must-read-for-investors/)
 
 ## Is bitcoin the future?
 
