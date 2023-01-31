@@ -2,7 +2,7 @@
 author = "P.Gitau"
 categories = ["Cryptocurrencies"]
 date = 2023-01-29T10:20:44Z
-description = "a distributed blockchain technology is a database that maintains a continuously growing list of ordered records, called blocks"
+description = "Blockchain technology is a database that maintains a continuously growing list of ordered records, called blocks"
 image = ""
 tags = ["Bitcoin", "Blockchain"]
 title = "The Future of Trade: Understanding Blockchain Technology"
