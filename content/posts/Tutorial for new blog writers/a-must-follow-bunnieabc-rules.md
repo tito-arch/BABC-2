@@ -18,9 +18,10 @@ image = "/uploads/360_f_321897961_zquh4dfwpmgamvfkd4tp4ms9lwfvqxhq.webp"
    [cloud converter](https://cloudconvert.com/).
 2. Avoid using chat GPT when writing your articles as all articles written by Ai are usually downgraded by Google.
 3. The only exception you are allowed to use is when you are looking for a nice catchy heading for your article, which also you are not allowed to copy and paste. just use it for ideas at bunnie ABC we value originality.
-4. Never ever copy and paste your work from any source on the internet or anywhere just be original. this helps make sure we are not having any copyright issues also for AdSense, learn more on AdSense [here](https://www.google.com/adsense/start/)
+4. Never ever copy and paste your work from any source on the internet or anywhere just be original. This helps make sure we are not having any copyright issues also for AdSense, learn more on AdSense [here](https://www.google.com/adsense/start/)
 5. After writing your article, always make sure you check for plagiarism, use this website
 
    [plagiarism checker ](https://www.check-plagiarism.com/)
 6. For correct pronunciation and spelling, install the Grammarly extension or log in to their website.[ this is the website](https://www.grammarly.com/)
 7. Make sure all stock images you choose do not have a label or a brand stamp on them. You can use [Pexel ](https://www.pexels.com/)or [Unsplash ](https://unsplash.com/)for free images.
+8. Make sure you article is **SEO** friendly by making sure you use keywords."still dont know what keywords are read"[ here ]()
