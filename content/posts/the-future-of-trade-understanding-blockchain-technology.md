@@ -52,4 +52,4 @@ As of now blockchain is still in the research state and researchers are still fi
 
 ![](/uploads/blockchain-business-technology-hand-holding-digital-tablet-buildings-element-image-ar-elements-furnished-139623743.jpg)
 
-What we are sure of is that blockchain is surely going to be the future of trade and this means dying of companies like banks or even business middlemen another use case is cryptography actually a good example is the WhatsApp app which uses cryptography to encrypt messages from the sender and receiver making sure all the conversation is kept between the two of you safe and secret.
+What we are sure of is that blockchain is surely going to be the future of trade and this means dying of companies like banks or even business middlemen. But companies that will use blockchain technology will surely thrive, another use case of blockchain is cryptography actually a good example is the WhatsApp app which uses cryptography to encrypt messages from the sender and receiver making sure all the conversation is kept between the two of you safe and secret.
