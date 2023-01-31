@@ -9,7 +9,7 @@ title = "The Future of Trade: Understanding Blockchain Technology"
 [cover]
 alt = ""
 caption = "image credits:dreamstime"
-image = "/uploads/blockchain-cryptocurrency-concept-wood-blocks-say-block-chain-w-blockchain-cryptocurrency-concept-wood-blocks-say-block-chain-113957975.jpg"
+image = "/uploads/blockchain-man-using-laptop-blockchain-man-using-laptop-modern-gray-chair-108198502.webp"
 
 +++
 I'm sure you have heard the word trade once or twice. **Trade** was invented long ago by our ancestors. like everything we do nowadays involves trade. There are many types of trade but today let's focus on one trade here **blockchain**, in simple terms ill give you an example of how **blockchain** is a form of trade. if I was to sell my laptop I would look at a store I trust **eBay** being one of them **Amazon, jiji Kenya,** etc. 
