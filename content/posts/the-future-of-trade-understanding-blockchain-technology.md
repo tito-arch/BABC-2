@@ -12,7 +12,7 @@ caption = "image credits:dreamstime"
 image = "/uploads/blockchain-man-using-laptop-blockchain-man-using-laptop-modern-gray-chair-108198502.webp"
 
 +++
-I'm sure you have heard the word trade once or twice. But do you know that in the coming future trade won't be same as the one we know right now, walk with me as I explain to you everything you need to know about blockchain.There are many types of trade but today let's focus on one trade here which is **blockchain**, in simple terms ill give you an example of how **blockchain** is a form of trade. Let's say I was to sell my laptop I would find a store that I can trust,**eBay** being one of them **Amazon, jiji Kenya,** etc.
+I'm sure you have heard the word trade once or twice. But do you know that in the coming future trade won't be same as the one we know right now, walk with me as I explain to you everything you need to know about blockchain.There are many types of trade but today let's focus on one trade here which is **blockchain**, in simple terms ill give you an example of how **blockchain** is a form of trade. Let's say I was to sell my laptop I would find a store that I can trust,b**eBay** being one of them **Amazon, jiji Kenya,** etc.
 
 But most of the time your first option is not **eBay** or **Jumia** It's that one friend who told you that he had a friend who also wanted a laptop or would give you a great deal even if it's something in return. But whenever a deal exceeds more than one person, it's completely difficult to trust each other.
 
