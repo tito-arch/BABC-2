@@ -13,19 +13,17 @@ caption = "image credits:dreamstime"
 image = "/uploads/blockchain-cryptocurrency-concept-wood-blocks-say-block-chain-w-blockchain-cryptocurrency-concept-wood-blocks-say-block-chain-113957975.jpg"
 
 +++
-Am sure you have once or twice heard the word trade was invented long ago by our ancestors. like everything we do nowadays involves trade. There are many types of
+I'm sure you have heard the word trade once or twice. **Trade** was invented long ago by our ancestors. like everything we do nowadays involves trade. There are many types of trade but today let's focus on one trade here **blockchain**, in simple terms ill give you an example of how **blockchain** is a form of trade. if I was to sell my laptop I would look at a store I trust **eBay** being one of them **Amazon, jiji Kenya** etc. 
 
-trade but today let's focus on one trade here blockchain, in simple terms ill give you an example if I was to sell my laptop I would look at a store I trust eBay being one of them
-
-jiji Kenya, etc. but most of the time your first option is not eBay or Jumia It's that one friend who told you that he had a friend who also wanted a laptop or would give you a great deal even if it's something in return. But whenever a deal exceeds more than one person it is completely difficult to trust each other.
+But most of the time your first option is not **eBay** or **Jumia** It's that one friend who told you that he had a friend who also wanted a laptop or would give you a great deal even if it's something in return. But whenever a deal exceeds more than one person, it's completely difficult to trust each other.
 
 After having the same problem for a while, another friend introduced me to the blockchain. and that's why I want you my friend to know it, and have a better understanding of it.
 
 ## what is blockchain?
 
-Blockchain technology is just the same as the one I mentioned before but instead of having that middle friend to connect you will be the buyer, and you are granted the power to connect directly without having any middlemen.
+Blockchain technology is just the same as the one I mentioned before but instead of having that middle friend to connect you will be the buyer, This time now you are granted the power to connect directly without having any middlemen.
 
- When I talk about middlemen I mean banks, brands, and companies that connect you and get something in return. Actually, in the world where we live, it's hard to trust any of these companies especially if you are trading or exchanging something sensitive.
+When I talk about middlemen I mean banks, brands, and companies that connect you and get something in return. Actually, in the world where we live, it's hard to trust any of these companies especially if you are trading or exchanging something sensitive.
 
 ## How does blockchain work?
 
@@ -33,9 +31,9 @@ It's basically a network of computers that all have the same history of transact
 
 ## If everyone validates, how do I believe blockchain is secure?
 
-Don't worry if you are asking yourself the same thing, we have all been there? Blockchain uses cryptography to basically encode all the transactions. So everyone can actually see all the validated transactions.
+Don't worry if you are asking yourself this, we have all been there? Blockchain uses cryptography to basically encode all the transactions. So everyone can actually see all the validated transactions.
 
-but you can not read what exactly was sold or bought. And remember even if anyone can see the transactions it's not actually trackable of who actually did the transaction in conclusion blockchain is like a ledger transaction system where all things that are being traded are not owned by a company but by everyone in the world, that's why in other words blockchain is referred to us peer to peer network.
+But you can not read what exactly was sold or bought. And remember even if anyone can see the transactions it's not actually trackable of who actually did the transaction since all the data is encoded. In conclusion, blockchain is like a ledger transaction system where all things that are being traded are not owned by a single company but by everyone in the world, that's why in other words blockchain is referred to us peer to peer network.
 
 ## Is blockchain the same as bitcoin?
 
