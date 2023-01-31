@@ -24,9 +24,13 @@ image = "/uploads/360_f_321897961_zquh4dfwpmgamvfkd4tp4ms9lwfvqxhq.webp"
    [plagiarism checker ](https://www.check-plagiarism.com/)
 6. For correct pronunciation and spelling, install the Grammarly extension or log in to their website.[ this is the website](https://www.grammarly.com/)
 7. Make sure all stock images you choose do not have a label or a brand stamp on them. You can use [Pexel ](https://www.pexels.com/)or [Unsplash ](https://unsplash.com/)for free images.
-8. Make sure you article is **SEO** friendly by making sure you use keywords."still dont know what keywords are read"[ here ]()
-9. people you should follow for inpiration  who are great succesfull bloggers.
+8. Make sure your article is **SEO** friendly by making sure you use keywords. "still don't know what keywords are read"[ here ]()
+9. People you should follow for inspiration who are great successful bloggers.
    * [H-educate](https://h-educate.com/)
 
      ![](/uploads/popup-me.png)
    * [Neil Patel](https://neilpatel.com/)
+
+     ![https://neilpatel.com/](/uploads/neilidea.webp)
+
+   Follow them on YouTube and subscribe on their newsletter to be updated on the best practices of SEO and marketing strategies.
