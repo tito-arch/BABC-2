@@ -6,7 +6,7 @@ description = "Ethereum switched from Proof of Work to Proof of Stake to stop al
 draft = true
 image = ""
 tags = ["DeFi", "Bitcoin"]
-title = "Maximize Your SEO with Bitcoin: The Future of Digital Finance"
+title = "Here is Bitcoin: The Future of Digital Finance"
 [cover]
 alt = ""
 caption = ""
