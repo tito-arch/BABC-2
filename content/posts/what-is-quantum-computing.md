@@ -18,7 +18,7 @@ Before we even dive into this broad topic of quantum computing, I think the best
 
 A quantum computer uses quantum bits or qubits which can be either 0 or 1 at the same time and this is what gives a quantum computer its superior computing power in contrast to a normal classical computer that uses bits that are basically 0s and 1s.
 
-More about this read the full article [here](https://blog.bunnieabc.com/posts/computer-logic/#everything-you-need-to-know-about-computer-logic).
+Here is [Everything you need to know about computer logic.](https://blog.bunnieabc.com/posts/computer-logic/#everything-you-need-to-know-about-computer-logic)
 
 There are several physical objects which can be used as qubits: a single photon, a nucleus, or even an electron. Yes, an electron asking yourself how well, we all know that electrons have magnetic fields, so they are basically like tiny bar magnets, and this property is called spin if you place them in a magnetic field they will definitely align with that field, just like a compass does with the magnetic field of the earth.
 
@@ -38,7 +38,7 @@ It's not once or twice that you ran out of phone storage, so this means that nor
 
 What's even more shocking is that quantum computers perform better when the problem at hand is more complex. When this technology is applied at the right places, the end product is just unimaginable. Scientists are still working on perfecting it and as we are talking right now they are real life-applications of quantum mechanics, maybe you are using them without even realizing it. A good and obvious example is **cryptography.**
 
-If you want to read all the use cases and applications of quantum mechanics, read [here](www.blog.bunnieabc.com)
+If you want to read all the [use cases and applications of quantum mechanics.](https://builtin.com/hardware/quantum-computing-applications)
 
 By now you have a little clue about what quantum mechanics is, so dive a little bit into the **quantum computing** world let's start by learning **superposition.**
 
@@ -51,6 +51,8 @@ If two entangled pennies are spun they are obviously going to rotate in the same
 This leads us to the third property of quantum mechanics, which is interference.
 
 ## What is interference?
+
+![](/uploads/waroverreality.jpg)
 
 Interference is the net effect of the combination of two or more wave trains moving on intersecting or coincident paths. This interference can be used to control quantum states and actually amplify the kind of signals that are towards the right answer and cancel the ones that are leading to the wrong answer.
 
