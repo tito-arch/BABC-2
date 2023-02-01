@@ -38,7 +38,7 @@ It's not once or twice that you ran out of phone storage, so this means that nor
 
 What's even more shocking is that quantum computers perform better when the problem at hand is more complex. When this technology is applied at the right places, the end product is just unimaginable. Scientists are still working on perfecting it and as we are talking right now they are real life-applications of quantum mechanics, maybe you are using them without even realizing it. A good and obvious example is **cryptography.**
 
-If you want to read all the [use cases and applications of quantum mechanics.](https://builtin.com/hardware/quantum-computing-applications)
+Read about all the [use cases and applications of quantum mechanics.](https://builtin.com/hardware/quantum-computing-applications)
 
 By now you have a little clue about what quantum mechanics is, so dive a little bit into the **quantum computing** world let's start by learning **superposition.**
 
