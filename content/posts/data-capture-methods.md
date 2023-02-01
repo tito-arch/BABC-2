@@ -1,8 +1,11 @@
 +++
+author = "P.Gitau"
+categories = "Computer Science"
 date = 2022-11-22T08:00:00Z
+description = "Data capture is the process of getting information together for the computer to process."
 image = ""
-tags = ["IDR", "ICR", "Magnetic encoding", "Mark sensing", "Barcodes", "OCR", "MICR"]
-title = "Data capture methods"
+tags = ["ICR", "Magnetic encoding", "Mark sensing", "Barcodes", "OCR"]
+title = "All Data Collection Methods: From MICR to Augmented Reality"
 [cover]
 alt = "picture demonstrating data capture"
 caption = "Data capture methods"
