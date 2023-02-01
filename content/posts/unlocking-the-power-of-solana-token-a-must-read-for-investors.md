@@ -1,6 +1,6 @@
 +++
 author = "M.I.Titus"
-
+categories = "Blockchain & Web3"
 date = 2023-01-27T05:32:05Z
 description = "Solana is a high-performance blockchain platform that aims to provide fast and low-cost transactions for decentralized applications."
 image = ""
