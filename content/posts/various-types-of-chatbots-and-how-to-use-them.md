@@ -1,6 +1,6 @@
 +++
 author = "P.Gitau"
-categories = "Artificial Intelligence & Machine Learning"
+categories = "Emerging Issues & Trends"
 date = 2022-12-15T10:45:10Z
 description = "A chatbot is a “ computer program designed to simulate a conversation with human users, especially over the Internet.”"
 image = ""
