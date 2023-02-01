@@ -1,6 +1,6 @@
 +++
 author = "P.Gitau"
-
+categories = "App Updates"
 date = 2023-01-03T21:31:27Z
 description = "WhatsApp 3D Avatars can be used as profile photos or custom stickers."
 image = ""
