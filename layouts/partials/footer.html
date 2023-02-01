@@ -1,16 +1,23 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
+    <a href="{{ .Site.BaseURL }}/google/ad">Affiliate Disclosure</a>
+    <a href="{{ .Site.BaseURL }}/google/cp">Cookie Policy</a>
+    <a href="{{ .Site.BaseURL }}/google/tc">Terms & Conditions</a>
+    <a href="https://github.com/tito-arch/BABC-2/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a>
+<br>
     {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
     {{- else }}
     <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
     {{- end }}
+    
     <span>
            Fullfilled by
         <a href="https://bunnieabc.com" rel="noopener noreferrer" target="_blank">Bunnie-llc</a> 
        a division of TRC.
     </span>
 </footer>
+
 {{- end }}
 
 {{- if (not site.Params.disableScrollToTop) }}
