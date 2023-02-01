@@ -1,6 +1,6 @@
 +++
-author = "P.Mwangi"
-
+author = "M.I.Titus"
+categories = "Artificial Intelligence & Machine Learning"
 date = 2022-12-01T15:25:01Z
 description = "Generative Pre-trained Transformer 3 is an autoregressive language model that uses deep learning to produce human-like text"
 image = ""
