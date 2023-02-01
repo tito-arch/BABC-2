@@ -11,6 +11,8 @@ By accessing or using the Website, you are agreeing to these Terms and entering 
 
 ## Content 
 The content on the Website, including without limitation text, graphics, images and logo, is the property of Bunnie ABC.Please note that while most images on our website are the property of Bunnie ABC, some may be subject to copyright by other parties. We make every effort to use only properly licensed images and give credit where necessary, but if you believe that any images on our site infringe on your copyright, please contact us at bunniestore.rabbitgroup@gmail.com and we will promptly address the issue.
+### Third Party Content: YouTube Videos
+Certain **BABC Blog** pages contain third party content in the form of embedded videos from the YouTube API Service. Your use of these videos is governed by YouTube's Terms of Service, which you may read in full on the [youtube.com](https://www.youtube.com/t/terms) website.
 
 ## Third-Party Links 
 The Website may contain links to third-party websites or services that are not owned or controlled by Bunnie ABC. Bunnie ABC has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party websites or services.
