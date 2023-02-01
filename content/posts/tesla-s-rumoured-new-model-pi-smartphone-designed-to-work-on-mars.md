@@ -1,6 +1,6 @@
 +++
 author = "P.Gitau"
-
+categories = "Emerging Issues & Trends"
 date = 2023-01-15T11:31:57Z
 description = " The Future of Phones is Here: Introducing Tesla's Model Pi"
 image = ""
