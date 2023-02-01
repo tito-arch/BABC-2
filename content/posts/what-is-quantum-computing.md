@@ -7,7 +7,7 @@ image = ""
 tags = ["Quantum computers", "computers"]
 title = "Exploring the World of Quantum Computing: A Beginner's Guide"
 [cover]
-alt = ""
+alt = "Exploring the World of Quantum Computing: A Beginner's Guide"
 caption = ""
 image = "/uploads/maxresdefault.webp"
 
@@ -52,7 +52,7 @@ This leads us to the third property of quantum mechanics, which is interference.
 
 ## What is interference?
 
-![](/uploads/waroverreality.jpg)
+![Exploring the World of Quantum Computing: A Beginner's Guide](/uploads/waroverreality.jpg "(Credit: Richard Kail/Getty Images)")
 
 Interference is the net effect of the combination of two or more wave trains moving on intersecting or coincident paths. This interference can be used to control quantum states and actually amplify the kind of signals that are towards the right answer and cancel the ones that are leading to the wrong answer.
 
