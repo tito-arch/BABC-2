@@ -47,7 +47,7 @@ Packed with more than 40 billion transistors on a fingertip.
 * 12-core CPU
 * 19-core GPU
 * 32GB unified memory
-* 200GB Memory bandwidth
+* 200GB/s  Memory bandwidth
 
 **M2 Max: Go even further.**
 
@@ -57,7 +57,7 @@ Twice the memory bandwidth of the M2 and over 67 billion transistors.
 
 * 12-core CPU
 * 38-core GPU
-* 400GB Memory bandwidth
+* 400GB/s Memory bandwidth
 
 ### No fan.
 
