@@ -8,7 +8,7 @@ tags = ["Quantum computers", "computers"]
 title = "Exploring the World of Quantum Computing: A Beginner's Guide"
 [cover]
 alt = "Exploring the World of Quantum Computing: A Beginner's Guide"
-caption = ""
+caption = "Image credits: Youtube | Quanta Magazine"
 image = "/uploads/maxresdefault.webp"
 
 +++
