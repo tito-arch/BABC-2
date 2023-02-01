@@ -1,3 +1,9 @@
+
++++
+title: "My Post Title"
+showShareButtons: false
++++
+
 Cookie Policy for Bunnie ABC
 ============================
 
