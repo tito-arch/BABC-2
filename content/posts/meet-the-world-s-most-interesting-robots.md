@@ -1,6 +1,6 @@
 +++
 author = "M.I.Titus"
-
+categories = "Device Reviews"
 date = 2022-09-12T21:00:00Z
 description = "A robot is a machine that does not necessarily look like a human that can replicate one or more tasks with less or no human intervention."
 image = "/uploads/untitled-design.png"
