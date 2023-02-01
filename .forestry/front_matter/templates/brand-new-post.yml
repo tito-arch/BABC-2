@@ -43,6 +43,25 @@ fields:
     min: 40
     max: 160
   description: 'Enter a short description of the new post. Clue: Enter a summary'
+- name: categories
+  type: select
+  default: Emerging Issues & Trends
+  config:
+    required: true
+    options:
+    - Artificial Intelligence & Machine Learning
+    - App Updates
+    - Computer Science
+    - Blockchain & Web3
+    - Device Reviews
+    - Emerging Issues & Trends
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Categories
+  description: Add a category to ease user site navigation
 - type: field_group
   name: cover
   label: cover
@@ -72,14 +91,6 @@ fields:
     min: 2
     max: 5
   description: Add the most relevant tags to help us manage how content is displayed.
-- type: list
-  name: categories
-  label: categories
-  config:
-    use_select: false
-    min: 1
-    max: 2
-  description: Add a category or two to ease navigation around the site.
 - type: file
   name: image
   label: image
