@@ -8,9 +8,6 @@ tags:
 - review
 - samsung
 - android
-categories:
-- Device review
-- Android
 cover:
   image: "/uploads/flipz.webp"
   alt: Everything you need to know about the Samsung Galaxy Z flip4
@@ -97,7 +94,7 @@ Made for a particular customer or user (bespoke edition) - only available in cer
 
 ## Galaxy Z flip4 Summary.
 
-![Everything you need to know about the Samsung Galaxy Z flip4](galaxy-z-flip4_highlights_compact_img.jpg "image courtesy to samsun.com")
+![Everything you need to know about the Samsung Galaxy Z flip4](galaxy-z-flip4_highlights_compact_img.jpg "image courtesy to samsung.com")
 
 The Galaxy flip4 is not dustproof and only water-resistant at the max height of 1.5 meters and not beach/swimming pool recommended which is too bad but at least you can grab your flip4 from your bathtub or sink in case it slips as a result of the sleek design.
 

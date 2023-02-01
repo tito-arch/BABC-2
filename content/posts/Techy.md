@@ -7,12 +7,10 @@ cover:
   alt: its my birthday
   caption: bunnieABC created me
 tags:
-- Genesis
+- Genesis Post
 - 'Initial '
 - bunnieabc
-categories:
-- Device review
-- Android
+
 image: imageedit_4_3671584613.jpg
 author: M.I.Titus
 
