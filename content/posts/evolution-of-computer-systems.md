@@ -1,6 +1,6 @@
 +++
 author = "P.Gitau"
-
+categories = "Computer Science"
 date = 2023-01-01T13:13:52Z
 description = "We can’t imagine a world without computers today."
 image = ""
