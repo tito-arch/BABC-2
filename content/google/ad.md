@@ -1,3 +1,7 @@
+---
+title: "Affilate Disclosure"
+showShareButtons: false
+---
 # Affiliate Disclosure for Bunnie ABC
 
 ### Introduction

@@ -1,3 +1,7 @@
+---
+title: "Terms & Conditions"
+showShareButtons: false
+---
 ## Terms of Service for Bunnie ABC
 
 # Introduction
