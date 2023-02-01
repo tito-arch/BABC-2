@@ -1,6 +1,6 @@
 +++
 author = "M.I.Titus"
-categories = ["Digital numberplates"]
+categories = "Emerging Issues & Trends"
 date = 2022-08-30T22:27:39Z
 description = "Digital number plates are next-generation vehicle identification devices mounted on car bumpers that emit radio signals to provide tracking information."
 image = "/uploads/kenyadigitalnumberplates.jpeg"
