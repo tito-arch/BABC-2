@@ -1,15 +1,15 @@
 +++
-author = "BABC"
-categories = []
+author = "P.Gitau"
+categories = ["Computer science"]
 date = 2022-10-01T07:00:00Z
-description = ""
+description = "Learn the building blocks of computer technology and how they work together in this comprehensive guide on computer logic. From gates to chips, logic elements."
 image = ""
-tags = ["EX-NOR gate", "EX-OR gate", "NAND gate", "OR gate", "AND gate", "NOT gate"]
-title = "computer logic"
+tags = ["EX-OR gate", "NAND gate", "OR gate", "AND gate", "NOT gate"]
+title = "Computer Logic Fundamentals: Gates, Chips, Logic Elements & More"
 [cover]
-alt = "picture of logic gates"
-caption = "Everything you need to know about computer logic"
-image = "/uploads/d.PNG"
+alt = "Computer Logic Fundamentals: Gates, Chips, Logic Elements & More"
+caption = "image credits: Intel"
+image = "/uploads/jl16e.jpg"
 
 +++
 # Everything you need to know about computer logic
@@ -30,13 +30,11 @@ In modern computers, one or more chips are put together to form a **chip.** This
 
 ![/uploads/6.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/6.PNG)
 
-A chip can contain all the components of a circuit which can act as a logic gate. This type of chip is called an integrated **circuit**. When an integrated circuit makes up all the central processing unit (CPU) except the memory. It's called a **microprocessor.**
+A chip can contain all the components of a circuit that can act as a logic gate. This type of chip is called an integrated **circuit**. When an integrated circuit makes up all the central processing unit (CPU) except the memory. It's called a **microprocessor.**
 
 ## Logic elements
 
 A gate that performs a simple operation is called a **logic element.** To see how these gates work we can make up a table called a **truth table** or **operations** **table.**
-
-![/uploads/3.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/3.PNG)
 
 ### Logic diagrams
 
@@ -72,7 +70,7 @@ The **Logic OR Function** function states that an output action will become **TR
 
 #### **A practical application of OR gate**
 
-In an OR gate the switches in the circuit are in parallel. in the two output circuits, the bulb will light if either switches A or B is closed. it will also light if both of the switches are closed. In the OR gates switching circuit the bulb will only write when one or more of the switches are closed.
+In an OR gate, the switches in the circuit are in parallel. in the two output circuits, the bulb will light if either switches A or B are closed. it will also light if both of the switches are closed. In the OR gates switching circuit the bulb will only write when one or more of the switches are closed.
 
 ![/uploads/12-1.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/12-1.PNG)
 
