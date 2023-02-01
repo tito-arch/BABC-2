@@ -136,7 +136,7 @@ Here is an example of how an appointment-scheduling chatbot might work:
 
 ### 8. Customer support chatbots
 
-These chatbots that are designed to provide customer service and support to users. These chatbots are often used to handle common questions and walk users through processes, such as booking an appointment or purchasing a product. If a support chatbot is unable to provide a response, it can pass the conversation on to a human support agent. Support chatbots can be used in a variety of industries, including banking, retail, human resources, digital marketing, and healthcare. They can help businesses in the following ways:
+These chatbots are designed to provide customer service and support to users. These chatbots are often used to handle common questions and walk users through processes, such as booking an appointment or purchasing a product. If a support chatbot is unable to provide a response, it can pass the conversation on to a human support agent. Support chatbots can be used in a variety of industries, including banking, retail, human resources, digital marketing, and healthcare. They can help businesses in the following ways:
 
 * handle repetitive questions and  focus on more important user queries
 * collect contact information
