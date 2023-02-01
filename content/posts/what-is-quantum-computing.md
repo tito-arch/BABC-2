@@ -34,6 +34,8 @@ I think since we are looking at quantum computing it will be wise  as well to kn
 
 Well, there are many versions of what **quantum mechanics** is but I'll just tell you my version from what I understand it's a branch of **physics** just like others, which mostly deals with tiny objects which are very isolated and very cold. Computer scientists are using this knowledge in quantum to actually build new computers which actually operate on different kinds of rules than our normal computers e.g. _phones._
 
+{{< youtube jHoEjvuPoB8 >}}
+
 It's not once or twice that you ran out of phone storage, so this means that normal classical computers have a certain limit of computation power. So quantum computing comes to solve this problem by developing new machines that can adapt as the complexity of our calculations continues to rise.
 
 What's even more shocking is that quantum computers perform better when the problem at hand is more complex. When this technology is applied at the right places, the end product is just unimaginable. Scientists are still working on perfecting it and as we are talking right now they are real life-applications of quantum mechanics, maybe you are using them without even realizing it. A good and obvious example is **cryptography.**
