@@ -1,6 +1,6 @@
 +++
-author = "P.Mwangi"
-
+author = "P.Gitau"
+categories = "Emerging Issues & Trends"
 date = 2022-12-10T18:08:40Z
 description = "The metaverse is a collective virtual shared space, created by the convergence of the physical and digital worlds."
 image = ""
