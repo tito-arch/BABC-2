@@ -1,6 +1,6 @@
 +++
 author = "M.I.Titus"
-categories = ["App updates"]
+
 date = 2022-11-23T21:00:00Z
 description = "Communities on WhatsApp enables people to bring together separate groups under one umbrella with a structure that works for them."
 image = ""

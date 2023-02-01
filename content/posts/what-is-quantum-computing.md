@@ -1,6 +1,6 @@
 +++
 author = "P.Gitau"
-categories = ["Computer science"]
+
 date = 2023-01-11T22:52:06Z
 description = "Devices that perform quantum computations are known as quantum computers"
 image = ""

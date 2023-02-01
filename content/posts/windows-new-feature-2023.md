@@ -1,6 +1,6 @@
 +++
 author = "P.Gitau"
-categories = ["Device review"]
+
 date = 2023-01-05T11:08:49Z
 description = "Get informed about this cool Microsoft features to boost your productivity"
 image = ""

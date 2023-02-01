@@ -1,6 +1,6 @@
 +++
 author = "P.Gitau"
-categories = ["Computer science"]
+
 date = 2022-10-01T07:00:00Z
 description = "Learn the building blocks of computer technology and how they work together in this comprehensive guide on computer logic. From gates to chips, logic elements."
 image = ""

@@ -1,6 +1,6 @@
 +++
 author = "M.I.Titus"
-categories = ["Device review"]
+
 date = 2023-01-24T06:59:37Z
 description = "New MacBook Pro 14\" & 16\" models now available! Supercharged by M2 Pro & M2 Max chip, up to 96GB RAM, stunning XDR display & long battery life."
 image = ""

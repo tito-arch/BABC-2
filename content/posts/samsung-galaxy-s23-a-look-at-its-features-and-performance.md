@@ -1,6 +1,6 @@
 +++
 author = "M.I.Titus"
-categories = ["Device review"]
+
 date = 2023-01-18T15:34:52Z
 description = "The Samsung Galaxy s23 is expected to be released on Feb 1, 2023."
 image = ""
