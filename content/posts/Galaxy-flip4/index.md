@@ -18,21 +18,21 @@ cover:
 author: M.I.Titus
 
 ---
-#### How much will it cost?
+## How much will it cost?
 
 Anything around $999 to $1100
 
-#### What is the Galaxy Z flip4  release date?
+## What is the Galaxy Z flip4  release date?
 
 The official release date is on the 2nd of September 2022 but it is available to those who want to use the product before.
 
-#### Why choose the Galaxy Z flip4?
+### Why choose the Galaxy Z flip4?
 
 Here is what makes the galaxy Z flip4 a phone from the future…
 
 * It’s small,  enough to fit your shirt pocket and disappear.
 
-**Dimensions**
+#### **Dimensions**
 
 1. _Folded: 71.9 x 84.9 x 17.1mm, (Hinge) - 15.9mm (Sagging)_
 2. _Unfolded: 71.9 x 165.2 x 6.9mm 144HZ refresh rate )._
@@ -49,11 +49,11 @@ Intelligent features, _you don't come across these features daily._
 * Scene Optimizer- to make your photos stand out.
 * Shot suggestions.
 
-**What colors are available, Galaxy 4 colors;**
+## What colors are available, Galaxy 4 colors;
 
 ### For basic colors
 
-**Bora Purple, Graphite, Pink Gold, Blue**
+Bora Purple, Graphite, Pink Gold, Blue
 
 ![Everything you need to know about the Samsung Galaxy Z flip4](screenshot-from-2022-08-12-16-58-28.webp "basic flip4 colors image courtesy of samsung.com")
 
@@ -67,7 +67,7 @@ Made for a particular customer or user (bespoke edition) - only available in cer
 * **Silver (Frame) Navy (Front) Navy (Back)**
 * **Gold (Frame) Yellow (Front) Yellow (Back**
 
-#### Front Camera
+### Front Camera
 
 ![Everything you need to know about the Samsung Galaxy Z flip4.](screenshot-from-2022-08-12-17-38-17.webp "photo by samsung.com")
 
@@ -76,7 +76,7 @@ Made for a particular customer or user (bespoke edition) - only available in cer
 * FOV: 80˚
 * F.No (aperture): F2.4
 
-#### Rear Camera (Dual camera setup) This is where the intelligent features kick in.
+### Rear Camera (Dual camera setup) This is where the intelligent features kick in.
 
 ![Everything you need to know about the Samsung Galaxy Z flip4.](screenshot-from-2022-08-12-17-38-12.webp "photo by samsung.com")
 
@@ -88,14 +88,14 @@ Made for a particular customer or user (bespoke edition) - only available in cer
 * Super clear glass with Corning® Gorilla® Glass with DX for Wide-angle Camera
 * Up to 10x digital zoom
 
-### What you will get in the box
+## What you will get in the box
 
 * Galaxy Z Flip4, the device.
 * Data Cable.
 * Ejection Pin.
 * Quick Start Guide.
 
-### Galaxy Z flip4 Summary.
+## Galaxy Z flip4 Summary.
 
 ![Everything you need to know about the Samsung Galaxy Z flip4](galaxy-z-flip4_highlights_compact_img.jpg "image courtesy to samsun.com")
 
