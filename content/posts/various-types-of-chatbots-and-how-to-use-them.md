@@ -94,7 +94,7 @@ User: "I'm looking for running shoes."
 
 AI chatbots can potentially understand and respond in different languages and can analyze user behavior and mood to provide more personalized communication. They are a good investment for businesses that have a lot of user data and want to provide more personalized customer service and enhance user engagement. AI chatbots can handle customer queries from beginning to end without the need for human intervention and are available around the clock.
 
-![](/uploads/ai-bot.PNG)
+![A complete guide on the various types of chatbots](/uploads/ai-bot.PNG)
 
 ### 5. The hybrid model
 
@@ -102,7 +102,7 @@ This is the most commonly used chatbot among the mentioned above. This is becaus
 
 For example, if a user brings another topic that is not among the listed prompts, the chatbot can pick up and answer appropriately.
 
-![](/uploads/virtua-spirits.PNG)
+![A complete guide on the various types of chatbots](/uploads/virtua-spirits.PNG)
 
 ### 6. Voice bots
 
@@ -132,7 +132,7 @@ Here is an example of how an appointment-scheduling chatbot might work:
 
 **Chatbot:** "Great! Your appointment has been scheduled for Thursday at 4pm. Is there anything else I can help with?
 
-![](/uploads/appointment.PNG)
+![A complete guide on the various types of chatbots](/uploads/appointment.PNG)
 
 ### 8. Customer support chatbots
 
@@ -144,7 +144,7 @@ These chatbots are designed to provide customer service and support to users. Th
 * collect customer feedback
 * save business resources.
 
-![](/uploads/customer.PNG)
+![A complete guide on the various types of chatbots](/uploads/customer.PNG)
 
 ### 9. Entertainment chatbots
 
