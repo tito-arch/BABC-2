@@ -76,6 +76,7 @@ fields:
     label: alt
     description: All images should have an <strong><em>alt</em></strong><em> this
       should be the same as the title of the post</em>
+    default: bunnie abc
   - type: text
     name: caption
     label: caption
@@ -91,11 +92,6 @@ fields:
     min: 2
     max: 5
   description: Add the most relevant tags to help us manage how content is displayed.
-- type: file
-  name: image
-  label: image
-  description: All images should have an <strong><em>alt</em></strong><em> this should
-    be the same as the title of the post</em>
 pages:
 - content/posts/Techy.md
 - content/posts/Tutorial for new blog writers/a-must-follow-bunnieabc-rules.md
