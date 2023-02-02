@@ -45,17 +45,15 @@ _Knowledge base_: This is the expert systems database of knowledge about a parti
 
 _Inference engine_: This is the software that controls the search for knowledge in the knowledge base and procedure conclusions. it takes the problem posed by the user and seeks to analyze it to arrive at a conclusion
 
-_User interfac_e: This is the display screen that enables the user to interact with the system.
+_User interface_: This is the display screen that enables the user to interact with the system.
 
 An example of an expert system is MYCIN developed by Stanford University, USA
 
-## Natural language processing (NLP)
+## Natural language processing (NLP)![](/uploads/blog_nlp-for-artificial-intelligence_72-1.jpg)
 
 These are ordinary human languages eg **Kiswahili, English, French,** etc The problem with Natural language processing is that they are ambiguous and may be interpreted differently by different people. computer languages on the other hand are clearly defined.
 
-![](/uploads/blog_nlp-for-artificial-intelligence_72-1.jpg)
-
-**Natural language processing** is aimed at coming up with programming languages that would make computers recognize Natural language processing and participate in a conversation with the user the same way you freely chat with a friend. One successful approach to this technology is chat GPT by open Ai
+**Natural language processing** is aimed at coming up with programming languages that would make computers recognize Natural language processing and participate in a conversation with the user the same way you free chat with a friend. One successful approach to this technology is [chat GPT by open Ai](https://blog.bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/)
 
 ## Artificial Neural Networks.
 
@@ -101,4 +99,4 @@ applications of Expanded information superhighway
 * _teleshopping_
 * _virtual office_
 
-There is a lot of research being carried out to come up with even better methods of transmitting the information.
+There is a lot of research being carried out to come up with even better methods of transmitting information.
