@@ -12,7 +12,7 @@ caption = ""
 image = ""
 
 +++
-![A developer operating on ChatGPT](https://miro.medium.com/max/875/1*8A6LXqTFwxpg-fwPmk5Tzg.jpeg =700x467)
+![A developer operating on ChatGPT](/uploads/chatgpt.webp "Developer operating ChatGPT")
 
 Are you worried that ChatGPT will replace Software Developers who said so? Worry no more here is what I have for you, take your time to read this one sit back relax, and enjoy.
 
