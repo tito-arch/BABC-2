@@ -1,6 +1,6 @@
 +++
 author = "P.Gitau"
-
+categories = "Artificial Intelligence & Machine Learning"
 date = 2023-01-05T11:08:49Z
 description = "Get informed about this cool Microsoft features to boost your productivity"
 image = ""
@@ -12,21 +12,21 @@ caption = "(image sourced from microsoft.com"
 image = "/uploads/4xfefdpqrxqqkqxmcincmh-970-80-jpg.webp"
 
 +++
-Windows 11 was released on October 5, and while it is a better version of Windows 10, many people are still using the old version because they are not sure if it is stable. It's been a year since its release, and Microsoft has been working hard on **_polishing_** and **fixing** the **bugs** and performance of Windows 11. 
+Windows 11 was released on October 5, and while it is a better version of Windows 10, many people are still using the old version because they are not sure if it is stable. It's been a year since its release, and Microsoft has been working hard on **_polishing_** and **fixing** the **bugs** and performance of Windows 11.
 
 **Is it worth it to update from Windows 10 to 11?** Yes, it is worth it since Windows 11 comes with a wide range of features, either previous updates to Windows 10 or new features introduced in Windows 11. That being said, we can now look at the noticeable improvements, performance, and design changes in the Windows 11 update.
 
-### App folders in the Start menu
+# App folders in the Start menu
 
 Microsoft introduced a brand-new design for the start menu which has been built from the ground up. With Windows 11 version 22H2, now the user can be able to customize the pinned apps area, create app folders, and resize the pinned apps to show one more or one fewer row.
 
 ![](/uploads/6aw6sreihwwjhqj7r9tnoe-970-80.gif)
 
- When you want to create an app folder all you have to do is drag one app icon over the other, wait a bit then let go to create the folder. If you want to rename a folder, first reorganize apps within a folder, and then move the folder around in the pinned area of the start menu. This freedom to create and personally reorganize your apps and folders gives users a great experience since it helps the Start menu feel less cluttered.
+When you want to create an app folder all you have to do is drag one app icon over the other, wait a bit then let go to create the folder. If you want to rename a folder, first reorganize apps within a folder, and then move the folder around in the pinned area of the start menu. This freedom to create and personally reorganize your apps and folders gives users a great experience since it helps the Start menu feel less cluttered.
 
 ### File Explorer
 
-There are a ton of improvements to File Explorer with Windows 11 version 22H2, First, the new "Home" page which is now the default page when you open the file explorer app Previous users of Windows 10 can notice a slight change in layout with a new "favorites" and "recent" area below the usual quick access folders. 
+There are a ton of improvements to File Explorer with Windows 11 version 22H2, First, the new "Home" page which is now the default page when you open the file explorer app Previous users of Windows 10 can notice a slight change in layout with a new "favorites" and "recent" area below the usual quick access folders.
 
 ![](/uploads/file-explorer.png)
 
@@ -67,9 +67,9 @@ Microsoft has finally addressed the Taskbar functionality which was not availabl
 
 We can't ignore the obvious notable changes that the action center has received. Let's start with "focus assist" which used to be located in the quick setting and has now been renamed "do not disturb" and moved to the notification panel. Microsoft knows the value of time and the role that time plays, so they added a new "focus" timer under the calendar flyout which actually makes sense users can even sync the focus timer with their to-do list or even Spotify.
 
-#### Bluetooth's action 
+#### Bluetooth's action
 
-Finally, Microsoft has improved the Bluetooth action which is found in the quick setting panel. In the previous version, it was not possible to view or control Bluetooth devices in the action menu. And if you tried to click the Bluetooth tooth device you would be given the option to edit it in the settings window which was quite frustrating for me. 
+Finally, Microsoft has improved the Bluetooth action which is found in the quick setting panel. In the previous version, it was not possible to view or control Bluetooth devices in the action menu. And if you tried to click the Bluetooth tooth device you would be given the option to edit it in the settings window which was quite frustrating for me.
 
 ![](/uploads/bluetooth.png)
 
