@@ -12,7 +12,7 @@ caption = ""
 image = "/uploads/windows-11-glow-glass.webp"
 
 +++
-## Online accounts
+# Online accounts
 
 Last year Microsoft introduced the Windows update for version 22H2, which came with a handful of Ui Somes and an improvement of UI. Some of the features did not satisfy what we wanted. I have been a window user for over five years and can't say I am happy with some restrictions that the update brought. One feature, particularly which I am not happy with is where new Windows users are required to sign in using an online account which by the way is a must. In previous versions, you could be given the option to skip this step but now for Windows 11 and Windows 11 pro, this is a must requirement.
 
@@ -24,7 +24,7 @@ But the fact that you must do this in the first place is just frustrating. This 
 
 Apple on the same doesn't force one to use online accounts And Google still doesn't require Android users to use their platform using online accounts, so Microsoft is the only one which is bringing this strategy for the first time in windows. I don't know what your thoughts about this are but for me "a loyal Microsoft user" it's just absurd.
 
-## Windows 11 incomplete dark mode
+# Windows 11 incomplete dark mode
 
 If you are using Windows 11 and you have updated your pc to version 22h2, I want you to try switching to dark mode and head over to any file that you have saved on your pc e.g. a song click to view properties. or even try to access a legacy control panel, I guess if you are following through with me, you have been blinded by a white window. and this is not a one-time thing; it happens every time you try to do this.
 
