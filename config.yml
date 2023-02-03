@@ -10,13 +10,7 @@ params:
   homeInfoParams:
     Title: Yowzha!
     Content: Don't memorize I need you back.
-  socialIcons:
-  - name: instagram
-    url: https://www.instagram.com/bunniestore.ke/
-  - name: twitter
-    url: https://twitter.com/IhwagiTitus
-  - name: github
-    url: https://github.com/tito-arch
+
     
 Params:
   ShowReadingTime: true
@@ -26,7 +20,23 @@ Params:
   showShareButtons: true
   ShowPostNavLinks: true
   
+  # home-info mode
+  homeInfoParams:
+    Title: "Yowzha"
+    Content: "Don't memorize I need you back"
 
+  socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/bunniestore.ke/"
+    - name: github
+      url: "https://github.com/tito-arch"
+    - name: linkedin
+      url: "https://www.linkedin.com/company/bunnie-abc/"
+
+  editPost:
+    URL: "https://github.com/tito-arch/BABC-2/tree/master/content"
+    Text: "Edit This Page" # edit text
+    appendFilePath: true # to append file path to Edit link
  
 
 menu:
