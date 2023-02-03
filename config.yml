@@ -19,6 +19,7 @@ Params:
   ShowCodeCopyButtons: true
   showShareButtons: true
   ShowPostNavLinks: true
+  ShowToc: true
   
   # home-info mode
   homeInfoParams:
