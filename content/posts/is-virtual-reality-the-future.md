@@ -12,7 +12,7 @@ caption = ""
 image = "/uploads/best-educational-apps-featured_1.webp"
 
 +++
-## What is Virtual Reality?
+# What is Virtual Reality?
 
 **Virtual Reality** (VR) is a simulated experience that can be similar to or completely different from the real world. It typically involves the use of a headset or other device that allows the user to see, hear, and interact with virtual objects and environments. VR can be used for entertainment, education, or a variety of other purposes.
 
