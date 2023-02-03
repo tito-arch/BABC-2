@@ -8,7 +8,7 @@ tags = ["meta", "Whatsapp"]
 title = "WhatsApp to stop working on some phones from 1 Jan 2023"
 [cover]
 alt = "WhatsApp to stop working on some phones from 1 Jan 2023"
-caption = ""
+caption = "image credits: WhatsApp"
 image = "/uploads/q.PNG"
 
 +++
