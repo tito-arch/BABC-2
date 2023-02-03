@@ -7,7 +7,7 @@ image = ""
 tags = ["Bitcoin", "Blockchain"]
 title = "The Future of Trade: Understanding Blockchain Technology"
 [cover]
-alt = "picture of person sitting with a laptop"
+alt = "The Future of Trade: Understanding Blockchain Technology"
 caption = "image credits:dreamstime"
 image = "/uploads/blockchain-man-using-laptop-blockchain-man-using-laptop-modern-gray-chair-108198502.webp"
 
