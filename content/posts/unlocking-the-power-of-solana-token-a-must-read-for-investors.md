@@ -36,4 +36,4 @@ Traditionally, blockchains compute transactions one at a time to avoid conflicts
 
 As of today, January 27,2023. The community boasts 11.5M= active accounts, 21.9M NFTS (Non-Fungible Tokens) minted, $0.00025 average cost per transaction 2,192 validator nodes, and about 3,600 transactions each second. Visit [solana.com](solana.com)
 
-![](/uploads/screenshot-from-2023-01-27-18-10-47.png)
+![The State of Solana image](/uploads/screenshot-from-2023-01-27-18-10-47.png)
