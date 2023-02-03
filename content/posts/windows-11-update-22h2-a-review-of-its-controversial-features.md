@@ -8,7 +8,7 @@ tags = ["windows update", "Windows"]
 title = "Windows 11 Update 22H2: A Review of Its Controversial Features"
 [cover]
 alt = "Windows 11 Update 22H2: A Review of Its Controversial Features"
-caption = ""
+caption = "image credits: Microsoft Windows"
 image = "/uploads/windows-11-glow-glass.webp"
 
 +++
