@@ -3,6 +3,7 @@ author = "R.Kipchirchir"
 categories = "Artificial Intelligence & Machine Learning"
 date = 2023-02-02T18:24:24Z
 description = "The blog is about whether ChatGPT can replace human software developers or automate certain tasks?."
+draft = true
 tags = ["ChatGPT", "Open AI ", ""]
 title = "Why ChatGPT won’t replace developers."
 [cover]
