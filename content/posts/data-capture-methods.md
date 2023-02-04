@@ -42,15 +42,13 @@ Optical character readers are expensive devices because they are very complex. B
 
 When a laser beam of light passes across the barcode. It detects the width of the lines and the computer can understand the information contained in them such as price manufacturers and size.
 
-![Data capture is the process of getting information together for the computer to process.](/uploads/6561c465492053b519b9dee4f90a4c05.jpg "barcode")
+![](/uploads/barcode-13.webp)
 
 After grabbing the details, barcode scanners link to a host computer or tablet and transmit that data in real time, without additional human intervention. This helps to automate **data collection** processes and reduce errors like inventory tracking and processing point-of-sale transactions.
 
 ## Mark sensing
 
 It involves detecting pencil or ink marks made on a document. Usually, this involves drawing a line or marking a certain area on a document.
-
-![Data capture is the process of getting information together for the computer to process.](/uploads/e7e9ee9631cd403b36848364ec552bf8.jpg "mark sensing")
 
 Mark sense is used mainly for making **multiple choice exam papers**, and **questionnaire**s, making up information after **electricity** or **gas meters** have been read so that it can be input directly into the computer. Football pool coupons are also read using mark sensing.
 
@@ -66,7 +64,7 @@ magnetic encoding is sometimes used on price labels and goods in certain shops. 
 
 intelligent Character Recognition (ICR) also known as Intelligent OCR is a technology used for **extracting handwritten text from image files**. It is an advanced technology where Machine Learning algorithms and **AI** intelligently interpret data in forms & physical documents through the recognition of various handwritten styles and fonts.
 
-![Data capture is the process of getting information together for the computer to process.](/uploads/cgfffapture.PNG "ICR")
+![](/uploads/63861e8b4157990f36331566_609d3380c477105b527897cf_icr20image-p-800.jpeg)
 
 ICR allows us to quickly read handwritten information on paper and convert it into a digital format. **ICR engines** work with OCR to automate data capture from forms and eliminate the need for manual keying for entering data. It features a high level of accuracy and is a reliable way to save time in processing a variety of information.
 
