@@ -74,8 +74,6 @@ Intelligent Document Recognition (IDR) extracts invoice information from the ema
 
 Many suppliers and customers choose to send and receive invoices electronically via email or messages. IDR can process these invoices and extract the fields to create invoices in Oracle Payables.
 
-![Data capture is the process of getting information together for the computer to process.](/uploads/41723ac7c115497e815bee103dea6119-2.jpg)
-
 ## Manual keying
 
 This method is still relevant with certain types of unstructured data where automated capture methods achieve low accuracy levels in volumes that are so low and variable that automation is not justified.
