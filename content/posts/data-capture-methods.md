@@ -100,8 +100,6 @@ Artificial Intelligence is ultimately an umbrella term for different artificial 
 * Neural Networks & Machine learning to assist in accurate recognition training based on large data sets and assisted learning.
 * Natural Language Processing for interpreting sentences and their respective meaning
 
-To summarize all that we have written make sure you watch the video below to understand better:
+To summarize all that we have written, make sure you watch the video below to understand better:
 
 {{< youtube [pUom8hY8FXc](https://www.youtube.com/watch?v=pUom8hY8FXc "https://www.youtube.com/watch?v=pUom8hY8FXc") >}}
-
-### 
