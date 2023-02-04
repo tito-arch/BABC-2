@@ -42,7 +42,7 @@ But you can not read what exactly was sold or bought. And remember even if anyon
 
 As much as you would love to hear me say yes blockchain is bitcoin, the answer is **No**, why ill tell you. Maybe the first time to hear bitcoin was in a movie where the bad guys maybe kidnapped someone. and asked to be paid in bitcoin or even after a hacker hacking maybe your laptop asks for money in terms of bitcoin did you ever ask yourself why?
 
-![Is blockchain the same as bitcoin?](/uploads/240_f_177349972_ucdh0krbxa2izxvg0syltdq15earynfs.jpg)
+![](/uploads/demo.webp)
 
 Many say that bitcoin is used to do illegal businesses, but that is a big misconception. Bitcoin is the most popular cryptocurrency at the time of writing this blog and is mostly used to trade. across the internet and even in other areas, even banks, this is because it's simple and ideal and the best part is that its value keeps rising up and if you are an investor bitcoin is something you should look at. if you are interested to know more about bitcoin and other trade tokens read [here.](https://blog.bunnieabc.com/posts/unlocking-the-power-of-solana-token-a-must-read-for-investors/)
 
