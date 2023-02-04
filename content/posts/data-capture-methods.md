@@ -26,13 +26,13 @@ Data capture is the process of getting information together for the computer to 
 
 In this data capture form, the computer can read certain numbers written in magnetic ink. You can see these numbers written on the bottom of the **bank cheques**. Without MICR cheques, someone would have to key all the information containers on the cheque into the computer.
 
-![Data capture is the process of getting information together for the computer to process.](/uploads/104739052-cheque-check-template-chequebook-template-blank-bank-cheque-with-guilloche-pattern-and-business-abst.webp)
+![MICR (magnetic ink character recognition) image](/uploads/104739052-cheque-check-template-chequebook-template-blank-bank-cheque-with-guilloche-pattern-and-business-abst.webp)
 
 ## OCR (Optical character recognition)
 
 Optical character readers can read characters that are printed in ordinary ink by the amount of light they reflect. Usually, the reader can only be used with characters that are of a particular style or font.
 
-![](/uploads/features-image-ocr.png)
+![OCR (Optical character recognition) image](/uploads/features-image-ocr.png)
 
 Machines are now available which can read people's handwriting directly. This is quite an improvement because people's handwriting styles are very different.
 
@@ -42,7 +42,7 @@ Optical character readers are expensive devices because they are very complex. B
 
 When a laser beam of light passes across the barcode. It detects the width of the lines and the computer can understand the information contained in them such as price manufacturers and size.
 
-![](/uploads/barcode-13.webp)
+![Barcode image](/uploads/barcode-13.webp)
 
 After grabbing the details, barcode scanners link to a host computer or tablet and transmit that data in real time, without additional human intervention. This helps to automate **data collection** processes and reduce errors like inventory tracking and processing point-of-sale transactions.
 
@@ -56,7 +56,7 @@ Mark sense is used mainly for making **multiple choice exam papers**, and **ques
 
 If you look at a bank credit card or a card that can be used in a cash dispenser you will notice that it has a dark band on the front. The stripe on the card consists of a magnetic material that can be used to hold information. this is called **magnetic encoding.**
 
-![Data capture is the process of getting information together for the computer to process.](/uploads/dd80eaf42b2b41dfa1f78e034f075ae5.jpg "encoder")
+![Magnetic encoder image](/uploads/dd80eaf42b2b41dfa1f78e034f075ae5.jpg "encoder")
 
 magnetic encoding is sometimes used on price labels and goods in certain shops. this information contained on the price ticket is read directly into the computer using a **wand reader.**
 
@@ -64,7 +64,7 @@ magnetic encoding is sometimes used on price labels and goods in certain shops. 
 
 intelligent Character Recognition (ICR) also known as Intelligent OCR is a technology used for **extracting handwritten text from image files**. It is an advanced technology where Machine Learning algorithms and **AI** intelligently interpret data in forms & physical documents through the recognition of various handwritten styles and fonts.
 
-![](/uploads/63861e8b4157990f36331566_609d3380c477105b527897cf_icr20image-p-800.jpeg)
+![ICR(Intelligent character recognition) image](/uploads/63861e8b4157990f36331566_609d3380c477105b527897cf_icr20image-p-800.jpeg)
 
 ICR allows us to quickly read handwritten information on paper and convert it into a digital format. **ICR engines** work with OCR to automate data capture from forms and eliminate the need for manual keying for entering data. It features a high level of accuracy and is a reliable way to save time in processing a variety of information.
 
@@ -94,7 +94,7 @@ This method of data collection is closely associated with video analysis and inv
 
 Artificial Intelligence is ultimately an umbrella term for different artificial intelligence techniques. AI is best viewed in the context of the use case and application. Examples of data capture methods are:
 
-![Data capture is the process of getting information together for the computer to process.](/uploads/fb_4glvx0aibtfp.jpeg)
+![Artificial intelligence image](/uploads/fb_4glvx0aibtfp.jpeg)
 
 * Computer vision, image, or pattern recognition to improve the recognition of any type of image.
 * Neural Networks & Machine learning to assist in accurate recognition training based on large data sets and assisted learning.
