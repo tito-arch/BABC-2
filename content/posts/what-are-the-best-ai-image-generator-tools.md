@@ -98,4 +98,4 @@ A fun fact is that Pixray is free to use. also you may think that Pixray is only
 
 With starry AI you are limited to only produce images for night sky images as the name suggests. Since starry AI does not create that complicated images you are only required to use a very short prompt of what you want to create. Very easy to use and produces very dramatic skies and stars. a go-to tool for photoshop users and graphic designers i found this wonderful image created by starry AI:
 
-![](/uploads/shutterstock_1936603141.jpg)
+![](/uploads/1_ctt5xtojcbpc2eso7hpffa.webp)
