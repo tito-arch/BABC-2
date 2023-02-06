@@ -19,6 +19,8 @@ Artificial intelligence is becoming popular nowadays even with different types o
 
 But personally, if I were to be asked Monalisa's art usually receives a lot of unnecessary attention maybe because of its artist Leonard DaVinci who was best known to hide messages in his art maybe that's why. But one shocking fact is that today using the right prompts and Ai tools you can be able to create Monalisa's art within minutes with all the details and everything check this out.
 
+![](/uploads/2a7e9f9d00000578-3159292-the_new_living_mona_lisa_uses_artificial_intelligence_to_make_a_-a-77_1436792724386.jpg)
+
 But today we are not going to look at history art but more on ai art. and when i say ai art this is a broad term which needs to be broken into small pieces so that 
 
 we can understand everything. This ai art is created by ai art generators which are basically software programs which have being programmed to do so. i have selected the best 6 out of the
