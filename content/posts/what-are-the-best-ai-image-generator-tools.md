@@ -16,7 +16,7 @@ Artificial intelligence is becoming popular nowadays with different types of Ai 
 
 ![](/uploads/merlin_137029152_aa4f1816-a22b-477d-8ee4-ebeb6c390ce4-superjumbo.webp)
 
-But personally, if I were to be asked Monalisa's art usually receives a lot of unnecessary attention maybe because of its artist Leonard DaVinci who was best known to hide messages in his art maybe that's why. But one shocking fact is that today using the right prompts and Ai tools you can be able to create Monalisa's art within minutes with all the details and everything check this out.
+But personally, if I were to be asked Monalisa's art usually receives a lot of unnecessary attention considering how small it is maybe because of its artist Leonard DaVinci who was best known to hide messages in his art maybe that's why the masterpiece is so famous. But one shocking fact is that today using the right prompts and Ai tools you can be able to create Monalisa's art within minutes with all the details and everything check this out.
 
 ![](/uploads/2a7e9f9d00000578-3159292-the_new_living_mona_lisa_uses_artificial_intelligence_to_make_a_-a-77_1436792724386.jpg)
 
