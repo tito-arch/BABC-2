@@ -12,7 +12,7 @@ caption = "image credits: Pinterest"
 image = "/uploads/lexica.webp"
 
 +++
-Artificial intelligence is becoming popular nowadays even with different types of Ai being released in the market which are actually accessible to anyone in the world as long as you have your phone or computer. Nowadays, it's very difficult to recognize what is made by Ai and a human. especially art which for the longest time humans have been known to create some of the most stunning art. One example is Mona Lisa, which despite being drawn a century ago we still value. And still, people from all walks of the world fly all the way to the **gallery of the Louvre Museum in Paris** museum just to see Monalisa's art. 
+Artificial intelligence is becoming popular nowadays with different types of Ai being released in the market which are actually accessible to anyone in the world as long as you have your phone or computer. Nowadays, it's very difficult to recognize what is made by Ai and a human. especially art which for the longest time humans have been known to create some of the most stunning art. One example is Mona Lisa, which despite being drawn a century ago we still value. And still, people from all walks of the world fly all the way to the **gallery of the Louvre Museum in Paris** museum just to see Monalisa's art. 
 
 ![](/uploads/merlin_137029152_aa4f1816-a22b-477d-8ee4-ebeb6c390ce4-superjumbo.webp)
 
