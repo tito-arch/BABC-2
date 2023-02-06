@@ -13,7 +13,11 @@ caption = "image credits: Pinterest"
 image = "/uploads/untitled-1.jpg"
 
 +++
-Artificial intelligence is becoming popular nowadays even with different types of Ai being released in the market which are actually accessible to anyone in the world as long as you have your phone or computer. Nowadays, it's very difficult to recognize what is made by Ai and a human. especially art which for the longest time humans have been known to create some of the most stunning art. One example is Mona Lisa, which despite being drawn a century ago we still value. it and still, people from all walks of the world fly all the way to **gallery of the Louvre Museum in Paris** museum just to see Monalisa art. but personally if i were to be asked Monalisa art usually receives alot of unnecessary attention maybe because of its artist leornald davinci who was best known to hide messages in his art maybe thats why. but one shocking fact is that today using the right prompts and tools you can be able to create monalisa within minutes applying all the details and everything checkthis out.....
+Artificial intelligence is becoming popular nowadays even with different types of Ai being released in the market which are actually accessible to anyone in the world as long as you have your phone or computer. Nowadays, it's very difficult to recognize what is made by Ai and a human. especially art which for the longest time humans have been known to create some of the most stunning art. One example is Mona Lisa, which despite being drawn a century ago we still value. And still, people from all walks of the world fly all the way to the **gallery of the Louvre Museum in Paris** museum just to see Monalisa's art. 
+
+![](/uploads/merlin_137029152_aa4f1816-a22b-477d-8ee4-ebeb6c390ce4-superjumbo.webp)
+
+But personally, if I were to be asked Monalisa's art usually receives a lot of unnecessary attention maybe because of its artist Leonard DaVinci who was best known to hide messages in his art maybe that's why. But one shocking fact is that today using the right prompts and Ai tools you can be able to create Monalisa's art within minutes with all the details and everything check this out.
 
 But today we are not going to look at history art but more on ai art. and when i say ai art this is a broad term which needs to be broken into small pieces so that 
 
