@@ -21,25 +21,25 @@ But personally, if I were to be asked Monalisa's art usually receives a lot of u
 
 ![](/uploads/2a7e9f9d00000578-3159292-the_new_living_mona_lisa_uses_artificial_intelligence_to_make_a_-a-77_1436792724386.jpg)
 
-But today we are not going to look at history art but more on ai art. and when i say ai art this is a broad term which needs to be broken into small pieces so that 
+But today we are not going to look at history art but more on Ai art. When I say AI art this is a broad term that needs to be broken into small pieces so that we can understand everything.
 
-we can understand everything. This ai art is created by ai art generators which are basically software programs which have being programmed to do so. i have selected the best 6 out of the
+# What are Ai image generators?
 
-ai generators out their. 
+Ai image generators are basically software programs that have been programmed to create art by entering a prompt of what you want to create.
 
-How can i use this ai generator tools?
+## How do these Ai generators work?
 
-As the name suggests this ai generator are basically ai trained models used to create art.this ai uses text input from the user and  tries to and match from whatever they have been trained on
+As the name suggests, these AI generators are basically trained models used to create art. These models use text input from the user and through machine learning and neural networks processes the input to generate different variations of the image.
 
-and by using machine learning they can produce unique outputs hence they are now used by artists and fashion designers to come up with unique styles of art.others may just use this generators
+## How can I use these image generator tools?
 
-to simply create an avatar for their business an artwork for their office etc.but due to high demand of this models their are many diffrent of them in the internet each with diffrent caapabilities 
+Since the data used to train these models is huge this makes them produce unique content every time you generate an image hence they are now used by artists and fashion designers to come up with unique styles of art.
 
-and weaknesses also so if you are feeling confused on the best art generator worry no more
+Others may just use these generators to simply create an avatar for their business artwork for their office etc. but due to the high demand for these models there are many different of them on the internet each with different capabilities and weaknesses also so if you are feeling confused on the best art generator worry no more
 
-1\.DALL-E 2
+1. DALL-E 2
 
-DALL-E 2 was introduced to the public on.......and since then it has gained alot of popularity due to its capability to produce accurate creative high quality pictures.by just entering the tsxt and clicking run
+DALL-E 2 was introduced to the public on.......and since then it has gained a lot of popularity due to its capability to produce accurate creative high quality pictures.by just entering the tsxt and clicking run
 
 DALLE-2 will produce multiple options which you can choose from or actually  run it again for refining.whats even makes dalle-2 stand out is its simple to use interface when you can even remove the background or crop the image to your liking
 
