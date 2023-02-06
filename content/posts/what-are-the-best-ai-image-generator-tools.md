@@ -71,32 +71,22 @@ Some of night cafe generated images are:
 
 When it comes to creating photo realistic AI images, especially faces which are very difficult to produce with other generators, then mid-journey is the best. Many people usually use mid-journey to create celebrity faces or even try to create imaginative art.
 
+![](/uploads/tcmcj1qcbfxl1g2i7apa_2x.webp)
+
 Unlike other models, mid-journey is operated through a discord server. Where every art you create is stored there, with options such as download and share your creations. Discord bots are used to refine the picture and produce a very high quality images with different artistic styles after producing you a can also choose the best image produced or even refine it with the options given. Also, mid-journey you can make approximately 25 free photos for free. After that, you must purchase a full membership in order to continue to use it.
 
-The best part is that you can join a work space and learn how others are producing their art and get inspired by others. After producing you can showcase your work or even sell it, as everything you produce you are actually allowed to own it. 
+The best part is that you can join a work space and learn how others are producing their art and get inspired by others. After producing you can showcase your work or even sell it, as with everything you produce you are actually allowed to own it. 
 
-you will also be shocked to realize there are artists on Fiverr who sell that service of creating art using midjourney therefore Ai art generators are source of income to many.
+You will also be shocked to realize there are artists on Fiverr who sell that service of creating art using mid-journey therefore Ai art generators are a source of income to many.
 
 ### Craiyon (Formerly DALL-E mini)
 
-This is my favourite generator as its free to use and its actually accesible to anyone by just visiting their website.unlike dalle craiyon is a little bit slow in terms of speed but so you need to patient while using craiyon.i have used dalle 2 and stable diffusion before
-
-and found that they are both similar in that they are censored so you cant just put any prompt.but with craiyon you are granted all the freedom in the world to put the prompt you want and with this kind of freedom the end resultt is limitless like you can create anything that is in
-
-your mind.and yo are added the advantage of craeting specific style of art a feature you only get with night cafe.check out this craiyon ai image generated:
+This is my favorite Ai generator as it free to use and it's actually accessible to anyone by just visiting their website. unlike Dalle, craiyon is a little bit slow in terms of speed but so you need to be patient while using craiyon, i have used dalle-2 and Stable Diffusion before and found that they are both similar in that they are censored so you can't just put any prompt. But with craiyon you are granted all the freedom in the world to put the prompt you want and with this kind of freedom the end result is limitless like you can create anything that is in your mind. And you are added the advantage of creating specific style of art a feature you only get with night cafe Check out this Craiyon Ai image generated:
 
 ### Pixray
 
-Pixray is a go to tool for all developers due to its ability to provide apis which you can use on your own project or project and a fun fact also pixray is free to use
-
-also you may think that if pixray is only for tech savvy people but no. pxray website has the simplest and a beginner friendly interface.the best part is that while generating you are able to see everything as its happening 
-
-right there on the website so you get an idea of what actually happens in the backend. i must say this was a good and unique touch that pixray deployed.Also whe you head to settings thats where the fun begins yoo are given
-
-freedom to transform your picture into difrent styles still you can convert them into videos and edit them in the most creative manner with all the required tools being there and remember you get to watch everything as its happening somthing you dont get with this other 
-
-generators. 
+Pixray is a go-to tool for all developers due to its ability to provide APIs which you can use on your own project or project and a fun fact also Pixray is free to use also you may think that if Pixray is only for tech-savvy people but no. Pixray website has the simplest and a beginner-friendly interface. The best part is that while generating you are able to see everything as its being created, right there on the website, so you get an idea of what actually happens in the backend. i must say this was a good and unique touch that Pixray deployed.Also, when you head to settings that's where the fun begins you are given freedom to transform your picture into different styles, still you can convert them into videos and edit them in the most creative manner with all the required tools being there and remember you get to watch everything as its happening something you dont get with this other generators. 
 
 ### StarryAi
 
-with starry ai you are limited to only produce images for night sky images as the name suggests.since starry ai does not create that complicated images you are onnly required to use a very short prompt of what you want to create.very easy to use and produces very dramatic skies and stars a go to tool for photoshop users and graphic designers i found this wonderful images created by stary ai:
+With starry AI you are limited to only produce images for night sky images as the name suggests. Since starry AI does not create that complicated images you are only required to use a very short prompt of what you want to create. Very easy to use and produces very dramatic skies and stars. a go-to tool for photoshop users and graphic designers i found this wonderful image created by starry ai:
