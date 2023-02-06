@@ -37,35 +37,27 @@ Since the data used to train these models is huge this makes them produce unique
 
 Others may just use these generators to simply create an avatar for their business artwork for their office etc. but due to the high demand for these models there are many different of them on the internet each with different capabilities and weaknesses also so if you are feeling confused on the best art generator worry no more
 
-1. DALL-E 2
+### DALL-E 2
 
-DALL-E 2 was introduced to the public on.......and since then it has gained a lot of popularity due to its capability to produce accurate creative high quality pictures.by just entering the tsxt and clicking run
+DALL-E 2 was introduced to the public on **November 2022** and since then it has gained a lot of popularity due to its capability to produce accurate creative high quality pictures. by just entering the text and clicking run.
 
-DALLE-2 will produce multiple options which you can choose from or actually  run it again for refining.whats even makes dalle-2 stand out is its simple to use interface when you can even remove the background or crop the image to your liking
+DALLE-2 will produce multiple options which you can choose from, you can even run it again for refining. What makes dalle-2 stand out is its simple-to-use interface where you can even remove the background or crop the image to your liking before uploading.
 
-and yeah as the name suggest this is the version two of dalle 1..but this version 2 has come with some graet improvements which were not there before.in dalle 2 you can also uplaod an imagefrom your computer
+and yeah as the name suggests this is version 2 of dalle-1. but this version 2 has come with some great improvements which were not there before.in Dalle-2 you can also upload an image from your computer. And adding some text inputs on how you want to modify the picture is what makes dalle 2 stand out among the rest generators. Some of the creations of Dalle-2 include:
 
-andadding some text inputs on how you want to modify the picture and this is what makes dalle 2 stand out among the rest generators some of the creations of dalle 2 include
+![](/uploads/screenshot-2022-04-06-at-9-55-11-pm.webp)
 
- 
+### Stable diffusion
 
-2\.stable diffusion
+stable diffusion was developed by stabilityAi with EleutherAI and LAION, this is the simplest to use with its fast accessibility feature and also the best option for newbies who want to crate AI art for the first time. one major drawback to this AI generator is the size and quality of the output image. Where they only produce a small-sized image, but with the beta version of Stable Diffusion it is able to produce high-quality 512x512 pixel images.some of the images created using Stable Diffusion:
 
-satble diffusion was developed by satbilityAi  with EleutherAI and LAION,this is the simmplest to use with its fast accesibility faeture and also the best options for newbies who want to crate ai art for the first time
+![](/uploads/stable-diffusion-press-1024x592.jpeg)
 
-one major drawback to this ai generators is the size an quality of an image.where they only produce a small sized image but with the beta version of stable diffusion it is able to produe high quality 512x512 pixel images.
+### jasper.a.i
 
-some of images created using stable diffusion:
+if you are looking for a generator that will give you high-quality images for personal or even commercial use, then jasper AI should be your first option. This tool is mostly used by graphic designers to create stunning art while others use it to get ideas. jasper ai is actually very simple to use, and you don't even have to have any design experience in order to use its beginner-friendly and most of all its the best high-quality image generator. You can also use it to create website designs, business advertisements and more. Let me show you some art I created by using jasper AI.
 
-3 jasper.a.i
-
-if you are looking for a generator that will give you high quality images for personal or even commercial use then jasper ai should be your first option.this tool is mostly used by graphic designers to create stunning art or even used
-
-to get ideas.jaspear ai is actually very simple to use and you dont even have to have any design experience in order to use it it beginner friendly and most of all the best high quality image generator. you can also use it to create website designs
-
-business advertisement and more.let me show you some art i craetaed by using jasper ai
-
-Night cafe
+### Night cafe
 
 Night cafe is unique among all the other ai generators due to its ability to create art in specific art styles.some popular at styles include “oil painting,” “cubist,” “fantasy,” or “3D game.”
 
@@ -75,7 +67,7 @@ we can say its an improvemnt considering that the video is generated from the th
 
 only five arts and if you want to contiue a $7.99 dollar cahrge is issued.for us who like free things this is a major disspointment.night cafe images
 
-Midjourney 
+### Midjourney 
 
 when it comes to create photo realistic ai images mostly faces which are very difficult to produce with other generators then midjouney is the best. Many people ussully use midjourny to create celebrity faces or even try to 
 
@@ -87,7 +79,7 @@ to use it. the best part is that you can join a work space and learn how others 
 
 allowed to own it. you will also be shocked to realize there are artist on fiverr who sell that service of creating art using midjourney there this is also a source fof income to many.
 
-craiyon(Formerly DALL-E mini)
+### Craiyon(Formerly DALL-E mini)
 
 This is my favourite generator as its free to use and its actually accesible to anyone by just visiting their website.unlike dalle craiyon is a little bit slow in terms of speed but so you need to patient while using craiyon.i have used dalle 2 and stable diffusion before
 
@@ -95,7 +87,7 @@ and found that they are both similar in that they are censored so you cant just 
 
 your mind.and yo are added the advantage of craeting specific style of art a feature you only get with night cafe.check out this craiyon ai image generated:
 
-pixray
+### Pixray
 
 Pixray is a go to tool for all developers due to its ability to provide apis which you can use on your own project or project and a fun fact also pixray is free to use
 
@@ -107,8 +99,6 @@ freedom to transform your picture into difrent styles still you can convert them
 
 generators. 
 
-StarryAi
+### StarryAi
 
-with starry ai you are limited to only produce images for night sky images as the name suggests.since starry ai does not create that complicated images you are onnly required to use a very short prompt of what you want to create.very easy to use and produces very dramatic skies and stars
-
-a go to tool for photoshop users and graphic designers i found this wonderful images created by stary ai:
+with starry ai you are limited to only produce images for night sky images as the name suggests.since starry ai does not create that complicated images you are onnly required to use a very short prompt of what you want to create.very easy to use and produces very dramatic skies and stars a go to tool for photoshop users and graphic designers i found this wonderful images created by stary ai:
