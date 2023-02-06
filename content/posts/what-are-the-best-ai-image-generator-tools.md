@@ -55,31 +55,29 @@ stable diffusion was developed by stabilityAi with EleutherAI and LAION, this is
 
 ### jasper.a.i
 
-if you are looking for a generator that will give you high-quality images for personal or even commercial use, then jasper AI should be your first option. This tool is mostly used by graphic designers to create stunning art while others use it to get ideas. jasper ai is actually very simple to use, and you don't even have to have any design experience in order to use its beginner-friendly and most of all its the best high-quality image generator. You can also use it to create website designs, business advertisements and more. Let me show you some art I created by using jasper AI.
+If you are looking for a generator that will give you high-quality images for personal or even commercial use, then jasper AI should be your first option. This tool is mostly used by graphic designers to create stunning art while others use it to get ideas. jasper ai is actually very simple to use, and you don't even have to have any design experience in order to use its beginner-friendly and most of all its the best high-quality image generator. You can also use it to create website designs, business advertisements and more. Let me show you some art I created by using jasper AI.
+
+![](/uploads/jasper-art-hero.jpg)
 
 ### Night cafe
 
-Night cafe is unique among all the other ai generators due to its ability to create art in specific art styles.some popular at styles include “oil painting,” “cubist,” “fantasy,” or “3D game.”
+Night cafe is unique among all the other AI generators due to its ability to create art in specific art styles. Some popular art styles include “**oil painting**,” “**cubist,**” “**fantasy,**” or “**3D game**.” which when used well with certain keyword prompts can give you very stunning outputs. Also with night cafe, you can be able to make videos. even if its not as high-quality videos as you would produce with our normal camera We can say its an improvemnt considering that the video is generated from shallow text input and with that only it's able to produce very creative art. But a major drawback for night cafe is that its not free like other generators you are even limited to produce. Only five arts and if you want to continue a **$7.99** dollar charge is charged. for us who like free things, this is a major disappointment.
 
-which when used well with certain keywords can give you very stunning outputs..Also with night cafe you can be able to make videos.even if its not that high quality videos as you would produce by our normal camera 
+Some of night cafe generated images are:
 
-we can say its an improvemnt considering that the video is generated from the thin text input and with that only its able to produce very creative art.but a major drawback for night cafe is not free like others you are even limited to produce
-
-only five arts and if you want to contiue a $7.99 dollar cahrge is issued.for us who like free things this is a major disspointment.night cafe images
+![](/uploads/ujjuppj6u04blprjpfqd_2x.webp)
 
 ### Midjourney 
 
-when it comes to create photo realistic ai images mostly faces which are very difficult to produce with other generators then midjouney is the best. Many people ussully use midjourny to create celebrity faces or even try to 
+When it comes to creating photo realistic AI images, especially faces which are very difficult to produce with other generators, then mid-journey is the best. Many people usually use mid-journey to create celebrity faces or even try to create imaginative art.
 
-craate imaginative art.unlike other models midjourney is operated through a discord server.where every art you creted is stored there or you can even download.this discord bots are used to refine the picture and produce a very
+Unlike other models, mid-journey is operated through a discord server. Where every art you create is stored there, with options such as download and share your creations. Discord bots are used to refine the picture and produce a very high quality images with different artistic styles after producing you a can also choose the best image produced or even refine it with the options given. Also, mid-journey you can make approximately 25 free photos for free. After that, you must purchase a full membership in order to continue to use it.
 
-high quality images with diffrent artistic style after producing you a can also choose the best image produced or even refine it with the options given.Also mid journey is not free to use by and you are required to pay........
+The best part is that you can join a work space and learn how others are producing their art and get inspired by others. After producing you can showcase your work or even sell it, as everything you produce you are actually allowed to own it. 
 
-to use it. the best part is that you can join a work space and learn how others are producing their art and get inspired by others.after producing you can showcase your work or even sell it as everything you produce you are actually 
+you will also be shocked to realize there are artists on Fiverr who sell that service of creating art using midjourney therefore Ai art generators are source of income to many.
 
-allowed to own it. you will also be shocked to realize there are artist on fiverr who sell that service of creating art using midjourney there this is also a source fof income to many.
-
-### Craiyon(Formerly DALL-E mini)
+### Craiyon (Formerly DALL-E mini)
 
 This is my favourite generator as its free to use and its actually accesible to anyone by just visiting their website.unlike dalle craiyon is a little bit slow in terms of speed but so you need to patient while using craiyon.i have used dalle 2 and stable diffusion before
 
