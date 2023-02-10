@@ -20,7 +20,7 @@ It's a video editor as you would expect more like Canva but now great with a ton
 
 The nice UI as I mentioned is easy to use with satisfying animations. The tools preset is very simple to use. The naming of menus is straight forward if, for example, you are in the video menu all the tools are in one place and the same goes for images and audio.
 
-## pricing
+## Pricing
 
 The best part about Clipchamp is that it's free to use. You also get free templates with no watermarks of the sort, like you would find in most free video editors. You can also download high-quality 1080p video exports still with this free plan. but also if you want to take your editing to the next level there is a premium subscription which goes for about $7.99.
 
