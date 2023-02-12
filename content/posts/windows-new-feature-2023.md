@@ -49,7 +49,7 @@ Microsoft has updated and added several in-box app experiences with the 2022 upd
 
 ![Microsoft apps](/uploads/taskmanager.png)
 
-We can also notice relocations of actions such as "end task" and "run new task" which have been moved to the top right corner. Just below the windows controls, the graphs have also been made to match your system accent color. Microsoft is building new apps called **Clipchamp** and **family safety** with this new update.
+We can also notice relocations of actions such as "end task" and "run new task" which have been moved to the top right corner. Just below the windows controls, the graphs have also been made to match your system accent color. Microsoft is building new apps called **Clipchamp** and **family safety** with this new update. to know about climpchamp and family  safety read full article [here ](https://www.bunnieabc.com/posts/microsoft-climpchamp-review-and-features-the-last-one-is-the-best/)
 
 # Accessibility
 
