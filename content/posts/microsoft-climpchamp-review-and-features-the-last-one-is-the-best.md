@@ -26,7 +26,7 @@ The best part about Clipchamp is that it's free to use. You also get free templa
 
 ![](/uploads/clipchamp_897_pricing-screenshot_1626182588_cx62j.webp)
 
- I know you are probably asking why you need to upgrade your plan whereas the free one comes with a ton full of features and even exceeds expectations but ill tell you why you need the premium plan just stick to the end.
+I know you are probably asking why you need to upgrade your plan whereas the free one comes with a ton full of features and even exceeds expectations but ill tell you why you need the premium plan just stick to the end.
 
 ## UI and UX (interface and user experience)
 
@@ -38,10 +38,28 @@ For newbies, you don't have to struggle to get around some things. Everything is
 
 ## Screen Recording
 
-When you enter the screen recording menu you will be required to choose one out of the four options i.e. camera, screen, camera & screen, and text to speech. Each does as the name states very easy and straight forward.
+When you enter the screen recording menu you will be required to choose one out of the four options i.e. camera, screen, camera & screen, and text to speech. Each does as the name states very easily and straight forward.
 
 All you are required to do is to grant the webcam and mic permissions then start recording your video easy pizzy right? mostly applicable in webinars
 
 The built-in text-to-speech is like a robot narrator where you put your text in the required field and choose a language pitch and speed to your liking. _A small tip:_ make sure it sounds like a human. Because as I said before text-to-speech is like a robot you must control it to give you a human realistic voice. When you are done, save the clip and drag it to the timeline of your video ready to use. Cool right!
 
-## 
+## Stock Libraries
+
+If you are someone who likes to add a touch of professionalism to his video then Clipchamp is for you because in Clipchamp there are many options of assets and libraries which you can choose from e.g. stock images stock videos graphics and illustrations and music samples. 
+
+![](/uploads/0-clipchamp-audio-stock-library.webp)
+
+One point to note here is that all these are not free, so you need to purchase them to use them but some vectors and illustrations are free to use just as Canva does. You will mostly spot premium assets with a gold color at the top. Also, you can't preview your image or video before purchasing. That's a minor gripe that Microsoft needs to work on, because how can I buy something without first checking how it is?
+
+## cons
+
+* Another point to note before purchasing Clipchamp is that it's not nearly as powerful as other video editors, i.e. Apple Final Cut Pro, Lightworks, Microsoft video editor, or Adobe software, so if you are a serious videographer creating video budgets then Clipchamp is not for you.
+* You can only export the videos in mp4 format with only four resolution options: 480p,720p, 1080p, or export as a GIF.
+* Sometimes while using larger or longer files it might take more time to process before they are available to be used.
+
+## pros
+
+* You don't need high-quality PCs to use Clipchamp since one is browser-based and also supports low-spec PCs.
+* With Clipchamp you can compress your video to o lower quality to save on processing speed and storage space. 
+* No loss of video quality
