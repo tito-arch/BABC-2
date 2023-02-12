@@ -2,7 +2,7 @@
 author = "P.Gitau"
 categories = "App Updates"
 date = 2023-02-09T12:38:27Z
-description = "Climpchamp was Acquired by Microsoft on 8th sep,2021 on windows 11 22h2 version update checkout the full article here"
+description = "Climpchamp was Acquired by Microsoft on 8th sep,2021 on windows 11 22h2 version "
 tags = ["Video Editing", "Climpchamp"]
 title = "Microsoft ClimpChamp Review and Features(the last one is the best)"
 [cover]
@@ -62,3 +62,7 @@ One point to note here is that all these are not free, so you need to purchase t
 * Another point to note before purchasing Clipchamp is that it's not nearly as powerful as other video editors, i.e.[ Apple Final Cut Pro](https://www.apple.com/final-cut-pro/), [Lightworks](https://lwks.com/), Microsoft video editor, or Adobe software, so if you are a serious videographer creating video budgets then Clipchamp is not for you.
 * You can only export the videos in mp4 format with only four resolution options: 480p,720p, 1080p, or export as a GIF.
 * Sometimes while using larger or longer files it might take more time to process before they are available to be used.
+
+To read about other updates that came along with Clipchamp on the Windows 11 22h2 version, read the full article [here ](https://www.bunnieabc.com/posts/windows-new-feature-2023/)where i cover all the details.
+
+[https://youtu.be/mIMeB8xZt2o](https://youtu.be/mIMeB8xZt2o "https://youtu.be/mIMeB8xZt2o")
