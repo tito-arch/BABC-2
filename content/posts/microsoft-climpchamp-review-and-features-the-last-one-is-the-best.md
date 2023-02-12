@@ -3,7 +3,6 @@ author = "P.Gitau"
 categories = "App Updates"
 date = 2023-02-09T12:38:27Z
 description = "Climpchamp was Acquired by Microsoft on 8th sep,2021 on windows 11 22h2 version update checkout the full article here"
-draft = true
 tags = ["Video Editing", "Climpchamp"]
 title = "Microsoft ClimpChamp Review and Features(the last one is the best)"
 [cover]
