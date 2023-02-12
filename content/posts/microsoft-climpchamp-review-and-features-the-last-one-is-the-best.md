@@ -45,7 +45,7 @@ The built-in text-to-speech is like a robot narrator where you put your text in 
 
 ## Stock Libraries
 
-If you are someone who likes to add a touch of professionalism to his video then Clipchamp is for you because in Clipchamp there are many options of assets and libraries which you can choose from e.g. stock images stock videos graphics and illustrations and music samples. 
+If you are someone who likes to add a touch of professionalism to his video then Clipchamp is for you because in Clipchamp there are many options of assets and libraries which you can choose from e.g. stock images stock videos graphics and illustrations and music samples.
 
 ![](/uploads/0-clipchamp-audio-stock-library.webp)
 
@@ -54,7 +54,7 @@ One point to note here is that all these are not free, so you need to purchase t
 ## pros
 
 * You don't need high-quality PCs to use Clipchamp since one is browser-based and also supports low-spec PCs.
-* With Clipchamp you can compress your video to o lower quality to save on processing speed and storage space. 
+* With Clipchamp you can compress your video to o lower quality to save on processing speed and storage space.
 * No loss of video quality
 
 ## cons
@@ -65,4 +65,4 @@ One point to note here is that all these are not free, so you need to purchase t
 
 To read about other updates that came along with Clipchamp on the Windows 11 22h2 version, read the full article [here ](https://www.bunnieabc.com/posts/windows-new-feature-2023/)where i cover all the details.
 
-[https://youtu.be/mIMeB8xZt2o](https://youtu.be/mIMeB8xZt2o "https://youtu.be/mIMeB8xZt2o")
+{{< youtube mIMeB8xZt2o >}}
