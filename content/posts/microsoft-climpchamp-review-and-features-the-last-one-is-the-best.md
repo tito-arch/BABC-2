@@ -14,9 +14,9 @@ image = "/uploads/clipchamp-teaser-image-538px-wide.png"
 +++
 Video editing has never been easy.it takes a lot of time and energy to make something small. With different video editors in the market, it can be confusing and hard to choose the one that suits your needs, but what if I told you there is one tool that meets all your needs in one place. It's browser-based and also comes with an app for Android and iOS users. Am I talking to no other but Clipchamp want to know how it works? Make sure you read till the end.
 
-# What is ClimpChamp?
+# What is [ClimpChamp](https://clipchamp.com/en/)?
 
-It's a video editor as you would expect more like Canva but now great with a ton of features and a nice UI.climpchamp is good for creating social media assets or maybe if you are a newbie and want to set your foot into video editing. Or even if you are a content creator.
+It's a video editor as you would expect more like [Canva](https://www.canva.com/) but now great with a ton of features and a nice UI.climpchamp is good for creating social media assets or maybe if you are a newbie and want to set your foot into video editing. Or even if you are a content creator.
 
 The nice UI as I mentioned is easy to use with satisfying animations. The tools preset is very simple to use. The naming of menus is straight forward if, for example, you are in the video menu all the tools are in one place and the same goes for images and audio.
 
@@ -54,7 +54,7 @@ One point to note here is that all these are not free, so you need to purchase t
 
 ## cons
 
-* Another point to note before purchasing Clipchamp is that it's not nearly as powerful as other video editors, i.e. Apple Final Cut Pro, Lightworks, Microsoft video editor, or Adobe software, so if you are a serious videographer creating video budgets then Clipchamp is not for you.
+* Another point to note before purchasing Clipchamp is that it's not nearly as powerful as other video editors, i.e.[ Apple Final Cut Pro](https://www.apple.com/final-cut-pro/), [Lightworks](https://lwks.com/), Microsoft video editor, or Adobe software, so if you are a serious videographer creating video budgets then Clipchamp is not for you.
 * You can only export the videos in mp4 format with only four resolution options: 480p,720p, 1080p, or export as a GIF.
 * Sometimes while using larger or longer files it might take more time to process before they are available to be used.
 
