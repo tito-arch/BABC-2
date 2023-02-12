@@ -53,7 +53,7 @@ One point to note here is that all these are not free, so you need to purchase t
 
 ## pros
 
-* You don't need high-quality PCs to use Clipchamp since one is browser-based and also supports low-spec PCs.
+* You don't need high-quality PCs to use Clipchamp since it is browser-based and also supports low-spec PCs.
 * With Clipchamp you can compress your video to o lower quality to save on processing speed and storage space.
 * No loss of video quality
 
