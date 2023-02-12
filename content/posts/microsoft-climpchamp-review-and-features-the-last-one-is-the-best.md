@@ -63,6 +63,6 @@ One point to note here is that all these are not free, so you need to purchase t
 * You can only export the videos in mp4 format with only four resolution options: 480p,720p, 1080p, or export as a GIF.
 * Sometimes while using larger or longer files it might take more time to process before they are available to be used.
 
-To read about other updates that came along with Clipchamp on the Windows 11 22h2 version, read the full article [Everything you need to know about Microsoft's latest update](https://www.bunnieabc.com/posts/windows-new-feature-2023/)where I cover all the details.
+To read about other updates that came along with Clipchamp on the Windows 11 22h2 version, read the full article [Everything you need to know about Microsoft's latest update](https://www.bunnieabc.com/posts/windows-new-feature-2023/) where I cover all the details.
 
 {{< youtube mIMeB8xZt2o >}}
