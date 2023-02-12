@@ -51,14 +51,14 @@ If you are someone who likes to add a touch of professionalism to his video then
 
 One point to note here is that all these are not free, so you need to purchase them to use them but some vectors and illustrations are free to use just as Canva does. You will mostly spot premium assets with a gold color at the top. Also, you can't preview your image or video before purchasing. That's a minor gripe that Microsoft needs to work on, because how can I buy something without first checking how it is?
 
-## cons
-
-* Another point to note before purchasing Clipchamp is that it's not nearly as powerful as other video editors, i.e.[ Apple Final Cut Pro](https://www.apple.com/final-cut-pro/), [Lightworks](https://lwks.com/), Microsoft video editor, or Adobe software, so if you are a serious videographer creating video budgets then Clipchamp is not for you.
-* You can only export the videos in mp4 format with only four resolution options: 480p,720p, 1080p, or export as a GIF.
-* Sometimes while using larger or longer files it might take more time to process before they are available to be used.
-
 ## pros
 
 * You don't need high-quality PCs to use Clipchamp since one is browser-based and also supports low-spec PCs.
 * With Clipchamp you can compress your video to o lower quality to save on processing speed and storage space. 
 * No loss of video quality
+
+## cons
+
+* Another point to note before purchasing Clipchamp is that it's not nearly as powerful as other video editors, i.e.[ Apple Final Cut Pro](https://www.apple.com/final-cut-pro/), [Lightworks](https://lwks.com/), Microsoft video editor, or Adobe software, so if you are a serious videographer creating video budgets then Clipchamp is not for you.
+* You can only export the videos in mp4 format with only four resolution options: 480p,720p, 1080p, or export as a GIF.
+* Sometimes while using larger or longer files it might take more time to process before they are available to be used.
