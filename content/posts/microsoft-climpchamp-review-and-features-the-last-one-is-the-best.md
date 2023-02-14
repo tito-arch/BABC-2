@@ -11,7 +11,7 @@ caption = "image credits: Microsoft"
 image = "/uploads/clipchamp-teaser-image-538px-wide.png"
 
 +++
-Video editing has never been easy.It takes a lot of time and energy to make something small. With different video editors in the market, it can be confusing and hard to choose the one that suits your needs, but what if I told you there is one tool that meets all your needs in one place. It's browser-based and also comes with an app for Android and iOS users. Am I talking to no other but Clipchamp want to know how it works? Make sure you read till the end.
+Video editing has never been easy. It takes a lot of time and energy to make something small. With different video editors in the market, it can be confusing and hard to choose the one that suits your needs, but what if I told you there is one tool that meets all your needs in one place. It's browser-based and also comes with an app for Android and iOS users. Am I talking to no other but Clipchamp want to know how it works? Make sure you read till the end.
 
 # What is [ClimpChamp](https://clipchamp.com/en/)?
 
@@ -49,7 +49,7 @@ If you are someone who likes to add a touch of professionalism to his video then
 
 ![](/uploads/0-clipchamp-audio-stock-library.webp)
 
-One point to note here is that all these are not free, so you need to purchase them to use them but some vectors and illustrations are free to use just as Canva does. You will mostly spot premium assets with a gold color at the top. Also, you can't preview your image or video before purchasing. That's a minor gripe that Microsoft needs to work on, because how can I buy something without first checking whethermit works for me?
+One point to note here is that all these are not free, so you need to purchase them to use them but some vectors and illustrations are free to use just as Canva does. You will mostly spot premium assets with a gold color at the top. Also, you can't preview your image or video before purchasing. That's a minor gripe that Microsoft needs to work on, because how can I buy something without first checking whether it works for me?
 
 ## pros
 
