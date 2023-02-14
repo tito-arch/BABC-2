@@ -23,7 +23,7 @@ The nice UI as I mentioned is easy to use with satisfying animations. The tools 
 
 The best part about Clipchamp is that it's free to use. You also get free templates with no watermarks of the sort, like you would find in most free video editors. You can also download high-quality 1080p video exports still with this free plan. but also if you want to take your editing to the next level there is a premium subscription which goes for about $7.99.
 
-![](/uploads/clipchamp_897_pricing-screenshot_1626182588_cx62j.webp)
+![climchamp pricing table](/uploads/clipchamp_897_pricing-screenshot_1626182588_cx62j.webp)
 
 I know you are probably asking why you need to upgrade your plan whereas the free one comes with a ton full of features and even exceeds expectations but I'll tell you why you need the premium plan just stick to the end.
 
@@ -31,7 +31,7 @@ I know you are probably asking why you need to upgrade your plan whereas the fre
 
 The first thing to catch your eye when you enter the website is the nice interface, well-arranged menus, and cool animations all over the place.
 
-![](/uploads/nh6e6qknvkbjv9i6mnyyxs-970-80-png.webp)
+![climchamp user interface](/uploads/nh6e6qknvkbjv9i6mnyyxs-970-80-png.webp)
 
 For newbies, you don't have to struggle to get around some things. Everything is in one place. All the magic happens when you enter the templates' menu where you can build your template or even start by using the prebuilt template just as you would do with Canva. For YouTubers and all content creators, the major challenge is actually finding the right aspect ratios for your videos thumbnails, or even images on social media, but worry no more since Climpchamp takes care of everything for you and with one click of a button you are good to go.
 
@@ -47,7 +47,7 @@ The built-in text-to-speech is like a robot narrator where you put your text in 
 
 If you are someone who likes to add a touch of professionalism to his video then Clipchamp is for you because in Clipchamp there are many options of assets and libraries which you can choose from e.g. stock images stock videos graphics and illustrations and music samples.
 
-![](/uploads/0-clipchamp-audio-stock-library.webp)
+![climchamp stock libraries](/uploads/0-clipchamp-audio-stock-library.webp)
 
 One point to note here is that all these are not free, so you need to purchase them to use them but some vectors and illustrations are free to use just as Canva does. You will mostly spot premium assets with a gold color at the top. Also, you can't preview your image or video before purchasing. That's a minor gripe that Microsoft needs to work on, because how can I buy something without first checking whether it works for me?
 
