@@ -8,7 +8,7 @@ title = "Why ChatGPT won’t replace developers."
 [cover]
 alt = "A developer operating on ChatGPT"
 caption = "image credits: Dreamstime"
-image = "/uploads/chatgpt.webp"
+image = "/uploads/1_x36lf_qqpbgkbj8_fu6flg.jpeg"
 
 +++
 Are you worried that ChatGPT will replace Software Developers who said so? Worry no more here is what I have for you, take your time to read this one, sit back relax, and enjoy.
