@@ -52,4 +52,4 @@ First, we saw this feature in GB WhatsApp Remember all the other WhatsApp other 
 
 When someone updates their status, you will be notified with a green ring along the profile picture, and you can click to directly view the status. With this feature, you are assured of being updated on everything that gets posted.
 
-Thank you for reading this blog. make sure you don't miss anything in the tech world because I always update you on the vast amounts of trends and updates happening all around the world. if you enjoyed this article you might also like this one.
+Thank you for reading this blog. make sure you don't miss anything in the tech world because I always update you on the vast amounts of trends and updates happening all around the world. if you enjoyed this article you might also like this one. [WhatsApp to stop working on some phones from 1 Jan 2023](https://www.bunnieabc.com/posts/whatsapp-to-stop-working-on-some-phones-from-1-jan-2023/)
