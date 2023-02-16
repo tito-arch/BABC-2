@@ -35,8 +35,8 @@ This is my favorite out of all. Because most of the time you may want to quickly
 
 ![](/uploads/screenshot-2023-02-07-at-2-22-11-pm-1.png)
 
-Now you can send voice notes to alert friends and family about anything rather than spending all the time in the world typing or searching for an image or a video that matches your message. Making our interactions simpler.
-
+Now you can send voice notes to alert friends and family about anything rather than spending all the time in the world typing or searching for an image or a video that matches your message. Making our interactions simpler.The only limit is you can only send a 30 seconds recorded audio.but a great life hack would be sending many 30 seconds recorded audios which can be a little bit frustrating for listeners
+We hope Whatsapp can increase the time span in their coming updates. another feature we hope to see is the download option for videos and images in the status section.
 ## Status Reactions
 
 After being requested for a while, finally, status reactions are here with us. Remember, first we saw this feature on the chat page only, but now you can efficiently compliment a friend or react using the default 8 emojis by tapping once and just like that the reaction emoji is sent. Make sure you don't tap twice or overdo it. 
