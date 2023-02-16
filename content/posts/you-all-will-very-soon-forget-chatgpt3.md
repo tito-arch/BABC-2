@@ -3,7 +3,6 @@ author = "M.I.Titus"
 categories = "Artificial Intelligence & Machine Learning"
 date = 2023-02-16T18:50:10Z
 description = "Scientific discovery may not be satisfying as sex but the satisfaction lasts longer"
-draft = true
 tags = ["Google", "Open Ai"]
 title = "You all will very soon forget ChatGPT3 "
 [cover]
