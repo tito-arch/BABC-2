@@ -10,9 +10,9 @@ tags:
 - Genesis Post
 - 'Initial '
 - bunnieabc
-
 image: imageedit_4_3671584613.jpg
 author: M.I.Titus
+categories: Artificial Intelligence & Machine Learning
 
 ---
 Hi!
