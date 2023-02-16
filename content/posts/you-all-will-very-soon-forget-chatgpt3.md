@@ -7,9 +7,9 @@ draft = true
 tags = ["Google", "Open Ai"]
 title = "You all will very soon forget ChatGPT3 "
 [cover]
-alt = "bunnie abc"
-caption = ""
-image = ""
+alt = "You all will very soon forget ChatGPT3 "
+caption = "Image credits: TechTalks"
+image = "/uploads/you-all-will-very-soon-forget-chatgpt3.webp"
 
 +++
 > AI could be the worst invention in the history of our civilization that brings dangers like powerful autonomous weapons or new ways for the few to oppress the many. AI could also be the best invention in the history of our civilization that helps eradicate poverty and disease and fundamentally transforms our approach to understanding our place in the cosmos.
@@ -40,6 +40,34 @@ These companies blamed the economy, and inflation as to why they had these massi
 
 So Google's reputation was really at stake here, soon they swallowed their words and officially announced their AI chatbot.
 
-### Meet Bard, the ChatGPT Killer
+### Meet Bard, the ChatGPT "Killer"
 
-On February 6,2023 [A message from our CEO - Sundar Pichai]() in the company news segment google fired their bullet, **Bard!** sounds bad? completion is all we needed only the best wins for sure. ChatGPT was dominating and Google had dominated search for decades
+On February 6,2023 [A message from our CEO - Sundar Pichai]() in the company news segment google fired their bullet, **Bard!** sounds bad? completion is all we needed only the best wins for sure. ChatGPT was dominating and Google had dominated search for decades. 
+
+**Google's Bard**  happened to wrongly answer the question:
+
+ "**What new discoveries from the James Webb Space Telescope (**JWST**) can I tell my 9-year-old about?**"
+
+_Bard's wrong answer:_
+
+**The (**James Webb Space Telescope**) JWST took the very first pictures of a planet outside of our own solar system.**
+
+This was a Twitter advertisement and everything went unnoticed until there was one reply opposing what the 9-year-old was about to listen 😂😂 my blog has Emoji support so bookmark it.
+
+![](/uploads/screenshot-from-2023-02-17-01-38-17.png)
+
+Apparently, JWST had been bestowed an honor that did not belong to it. 
+
+### Bard's Presentation went Bad
+
+That tweet alone saw Google's parent company, Alphabet Inc shares tank by $100billion
+
+![](/uploads/screenshot-from-2023-02-17-01-49-45.png)
+
+$ 100 billion never to be seen again the forecast Google had made about "reputational risk" hunted them down. Google will in one way, or another recover from that since it's a great company.
+
+## Let the AI battle begin
+
+$ 100 billion can be considered a bell, the fight has begun. ChatGPT is yet to meet its rival it makes stupid mistakes and at times provides nonsensical answers, the guys at OpenAi know that too well, Why? ChatGPT lacks a crucial cord guess...
+
+If your guess was access to the internet resulting in limited knowledge of events then start using Bard, in conclusion, Google has signed up to battle OpenAi and the odds are favoring them google has all access to the latest data and Bard has access to the internet expect Google to dominate at what they know best, **search**!
