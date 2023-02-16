@@ -3,7 +3,6 @@ author = "P.Gitau"
 categories = "App Updates"
 date = 2023-02-12T10:07:45Z
 description = "Introducing: link previews, voice messages, status reactions,among many more"
-draft = true
 tags = ["Meta", "WhatsApp"]
 title = "Revolutionizing Messaging: WhatsApp's Latest Status Features "
 [cover]
