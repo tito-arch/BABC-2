@@ -41,7 +41,7 @@ So Google's reputation was really at stake here, soon they swallowed their words
 
 ### Meet Bard, the ChatGPT "Killer"
 
-On February 6,2023 [A message from our CEO - Sundar Pichai]() in the company news segment google fired their bullet, **Bard!** sounds bad? Completion at this point is all we needed only the best wins for sure. ChatGPT was dominating and Google had dominated search for decades.
+On February 6,2023:[ A message from our CEO - Sundar Pichai](https://blog.google/technology/ai/bard-google-ai-search-updates/) in the company news segment google fired their bullet, **Bard!** sounds bad? Completion at this point is all we needed only the best wins for sure. ChatGPT was dominating and Google had dominated search for decades.
 
 **Google's Bard**  happened to wrongly answer the question:
 
