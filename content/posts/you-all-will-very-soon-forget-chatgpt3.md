@@ -59,7 +59,7 @@ Apparently, JWST had been bestowed an honor that did not belong to it.
 
 ### Bard's Presentation went Bad
 
-That tweet alone saw Google's parent company, Alphabet Inc shares tank by $100billion 🔻
+That tweet alone saw Google's parent company, Alphabet Inc shares tank by $100billion🔻
 
 ![](/uploads/screenshot-from-2023-02-17-01-49-45.png)
 
