@@ -2,7 +2,7 @@
 author = "P.Gitau"
 categories = "Emerging Issues & Trends"
 date = 2023-02-18T04:20:57Z
-description = "  Google purchased youtube at $1.65bn in 2006 from its three co-founders Jawed Karim, Steve Chen and Chad Hurley"
+description = "  Google Acquired YouTube at $1.65bn in 2006 from its three co-founders Jawed Karim, Steve Chen and Chad Hurley"
 tags = ["Google", "YouTube"]
 title = "Untold Facts About YouTube's Evolution"
 [cover]
