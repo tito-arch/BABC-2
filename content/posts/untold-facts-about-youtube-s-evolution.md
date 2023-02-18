@@ -27,9 +27,9 @@ YouTube is everyone's go-to tool whenever they want to watch a video online or e
  6. How much YouTube earns in a year? The truth is we can know the exact value. Since its most revenue comes from **ads**. Also, YouTube doesn't reveal its **revenue** and **operating income**. But a rough estimate would be around **$15bn** every year which is crazy considering how much it was bought in 2006. But we all have to agree that YouTube was worth **$1.65bn** at that time considering the number of efforts and features Google has added to YouTube. But if regret was a person it could be its 3 co-founders **Jawed Karim, Steve Chen**, and **Chad Hurley** that's according to me.
 
     ![](/uploads/chad_hurley_steve_chen_and_jawed_karim.webp)
- 7.  Over **500 hour**s worth of video content gets uploaded to YouTube **_every minute_**. This would actually take a lifetime for one person to watch just the content uploaded in one hour, which is exactly **30,000 hours of content.**
+ 7.  Over **500 hour**s worth of video content gets uploaded to YouTube **_every minute_**. This would actually take a lifetime for one person to watch just the content uploaded in one hour, which is exactly **30,000 hours of content.** you van watc the real time data as people are apploading the content on[ Every second.com](https://everysecond.io/youtube)
  8. There are **98 versions** of YouTube at the time of writing this blog. This is one of the reasons why YouTube is so successful: anyone on the globe can access the website and share their videos around the whole world. You will also be shocked to find that all these 98 regional versions have different content (other than what you may be able to access in your country) due to specific country regulations.
- 9. More people watch Youtube than TV This is not shocking because nowadays, it is easier to access your phone or pc and watch a YouTube video than access a television or a radio. That brings me to another question I received on **Reddit** 
+ 9. More people watch Youtube than TV This is not shocking because nowadays, it is easier to access your phone or pc and watch a YouTube video than access a television or a radio. That brings me to another question I received on [**Reddit**](https://www.reddit.com/) 
 
     > "is YouTube going to kill all the telecommunication companies" 
 
