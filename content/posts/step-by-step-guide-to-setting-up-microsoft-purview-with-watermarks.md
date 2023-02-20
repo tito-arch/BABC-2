@@ -34,6 +34,8 @@ It's an intelligent solution that helps protect your data from loss and govern y
 
 As I said before you need to have a premium subscription to an E5 license. After being approved, navigate to the Microsoft purview portal. Under the **information protection page** click **labels** and then below you will see an option to Simply set up a **new sensitivity label**. You will also be required to put a name and meeting description which will enable other users to know what the label is all about.
 
+![](/uploads/picture1.png)
+
 Under the **define scope,** make sure you include meetings since this helps configure protection in all your files automatically without having to do it again. You can leave the other options as default.
 
 and click next where you will be redirected to the configure encryption page. Make sure you choose **protect teams and meetings** chats, which is exactly what we want in this tutorial. Remember this setting will apply to this meeting. and you will have to redo it again for other meetings. I also love what Microsoft has done here under settings for **teams and meetings** since the admin can control end-to-end encryption for video and audio meetings.
