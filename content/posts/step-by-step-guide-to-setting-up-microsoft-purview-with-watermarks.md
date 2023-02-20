@@ -11,7 +11,7 @@ caption = "image credits: Microsoft"
 image = "/uploads/3-watermarking.png"
 
 +++
-According to research done by **sharfshark** and **comparitech** the study showed that every year there are millions of data leaked every year, e.g. **California** has suffered the most data breaches than other states in a 15-year period the results also showed that in these breaches more than 5.6 sensitive billion records were exposed between 2005 and 2020. But 2021 was so far the worst year for big companies like **Microsoft** where 10.8 billion top secret records were leaked.
+According to research done by **sharfshark** and **comparitech** the study showed that every year there are millions of data leaked for example. **California** has suffered the most data breaches than other states in a 15-year period the results also showed that in these breaches more than 5.6 sensitive billion records were exposed between 2005 and 2020. But 2021 was so far the worst year for big companies like **Microsoft** where 10.8 billion top secret records were leaked.
 
 Other notable breaches in 2021. were
 
