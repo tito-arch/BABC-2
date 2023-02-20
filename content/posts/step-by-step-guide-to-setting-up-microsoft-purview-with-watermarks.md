@@ -22,7 +22,7 @@ Other notable breaches in 2021. were
 > * Brazilian resident data leak (660 million) records
 > * LinkedIn (500 million) records
 
-But since all this is happening we have to ask ourselves who leaks this data, how can we protect our company data from being such victims, and let's say our data is leaked can we trace it back to whoever leaked it. so join me in this journey as we talk a look at some of the new protection features Microsoft has put into place to keep companies' information safe.
+But since all this is happening we have to ask ourselves who leaks this data, how can we protect our company data from being such victims, and let's say our data is leaked can we trace it back to whoever leaked it. so join me in this journey as we talk a look at some of the new protection features **_Microsoft_** has put into place to keep companies' information safe.
 
 # What is Microsoft's Purview?
 
@@ -40,12 +40,12 @@ and click next where you will be redirected to the configure encryption page. Ma
 
 This is the same place we are going to apply watermarks to shared content or in every user presentation feed. Make sure all these options are checked and leave the other ones as default. Remember to prevent users from copying chat content from the clipboard Since that option is there why not use it because the main aim here is to make sure all the data shared is encrypted and safe.
 
-After checking everything is fine, click the publish button and share the label with all your organization users.
+After checking everything is fine, click the **_publish_** button and share the label with all your organization users.
 
 ## How to use Microsoft purview labels from the user's perspective
 
-Navigate to the Outlook app and since I am assuming it's not your first time using Outlook, go to **meetings** where you will be provided with options to select the label you want to use for your meeting. It's purely optional, but make sure you choose the encrypted label which was provided by your meeting admins.
+Navigate to the **Outlook** app and since I am assuming it's not your first time using Outlook, go to **meetings** where you will be provided with options to select the label you want to use for your meeting. It's purely optional, but make sure you choose the encrypted label which was provided by your meeting admins.
 
-all the attendees will now see an icon saying that the meeting is encrypted. and still when the admin is presenting a watermarked label with your email address in the presentation feed. this makes sure that the attendees cannot screenshot the conversation being presented or maybe share it with others as they can be easily traced back. This is  only one feature out of many that Microsoft has to protect teams meetings there are other methods still that am going to cover so make sure you follow along and always keep it **Bunnieabc** 
+All the attendees will now see an icon saying that **the meeting is encrypted**. and still when the admin is presenting a watermarked label with your email address in the presentation feed. this makes sure that the attendees cannot screenshot the conversation being presented or maybe share it with others as they can be easily traced back. This is  only one feature out of many that Microsoft has to protect teams meetings there are other methods still that am going to cover so make sure you follow along and always keep it [**Bunnieabc**](https://blog.bunnieabc.com/)
 
-zcfcDH4FbVo
+{{< youtube zcfcDH4FbVo >}}
