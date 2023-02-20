@@ -61,6 +61,6 @@ All the attendees will now see an icon saying that **the meeting is encrypted**.
 
 ![](/uploads/2023-02-18-13_28_44-clipboard-1536x783.png)
 
-This is  only one feature out of many that Microsoft has to protect teams meetings there are other methods still that am going to cover so make sure you follow along and always keep it [**Bunnieabc**](https://blog.bunnieabc.com/)
+This is  only one feature out of many that **Microsof**t has to protect teams meetings there are other methods still that am going to cover so make sure you follow along and always keep it [**Bunnieabc**](https://blog.bunnieabc.com/)
 
 {{< youtube zcfcDH4FbVo >}}
