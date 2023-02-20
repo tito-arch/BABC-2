@@ -3,7 +3,6 @@ author = "P.Gitau"
 categories = "Emerging Issues & Trends"
 date = 2023-02-20T14:20:06Z
 description = "This new microsoft feature will save companies from data breach and protect sensitive information from leaking to unwanted hands"
-draft = true
 tags = ["Purview labels", "Microsoft"]
 title = "Step-by-Step Guide to Setting up Microsoft Purview with Watermarks"
 [cover]
@@ -38,7 +37,15 @@ As I said before you need to have a premium subscription to an E5 license. After
 
 Under the **define scope,** make sure you include meetings since this helps configure protection in all your files automatically without having to do it again. You can leave the other options as default.
 
-and click next where you will be redirected to the configure encryption page. Make sure you choose **protect teams and meetings** chats, which is exactly what we want in this tutorial. Remember this setting will apply to this meeting. and you will have to redo it again for other meetings. I also love what Microsoft has done here under settings for **teams and meetings** since the admin can control end-to-end encryption for video and audio meetings.
+![](/uploads/picture3.png)
+
+and click next where you will be redirected to the configure encryption page. Make sure you choose **protect teams and meetings** chats, which is exactly what we want in this tutorial. 
+
+![](/uploads/picture4.png)
+
+Remember this setting will apply to this meeting. and you will have to redo it again for other meetings. I also love what Microsoft has done here under settings for **teams and meetings** since the admin can control end-to-end encryption for video and audio meetings.
+
+![](/uploads/picture5.png)
 
 This is the same place we are going to apply watermarks to shared content or in every user presentation feed. Make sure all these options are checked and leave the other ones as default. Remember to prevent users from copying chat content from the clipboard Since that option is there why not use it because the main aim here is to make sure all the data shared is encrypted and safe.
 
@@ -48,6 +55,12 @@ After checking everything is fine, click the **_publish_** button and share the 
 
 Navigate to the **Outlook** app and since I am assuming it's not your first time using Outlook, go to **meetings** where you will be provided with options to select the label you want to use for your meeting. It's purely optional, but make sure you choose the encrypted label which was provided by your meeting admins.
 
-All the attendees will now see an icon saying that **the meeting is encrypted**. and still when the admin is presenting a watermarked label with your email address in the presentation feed. this makes sure that the attendees cannot screenshot the conversation being presented or maybe share it with others as they can be easily traced back. This is  only one feature out of many that Microsoft has to protect teams meetings there are other methods still that am going to cover so make sure you follow along and always keep it [**Bunnieabc**](https://blog.bunnieabc.com/)
+![](/uploads/picture8.png)
+
+All the attendees will now see an icon saying that **the meeting is encrypted**. and still when the admin is presenting a watermarked label with your email address in the presentation feed. this makes sure that the attendees cannot screenshot the conversation being presented or maybe share it with others as they can be easily traced back.
+
+![](/uploads/2023-02-18-13_28_44-clipboard-1536x783.png)
+
+This is  only one feature out of many that Microsoft has to protect teams meetings there are other methods still that am going to cover so make sure you follow along and always keep it [**Bunnieabc**](https://blog.bunnieabc.com/)
 
 {{< youtube zcfcDH4FbVo >}}
