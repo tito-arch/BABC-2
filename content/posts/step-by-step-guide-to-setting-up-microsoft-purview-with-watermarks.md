@@ -11,23 +11,23 @@ caption = "image credits: Microsoft"
 image = "/uploads/3-watermarking.png"
 
 +++
-According to research done by[ **sharfshark**](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwijv5bz2KT9AhUvkGgJHUwvDkcYABAAGgJ3Zg&ohost=www.google.com&cid=CAESbOD2zQtr239cSifcgajeQNfkyJPY34YRGbt9oWaj6mJ8XHfM0-I8uT-79SRpnbnukzHtFSojAD_daeDlKjbJTfo4fDJGa6SHP8AHFiUhygLvIVI2wScaAWIuuHGKRT6hN-hjAoI-x0ySbaO-8A&sig=AOD64_3FAQGhAhXx-BPFkd37XQnfQTcafA&q&adurl&ved=2ahUKEwjB2Y_z2KT9AhWdTqQEHUT-BuwQ0Qx6BAgKEAE) and [**comparitech**](https://www.comparitech.com/)**,** the study showed that every year there are millions of data leaked for example. **California** has suffered the most data breaches than other states in a 15-year period the results also showed that in these breaches more than 5.6 sensitive billion records were exposed between 2005 and 2020. But 2021 was so far the worst year for big companies like **Microsoft** where 10.8 billion top secret records were leaked.
+According to research done by[ **sharfshark**](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwijv5bz2KT9AhUvkGgJHUwvDkcYABAAGgJ3Zg&ohost=www.google.com&cid=CAESbOD2zQtr239cSifcgajeQNfkyJPY34YRGbt9oWaj6mJ8XHfM0-I8uT-79SRpnbnukzHtFSojAD_daeDlKjbJTfo4fDJGa6SHP8AHFiUhygLvIVI2wScaAWIuuHGKRT6hN-hjAoI-x0ySbaO-8A&sig=AOD64_3FAQGhAhXx-BPFkd37XQnfQTcafA&q&adurl&ved=2ahUKEwjB2Y_z2KT9AhWdTqQEHUT-BuwQ0Qx6BAgKEAE) and [**comparitech**](https://www.comparitech.com/)**,** the study showed that every year, millions of data are leaked for example, **California** has suffered the most data breaches than other states in 15 years. The results also showed that in these breaches more than 5.6 sensitive billion records were exposed between 2005 and 2020. But 2021 was so far the worst year for big companies like **Microsoft** where 10.8 billion top secret records were leaked.
 
 Other notable breaches in 2021. were
 
-> * Facebook (533 million) records
-> * Comcast (1.5 billion) records
-> * Byeka (400 million) records
-> * Brazilian resident data leak (660 million) records
-> * LinkedIn (500 million) records
+> * **Facebook (533 million) records**
+> * **Comcast (1.5 billion) records**
+> * **Byeka (400 million) records**
+> * **Brazilian resident data leak (660 million) records**
+> * **LinkedIn (500 million) records**
 
-But since all this is happening we have to ask ourselves who leaks this data, how can we protect our company data from being such victims, and let's say our data is leaked can we trace it back to whoever leaked it. so join me in this journey as we talk a look at some of the new protection features **_Microsoft_** has put into place to keep companies' information safe.
+Two questions, who leaks this data? And how can we protect our company data from being such victims? and let's say our data is leaked, can we trace it to whoever leaked it? So join me in this journey as we take a look at some of the new protection features **_Microsoft_** has put into place to keep companies' information safe.
 
 # What is Microsoft's Purview?
 
-It's an intelligent solution that helps protect your data from loss and govern your data whenever you share it. Remember you need to have a [Microsoft E5 license](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjtmYSr2aT9AhU8kGgJHZdkCv0YABAAGgJ3Zg&ohost=www.google.com&cid=CAESbOD2lEhPi4G2r5iP8cy0eOnsvkxyWmQ09Lu8-XVXf-oc3YW0h7zUfd0aJpXtdwY5O52rxLVh7YdulnxWComCEYlSFftmxqadlJwTBfhOmHoOScwMqGPqtdPt0G0sFatmOgKg0RnVVIkPV5LG5Q&sig=AOD64_2dtKQumMjfX8z4tuNxlttQP6bHWQ&q&adurl&ved=2ahUKEwi3lv2q2aT9AhXRRaQEHWm4DVYQ0Qx6BAgIEAE) to enjoy full capabilities and protections.
+MS Purview is an intelligent solution that helps protect your data from loss also, it governs your data whenever you share it. Remember you need to have a [Microsoft E5 license](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjtmYSr2aT9AhU8kGgJHZdkCv0YABAAGgJ3Zg&ohost=www.google.com&cid=CAESbOD2lEhPi4G2r5iP8cy0eOnsvkxyWmQ09Lu8-XVXf-oc3YW0h7zUfd0aJpXtdwY5O52rxLVh7YdulnxWComCEYlSFftmxqadlJwTBfhOmHoOScwMqGPqtdPt0G0sFatmOgKg0RnVVIkPV5LG5Q&sig=AOD64_2dtKQumMjfX8z4tuNxlttQP6bHWQ&q&adurl&ved=2ahUKEwi3lv2q2aT9AhXRRaQEHWm4DVYQ0Qx6BAgIEAE) to enjoy full capabilities and protections.
 
-**Data** is the most valuable asset in every organization and when data is not safe or falls in the wrong hands it can be very dangerous, **Microsoft** knows this that's why they have several measures that you can take. to make sure your organization's data is safe. one method is setting up **Microsoft Teams meeting protection with watermarks.** This makes sure that all the sensitive information cannot be leaked since the screen is filled with watermarks that show your email address on the presentation feed. This simple but helpful feature helps organizations keep their conversation safe and private. But also in case of data leakages, it can be used to trace back the leak because of the email watermarks all over the screen.
+**Data** is the most valuable asset in every organization and the world when data is not safe or falls in the wrong hands it can be very dangerous, **Microsoft** knows this that's why they have several measures that you can take. To make sure your organization's data is safe, one method is setting up **Microsoft Teams meeting protection with watermarks.** This makes sure that all the sensitive information cannot be leaked since the screen is filled with watermarks that show your email address on the presentation feed. This simple but helpful feature helps organizations keep their conversation safe and private. But also in case of data leakages, it can be used to trace back the leak because of the email watermarks all over the screen.
 
 ## How to set up Microsoft purview with watermarks
 
@@ -39,7 +39,7 @@ Under the **define scope,** make sure you include meetings since this helps conf
 
 ![image describing about define scope image](/uploads/picture3.png)
 
-and click next where you will be redirected to the configure encryption page. Make sure you choose **protect teams and meetings** chats, which is exactly what we want in this tutorial. 
+and click next where you will be redirected to the configure encryption page. Make sure you choose to **protect teams and meeting** chats, which is exactly what we want in this blog.
 
 ![protect teams and meetings image](/uploads/picture4.png)
 
@@ -61,6 +61,6 @@ All the attendees will now see an icon saying that **the meeting is encrypted**.
 
 ![the meeting is encrypted. image](/uploads/2023-02-18-13_28_44-clipboard-1536x783.png)
 
-This is  only one feature out of many that **Microsof**t has to protect teams meetings there are other methods still that am going to cover so make sure you follow along and always keep it [**Bunnieabc **](https://blog.bunnieabc.com/) in the meantime watch the video below to understand more about Microsoft premiums and settings.
+This is one feature out of many that **Microsof**t has to protect teams meetings there are other methods still that am going to cover so make sure you follow along and always keep it [**Bunnieabc **](https://blog.bunnieabc.com/)in the meantime watch the video below to understand more about Microsoft premiums and settings.
 
 {{< youtube zcfcDH4FbVo >}}
