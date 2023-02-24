@@ -26,7 +26,7 @@ Writer allows has two ways to evaluate your text, by inserting the final URl or 
 
 ## 2. [Content at Scale](https://contentatscale.ai/ai-content-detector/)
 
-This is what Content at Scale say about themselves, 
+This is what Content at Scale say about themselves,
 
 > This isn’t an AI writing assistant, this is a human level, long-form, blog post producing machine!
 
@@ -52,8 +52,16 @@ but the UI is not the best and some features like the full website scan dont see
 
 I decided to check the same content with my best tool ![](/uploads/screenshot-from-2023-02-24-09-10-39.png)
 
-you just paste a link and they pull the article. 
+you just paste a link and they pull the article.
 
 Overall, Originality is not a bad tool but it's not the next gen easy to use tool online.
 
-4. Copy Leaks
+## 4. [Copy Leaks](https://copyleaks.com/features/ai-content-detector)
+
+Copy Leaks does not only offer an AI generated detector but also a plagirsm tool that aparently you have to pay for so I did not test it out. For the AI detector, it's easy to use and you dont need an account leave alone a credit card. Just paste in random text and they will determine whether it's from a bot or humanly. **Copy Leaks will also give a percentage if you keep hovering on the text as illustrated below (check bottom LHS)**
+
+![](/uploads/screenshot-from-2023-02-24-14-58-12.png) 
+
+## 5. [Open AI's Classifier](https://platform.openai.com/ai-text-classifier)
+
+Open AI not missing out following their
