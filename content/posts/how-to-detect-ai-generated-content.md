@@ -43,3 +43,5 @@ I think they still need to work on their UI especially the Tablet mode.
 ## [Originality.AI](https://originality.ai/)
 
 Originality was built with publishers in mind and there fore since good things come in pairs, it comes with a plagirism detector tool too which they think "could be better than your current dusty tool".
+
+I put this article into test [Step-by-Step Guide to Setting up Microsoft Purview with Watermarks](https://www.bunnieabc.com/posts/step-by-step-guide-to-setting-up-microsoft-purview-with-watermarks/) and this were the results.
