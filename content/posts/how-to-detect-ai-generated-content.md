@@ -19,7 +19,7 @@ In the world of content making, AI-generated content has become a threat since i
 
 AI-generated content refers to any content (not limited to text) developed by an AI model or a Machine Learning algorithm.
 
-This can be text, images, video, or audio. Some of the applications that can achieve this are **ChatGPT** for **ai generated text** and [**Dalle-2  **](https://www.bunnieabc.com/posts/what-are-the-best-ai-image-generator-tools/#dall-e-2httpsopenaicomdall-e-2)for **ai generated images**. See what ChatGPT is in the article: [_Exploring the Capabilities of Chat GPT a comprehensive guide _](https://www.bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/)
+This can be text, images, video, or audio. Some of the applications that can achieve this are **ChatGPT** for **ai generated text** and [Dalle-2  ](https://www.bunnieabc.com/posts/what-are-the-best-ai-image-generator-tools/#dall-e-2httpsopenaicomdall-e-2)for **ai generated images**. See what ChatGPT is in the article: [Exploring the Capabilities of Chat GPT a comprehensive guide](https://www.bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/) 
 
 **In this article, we'll focus on AI detection tools for text only.**
 
