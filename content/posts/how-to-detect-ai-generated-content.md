@@ -31,3 +31,11 @@ This is what Content at Scale say about themselves,
 > This isn’t an AI writing assistant, this is a human level, long-form, blog post producing machine!
 
 They use a mix of three AI engines to rephrase your content incase it fails and you need to clear the small errors, sometimes you write content and AI insists "That's AI generated" so you have to rephrase afew words. I never analyse articles that I have written myself but I once in a while check submissions done by other authors. I put this post into the test:  [You all will very soon forget ChatGPT3](https://www.bunnieabc.com/posts/you-all-will-very-soon-forget-chatgpt3/) to see how this tool thinks of it and also illustrate the capabilities. Below are the results.
+
+![](/uploads/screenshot-from-2023-02-24-08-42-58.png)
+
+For my esteemed mobile device users:
+
+![](/uploads/screenshot-from-2023-02-24-08-45-13.png)
+
+I think they still need to work on their UI especially the Tablet mode.
