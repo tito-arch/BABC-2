@@ -64,4 +64,13 @@ Copy Leaks does not only offer an AI generated detector but also a plagirsm tool
 
 ## 5. [Open AI's Classifier](https://platform.openai.com/ai-text-classifier)
 
-Open AI not missing out following their
+Open AI has been on the centre stage all along as far as this  pre-trained text generation disruptive technology is concerned. Classifier cannot still do much as Writer does ie: pull an article from a given link, award a percentage score but you can trust whatever report this tool throws back. How will you not?
+
+Not so fast! according to the company, the product was launched to "spark discussions on AI literacy" thus is a free tool.
+
+### Classifier AI Dector Limitations
+
+1. Requires a minimum of 1000 characters (aproximately 150 \~ 250 words).
+2. Not always accurate
+3. Edited AI content could be dificult to discern
+4. Both text written by children and written in other languages eg French could be difficult to detect as it was trained with adult and English written data.
