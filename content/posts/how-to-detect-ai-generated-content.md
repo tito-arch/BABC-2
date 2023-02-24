@@ -74,3 +74,7 @@ Not so fast! according to the company, the product was launched to "spark discus
 2. Not always accurate
 3. Edited AI content could be dificult to discern
 4. Both text written by children and written in other languages eg French could be difficult to detect as it was trained with adult and English written data.
+
+I tested this article meet the results and the UI
+
+![](/uploads/screenshot-from-2023-02-24-15-41-40.png)
