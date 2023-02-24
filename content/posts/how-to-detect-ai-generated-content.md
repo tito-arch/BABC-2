@@ -45,3 +45,13 @@ I think they still need to work on their UI especially the Tablet mode.
 Originality was built with publishers in mind and there fore since good things come in pairs, it comes with a plagirism detector tool too which they think "could be better than your current dusty tool".
 
 I put this article into test [Step-by-Step Guide to Setting up Microsoft Purview with Watermarks](https://www.bunnieabc.com/posts/step-by-step-guide-to-setting-up-microsoft-purview-with-watermarks/) and this were the results.
+
+![](/uploads/screenshot-from-2023-02-24-09-06-21.png)
+
+but the UI is not the best and some features like the full website scan dont seem to work and you strictly need an account.
+
+I decided to check the same content with my best tool ![](/uploads/screenshot-from-2023-02-24-09-10-39.png)
+
+you just paste a link and they pull the article. 
+
+Overall, Originality is not a bad tool but it's not the next gen easy to use tool online.
