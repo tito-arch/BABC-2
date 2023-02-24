@@ -55,3 +55,5 @@ I decided to check the same content with my best tool ![](/uploads/screenshot-fr
 you just paste a link and they pull the article. 
 
 Overall, Originality is not a bad tool but it's not the next gen easy to use tool online.
+
+4. Copy Leaks
