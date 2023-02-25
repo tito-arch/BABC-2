@@ -36,7 +36,7 @@ Writer allows two ways to evaluate your text: inserting the final URl or simply 
 ## 2. [Content at Scale](https://contentatscale.ai?fpr=bunnie)
 
 This is what Content at Scale says about itself,
-
+[![contentatscale](https://d2gdx5nv84sdx2.cloudfront.net/uploads/c71oggyz/marketing_asset/banner/11992/728x90.png)](https://contentatscale.ai?fpr=bunnie)
 > This isn’t an AI writing assistant, this is a human level, long-form, blog post producing machine!
 
 They use a mix of three AI engines to rephrase your content in case it fails and you need to clear the small errors, sometimes you write content and AI insists "That's AI-generated" so you have to rephrase a few words. I never analyze articles that I have written myself but I once in a while check submissions done by other authors. I put this post to the test:  [You all will very soon forget ChatGPT3](https://www.bunnieabc.com/posts/you-all-will-very-soon-forget-chatgpt3/) to see what this tool thinks of it and also illustrate its capabilities. Below are the results.
