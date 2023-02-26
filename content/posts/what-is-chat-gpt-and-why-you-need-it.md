@@ -12,7 +12,7 @@ caption = "image credits: Open AI"
 image = "/uploads/openailogo.webp"
 
 +++
-# [chat GPT](https://chat.openai.com/chat)
+# [chat GPT Save Conversation](https://chat.openai.com/chat)
 
 [Chat GPT ](https://chat.openai.com/chat)(**Generative Pretrained Transformer**) is a type of natural language processing [(**NLP**)](https://blog.bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/#what-is-natural-language-processing-nlp) technology that uses machine learning algorithms to generate human-like responses to text-based inputs. It is developed, owned, and maintained by [Open AI](https://en.wikipedia.org/wiki/OpenAI) a company founded by Elon Musk & Sam Altman. Open AI has also created other technologies like [DALL-E 2](https://blog.bunnieabc.com/posts/what-are-the-best-ai-image-generator-tools/#dall-e-2httpsopenaicomdall-e-2), an AI system that can create realistic images and art from a description in natural language. Chat GPT technology is based on a type of language model known as a **Transformer**, which uses attention mechanisms to process and generate text.
 
