@@ -2,7 +2,7 @@
 author = "P.Gitau"
 categories = "Emerging Issues & Trends"
 date = 2023-02-26T05:57:03Z
-description = "Neural link is a NeralTechnology company that develops implantable computer chips, first founded by Elon Musk in 2016"
+description = "Neural link is a Neural Technology company that develops implantable computer chips, first founded by Elon Musk in 2016"
 draft = true
 tags = ["Elon Musk", "NueralLink"]
 title = "What is Neural Link"
