@@ -1,6 +1,6 @@
 +++
 author = "BABC"
-categories = ["BABC"]
+categories = "Artificial Intelligence & Machine Learning"
 date = 2023-01-31T11:57:10Z
 description = "Make sure You follow This Rules For maximum Productivity"
 draft = true
@@ -41,3 +41,4 @@ image = "/uploads/360_f_321897961_zquh4dfwpmgamvfkd4tp4ms9lwfvqxhq.webp"
     Follow them on YouTube and subscribe to their newsletter to be updated on the best practices of SEO and marketing strategies.
 10. Visit H-super tools for blog title generators and keywords. A research tool just uses that website for ideas, and again don't copy-paste.
 11. Make sure you subscribe to Neil Patel. email newsletter you will thank me later
+12. Display images should be about 800X400 in size always.
