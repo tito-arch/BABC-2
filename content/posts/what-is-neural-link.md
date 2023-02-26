@@ -18,7 +18,7 @@ Hence, we can move a hand or any other body part through these signals. What Sci
 
 # Is Neural Link Safe?
 
-The neural link is not put directly in the brain but in a small hole about **25 mm** in diameter on the skull which makes it completely invisible from the top. during one of the live event done by neurotechnology Elon musk said:
+The neural link is not put directly in the brain but in a small hole about **25 mm** in diameter on the skull which makes it completely invisible from the top. during one of the live demo event done by neurotechnology Elon musk said:
 
 > 'It's kind of like a Fitbit in your skull with tiny wires,'. 'I could have a Neuralink right now and you wouldn't even know. Maybe I do'
 
