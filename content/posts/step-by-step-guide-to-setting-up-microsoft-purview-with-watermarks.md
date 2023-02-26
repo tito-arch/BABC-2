@@ -11,12 +11,12 @@ caption = "image credits: Microsoft"
 image = "/uploads/3-watermarking.png"
 
 +++
-According to research done by[ **sharfshark**](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwijv5bz2KT9AhUvkGgJHUwvDkcYABAAGgJ3Zg&ohost=www.google.com&cid=CAESbOD2zQtr239cSifcgajeQNfkyJPY34YRGbt9oWaj6mJ8XHfM0-I8uT-79SRpnbnukzHtFSojAD_daeDlKjbJTfo4fDJGa6SHP8AHFiUhygLvIVI2wScaAWIuuHGKRT6hN-hjAoI-x0ySbaO-8A&sig=AOD64_3FAQGhAhXx-BPFkd37XQnfQTcafA&q&adurl&ved=2ahUKEwjB2Y_z2KT9AhWdTqQEHUT-BuwQ0Qx6BAgKEAE) and [**comparitech**](https://www.comparitech.com/)**,** the study showed that every year, millions of data are leaked for example, **California** has suffered the most data breaches than other states in 15 years. The results also showed that in these breaches more than 5.6 sensitive billion records were exposed between 2005 and 2020. But 2021 was so far the worst year for big companies like **Microsoft** where 10.8 billion top secret records were leaked.
+According to research done by [**surfshark**](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic_4aXzLL9AhXGse0KHUuuBBcYABAAGgJkZw&ohost=www.google.com&cid=CAESbOD2G2ve3JzZDJk-Cpp0xKQAOlI4tZue72xJdb8t4iSgcYgSXirwFftvf80VnqYbQSCj1JuN0LP4PE3fq7Xo3msD-taXgwgidhirZLn0F-vglxfHeyE5-9-ZqpA8cvtUI85l-oFl85xIi_cLKA&sig=AOD64_04jemY2klOOCwyRzrGeyUOShmBhA&q&adurl&ved=2ahUKEwjSiIGXzLL9AhVVjFwKHb-GCYoQ0Qx6BAgKEAE) and [**comparitech**](https://www.comparitech.com/)**,** the study showed that every year, millions of data are leaked for example, **California** has suffered the most data breaches than other states in 15 years. The results also showed that in these breaches more than 5.6 sensitive records were exposed between 2005 and 2020. But 2021 was so far the worst year for big companies like **Microsoft** where 10.8 billion top secret records were leaked.
 
 Other notable breaches in 2021. were
 
 > * **Facebook (533 million) records**
-> * **Comcast (1.5 billion) records**
+> * **Comcast (1.5 million) records**
 > * **Byeka (400 million) records**
 > * **Brazilian resident data leak (660 million) records**
 > * **LinkedIn (500 million) records**
@@ -27,7 +27,7 @@ Two questions, who leaks this data? And how can we protect our company data from
 
 MS Purview is an intelligent solution that helps protect your data from loss also, it governs your data whenever you share it. Remember you need to have a [Microsoft E5 license](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjtmYSr2aT9AhU8kGgJHZdkCv0YABAAGgJ3Zg&ohost=www.google.com&cid=CAESbOD2lEhPi4G2r5iP8cy0eOnsvkxyWmQ09Lu8-XVXf-oc3YW0h7zUfd0aJpXtdwY5O52rxLVh7YdulnxWComCEYlSFftmxqadlJwTBfhOmHoOScwMqGPqtdPt0G0sFatmOgKg0RnVVIkPV5LG5Q&sig=AOD64_2dtKQumMjfX8z4tuNxlttQP6bHWQ&q&adurl&ved=2ahUKEwi3lv2q2aT9AhXRRaQEHWm4DVYQ0Qx6BAgIEAE) to enjoy full capabilities and protections.
 
-**Data** is the most valuable asset in every organization and the world when data is not safe or falls in the wrong hands it can be very dangerous, **Microsoft** knows this that's why they have several measures that you can take. To make sure your organization's data is safe, one method is setting up **Microsoft Teams meeting protection with watermarks.** This makes sure that all the sensitive information cannot be leaked since the screen is filled with watermarks that show your email address on the presentation feed. This simple but helpful feature helps organizations keep their conversation safe and private. But also in case of data leakages, it can be used to trace back the leak because of the email watermarks all over the screen.
+**Data** is the most valuable asset in every organization and the world when data is not safe or falls in the wrong hands it can be very dangerous, **Microsoft** knows this that's why they have several measures that you can take. To make sure your organization's data is safe, one method is setting up **Microsoft Teams meeting protection with watermarks.** This makes sure that all the sensitive information cannot be leaked since the screen is filled with watermarks that show your email address on the presentation feed. This simple but helpful feature helps organizations keep their conversations safe and private. But also in case of data leakages, it can be used to trace back the leak because of the email watermarks all over the screen.
 
 ## How to set up Microsoft purview with watermarks
 
@@ -47,7 +47,7 @@ Remember this setting will apply to this meeting. and you will have to redo it a
 
 ![settings for team meetings and chats](/uploads/picture5.png)
 
-This is the same place we are going to apply watermarks to shared content or in every user presentation feed. Make sure all these options are checked and leave the other ones as default. Remember to prevent users from copying chat content from the clipboard Since that option is there why not use it because the main aim here is to make sure all the data shared is encrypted and safe.
+This is the same place we are going to apply watermarks to shared content or in every user presentation feed. Make sure all these options are checked and leave the other ones as default. Remember to prevent users from copying chat content from the clipboard, Since that option is there why not use it because the main aim here is to make sure all the data shared is encrypted and safe.
 
 After checking everything is fine, click the **_publish_** button and share the label with all your organization users.
 
