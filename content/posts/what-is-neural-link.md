@@ -30,8 +30,6 @@ Another attempt was with a pig where they were able to read signals. from its li
 
 Because we are now living in the AI world, so if let's say this technology becomes a thing then we will be able to keep pace with the fast rise in technology of AI where you can even be able to control electronic devices using your mind only.
 
-![](/uploads/app-1_adobeexpress-1.gif)
-
 People with brain-related conditions e.g. blindness will now be able to restore sight. how? So the neural link will be connected to your phone which will also be connected to a camera that will record real-time scenes and the feed will be sent to the phone which will also convert the information to machine-readable from
 
 Information sent to the neural chip will now be interpreted by the electrodes implanted directly in the visual cortex of our brain. This will allow people with blindness. from birth to see and perceive the world as we do.
