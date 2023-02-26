@@ -12,7 +12,7 @@ caption = "image credits: Times Now"
 image = "/uploads/95901736.webp"
 
 +++
-Our brains are the most complex and fascinating organs in our body. Because come to think of it, inside our brains, billions of neurons communicate with each other, making trillions of connections that are referred to as synapses, therefore our brains are just like electronic devices that send signals to all the body parts through the nervous system.
+Our brains are the most complex and fascinating organs in our body. Come to think of it, inside our brains, billions of neurons communicate with each other, making trillions of connections that are referred to as synapses, therefore our brains are just like electronic devices that send signals to all the body parts through the nervous system.
 
 Hence, we can move a hand or any other body part through these signals. What Scientists did is they took this basic idea and made chips (neural links) that could put electrodes in our brain and this enabled them to record our brain signals and send and receive information to the brain basically that's what neural link is all about.
 
