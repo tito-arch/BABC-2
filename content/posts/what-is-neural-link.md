@@ -2,7 +2,7 @@
 author = "P.Gitau"
 categories = "Emerging Issues & Trends"
 date = 2023-02-26T05:57:03Z
-description = "Neural link is a nueraltechnology company that develops implantable computer chips, first founded by elon musk in 2016"
+description = "Neural link is a NeralTechnology company that develops implantable computer chips, first founded by Elon Musk in 2016"
 draft = true
 tags = ["Elon Musk", "NueralLink"]
 title = "What is Neural Link"
@@ -18,13 +18,13 @@ Hence, we can move a hand or any other body part through these signals. What Sci
 
 # Is the neural link safe?
 
-The neural link is not put directly in the brain but in a small hole about 25 mm in diameter on the skull. Neurosurgeons that perform these surgeries have to be extremely careful with the brain, which is why there is a whole dedicated **neurosurgical robot** that is capable of inserting the (link) or the electrodes within the shortest time possible.
+The neural link is not put directly in the brain but in a small hole about 25 mm in diameter on the skull. Neurosurgeons that perform these surgeries have to be extremely careful with the brain, which is why there is a whole dedicated **Neurosurgical Robot** that is capable of inserting the (link) or the electrodes within the shortest time possible.
 
 There have been successful attempts already where they put neural link microchips into (Paige) a 9-year-old monkey, and he was able to play pong with his mind.
 
 {{< youtube rsCul1sp4hQ >}}
 
-Another attempt was with a pig where they were able to read signals. from its legs, no humans have already been tested with this technology because still some people are fighting neural links some even saying It's unethical, but the future for the neural link is quite promising.
+Another attempt was with a pig where they were able to read signals. from its limbs and simulate it in real time,yet no humans have already been tested with this technology ,but the future for the neural link is quite promising.
 
 ## What will the neural link do?
 
@@ -34,4 +34,4 @@ People with brain-related conditions e.g. blindness will now be able to restore 
 
 Information sent to the neural chip will now be interpreted by the electrodes implanted directly in the visual cortex of our brain. This will allow people with blindness. from birth to see and perceive the world as we do.
 
-Also, if the neural link can restore sight, it can potentially restore body paralysis. Still wondering how? So the neural link can read the brain motor signals through the electrodes in the motor cortex of our brain and the information is then decoded in real-time, so the idea here is that people with full body paralysis condition can be able to control prosthetic limbs or other devices simply by thinking about it.
+Also, if the neural link can restore sight, it can potentially restore body paralysis. Still wondering how? So basically the neural link can read the brain motor signals through the electrodes in the motor cortex of our brain and the information is then decoded in real-time, so the idea here is that people with full body paralysis condition can be able to control prosthetic limbs or other devices simply by thinking about it.
