@@ -18,7 +18,7 @@ Hence, we can move a hand or any other body part through these signals. What Sci
 
 # Is Neural Link Safe?
 
-The neural link is not put directly in the brain but in a small hole about **25 mm** in diameter on the skull which makes it completely invisible from the top. during one of the live demo events done by neurotechnology Elon musk said:
+The neural link is not put directly in the brain but in a small hole about **25 mm** **in diameter** on the skull which makes it completely invisible from the top. during one of the live demo events done by neurotechnology, Elon Musk said:
 
 > '_It's kind of like a Fitbit in your skull with tiny wires,' 'I could have a Neuralink right now and you wouldn't even know. Maybe I do_'
 
@@ -28,7 +28,7 @@ There have been successful attempts already where they put neural link **microch
 
 {{< youtube rsCul1sp4hQ >}}
 
-Another attempt was with a pig (Gertrude) where they were able to read signals. from its limbs and simulate them in real time.
+Another attempt was with a pig (Gertrude) where they were able to read signals. from its limbs and simulate the datain real time.
 
 {{< youtube NqbQuZOFvOQ >}}
 
@@ -64,16 +64,22 @@ This is the same theory that Musk has, the end capabilities of what we can do wi
 
 An investigation was held which showed that over **1500** animals have been killed in the testing of this technology because for one obvious example, these animals have to undergo **_postmortem_**, and after all, it's all about testing, and anything goes. Still, no humans have been tested with this technology since a lot of research has to be done to ensure it's **_100% efficient_** to be used by humans.
 
-We are aware that our bodies have a natural tendency to reject foreign objects, such as artificial implants, which can result in complications and negative outcomes. For instance, individuals have reported suffering after receiving certain types of body implants. Furthermore, the neural link implant is placed in close proximity to the brain within the skull, and if not done correctly, there is a potential for severe infections, diseases, and even fatal consequences, such as cancer or death.
+We are aware that our bodies have a natural tendency to reject foreign objects, such as **artificial implants,** which can result in complications and negative outcomes. For instance, individuals have reported suffering after receiving certain types of body implants. Furthermore, the neural link implant is placed in close proximity to the brain within the skull, and if not done correctly, there is a potential for severe infections, diseases, and even fatal consequences, such as **cancer** or **death**.
 
 If let's say neural link becomes the next-gen technology. One problem users will be facing is hacking Imagine somebody hacking your brain that means they can have full body control of a person's thoughts motions feelings everything that describes your
 
 Wants this, but this is one of the risks next generation will have, or maybe computer viruses remember this is possible since we said this technology will allow users to connect via **_Bluetooth_** or via **_Wi-Fi_** to all electronic devices this means a hacker can transmit or send a virus via an infected computer connected to your brain.
 
-Let's say you are a person like me who hates ads when browsing or watching a video online. with a neural link connected to your brain, it can be used to know what you like, and this data can be used to display ads to your liking.  It's not shocking that you will see popup ads in your brain sometimes. Still, (_asking how?)_ Maybe at some point, the neural link will have a subscription where you have to pay to use it, since in the world we are living nothing is free, and I don't see this changing for a while.
+Let's say you are a person like me who hates **ads** when browsing or watching a video online. with a neural link connected to your brain, it can be used to know what you like, and this data can be used to display ads to your liking.  It's not shocking that you will see popup ads in your brain sometimes. Still, (_asking how?)_ Maybe at some point, the neural link will have a subscription where you have to pay to use it, since in the world we are living nothing is free, and I don't see this changing for a while.
 
 ## Why not just use our natural brain?
 
-If let's say everybody uses this technology to enhance their brain functionality maybe doing work faster and solving problems it will mean an increase in productivity and increase in job opportunities. But what about people who don't have these chips in their head or maybe can't afford it? That'll leave that question for you to answer. But to keep pace with othe**_r artificial intelligence_** companies and organizations will be forced to use these brain chips whether they want it or not. I know it sounds like movies or sci-fi but **NO** neural link is coming, and it's coming to stay.
+If let's say everybody uses this technology to enhance their brain functionality maybe doing work faster and solving problems it will mean an increase in **productivity** and increase in **job opportunities**. But what about people who don't have these chips in their head or maybe can't afford it? That'll leave that question for you to answer. 
+
+![](/uploads/istock-1146417905.jpg)
+
+But to keep pace with othe**_r artificial intelligence_** companies and organizations will be forced to use these brain chips whether they want it or not. I know it sounds like movies or sci-fi but **NO** neural link is coming, and it's coming to stay.
 
 The technology is still in its early stages, and much more research and development are needed before it can become a viable option for people to use it. However, the potential benefits of this technology are enormous, and it could someday transform the lives of millions of people around the world.
+
+{{< youtube Gv_XB6Hf6gM >}}
