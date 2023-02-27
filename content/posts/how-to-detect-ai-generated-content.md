@@ -7,8 +7,8 @@ tags = ["Spam", "Ai"]
 title = "5 best AI Content Detectors to Spot and Combat AI generated text"
 [cover]
 alt = "5 best AI Content Detectors to Spot and Combat AI generated text"
-caption = ""
-image = "/uploads/generativeai.jpeg"
+caption = "image credits: Metaroids.com"
+image = "/uploads/the-future-of-chatgpt-content-how-ai-detection-tools-are-shaping-the-landscape.webp"
 
 +++
 According to Google's Webmaster guidelines, ai generated text, lacks human touch and hence will be degraded and marked as spam. Google is the world's first-stop site for people searching for answers.
