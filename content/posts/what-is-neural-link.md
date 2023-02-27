@@ -43,7 +43,7 @@ Information sent to the neural chip will now be interpreted by the **_electrodes
 
 ![](/uploads/960x0.jpg)
 
-Also, if the neural link can restore sight, it can potentially restore body paralysis. _(Still wondering how?)_ So basically the neural link can read the brain motor signals through the electrodes in the **motor cortex** of our brain and the information is then **_decoded_** in real-time, so the idea here is that people with full body paralysis condition can be able to control **_prosthetic limbs_** or other devices simply by thinking about it. If these chips can be used to restore sight to the blind, what about people who already can see? 
+Also, if the neural link can restore sight, it can potentially restore body paralysis. _(Still wondering how?)_ So basically the neural link can read the brain motor signals through the electrodes in the **motor cortex** of our brain and the information is then **_decoded_** in real-time, so the idea here is that people with full body paralysis condition can be able to control **_prosthetic limbs_** or other devices simply by thinking about it. If these chips can be used to restore sight to the blind, what about people who already can see?
 
 _(Come to think of it_,) the same technology can be used to enhance vision. When I say enhance I mean you might even be able to zoom far objects using your eyes or maybe watch a movie inside your head without using any gadgets. Maybe even at some point, you may be able to talk with people using the mind just as the mobile phone does. The difference here is there is no mobile phone. Or maybe it might be possible to have another temporary storage to keep pictures and even videos.
 
@@ -53,7 +53,7 @@ If you can be able to control any electronic device does it also mean that even 
 
 Elon Musk also said that neural links can be used to collect data from a person's mind and when the person dies the same data can be uploaded into another person's body and the same person can be able to live again because scientifically speaking
 
- "_A person is only a collection of your memory and maybe experiences since the body you were born with it's not the same body you have now body cells grow and die actually according to research you lose about_ **30,000 to 40,000 dead skin cells** _every minute. But one thing you will agree with me is that your memories are the same since the day you were born, of course excluding people with memory conditions. The conclusion here is that a person is only a collection of memories. So if these memories were to be digitally uploaded to another body then it will be correct to say you have died and resurrected_"  read more about mind uploading in[ The singularity is near]().
+"_A person is only a collection of your memory and maybe experiences since the body you were born with it's not the same body you have now body cells grow and die actually according to research you lose about_ **30,000 to 40,000 dead skin cells** _every minute. But one thing you will agree with me is that your memories are the same since the day you were born, of course excluding people with memory conditions. The conclusion here is that a person is only a collection of memories. So if these memories were to be digitally uploaded to another body then it will be correct to say you have died and resurrected_"  read more about mind uploading in[ The singularity is near]().
 
 ![](/uploads/the-future-of-brain-augmentation-and-uploaded-consciousness.webp)
 
@@ -73,11 +73,11 @@ Let's say you are a person like me who hates **ads** when browsing or watching a
 
 ## Why not just use our natural brain?
 
-If let's say everybody uses this technology to enhance their brain functionality maybe doing work faster and solving problems it will mean an increase in **productivity** and increase in **job opportunities**. But what about people who don't have these chips in their head or maybe can't afford it? That'll leave that question for you to answer. 
+If let's say everybody uses this technology to enhance their brain functionality maybe doing work faster and solving problems it will mean an increase in **productivity** and increase in **job opportunities**. But what about people who don't have these chips in their head or maybe can't afford it? That'll leave that question for you to answer.
 
 ![](/uploads/istock-1146417905.jpg)
 
-But to keep pace with othe**_r artificial intelligence_** companies and organizations will be forced to use these brain chips whether they want it or not. I know it sounds like movies or sci-fi but No neural link is coming, and it's coming to stay.
+But to keep pace with othe_r artificial intelligence_ companies and organizations will be forced to use these brain chips whether they want it or not. I know it sounds like movies or sci-fi but No neural link is coming, and it's coming to stay.
 
 The technology is still in its early stages, and much more research and development are needed before it can become a viable option for people to use it. However, the potential benefits of this technology are enormous, and it could someday transform the lives of millions of people around the world.
 
