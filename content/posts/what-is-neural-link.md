@@ -54,16 +54,14 @@ After diving deep into this agenda, I saw an article saying that over 1500 anima
 
 Also, we know that our bodies don't like anything from outside the body like any artificial objects, for example, we have seen people suffering after getting body implants. and to make matters worse the neural link implant is done in the skull near the brain if done wrong this could pose a lot of dangerous infections or diseases like cancer or even death.
 
-if let's say neural link becomes the next-gen technology. one problem users will be facing is hacking imagine somebody hacking your brain that means they can have full body control of a person's thoughts motions feelings everything that describes your
+If let's say neural link becomes the next-gen technology. one problem users will be facing is hacking imagine somebody hacking your brain that means they can have full body control of a person's thoughts motions feelings everything that describes your
 
-wants this but this is one of the risks next generation will have or maybe computer viruses remember this is possible since we said this technology will allow users to connect via Bluetooth or via wi-fi to all electronic devices this means a hacker can transmit or send a virus via an infected computer connected to your brain.
+Wants this but this is one of the risks next generation will have or maybe computer viruses remember this is possible since we said this technology will allow users to connect via Bluetooth or via wi-fi to all electronic devices this means a hacker can transmit or send a virus via an infected computer connected to your brain.
 
-let's say you are like me you hate ads when browsing or watching a video online. with a neural link connected to your brain, it can be used to know what you like and this data can be used to display ads to your liking.  it's not shocking that you will
-
-be seeing popup ads in your brain every now and then. still, asking how? maybe at some point, the neural link will have a subscription where you have to pay to use it. since in the world we are living nothing is free and I don't see this changing for a while
+Let's say you are like me you hate ads when browsing or watching a video online. with a neural link connected to your brain, it can be used to know what you like and this data can be used to display ads to your liking.  it's not shocking that you will see popup ads in your brain every now and then. still, asking how? maybe at some point, the neural link will have a subscription where you have to pay to use it. since in the world we are living nothing is free and I don't see this changing for a while
 
 ## Why not just use our natural brain?
 
 If let's say everybody uses this technology to enhance their brain functionality maybe doing work faster and solving problems it will mean an increase in productivity and increase in job opportunities. but what about people who don't have these chips in their head or maybe can't afford it'll leave that question for you to answer. but to keep pace with other artificial intelligence companies and organizations will be forced to use these brain chips whether they want it or not I know it sounds like movies or sci-fi but no neural link is coming and it's coming to stay.
 
-The technology is still in its early stages, and much more research and development are needed before it can become a viable option for restoring function to people with paralysis. However, the potential benefits of this technology are enormous, and it could someday transform the lives of millions of people around the world.
+The technology is still in its early stages, and much more research and development are needed before it can become a viable option for people to use it. However, the potential benefits of this technology are enormous, and it could someday transform the lives of millions of people around the world.
