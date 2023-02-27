@@ -5,7 +5,7 @@ date = 2023-02-26T05:57:03Z
 description = "Neural link is a Neural Technology company that develops implantable computer chips, first founded by Elon Musk in 2016"
 draft = true
 tags = ["Elon Musk", "NueralLink"]
-title = "What is Neural Link"
+title = "How NeuraLink is Taking Mind Control to the Next Level"
 [cover]
 alt = "What is Neural Link"
 caption = "image credits: Times Now"
@@ -20,23 +20,25 @@ Hence, we can move a hand or any other body part through these signals. What Sci
 
 The neural link is not put directly in the brain but in a small hole about **25 mm** in diameter on the skull which makes it completely invisible from the top. during one of the live demo events done by neurotechnology Elon musk said:
 
-> 'It's kind of like a Fitbit in your skull with tiny wires,'. 'I could have a Neuralink right now and you wouldn't even know. Maybe I do'
-
-{{< youtube NqbQuZOFvOQ >}}
+> '_It's kind of like a Fitbit in your skull with tiny wires,' 'I could have a Neuralink right now and you wouldn't even know. Maybe I do_'
 
 Neurosurgeons that perform these surgeries have to be extremely careful with the brain, which is why there is a whole dedicated **Neurosurgical Robot** that is capable of inserting the (link) or the electrodes accurately within the shortest time possible.
 
-There have been successful attempts already where they put neural link microchips into (Paige) a 9-year-old monkey, and he was able to play pong with his mind.
+There have been successful attempts already where they put neural link **microchips** into (**_Paige_**) a 9-year-old monkey, and he was able to play pong with his mind.
 
 {{< youtube rsCul1sp4hQ >}}
 
 Another attempt was with a pig (Gertrude) where they were able to read signals. from its limbs and simulate them in real time.
 
-## What will the Neural link do?
+{{< youtube NqbQuZOFvOQ >}}
 
-Because we are now living in the AI world, so if let's say this technology becomes a thing then we will be able to keep pace with the fast rise in technology of AI where you can even be able to control electronic devices using your mind only.
+## What Will The Neural Link Do?
 
-People with brain-related conditions e.g. blindness will now be able to restore sight. how? So the neural link will be connected to your phone which will also be connected to a camera that will record real-time scenes and the feed will be sent to the phone which will also convert the information to machine-readable from
+Because we are now living in the AI world, so if let's say Neural link technology becomes a thing then we will be able to keep pace with the fast-rising in the technology of AI where you will even be able to control electronic devices using your mind only.
+
+![](/uploads/computer-brain-141561115.webp)
+
+People with brain-related conditions e.g. blindness will now be able to restore sight. How? So the neural link will be connected to your phone which will also be connected to a camera that will record real-time scenes and the feed will be sent to the phone which will also convert the information to machine-readable from
 
 Information sent to the neural chip will now be interpreted by the electrodes implanted directly in the visual cortex of our brain. This will allow people with blindness. from birth to see and perceive the world as we do.
 
@@ -46,7 +48,7 @@ if you can be able to control any electronic device does it also mean that even 
 
 Elon musk also said that neural links can be used to collect data from a person's mind and when the person dies the same data can be uploaded into another person's body and the same person can be able to live again because scientifically speaking "_a person is only a collection of your memory and maybe experiences since the body you were born with its not the same body you have now body cells grow and die actually according to research you lose about_ **30,000 to 40,000 dead skin cells** _every minute. but one thing you will agree with me is that your memories are the same since the day you were born of course excluding people with memory conditions. the conclusion here is that a person is only a collection of memories. so if these memories were to be digitally uploaded to another body then it will be correct to say you have died and resurrected_" the same theory that Musk has, the end capabilities of what we can do with the neural link are infinite as the research is still ongoing on the best possible ways to use the neural link.
 
-with all the excitement around the neural links and people asking when they will be ready to be used by regular people, we have to look at the downside effects of neural links 
+with all the excitement around the neural links and people asking when they will be ready to be used by regular people, we have to look at the downside effects of neural links
 
 ## cons
 
