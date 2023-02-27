@@ -45,15 +45,17 @@ Information sent to the neural chip will now be interpreted by the **electrodes*
 
 Also, if the neural link can restore sight, it can potentially restore body **paralysis.** _(Still wondering how?)_ So basically the neural link can read the brain motor signals through the electrodes in the **motor cortex** of our brain and the information is then **_decoded_** in real-time, so the idea here is that people with full body paralysis condition can be able to control **_prosthetic limbs_** or other devices simply by thinking about it. If these chips can be used to restore sight to the blind, **what about people who already can see?**
 
-_(Come to think of it_,) the same technology can be used to enhance vision. When I say enhance I mean you might even be able to zoom far objects using your eyes or maybe watch a movie inside your head without using any gadgets. Maybe even at some point, you may be able to talk with people using the mind just as the mobile phone does. The difference here is there is no mobile phone. Or maybe it might be possible to have another temporary storage to keep pictures and even videos.
+_(Come to think of it_) the same technology can be used to enhance vision. When I say "_enhance"_ I mean you might even be able to **_zoom_** far objects using your eyes or maybe watch a movie inside your head without using any gadgets. Maybe even at some point, you may be able to talk with people using the mind just as the mobile phone does. The difference here is that there will be no mobile phones. Or maybe it might be possible to have another temporary storage to keep pictures and even videos just inside our mind.
 
 ![](/uploads/ft_22-05-04_humanenhancement_featured.webp)
 
-If you can be able to control any electronic device does it also mean that even electric cars also count? **Yes**, **they do** by replicating the motions in your brain you can be able to drive electric cars using your mind and since **_Elon Musk_** owns the best electric car-producing company (TESLA) I don't see why this is not going to become a thing.
+If you can be able to control any electronic device does it also mean that even electric cars also count? **Yes**, **they do** by replicating the motions in your brain you can be able to drive electric cars using your mind and since **_Elon Musk_** owns the best electric car-producing company **(TESLA**) I don't see why this is not going to become a thing.
 
 Elon Musk also said that neural links can be used to collect data from a person's mind and when the person dies the same data can be uploaded into another person's body and the same person can be able to live again because scientifically speaking
 
-"_A person is only a collection of your memory and maybe experiences since the body you were born with it's not the same body you have now body cells grow and die actually according to research you lose about_ **30,000 to 40,000 dead skin cells** _every minute. But one thing you will agree with me is that your memories are the same since the day you were born, of course excluding people with memory conditions. The conclusion here is that a person is only a collection of memories. So if these memories were to be digitally uploaded to another body then it will be correct to say you have died and resurrected_"  read more about mind uploading in[ The singularity is near]().
+> "_A person is only a collection of your memory and maybe experiences since the body you were born with it's not the same body you have now body cells grow and die actually according to research you lose about_ **30,000 to 40,000 dead skin cells** _every minute. But one thing you will agree with me is that your memories are the same since the day you were born, of course excluding people with memory conditions. The conclusion here is that a person is only a collection of memories. So if these memories were to be digitally uploaded to another body then it will be correct to say you have died and resurrected in another body_"
+
+Read more about mind uploading in[ The singularity is near]().
 
 ![](/uploads/the-future-of-brain-augmentation-and-uploaded-consciousness.webp)
 
@@ -65,11 +67,11 @@ An investigation was held which showed that over **1500** animals have been kill
 
 We are aware that our bodies have a natural tendency to reject foreign objects, such as **artificial implants,** which can result in complications and negative outcomes. For instance, individuals have reported suffering after receiving certain types of body implants. Furthermore, the neural link implant is placed in close proximity to the brain within the skull, and if not done correctly, there is a potential for severe infections, diseases, and even fatal consequences, such as **cancer** or **death**.
 
-If let's say neural link becomes the next-gen technology. One problem users will be facing is hacking Imagine somebody hacking your brain that means they can have full body control of a person's thoughts motions feelings everything that describes your
+If let's say neural link becomes the next-gen technology. One problem users will be facing is hacking Imagine somebody hacking your brain that means they can have full body control of a person's thoughts motions feelings everything that describes you. who even wants this.
 
-Wants this, but this is one of the risks next generation will have, or maybe computer viruses remember this is possible since we said this technology will allow users to connect via **_Bluetooth_** or via **_Wi-Fi_** to all electronic devices this means a hacker can transmit or send a virus via an infected computer connected to your brain.
+But this is one of the risks the next generation will have, or maybe computer viruses remember this is possible since we said this technology will allow users to connect via **_Bluetooth_** or via **_Wi-Fi_** to all electronic devices this means a hacker can transmit or send a virus via an infected computer connected to your brain.
 
-Let's say you are a person like me who hates **ads** when browsing or watching a video online. with a neural link connected to your brain, it can be used to know what you like, and this data can be used to display ads to your liking.  It's not shocking that you will see popup ads in your brain sometimes. Still, (_asking how?)_ Maybe at some point, the neural link will have a subscription where you have to pay to use it, since in the world we are living nothing is free, and I don't see this changing for a while.
+Let's say you are a person like me who hates **ads** when browsing or watching a video online. with a neural link connected to your brain, it can be used to know what you like, and this data can be used to display ads to your liking.  It's not shocking that you will see popup ads in your brain sometimes. Still, (_asking how?)_ Maybe at some point, the neural link will have a **subscription** where you have to pay to use it, since in the world we are living nothing is free, and I don't see this changing for a while.
 
 ## Why not just use our natural brain?
 
