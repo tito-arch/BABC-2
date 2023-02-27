@@ -42,6 +42,8 @@ People with brain-related conditions e.g. blindness will now be able to restore 
 
 Information sent to the neural chip will now be interpreted by the electrodes implanted directly in the visual cortex of our brain. This will allow people with blindness. from birth to see and perceive the world as we do.
 
+![](/uploads/960x0.jpg)
+
 Also, if the neural link can restore sight, it can potentially restore body paralysis. Still wondering how? So basically the neural link can read the brain motor signals through the electrodes in the motor cortex of our brain and the information is then decoded in real-time, so the idea here is that people with full body paralysis condition can be able to control prosthetic limbs or other devices simply by thinking about it. If these chips can be used to restore sight to the blind what about people who already can see. come to think of it the same technology can be used to enhance vision. when I say enhance I mean you might even be able to zoom far objects using your eyes or maybe watch a movie inside your head without using any gadgets. maybe even at some point, you may be able to talk with people using the mind just as the mobile phone does the difference here is there is no mobile phone. or maybe it might be possible to have another temporary mind storage to keep pictures and even videos.
 
 if you can be able to control any electronic device does it also mean that even electric cars also count? yes, they do by replicating the motions in your brain you can be able to drive electric cars using your mind and since Elon musk owns the best electric car-producing company(**TESLA**) I don't see why this is not going to become a thing.
