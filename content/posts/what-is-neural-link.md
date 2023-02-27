@@ -75,7 +75,7 @@ Let's say you are a person like me who hates **ads** when browsing or watching a
 
 ## Why not just use our natural brain?
 
-If let's say everybody uses this technology to enhance their brain functionality maybe doing work faster and solving problems it will mean an increase in **productivity** and increase in **job opportunities**. But what about people who don't have these chips in their head or maybe can't afford it? That'll leave that question for you to answer.
+If let's say everybody uses this technology to enhance their brain functionality maybe doing work faster and solving world problems it will mean an increase in **productivity** and increase in **job opportunities**. But what about people who don't have these chips in their head or maybe can't afford it? That'll leave that question for you to answer.
 
 ![](/uploads/istock-1146417905.jpg)
 
