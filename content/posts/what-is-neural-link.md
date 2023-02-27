@@ -33,17 +33,17 @@ Another attempt was with a pig (Gertrude) where they were able to read signals. 
 
 ## What Will The Neural Link Do?
 
-Because we are now living in the AI world, so if let's say Neural link technology becomes a thing then we will be able to keep pace with the fast-growing  technology of AI where you will even be able to control electronic devices using your mind only.
+Let's say Neural link technology becomes a thing then we will be able to keep pace with the fast-growing technology of **_Artificial technology_** where you will even be able to control electronic devices using your mind only.
 
 ![](/uploads/computer-brain-141561115.webp)
 
-People with brain-related conditions e.g. **blindness** will now be able to restore sight. _(How?)_ So the neural link will be connected to your phone which will also be connected to a camera that will record real-time scenes and the feed will be sent to the phone which will also convert the information to machine-readable from
+People with brain-related conditions e.g. **blindness** will now be able to restore sight. _(How?)_ So the neural link will be connected to your phone which will also be connected to a camera that will record real-time scenes and the feed, will be sent to the phone which will also convert the information to machine-readable from
 
-Information sent to the neural chip will now be interpreted by the **_electrodes _**implanted directly in the **_visual cortex_** of our brain. This will allow people with blindness. from birth to see and perceive the world as we do.
+Information sent to the neural chip will now be interpreted by the **electrodes** implanted directly in the **_visual cortex_** of our brain. This will allow people with blindness. from birth to see and perceive the world as we do.
 
 ![](/uploads/960x0.jpg)
 
-Also, if the neural link can restore sight, it can potentially restore body paralysis. _(Still wondering how?)_ So basically the neural link can read the brain motor signals through the electrodes in the **motor cortex** of our brain and the information is then **_decoded_** in real-time, so the idea here is that people with full body paralysis condition can be able to control **_prosthetic limbs_** or other devices simply by thinking about it. If these chips can be used to restore sight to the blind, what about people who already can see?
+Also, if the neural link can restore sight, it can potentially restore body **paralysis.** _(Still wondering how?)_ So basically the neural link can read the brain motor signals through the electrodes in the **motor cortex** of our brain and the information is then **_decoded_** in real-time, so the idea here is that people with full body paralysis condition can be able to control **_prosthetic limbs_** or other devices simply by thinking about it. If these chips can be used to restore sight to the blind, **what about people who already can see?**
 
 _(Come to think of it_,) the same technology can be used to enhance vision. When I say enhance I mean you might even be able to zoom far objects using your eyes or maybe watch a movie inside your head without using any gadgets. Maybe even at some point, you may be able to talk with people using the mind just as the mobile phone does. The difference here is there is no mobile phone. Or maybe it might be possible to have another temporary storage to keep pictures and even videos.
 
