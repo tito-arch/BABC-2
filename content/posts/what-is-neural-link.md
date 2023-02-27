@@ -79,7 +79,7 @@ If let's say everybody uses this technology to enhance their brain functionality
 
 ![](/uploads/istock-1146417905.jpg)
 
-But to keep pace with othe_r artificial intelligence_ companies and organizations will be forced to use these brain chips whether they want it or not. I know it sounds like movies or sci-fi but No neural link is coming, and it's coming to stay.
+But to keep pace with othe_r artificial intelligence_ companies and organizations people will be forced to use these brain chips whether they want it or not. I know it sounds like movies or sci-fi but No neural link is coming, and it's coming to stay.
 
 The technology is still in its early stages, and much more research and development are needed before it can become a viable option for people to use it. However, the potential benefits of this technology are enormous, and it could someday transform the lives of millions of people around the world.
 
