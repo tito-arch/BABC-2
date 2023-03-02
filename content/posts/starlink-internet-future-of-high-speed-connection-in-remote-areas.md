@@ -118,3 +118,5 @@ Resources:
 [Starlink.com](starlink.com),
 
 [Branch Education](https://www.youtube.com/@BranchEducation).
+
+> _We do not own these images for copyright related issues reach out._
