@@ -46,7 +46,7 @@ A possible 40,000 will be deployed to cover the earth. It will require about 100
 
 ![](/uploads/tv-sat.jpeg)
 
-This is a TV satellite dish, I am so sure you have come across one if not hundreds, these don't send data, they only receive they are a little complicated. A beam received from broadcasting satellites about 35,000 km away will hit the dish and concentrate it to the eye using the [parabolic reflector](https://en.wikipedia.org/wiki/Parabolic_reflector#:\~:text=Parabolic%20reflectors%20are%20used%20to,source%20into%20a%20parallel%20beam.). Starlink dishy on the other hand sends and receives data from space -550 km as earlier noted. It is important for the beam to be tight and have a high frequency and low latency of 20m/s to allow HD streaming and gaming. The wavelength of spaceX Starlink is about {2.5} in a 550km distance. This means there are about  {figure} .... 
+This is a TV satellite dish, I am so sure you have come across one if not hundreds, these don't send data, they only receive they are a little complicated. A beam received from broadcasting satellites about 35,000 km away will hit the dish and concentrate it to the eye using the [parabolic reflector](https://en.wikipedia.org/wiki/Parabolic_reflector#:\~:text=Parabolic%20reflectors%20are%20used%20to,source%20into%20a%20parallel%20beam.). Starlink dishy on the other hand sends and receives data from space -550 km as earlier noted. It is important for the beam to be tight and have a high frequency and low latency of 20m/s to allow HD streaming and gaming. The wavelength of spaceX Starlink is about 2.5cm in a 550km distance. This means there are about  22 million wavelengths and it takes 2.2 milliseconds for a wave sent from Starlink or dishy to get to the other.
 
 ### The inside story of Starlink's dishy.
 
@@ -56,13 +56,46 @@ The dish components are two motors -used to autonomously position the dish at a 
 
 ![](/uploads/screenshot-from-2023-03-02-10-29-12.png)
 
-On the RHS is a single antenna made up of 6  smaller components this antenna is super complicated it makes Starlink what we know today.
+On the RHS is a single antenna made up of 6  smaller components this antenna is super complicated, it makes Starlink what we know today. 
 
 #### Aperture-coupled patch antenna
 
+![](/uploads/image-removebg-preview-3.png)
+
+Each of these antennas is controlled by a chip below it on the circuit board. Two of the 6 components are where everything starts ie: to create an electromagnetic wave. 
+
+* The feed line - This delivers a 1200GHZ (12 billion times in one second) voltage in a sine curve going from positive to negative every 83 Pico Second.
+* The antenna patch - A copper coin-like with notches cut into it. This is located at the top level.
+
+Well, since these two are not physically connected that is why we need a high-frequency current and DC power cannot be used.
+
+ When the current gets to the end of the feed line (which ends abruptly) it's positively charged repelling all positive charges on the patch antenna making it negative and the other side (RHS) of the antenna patch is positively charged and vice versa when in the maximum negative voltage as illustrated below.
+
+![](/uploads/screenshot-from-2023-03-02-20-10-51.png)
+
+The fields illustrated are equal and opposite hence canceling each other. However, things on the top of the antenna patch are a little different. Since electrical fields are horizontal on the same plane and [are called fringing fields](https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Electro-Optics/Book%3A_Electromagnetics_I_(Ellingson)/05%3A_Electrostatics/5.23%3A_The_Thin_Parallel_Plate_Capacitor#:\~:text=%E2%80%9CFringing%20field%E2%80%9D%20is%20simply%20a,significant%20effect%20in%20this%20region.). These fringing fields move in one direction and hence add up to one another but since we have current flowing, a magnetic field is created perpendicularly to the electric fields so that now there is an electric field and a magnetic field. When the current changes everything goes vice versa -both the electric and magnetic fields move in the opposite direction as they were previously moving (flipping). 
+
+![](/uploads/screenshot-from-2023-03-02-20-39-29.png)
+
+By this, forming an electromagnetic wave traveling perpendicularly to the magnetic and electric fields traveling outside in a balloon-like structure like a light bulb on the ceiling is achieved like so:
+
+It is important to note that this dish can send and receive signals for internet transfer. To prevent other issues with signal interruption, the  Top and Bottom antenna patch are specifically designed to receive certain signals. The top antenna patch has a 1.28 cm diameter while the bottom antenna patch has a 1.15cm. This enables it to block out all other signals outside 13 and 11.7 GHZ. 
+
+![](/uploads/screenshot-from-2023-03-02-20-46-13.png)
+
 ### How beam steering happens.
 
-### Data transfer between Starlink satellites and dishy.
+The beams shown above are from a single antenna you would imagine that adding more antennas would make the beam bigger and the power of the beam to equal 1 antenna x 1280. This assumption is wrong as adding more antennas would cause interference. This interference is destructive on the outer parts and constructive on the inside making the beam stronger enough to reach outer space.
+
+#### Phased array beam steering
+
+To be able to catch up with Starlink satellites moving 25,000km/h the dish has continuously keep track of the satellites. Did you just think about the motors beneath dishy? Well, that wouldn't work as it would be slow to keep up with the pace here and hence not accurate also they would wear out soon making the whole system fail.
+
+To achieve this a technique that is also complex is used that is: **Phased array beam steering** this is done by phase shifting one signal sent to one antenna in respect to another signal sent to another antenna the peaks and troughs of these different antennas are different forming a constructive interference at the center and a destructive interference in all other parts all this is done by messing the amplitude of the different waves at a different time for different antennas.
+
+![](/uploads/screenshot-from-2023-03-03-00-00-29.png)
+
+Using the GPS the dish knows perfectly where each Starlink satellite is at a particular time to be able to determine where the constructive interference will be at every microsecond to steer the beam across a 100 degrees field of view. Every 4 minutes the satellite is swapped with another.
 
 ## See how the satellites get into their final operational orbits
 
@@ -70,6 +103,18 @@ On the RHS is a single antenna made up of 6  smaller components this antenna is 
 
 Starlink offers speeds of up to 50-500 mb/s ranging from $110 to $500 uncapped internet.
 
-This technology will now be available in Kenya in a few months. [Order now](https://www.starlink.com/deposit/?invitationCode=bac3f2cb-d738-4c02-8810-d92e7faf45d5&processorToken=850570f5-68dc-4137-8e51-43d76401e8f8)
+## Starlink in Kenya
 
 ![](/uploads/screenshot-from-2023-01-25-20-39-49.png)
+
+Special thanks to:
+
+[Branch Education](https://www.youtube.com/@BranchEducation)
+
+Resources:
+
+[Starlink Patent](https://patents.google.com/patent/US9647749B2/en),
+
+[Starlink.com](starlink.com),
+
+[Branch Education](https://www.youtube.com/@BranchEducation).
