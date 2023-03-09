@@ -47,20 +47,20 @@ But if you are defiant like i am and still insist on installing Lensa on a windo
 
 # How does Lensa Ai Work
 
-So basically Prisma Labs Inc. which is the company that owns Lensa AI took the[ Stable Diffusion ](https://www.blog.bunnieabc.com/posts/what-are-the-best-ai-image-generator-tools/)and fine-tuned their model with large datasets and images from the internet so that it could be able to recognize faces.
+So basically Prisma Labs Inc. which is the company that owns Lensa AI(best known for specializing in deep learning-related products. so they took the[ Stable Diffusion ](https://www.blog.bunnieabc.com/posts/what-are-the-best-ai-image-generator-tools/)and fine-tuned their model with large datasets and images from the internet so that it could be able to recognize faces. now they could be able to manipulate scenes enhance skin tones and other visual elements.
 
 # 🤔What's the difference between Lensa AI & other image generators?
 
-Unlike other image generators, let's take **Dalle** for instance which is a text-to-image AI model where you must put text to generate an image. whereas **_with Lensa AI_** all you have to do is to select a style be it **_anime_**, **_pop_**, **_fantasy,_** or even **_stylish_** and the AI will produce different variations of the image to get better results. You are required to upload **15** to **20** images to train the models.
+Unlike other image generators, let's take **Dalle** for instance which is a text-to-image AI model where you must put text to generate an image.but **_with Lensa AI_** all you have to do is to select a style be it **_anime_**, **_pop_**, **_fantasy,_** or even **_stylish_** and the AI will produce different variations of the image. To get better results, You are required to upload **15** to **20** images so as to train the model.
 
 _Read more about Dalle in👉_ [The Ultimate Guide to AI Art Generators](https://www.blog.bunnieabc.com/posts/what-are-the-best-ai-image-generator-tools/ "The Ultimate Guide to AI Art Generators?")
 
-but you know whenever there is uploading of pictures there have to be some security risks. but **Prisma labs** made it clear that the images are only uploaded to train the model to produce better results. they also announced that they don't store the images but are usually deleted every time after generating an image so you have to upload another image the second time you want to generate another image. just to be on the safe side go ahead and read their privacy policy terms .................😁who reads these terms anyway
+Whenever there is uploading of pictures there have to be some security risks. However, **Prisma labs** made it clear that the images are only uploaded to train the model to produce better results. they also announced that they don't store the images but are usually deleted every time after generating an image so you have to upload another image the second time you want to generate another image. just to be on the safe side go ahead and read their [privacy policy terms ](https://lensa-ai.com/terms#:\~:text=You%20acknowledge%20and%20agree%20that,subject%20to%20our%20Privacy%20Policy.&text=TL%3BDR%3A%20You%20can%20upload,no%20ownership%20over%20such%20content.), who reads these terms anyway
 
 # Lensa Ai Pricing
 
-# Is it true that lensa Ai produces uncensored images
+# Is it true that Lensa Ai produces uncensored images
 
-At first, when I heard about chatbot I heard about how it was delivering conversations like a human being also when I heard about bard (google AI model) it was because of it being sentient........ when I first heard about all it was because of its power to generate photorealistic images.
+At first, when I heard about [**chat GPT**](https://www.blog.bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/) It was about how it was delivering conversations like a human being also the first time to hear about **Bard** (google AI model) it was because of how people were describing it as sentient but shockingly enough first when I first heard about **lensa AI** it was because of how people were describing it as undresser.
 
-But to be honest, when I heard about lensa AI it was because of how people were describing it as undress. but c'mon this is an AI model it uses its input to generate the results which for that matter the data is collected from the internet where there are all sorts of images (porn images undressed women name it) therefore the model just like other models uses the information to 
+ but c'mon this is an AI model it uses its input to generate the results which for that matter the data is collected from the internet where there are all sorts of images (porn images undressed women name it) therefore the model just like other models uses the information to 
