@@ -39,7 +39,7 @@ So I went ahead to install it on my phone, then I get this (_app not compatible 
 
 ![device not compatible for installation of lensa ai](/uploads/jsjhhhsjkjkjk.PNG "lensa Ai Installation")
 
-okay okay I know I need to upgrade my device but why do this to me Lensa I felt like am from 90's trying to install Windows 11 on an old **Windows XP** (2001 version) operating system😣😣.therefore to avoid getting disappointed like me when installing you need to have
+okay okay I know I need to upgrade my device but why do this to me Lensa I feel like am from 90's trying to install Windows 11 on an old **Windows XP** (2001 version) operating system😣😣.therefore to avoid getting disappointed like me when installing you need to have
 
 *  iOS 15.0 or later for iPhone users
 * macOS 11.0 or later. for Mac users
