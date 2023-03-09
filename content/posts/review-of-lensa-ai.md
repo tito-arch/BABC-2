@@ -47,7 +47,7 @@ But if you are defiant like I am and still insist on installing Lensa on a windo
 
 # How does Lensa Ai Work
 
-So basically Prisma Labs Inc. is the company that owns Lensa AI(best known for specializing in deep learning-related products. so they took the[ Stable Diffusion ](https://www.blog.bunnieabc.com/posts/what-are-the-best-ai-image-generator-tools/)and fine-tuned their model with large datasets and images from the internet so that it could be able to recognize faces. now they could be able to manipulate scenes enhance skin tones and other visual elements.
+So basically Prisma Labs Inc. is the company that owns Lensa AI(best known for specializing in deep learning-related products. so they took the[ Stable Diffusion ](https://www.blog.bunnieabc.com/posts/what-are-the-best-ai-image-generator-tools/)and fine-tuned their model with large datasets and images from the internet so that it could be able to recognize faces. now they could be able to manipulate scenes and enhance skin tones and other visual elements.
 
 # 🤔What's the difference between Lensa AI & other image generators?
 
@@ -73,4 +73,6 @@ The avatars pricing is quite fair considering Premium subscribers will have a 50
 
 At first, when I heard about [**chat GPT**](https://www.blog.bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/) It was about how it was delivering conversations like a human being also the first time to hear about **Bard** (google AI model) it was because of how people were describing it as sentient but shockingly enough first when I first heard about **lensa AI** it was because of how people were describing it as undressed.
 
- but c'mon this is an AI model it uses its input to generate the results which for that matter the data is collected from the internet where there are all sorts of images (porn images undressed women name it) therefore the model just like other models uses the information to 
+but c'mon this is an AI model it uses the input data to generate the results which for that matter the data is collected from the internet where there are all sorts of images (porn images undressed women name it) therefore the model is just like other models uses the information to generate according to its training data so the model should not be the one to be blamed. but to people who put their naked pictures out there.
+
+But I know many will still argue out why not just filter the output to restrain images of people being naked or such. yeah, I wonder the same thing too.
