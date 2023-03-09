@@ -3,7 +3,6 @@ author = "P.Gitau"
 categories = "Artificial Intelligence & Machine Learning"
 date = 2023-03-01T14:44:37Z
 description = "A review of Lensa Ai a photo editing app, Which turns normal images to creative work of art"
-draft = true
 tags = ["Ai", "Lensa Ai"]
 title = "Review of Lensa Ai"
 [cover]
@@ -79,6 +78,8 @@ At first, when I heard about [**chat GPT**](https://www.blog.bunnieabc.com/posts
 
 ![Is it true that Lensa Ai produces uncensored images](/uploads/ab0ecaaa24fac6d70548412e14a74eef.webp "Is it true that Lensa Ai produces uncensored images")
 
-but c'mon this is an AI model it uses the input data to generate the results which for that matter the data is collected from the internet where there are all sorts of images (porn images undressed women name it) therefore the model is just like other models uses the information to generate according to its training data so the model should not be the one to be blamed. but to people who put their naked pictures out there.
+but c'mon this is an AI model it uses the input data to generate the results which for that matter the data is collected from the internet where there are all sorts of images (porn images undressed women name it) therefore the model is just like other models uses the information to generate according to its training data so the model should not be the one to be blamed. but to people who put their naked pictures out there. but when the company was asked on the issue their spoke;sman had this to say.
+
+> "Stable Diffusion is trained on unfiltered data from across the internet, neither us nor Stability.AI, the company behind Stable Diffusion, “could consciously apply any representation biases or intentionally integrate conventional beauty elements. The man-made, unfiltered online data introduced the model to the existing biases of humankind,”
 
 But I know many will still argue out why not just filter the output to restrain images of people being naked or such. yeah, I wonder the same thing too😏.
