@@ -4,7 +4,7 @@ categories = "Artificial Intelligence & Machine Learning"
 date = 2023-03-01T14:44:37Z
 description = "A review of Lensa Ai a photo editing app, Which turns normal images to creative work of art"
 tags = ["Ai", "Lensa Ai"]
-title = "Review of Lensa Ai"
+title = "Transform Your Selfies into Stunning Works of Art with Lensa AI"
 [cover]
 alt = "Review of Lensa Ai"
 caption = "image credits: Lensa Ai"
