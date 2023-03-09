@@ -26,7 +26,7 @@ So Lensa AI had to change the game by introducing **"Magic Avatar"** a feature t
 
 **Color correction** you are also not limited to adjusting the color in your photos. Adjusting the brightness and contrast is an added advantage. One particular feature that amazed me while I was trying out the app is that you can add brightness to certain areas of the photo and even darken some areas according to your taste. Isn't this cool considering AI is doing this for you? 
 
-Another cool feature is that, unlike other image generators where after uploading the image you leave all the work to the AI. with the Lensa app there are sliders and buttons to control how much of something you want if for example, the filters are too much you can just reduce without having to regenerate another image.
+Another cool feature is that unlike other image generators where after uploading the image you leave all the work to the AI. with the Lensa app there are sliders and buttons to control how much of something you want if for example, the filters are too much you can just reduce without having to regenerate another image.
 
 # Lensa Ai Installation
 
@@ -41,26 +41,36 @@ okay okay I know I need to upgrade my device but why do this to me Lensa I felt 
 *  iOS 15.0 or later for iPhone users
 * macOS 11.0 or later. for Mac users
 * iOS 15.0 or later. for iPod touch users
-* And to you my Android friends,😄 the app requires Android 7.0 or later and is compatible with most smartphones and tablets also.
+* And to you, my Android friends,😄 the app requires Android 7.0 or later and is compatible with most smartphones and tablets also.
 
-But if you are defiant like i am and still insist on installing Lensa on a windows machine there is a workaround for you where you are required to install [memu](https://www.memuplay.com/how-to-use-com.lensa.app-on-pc.html#:\~:text=Lensa%3A%20Photo%20Editor%20for%20Perfect%20Pictures%20%2D%20FAQs&text=Use%20Lensa%3A%20Photo%20Editor%20for%20Perfect%20Pictures%20on%20PC%20by,app%20on%20PC%20with%20MEmu) another third-party app that is going to ease the installation process and you will be able to install lensa ai on your pc
+But if you are defiant like I am and still insist on installing Lensa on a windows machine there is a workaround for you where you are required to install [memu](https://www.memuplay.com/how-to-use-com.lensa.app-on-pc.html#:\~:text=Lensa%3A%20Photo%20Editor%20for%20Perfect%20Pictures%20%2D%20FAQs&text=Use%20Lensa%3A%20Photo%20Editor%20for%20Perfect%20Pictures%20on%20PC%20by,app%20on%20PC%20with%20MEmu) another third-party app that is going to ease the installation process and you will be able to install lensa ai on your pc
 
 # How does Lensa Ai Work
 
-So basically Prisma Labs Inc. which is the company that owns Lensa AI(best known for specializing in deep learning-related products. so they took the[ Stable Diffusion ](https://www.blog.bunnieabc.com/posts/what-are-the-best-ai-image-generator-tools/)and fine-tuned their model with large datasets and images from the internet so that it could be able to recognize faces. now they could be able to manipulate scenes enhance skin tones and other visual elements.
+So basically Prisma Labs Inc. is the company that owns Lensa AI(best known for specializing in deep learning-related products. so they took the[ Stable Diffusion ](https://www.blog.bunnieabc.com/posts/what-are-the-best-ai-image-generator-tools/)and fine-tuned their model with large datasets and images from the internet so that it could be able to recognize faces. now they could be able to manipulate scenes enhance skin tones and other visual elements.
 
 # 🤔What's the difference between Lensa AI & other image generators?
 
-Unlike other image generators, let's take **Dalle** for instance which is a text-to-image AI model where you must put text to generate an image.but **_with Lensa AI_** all you have to do is to select a style be it **_anime_**, **_pop_**, **_fantasy,_** or even **_stylish_** and the AI will produce different variations of the image. To get better results, You are required to upload **15** to **20** images so as to train the model.
+Unlike other image generators, let's take **Dalle** for instance which is a text-to-image AI model where you must put text to generate an image. but **_with Lensa AI_** all you have to do is to select a style be it **_anime_**, **_pop_**, **_fantasy,_** or even **_stylish_** and the AI will produce different variations of the image. To get better results, You are required to upload **15** to **20** images to train the model.
 
 _Read more about Dalle in👉_ [The Ultimate Guide to AI Art Generators](https://www.blog.bunnieabc.com/posts/what-are-the-best-ai-image-generator-tools/ "The Ultimate Guide to AI Art Generators?")
 
-Whenever there is uploading of pictures there have to be some security risks. However, **Prisma labs** made it clear that the images are only uploaded to train the model to produce better results. they also announced that they don't store the images but are usually deleted every time after generating an image so you have to upload another image the second time you want to generate another image. just to be on the safe side go ahead and read their [privacy policy terms ](https://lensa-ai.com/terms#:\~:text=You%20acknowledge%20and%20agree%20that,subject%20to%20our%20Privacy%20Policy.&text=TL%3BDR%3A%20You%20can%20upload,no%20ownership%20over%20such%20content.), who reads these terms anyway
+Whenever there is uploading of pictures there have to be some security risks. However, **Prisma labs** made it clear that the images are only uploaded to train the model to produce better results. they also announced that they don't store the images but are usually deleted every time after generating an image so you have to upload another image the second time you want to generate another image. just to be on the safe side go ahead and read their [privacy policy terms](https://lensa-ai.com/terms#:\~:text=You%20acknowledge%20and%20agree%20that,subject%20to%20our%20Privacy%20Policy.&text=TL%3BDR%3A%20You%20can%20upload,no%20ownership%20over%20such%20content.), who reads these terms anyway
 
 # Lensa Ai Pricing
 
+I know you have been waiting to hear this but lensa ai is not free. yeah, you heard me right but you do get a one-week trial to try out some of the features after that you are required to pay USD 29.99 per year. but still, if you like free things just uninstall the app and install it again to get the free trial again. and am not saying that's what I've done😂😂.
+
+The avatars pricing is quite fair considering Premium subscribers will have a 50% discount 
+
+> $3.99 for 50 unique avatars (5 variations of 10 styles)
+>
+> $5.99 for 100 unique avatars (10 variations of 10 styles)
+>
+> $7.99 for 200 unique avatars (20 variations of 10 styles)
+
 # Is it true that Lensa Ai produces uncensored images
 
-At first, when I heard about [**chat GPT**](https://www.blog.bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/) It was about how it was delivering conversations like a human being also the first time to hear about **Bard** (google AI model) it was because of how people were describing it as sentient but shockingly enough first when I first heard about **lensa AI** it was because of how people were describing it as undresser.
+At first, when I heard about [**chat GPT**](https://www.blog.bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/) It was about how it was delivering conversations like a human being also the first time to hear about **Bard** (google AI model) it was because of how people were describing it as sentient but shockingly enough first when I first heard about **lensa AI** it was because of how people were describing it as undressed.
 
  but c'mon this is an AI model it uses its input to generate the results which for that matter the data is collected from the internet where there are all sorts of images (porn images undressed women name it) therefore the model just like other models uses the information to 
