@@ -16,7 +16,7 @@ Are you bored with your usual plain selfies worry no more because[ **Lensa AI**]
 
 # What is lensa Ai
 
-Lensa ai was first launched in 2018 as a normal photo editing app with filters that could change a normal picture to digital work of art, but still, this was no different from other editing apps e.g. **Snapchat** **face tune** or even **TikTok** by that time.
+[Lensa ai](https://prisma-ai.com/lensa) was first launched in 2018 as a normal photo editing app with filters that could change a normal picture to digital work of art, but still, this was no different from other editing apps e.g. **Snapchat** **face tune** or even **TikTok** by that time.
 
 So Lensa AI had to change the game by introducing **"Magic Avatar"** a feature that had other cool features inside its sleeve e.g.
 
@@ -24,9 +24,13 @@ So Lensa AI had to change the game by introducing **"Magic Avatar"** a feature t
 
 **background replacement** where you can remove your normal boring background and add another custom-made background.
 
+![](/uploads/2022-3.webp)
+
 **Color correction** you are also not limited to adjusting the color in your photos. Adjusting the brightness and contrast is an added advantage. One particular feature that amazed me while I was trying out the app is that you can add brightness to certain areas of the photo and even darken some areas according to your taste. Isn't this cool considering AI is doing this for you? 
 
 Another cool feature is that unlike other image generators where after uploading the image you leave all the work to the AI. with the Lensa app there are sliders and buttons to control how much of something you want if for example, the filters are too much you can just reduce without having to regenerate another image.
+
+![](/uploads/lensa.webp)
 
 # Lensa Ai Installation
 
@@ -55,7 +59,7 @@ Unlike other image generators, let's take **Dalle** for instance which is a text
 
 _Read more about Dalle in👉_ [The Ultimate Guide to AI Art Generators](https://www.blog.bunnieabc.com/posts/what-are-the-best-ai-image-generator-tools/ "The Ultimate Guide to AI Art Generators?")
 
-Whenever there is uploading of pictures there have to be some security risks. However, **Prisma labs** made it clear that the images are only uploaded to train the model to produce better results. they also announced that they don't store the images but are usually deleted every time after generating an image so you have to upload another image the second time you want to generate another image. just to be on the safe side go ahead and read their [privacy policy terms](https://lensa-ai.com/terms#:\~:text=You%20acknowledge%20and%20agree%20that,subject%20to%20our%20Privacy%20Policy.&text=TL%3BDR%3A%20You%20can%20upload,no%20ownership%20over%20such%20content.), who reads these terms anyway
+Whenever there is uploading of pictures there have to be some security risks. However, **Prisma labs** made it clear that the images are only uploaded to train the model to produce better results. they also announced that they don't store the images but are usually deleted every time after generating an image so you have to upload another image the second time you want to generate another image. just to be on the safe side go ahead and read their [privacy policy terms](https://lensa-ai.com/terms#:\~:text=You%20acknowledge%20and%20agree%20that,subject%20to%20our%20Privacy%20Policy.&text=TL%3BDR%3A%20You%20can%20upload,no%20ownership%20over%20such%20content.), who reads these terms anyway🙄
 
 # Lensa Ai Pricing
 
@@ -71,8 +75,10 @@ The avatars pricing is quite fair considering Premium subscribers will have a 50
 
 # Is it true that Lensa Ai produces uncensored images
 
-At first, when I heard about [**chat GPT**](https://www.blog.bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/) It was about how it was delivering conversations like a human being also the first time to hear about **Bard** (google AI model) it was because of how people were describing it as sentient but shockingly enough first when I first heard about **lensa AI** it was because of how people were describing it as undressed.
+At first, when I heard about [**chat GPT**](https://www.blog.bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/) It was about how it was delivering conversations like a human being also the first time to hear about **Bard** (google AI model) it was because of how people were describing it as sentient but shockingly enough when I first heard about **lensa AI** it was because of how people were describing how the Ai undressed them or even pornified them.😶 [The viral AI avatar app Lensa undressed me—without my consent](https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/)
+
+![Is it true that Lensa Ai produces uncensored images](/uploads/ab0ecaaa24fac6d70548412e14a74eef.webp "Is it true that Lensa Ai produces uncensored images")
 
 but c'mon this is an AI model it uses the input data to generate the results which for that matter the data is collected from the internet where there are all sorts of images (porn images undressed women name it) therefore the model is just like other models uses the information to generate according to its training data so the model should not be the one to be blamed. but to people who put their naked pictures out there.
 
-But I know many will still argue out why not just filter the output to restrain images of people being naked or such. yeah, I wonder the same thing too.
+But I know many will still argue out why not just filter the output to restrain images of people being naked or such. yeah, I wonder the same thing too😏.
