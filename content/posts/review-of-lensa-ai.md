@@ -28,13 +28,13 @@ So Lensa AI had to change the game by introducing **"Magic Avatar"** a feature t
 
 # lensa Ai Installation
 
-One thing to keep in mind is that Lensa AI is an image editing **app** available in both iOS and android. At the time of writing this blog, there is no web browser-based Lensa AI website for **Windows users,** but there is one for the Mac operating system. 🤨 this was qiute frustrating😞😞 at first becouse c'mon why only windows users that dont have support and am not trying to hate on lensa but we hope this will change over time.
+One thing to keep in mind is that Lensa AI is an image editing **app** available in both iOS and android. At the time of writing this blog, there is no web browser-based Lensa AI website for **Windows users,** but there is one for the Mac operating system. 🤨 this was quite frustrating😞😞 at first because c'mon why only windows users that don't have support and am not trying to hate on lensa but we hope this will change over time.
 
-So i went ahead to install it on my phone then i get this
+So I went ahead to install it on my phone then I get this
 
 ........
 
-okay okay i know i need to upgrade my device but why do this to me lensa am not gonna lie but at that time i felt like am from 90's trying to install  windows 11 on my .....old computer😣😣.therefore to avoid getting dissapointed when installing you need to have...........................
+okay okay I know I need to upgrade my device but why to do this to me lensa am not gonna lie but at that time I felt like am from 90's trying to install windows 11 on my .....old computer😣😣.therefore to avoid getting disappointed when installing you need to have...........................
 
 # How does Lensa Ai Work
 
@@ -42,14 +42,14 @@ So basically Prisma Labs Inc. which is the company that owns Lensa AI took the[ 
 
 # 🤔What's the difference between Lensa AI & other image generators?
 
-Unlike other image generators, let's take **Dalle** for instance which is a text-to-image AI model where you must put text to generate an image. whereas **_with Lensa AI_** all you have to do is to select a style be it **_anime_**, **_pop_**, **_fantasy_** or even **_stylish_** and the AI will produce different variations of the image to get better results. You are required to upload **15** to **20** images so as to train the models.
+Unlike other image generators, let's take **Dalle** for instance which is a text-to-image AI model where you must put text to generate an image. whereas **_with Lensa AI_** all you have to do is to select a style be it **_anime_**, **_pop_**, **_fantasy,_** or even **_stylish_** and the AI will produce different variations of the image to get better results. You are required to upload **15** to **20** images to train the models.
 
 _Read more about Dalle in👉_ [The Ultimate Guide to AI Art Generators](https://www.blog.bunnieabc.com/posts/what-are-the-best-ai-image-generator-tools/ "The Ultimate Guide to AI Art Generators?")
 
-but you know whenever there is uploading of pictures there have to be some security risks.but **prisma labs** made it clear that the images are only uploaded to train the model in order to produce better results.they also annouced that they dont store the images but are ussually deleted every time after generating an image so you have to upload another image the second time you want to generate another image. just to be on the safe side go ahead and read their privacy policy terms .................😁who reads this terms anyway
+but you know whenever there is uploading of pictures there have to be some security risks. but **Prisma labs** made it clear that the images are only uploaded to train the model to produce better results. they also announced that they don't store the images but are usually deleted every time after generating an image so you have to upload another image the second time you want to generate another image. just to be on the safe side go ahead and read their privacy policy terms .................😁who reads these terms anyway
 
 # Is it true that lensa Ai produces uncensored images
 
-at first when i heard about chatgpt i heard about how it was delivering conversations like a human being also when i heard about bard(google ai model) it was because of it being........ when i first heard about dallle it was becaouse of its power to generate photorealistic images.
+At first, when I heard about chatbot I heard about how it was delivering conversations like a human being also when I heard about bard (google AI model) it was because of it being sentient........ when I first heard about all it was because of its power to generate photorealistic images.
 
-but to be honest when i heard about lensa ai it was because of how people were describing it as undresser.but cmon this is an ai model it uses its input to generate the results which for that matter the data is collected from the internet where there are all sorts of images(porn images undressed women name it) therefore the model just like other models uses the information to 
+But to be honest, when I heard about lensa AI it was because of how people were describing it as undress. but c'mon this is an AI model it uses its input to generate the results which for that matter the data is collected from the internet where there are all sorts of images (porn images undressed women name it) therefore the model just like other models uses the information to 
