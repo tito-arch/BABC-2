@@ -12,3 +12,4 @@ caption = ""
 image = ""
 
 +++
+# When Is ChatGPT 4 Coming Out?
