@@ -61,7 +61,7 @@ Here is an example:
 
 **GPT4:**
 
-**_The image shows a package for a "Lightning Cable" adapter with three panels.  
+**The image shows a package for a "Lightning Cable" adapter with three panels.  
   
 Panel 1: A smartphone with a VGA connector (a large, blue, 15-pin connector typically used for computer monitors) plugged into its charging port.  
   
@@ -69,7 +69,7 @@ Panel 2: The package for the "Lightning Cable" adapter with a picture of a VGA c
   
 Panel 3: A close-up of the VGA connector with a small Lightning connector (used for charging iPhones and other Apple devices) at the end.  
   
-The humor in this image comes from the absurdity of plugging a large, outdated VGA connector into a small, modern smartphone charging port._**
+The humor in this image comes from the absurdity of plugging a large, outdated VGA connector into a small, modern smartphone charging port.**
 
 #### When did we get here? calm down.
 
