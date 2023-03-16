@@ -19,3 +19,19 @@ image = "/uploads/gpt-4.avif"
 # When Is ChatGPT 4 Coming Out?
 
 ChatGPT 4 was rolled out to the public on March 14-2023 and is limited to plus members.GPT-4 is available as an API for developers to build applications and services through the [OpenAI API waiting list](https://openai.com/waitlist/gpt-4-api).
+
+## ChatGPT 4 vs GPT 3
+
+During the presentation, some of the model's amazing capabilities were shown which included:
+
+• GPT-4 has a higher level of context
+
+ • It is a raw intelligence upgrade
+
+ • It is a multimodal, vision model 
+
+• It's better at bridging the practical application gap 
+
+**let's break down this into short summaries:** 
+
+When you ask chatgpt4 to summarize a block of text and only use words starting with a specific letter, it doesn't strain at all. The model was able to summarize an OpenAI blog post with a single sentence with all letters starting with the letter "Q".
