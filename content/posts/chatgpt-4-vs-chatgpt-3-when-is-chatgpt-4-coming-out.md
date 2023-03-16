@@ -7,9 +7,9 @@ draft = true
 tags = ["openAI", "chatgpt4 news", "GPT4 vs GPT3"]
 title = "ChatGPT 4 vs ChatGPT 3: When Is ChatGPT 4 Coming Out"
 [cover]
-alt = "bunnie abc"
+alt = "When Is ChatGPT 4 Coming Out?"
 caption = ""
-image = ""
+image = "/uploads/gpt-4.avif"
 
 +++
 > We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs. While less capable than humans in many real-world scenarios, GPT-4 exhibits human-level performance on various professional and academic benchmarks, including passing a simulated bar exam with a score around the top 10% of test takers.
@@ -18,4 +18,4 @@ image = ""
 
 # When Is ChatGPT 4 Coming Out?
 
-ChatGPT 4 was rolled out to the public on March 14-2023 and is limited to plus members. Early access is being given to API. GPT-4 is available as an API for developers to build applications and services through the [OpenAI API waiting list](https://openai.com/waitlist/gpt-4-api).
+ChatGPT 4 was rolled out to the public on March 14-2023 and is limited to plus members.GPT-4 is available as an API for developers to build applications and services through the [OpenAI API waiting list](https://openai.com/waitlist/gpt-4-api).
