@@ -12,4 +12,10 @@ caption = ""
 image = ""
 
 +++
+> We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs. While less capable than humans in many real-world scenarios, GPT-4 exhibits human-level performance on various professional and academic benchmarks, including passing a simulated bar exam with a score around the top 10% of test takers.
+>
+> **\~OpenAi**
+
 # When Is ChatGPT 4 Coming Out?
+
+ChatGPT 4 was rolled out to the public on March 14-2023 and is limited to plus members and access is being given to API for developers to explore through the [OpenAI API waiting list](https://openai.com/waitlist/gpt-4-api).
