@@ -18,4 +18,4 @@ image = ""
 
 # When Is ChatGPT 4 Coming Out?
 
-ChatGPT 4 was rolled out to the public on March 14-2023 and is limited to plus members and access is being given to API for developers to explore through the [OpenAI API waiting list](https://openai.com/waitlist/gpt-4-api).
+ChatGPT 4 was rolled out to the public on March 14-2023 and is limited to plus members and early access is being given to API. GPT-4 is available as an API for developers to build applications and services through the [OpenAI API waiting list](https://openai.com/waitlist/gpt-4-api).
