@@ -34,4 +34,10 @@ During the presentation, some of the model's amazing capabilities were shown whi
 
 **let's break down this into short summaries:** 
 
-When you ask chatgpt4 to summarize a block of text and only use words starting with a specific letter, it doesn't strain at all. The model was able to summarize an OpenAI blog post with a single sentence with all letters starting with the letter "Q".
+When you ask chatgpt4 to summarize a block of text and only use words starting with a specific letter, it doesn't strain at all. The model was able to summarize an OpenAI blog post with a single sentence with all letters starting with the letter "Q". ChatGPT3 is unable to achieve this task, it simply struggles a little bit and eventually gives up.
+
+In case you missed the demo catch it here: [OpenAI GPT4 developer live stream.](https://www.youtube.com/watch?v=outcGtbnMuQ)
+
+With little help, the model was able to build a fully functional discord bot that was used in the rest of the presentation. 
+
+A cool thing about these models and precisely gpt4 is that you could grab the documentation of a certain service online eg: an API documentation and gpt4 will understand and rephrase everything using the latest update to give correct answers since it still has limited information about events that happened after 2021. (I think its always good to give it the latest up-to-date information)
