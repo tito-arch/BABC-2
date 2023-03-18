@@ -31,7 +31,7 @@ Being on the list of the most secure email providers and competing with big comp
 
 ## How does it work?
 
-To enable multifactor verification navigate to your browser of choice click settings then click password and recovery and click multifactor authentication or two steps verification you will be required to scan a **QR code** to add proton mail to your authenticator and just like that you will be issued with a security key which you need to keep safe since its one-time password
+To enable multifactor verification to navigate to your browser of choice click settings then click password and recovery and click multifactor authentication or two steps verification you will be required to scan a **QR code** to add proton mail to your authenticator and just like that you will be issued with a security key which you need to keep safe since its one-time password
 
 ![](/uploads/otp-proton1.png)
 
@@ -69,7 +69,7 @@ However, if you want to extend this limitation you can go ahead and choose eithe
 
 ### Why pay for Email when I have a free one🤷‍♂️?
 
-Yeah yeah, that's true since I am a Gmail user myself, but if you value privacy over anything else, Protonmail might be what you need. i suggest you watch the video below for better insights into the best Email provider to use between Email and Gmail.
+Yeah yeah, that's true since I am a Gmail user myself, but if you value privacy over anything else, Protonmail might be what you need. I suggest you watch the video below for better insights into the best Email provider to use between Email and Gmail.
 
 {{ <youtube fcbf6PzVBBc>}}
 
@@ -105,6 +105,6 @@ Actually, that's how Gmail makes its money. Who said it was free If you still do
 
 * Does not work with existing emails
 * importing or transferring existing emails to proton mail is tedious and takes time
-* Even after purchasing the premium plan, you are still limited on the number of emails you can send daily.
+* Even after purchasing the premium plan, you are still limited in the number of emails you can send daily.
 
 {{ <youtube MfJ8BNm4e2Y>}}
