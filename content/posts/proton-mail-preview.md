@@ -3,7 +3,6 @@ author = "P.Gitau"
 categories = "Emerging Issues & Trends"
 date = 2023-03-16T18:44:25Z
 description = " Should you upgrade your free Gmail for Proton mail?"
-draft = true
 tags = ["End to End Enscription", "Gmail", "proton mail"]
 title = "Proton mail preview"
 [cover]
@@ -70,13 +69,13 @@ However, if you want to extend this limitation you can go ahead and choose eithe
 
 ### Why pay for Email when I have a free one🤷‍♂️?
 
-Yeah yeah, that's true since I am a Gmail user myself, but if you value privacy over anything else, Protonmail might be what you need.
+Yeah yeah, that's true since I am a Gmail user myself, but if you value privacy over anything else, Protonmail might be what you need. i suggest you watch the video below for better insights into the best Email provider to use between Email and Gmail.
 
 {{ youtube fcbf6PzVBBc }}
 
-#### Wait so you are implying that Gmail isn't safe?
+#### Wait, so you are implying that Gmail isn't safe?
 
-A small portion of that question is true but if we want to have a better understanding, lets us dive even deeper. So it's known that email uses secure **TLS** (**_transport layer security_**) to transmit data across the internet.
+A small portion of that question is true but if we want to have a better understanding, let us dive even deeper. So it's known that email uses secure **TLS** (**_transport layer security_**) to transmit data across the internet.
 
 ![](/uploads/protonmail-vs-gmail-3.webp)
 
