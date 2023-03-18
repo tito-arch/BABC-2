@@ -72,6 +72,8 @@ However, if you want to extend this limitation you can go ahead and choose eithe
 
 Yeah yeah, that's true since I am a Gmail user myself, but if you value privacy over anything else, Protonmail might be what you need.
 
+{{ youtube fcbf6PzVBBc }}
+
 #### Wait so you are implying that Gmail isn't safe?
 
 A small portion of that question is true but if we want to have a better understanding, lets us dive even deeper. So it's known that email uses secure **TLS** (**_transport layer security_**) to transmit data across the internet.
