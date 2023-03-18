@@ -52,9 +52,11 @@ Using **PGP** which means (**_pretty good Privacy_**). which technically sounds 
 
 For the recipient to be able to read the information he will be required to enter the private key which of course will be decoded by the PGP-aware email system inside proton mail.
 
-### proton mail expiration
+### Proton mail expiration
 
-When writing your message just below the subject line you will see an icon like an hourglass that lets you set the expiration date for your message. if you want to lock the message there is a lock icon in which you write your password but remember this feature is only available to proton mail users. For nonproton mail users the messages will expire after 28 days by default...though you are not limited to reducing the period which is actually counted in days and hours.
+When writing your message just below the subject line you will see an icon like an hourglass that lets you set the expiration date for your message. if you want to lock the message there is a lock icon in which you write your password but remember this feature is only available to proton mail users. For nonproton mail users the messages will expire after 28 days by default. Though you are not limited to reducing the period which is actually counted in days and hours.
+
+![](/uploads/set-expiration-time.png)
 
 When the recipient receives the email a link will be issued to view the message contents he or she will be required to enter a password which for that matter will be issued by the sender may be using a different secure messaging app. on top of the message, a nice UI banner counts the expiration time for the message.
 
@@ -62,19 +64,25 @@ When the recipient receives the email a link will be issued to view the message 
 
 Proton mail is quite fair when it comes to the pricing since you can still get a free version of proton mail which I highly recommend for people who only want to test the waters but one thing to keep in mind is that the **free version** is limited to storage and the numbers of messages you can receive per day with the free plan you get **500mbs** of storage and **100 messages** per day.
 
+![](/uploads/proton-plans-compared.png)
+
 However, if you want to extend this limitation you can go ahead and choose either a monthly plan which goes for **$4 per month** and of course **$48 per year**. But I know it will take time to introduce people to this culture where you pay to send emails because we are used to the free email service offered by Google. 
 
-### Why pay for Email while I have a free one?
+### Why pay for Email when I have a free one🤷‍♂️?
 
 Yeah yeah, that's true since I am a Gmail user myself, but if you value privacy over anything else, Protonmail might be what you need.
 
 #### Wait so you are implying that Gmail isn't safe?
 
-A small portion of that question is true but if we want to have a better understanding, lets us dip even deeper. So it's known that email uses secure **TLS** (**_transport layer security_**) to transmit data across the internet.
+A small portion of that question is true but if we want to have a better understanding, lets us dive even deeper. So it's known that email uses secure **TLS** (**_transport layer security_**) to transmit data across the internet.
+
+![](/uploads/protonmail-vs-gmail-3.webp)
 
 Well, it's good, it's safe, it's the one which has been used for ages. But the problem is it gets decoded once it reaches the target mail server. And that means even if the unintended person gets the phone or the computer he or she can simply read all the data, but you do realize that with **proton mail** which uses **_end-to-end encryption_** despite the email being sent to the client side, you still require the secret private key to unlock the encrypted message.
 
 Also, proton mail does not access the emails I send so in case of a data breach the attackers will not find any data about me in proton servers remember no data like personal names or birthdates were collected during sign-up. But Gmail is the very opposite of that since Gmail uses Ai technology to read your emails and give you personalized ads according to what you like, what you search for, or the links you click. like no kidding everything you do is being monitored and recorded
+
+![](/uploads/gmail-ads.webp)
 
 Actually, that's how Gmail makes its money. Who said it was free If you still don't believe me. what about the promotions tab in your Gmail user interface which brings you personalized information about the sites you visited or even might want to visit How do u think google knows this (the answer is by making Gmail available and free to all)
 
@@ -97,3 +105,5 @@ Actually, that's how Gmail makes its money. Who said it was free If you still do
 * Does not work with existing emails
 * importing or transferring existing emails to proton mail is tedious and takes time
 * Even after purchasing the premium plan, you are still limited on the number of emails you can send daily.
+
+https://youtu.be/MfJ8BNm4e2Y
