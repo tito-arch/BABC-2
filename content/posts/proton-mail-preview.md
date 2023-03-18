@@ -71,7 +71,7 @@ However, if you want to extend this limitation you can go ahead and choose eithe
 
 Yeah yeah, that's true since I am a Gmail user myself, but if you value privacy over anything else, Protonmail might be what you need. I suggest you watch the video below for better insights into the best Email provider to use between Email and Gmail.
 
-{{ <youtube fcbf6PzVBBc>}}
+{{< youtube fcbf6PzVBBc >}}
 
 #### Wait, so you are implying that Gmail isn't safe?
 
@@ -107,4 +107,4 @@ Actually, that's how Gmail makes its money. Who said it was free If you still do
 * importing or transferring existing emails to proton mail is tedious and takes time
 * Even after purchasing the premium plan, you are still limited in the number of emails you can send daily.
 
-{{ <youtube MfJ8BNm4e2Y>}}
+{{< youtube MfJ8BNm4e2Y >}}
