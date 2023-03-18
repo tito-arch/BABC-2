@@ -102,4 +102,4 @@ Artificial Intelligence is ultimately an umbrella term for different artificial 
 
 To summarize all that we have written, make sure you watch the video below to understand better:
 
-{{<youtube [Uom8hY8FXc](https://www.youtube.com/watch?v=pUom8hY8FXc "https://www.youtube.com/watch?v=pUom8hY8FXc") >}}
+{{<youtube Uom8hY8FXc >}}
