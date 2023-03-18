@@ -21,7 +21,7 @@ So if you were to get hacked the hacker would not be able to retrieve your IP ad
 
 Protonmail is a secure email service that offers users security features such as **end-to-end data encryption**. and when I say **_end-to-end data encryption_** it simply means that neither a hacker nor proton mail workers can sneakily access your data. Since the only person who has the key to open the data sent is you the **receiver** or the **sender** proton mail goes even further by not collecting its user data even when registering new users.
 
-![](/uploads/protonmail-005.png)
+![](/uploads/cratea.PNG)
 
 But of course, when signing you will be asked for your email and password and a recovery email which is optional for that matter but highly recommended. Proton mail is browser-based, but you can still download the Android or iOS app by simply visiting the main proton mail website and clicking the download button and a QR code will appear Now you can go ahead and scan the QR code to be redirected to the download site.
 
