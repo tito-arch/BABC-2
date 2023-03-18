@@ -31,7 +31,7 @@ Being on the list of the most secure email providers and competing with big comp
 
 ## How does it work?
 
-To enable multifactor verification navigate to your browser of choice click settings then click password and recovery and click multifactor authentication or two steps verification you will be required to scan a **QR code** to add proton mail to your authenticator and just like that you will be issued with a security key which you need to keep safe since its one-time password 
+To enable multifactor verification navigate to your browser of choice click settings then click password and recovery and click multifactor authentication or two steps verification you will be required to scan a **QR code** to add proton mail to your authenticator and just like that you will be issued with a security key which you need to keep safe since its one-time password
 
 ![](/uploads/otp-proton1.png)
 
@@ -65,13 +65,13 @@ Proton mail is quite fair when it comes to the pricing since you can still get a
 
 ![](/uploads/proton-plans-compared.png)
 
-However, if you want to extend this limitation you can go ahead and choose either a monthly plan which goes for **$4 per month** and of course **$48 per year**. But I know it will take time to introduce people to this culture where you pay to send emails because we are used to the free email service offered by Google. 
+However, if you want to extend this limitation you can go ahead and choose either a monthly plan which goes for **$4 per month** and of course **$48 per year**. But I know it will take time to introduce people to this culture where you pay to send emails because we are used to the free email service offered by Google.
 
 ### Why pay for Email when I have a free one🤷‍♂️?
 
 Yeah yeah, that's true since I am a Gmail user myself, but if you value privacy over anything else, Protonmail might be what you need. i suggest you watch the video below for better insights into the best Email provider to use between Email and Gmail.
 
-{{ youtube fcbf6PzVBBc }}
+{{ <youtube fcbf6PzVBBc>}}
 
 #### Wait, so you are implying that Gmail isn't safe?
 
@@ -107,4 +107,4 @@ Actually, that's how Gmail makes its money. Who said it was free If you still do
 * importing or transferring existing emails to proton mail is tedious and takes time
 * Even after purchasing the premium plan, you are still limited on the number of emails you can send daily.
 
-{{ youtube MfJ8BNm4e2Y }}
+{{ <youtube MfJ8BNm4e2Y>}}
