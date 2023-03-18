@@ -106,4 +106,4 @@ Actually, that's how Gmail makes its money. Who said it was free If you still do
 * importing or transferring existing emails to proton mail is tedious and takes time
 * Even after purchasing the premium plan, you are still limited on the number of emails you can send daily.
 
-https://youtu.be/MfJ8BNm4e2Y
+{{ youtube MfJ8BNm4e2Y }}
