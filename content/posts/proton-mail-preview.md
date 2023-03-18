@@ -4,7 +4,7 @@ categories = "Emerging Issues & Trends"
 date = 2023-03-16T18:44:25Z
 description = " Should you upgrade your free Gmail for Proton mail?"
 tags = ["End to End Enscription", "Gmail", "proton mail"]
-title = "The Secure Email Service Provider That's Changing the Game"
+title = "Proton Mail: The Email Service That Puts Your Privacy First"
 [cover]
 alt = "proton mail review"
 caption = "image sourced from: Proton.me"
