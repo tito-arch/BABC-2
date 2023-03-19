@@ -75,7 +75,7 @@ Yeah yeah, that's true since I am a Gmail user myself, but if you value privacy 
 
 #### Wait, so you are implying that Gmail isn't safe?
 
-A small portion of that question is true but if we want to have a better understanding, let us dive even deeper. So it's known that email uses secure **TLS** (**_transport layer security_**) to transmit data across the internet.
+A small portion of that question is true but if we want to have a better understanding, let us dive even deeper. So it's known that Gmail uses secure **TLS** (**_transport layer security_**) to transmit data across the internet.
 
 ![](/uploads/protonmail-vs-gmail-3.webp)
 
