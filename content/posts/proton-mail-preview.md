@@ -11,9 +11,9 @@ caption = "image sourced from: Proton.me"
 image = "/uploads/proton-mail-og.webp"
 
 +++
-Did you know that hackers can email you and by simply opening the email the hacker gets your IP address? And we all know the security risks when an unauthorized person like a hacker for example accesses your IP address. He or she may steal your identity and access your location and personal files, that's how easily you can get hacked. It takes only one click of a button. But someone may still argue that the email provider should protect its users from such attacks. and yeah that is true.
+Did you know that hackers can email you and by simply opening the email the hacker gets your IP address? And we all know the security risks when an unauthorized person like a hacker accesses your IP address. He or she may steal your identity and access your location and personal files,It takes only one click of a button. But someone may still argue that email providers should protect their users from such attacks. and yes that is true.
 
-However, not all email providers provide extra security features to their users. There are various secure email providers eg. [**Tutanota**](https://tutanota.com/ "Tutanota link")**,** [**Cock. li** ](https://cock.li/ "Cock.li link")or even [**Hushmail**](https://www.hushmail.com/ "https://www.hushmail.com/")**,** but we are particularly going to look for only one email provider and that is **Protonmail.** If the name sounds familiar it's because of the famous [**ProtonVPN**](https://protonvpn.com/ "proton vpn link") service that mainly focuses on securing your online presence by redirecting traffic to a proton server based in **Geneva, Switzerland**.
+However, not all email providers provide extra security features to their users. There are various secure email providers eg. [**Tutanota**](https://tutanota.com/ "Tutanota link")**,** [**Cock. li** ](https://cock.li/ "Cock.li link")or even [**Hushmail**](https://www.hushmail.com/ "https://www.hushmail.com/")**,** but we are particularly going to look to only one email provider and that is **Protonmail.** If the name sounds familiar it's because of the famous [**ProtonVPN**](https://protonvpn.com/ "proton vpn link") service that mainly focuses on securing your online presence by redirecting traffic to a proton server based in **Geneva, Switzerland**.
 
 So if you were to get hacked the hacker would not be able to retrieve your IP address because of the proton mail strong **encryption**. So if you are a person who values his or her data. or maybe looking for a secure way to send your data online, this article is for you.
 
@@ -27,15 +27,15 @@ But of course, when signing you will be asked for your email and password and a 
 
 # Is Proton Mail safe?
 
-Being on the list of the most secure email providers and competing with big companies like Gmail or outlook for Microsoft I must say is not a joke, but this is because of how transparent and open Protonmail is to their services. And since we are already talking about transparency, Protonmail is **open source;** therefore if you are a developer go check out the code at [GitHub](https://github.com/ProtonMail "proton mail code on github link") or even install it on your server, one advantage of Protonmail being open source is that everyone can access the code and look for security flaws or even improve the code. even though this poses some challenges. like security risks to the company. But on top of that proton mail also adds multifactor verification which is basically like the one offered by Google.
+Being on the list of the most secure email providers and competing with big companies like **Gmail** or **outlook** for Microsoft I must say is not a joke, but this is because of how transparent and open Protonmail is to their services. And since we are already talking about transparency, Protonmail is **open source;** therefore if you are a developer go check out the source code at [GitHub](https://github.com/ProtonMail "proton mail code on github link") or even install it on your server, one advantage of Protonmail being open source is that everyone can access the code and look for security flaws or even improve the code. even though this poses some challenges. like security risks to the company. But on top of that proton mail also adds multifactor verification which is basically like the one offered by Google.
 
 ## How does it work?
 
-To enable multifactor verification to navigate to your browser of choice click settings then click password and recovery and click multifactor authentication or two steps verification you will be required to scan a **QR code** to add proton mail to your authenticator and just like that you will be issued with a security key which you need to keep safe since its one-time password
+To enable multifactor verification navigate to your browser of choice click settings then click password & recovery and click **multifactor authentication** or **two steps verification** you will be required to scan a **QR code** to add proton mail to your authenticator and just like that you will be issued with a security key which you need to keep safe since its one-time password
 
 ![](/uploads/otp-proton1.png)
 
-There you can be secure that messages will be safe and sound even if you lose your phone since you can still use the computer to access your account or vice versa. The same also applies in case you get hacked. The hacker must verify using the two devices, unlike other security features where if I have your password I can potentially harm you in any way. But with proton mail, you can be assured of data being secure and encrypted every time.
+There you can be secure that messages will be safe and sound even if you lose your phone since you can still use the computer to access your account or vice versa. The same also applies in case you get hacked. The hacker must verify using the two devices, unlike other security features where if I have your password I can potentially harm you in any way. But with proton mail, you can be assured of data being secure and **encrypted** every time.
 
 ## Still not convinced
 
@@ -53,15 +53,15 @@ For the recipient to be able to read the information he will be required to ente
 
 ### Proton mail expiration
 
-When writing your message just below the subject line you will see an icon like an hourglass that lets you set the expiration date for your message. if you want to lock the message there is a lock icon in which you write your password but remember this feature is only available to proton mail users. For nonproton mail users the messages will expire after 28 days by default. Though you are not limited to reducing the period which is actually counted in days and hours.
+When writing your message just below the subject line you will see an icon like an **_hourglass_** that lets you set the expiration date for your message. If you want to lock the message there is a lock icon in which you write your password but remember this feature is only available to proton mail users. For nonproton mail users the messages will expire after 28 days by default. Though you are not limited to reducing the period which is actually counted in days and hours.
 
 ![](/uploads/set-expiration-time.png)
 
-When the recipient receives the email a link will be issued to view the message contents he or she will be required to enter a password which for that matter will be issued by the sender may be using a different secure messaging app. on top of the message, a nice UI banner counts the expiration time for the message.
+When the recipient receives the email a link will be issued to view the message contents he or she will be required to enter a password which for that matter will be issued by the sender may be using a different secure messaging app. On top of the message, a nice UI banner counts the expiration time for the message.
 
 ## Proton mail Pricing
 
-Proton mail is quite fair when it comes to the pricing since you can still get a free version of proton mail which I highly recommend for people who only want to test the waters but one thing to keep in mind is that the **free version** is limited to storage and the numbers of messages you can receive per day with the free plan you get **500mbs** of storage and **100 messages** per day.
+Proton mail is quite fair when it comes to the pricing since you can still get a free version of proton mail which I highly recommend for people who only want to test the waters but one thing to keep in mind is that the **free version** is limited to storage and the numbers of messages you can receive per day with the free plan you get **500mbs** of storage, **150 messages** per day and **1** email address.
 
 ![](/uploads/proton-plans-compared.png)
 
@@ -69,7 +69,7 @@ However, if you want to extend this limitation you can go ahead and choose eithe
 
 ### Why pay for Email when I have a free one🤷‍♂️?
 
-Yeah yeah, that's true since I am a Gmail user myself, but if you value privacy over anything else, Protonmail might be what you need. I suggest you watch the video below for better insights into the best Email provider to use between Email and Gmail.
+Yeah yeah, that's true since I am a Gmail user myself, but if you value privacy over anything else, Protonmail might be what you need. I suggest you watch the video below for better insights into the best email provider to use between Email and Gmail.
 
 {{< youtube fcbf6PzVBBc >}}
 
@@ -85,7 +85,7 @@ Also, proton mail does not access the emails I send so in case of a data breach 
 
 ![](/uploads/gmail-ads.webp)
 
-Actually, that's how Gmail makes its money. Who said it was free If you still don't believe me. what about the promotions tab in your Gmail user interface which brings you personalized information about the sites you visited or even might want to visit How do u think google knows this (the answer is by making Gmail available and free to all)
+Actually, that's how Gmail makes its money. Who said it was free If you still don't believe me. what about the promotions tab in your Gmail user interface which brings you personalized information about the sites you visited or even might want to visit How do you think google knows this (**_the answer is by making Gmail available and free to all)_**
 
 # Advantages of using Proton mail over Gmail
 
