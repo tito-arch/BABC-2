@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: static/moderators
-webhook_url: https://hooks.slack.com/services/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
+webhook_url: https://hooks.slack.com/services/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
 sections:
 - type: heading
   label: All icons
