@@ -14,9 +14,9 @@ image = ""
 +++
 ## Can Machines Think?
 
-**Alan Turing** asked, "**I propose the question, can machines think?**". Can a computer achieve a state of consciousness? Distinguishing a bot from a human has lately become so overwhelming. Suddenly humans sound like bots.
+[**Alan Turing**](https://en.wikipedia.org/wiki/Alan_Turing) asked, "**I propose the question, can machines think?**". Can a computer achieve a state of consciousness? Distinguishing a bot from a human has lately become so overwhelming. Suddenly humans sound like bots.
 
-We have always had a way to distinguish bots from real humans but everything has since become so unreal. Recent advancements in technology are outpacing Moore's Law. We are now living in an age with a technology that maybe did not exist in the realms of magic 50 years ago. **The Age of AI.**
+We have always had a way to distinguish bots from real humans but everything has since become so unreal. Recent advancements in technology are outpacing [Moore's Law](https://blog.bunnieabc.com/posts/new-macbook-pro-14-16-overview-specs-96-gb-ram/). We are now living in an age with a technology that maybe did not exist in the realms of magic 50 years ago. **The Age of AI.**
 
 ### The Turing Test.
 
@@ -28,7 +28,7 @@ If a computer and a person were to be questioned about a specific topic and thei
 
 When the evaluator was unable to distinguish between the two then the computer was considered to have Artificial Intelligence.
 
-This worked until it was superseded by the powerful tech we now have,  other tests were made to give distinction. These include: The Marcus Test, Lovelace test 2.0, and the Reverse Turing test which involves a human proving to a computer that they are not a computer - examples of these are CAPTCHA (**Completely Automated Public Turing test to tell Computers and Humans Apart**)
+This worked until it was superseded by the powerful tech we now have,  other tests were made to give distinction. These include: The [Marcus Test, Lovelace test 2.0,](https://www.techtarget.com/searchenterpriseai/definition/Turing-test) and the Reverse Turing test which involves a human proving to a computer that they are not a computer - examples of these are CAPTCHA (**Completely Automated Public Turing test to tell Computers and Humans Apart**)
 
 ### The Rise of Conversational AI
 
