@@ -28,7 +28,7 @@ If a computer and a person were to be questioned about a specific topic and thei
 
 When the evaluator was unable to distinguish between the two then the computer was considered to have Artificial Intelligence.
 
-This worked until it was superseded by the powerful tech we now have,  
+This worked until it was superseded by the powerful tech we now have,  other tests were made to give distinction. These include: The Marcus Test, Lovelace test 2.0, and the Reverse Turing test which involves a human proving to a computer that they are not a computer - examples of these are CAPTCHA (**Completely Automated Public Turing test to tell Computers and Humans Apart**)
 
 ### The Rise of Conversational AI
 
