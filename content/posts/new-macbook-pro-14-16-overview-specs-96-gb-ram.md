@@ -14,7 +14,7 @@ image = "/uploads/macbookpro.jpg"
 +++
 # The Moore's Law:
 
-Moore's Law is a prediction made by **Gordon Moore**, the co-founder of Intel, in 1965 **_that the number of transistors on a microchip would double approximately every 18-24 months,_** this period is approximately 2 years. This prediction has been observed to hold true over the years, leading to a rapid increase in the power and efficiency of computer processors. In real life, this same law is seen in the formation of a baby. In 9 months two small cells combine to form billions of complex cells to form a human baby, they keep doubling each month as the baby grows. **Evolution.**
+Moore's Law is a prediction made by **Gordon Moore**, the co-founder of Intel, in 1965 **_that the number of transistors on a microchip would double approximately every 18-24 months,_** this period is approximately 2 years. This prediction has been observed to hold truth over the years, leading to a rapid increase in the power and efficiency of computer processors. In real life, this same law is seen in the formation of a baby. In 9 months two small cells combine to form billions of complex cells to form a human baby, they keep doubling each month as the baby grows. **Evolution.**
 
 ## 6x faster than the Intel-based Macbook
 
