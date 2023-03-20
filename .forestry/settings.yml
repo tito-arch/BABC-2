@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: static/moderators
-webhook_url: https://api.twilio.com/2010-04-01/Accounts/ACc7b06610b2005daab0209d6c01a5ea89/Messages.json
+webhook_url: https://hooks.slack.com/services/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
 sections:
 - type: heading
   label: All icons
