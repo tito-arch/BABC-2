@@ -3,7 +3,6 @@ author = "M.I.Titus"
 categories = "Artificial Intelligence & Machine Learning"
 date = 2023-03-20T20:55:40Z
 description = "Can a computer achieve a state of consciousness, is passing the Turing test still relevant"
-draft = true
 tags = ["deep mind", "Open AI", "Conversational AI"]
 title = "Conversational Ai, Dangerous Ai: The Journey to Ai conciousness"
 [cover]
@@ -24,13 +23,15 @@ Alan Turing would later come up with a thesis, can a computer be able to mimic h
 
 Here is how it worked:
 
-If a computer and a person were to be questioned about a specific topic and their answers evaluated by a human without them knowing which answers came from either, would they be able to distinguish between the human and the computer? 
+If a computer and a person were to be questioned about a specific topic and their answers evaluated by a human without them knowing which answers came from either, would they be able to distinguish between the human and the computer?
 
 When the evaluator was unable to distinguish between the two then the computer was considered to have Artificial Intelligence.
 
 This worked until it was superseded by the powerful tech we now have,  other tests were made to give distinction. These include: The [Marcus Test, Lovelace test 2.0,](https://www.techtarget.com/searchenterpriseai/definition/Turing-test) and the Reverse Turing test which involves a human proving to a computer that they are not a computer - examples of these are CAPTCHA (**Completely Automated Public Turing test to tell Computers and Humans Apart**)
 
 ### The Rise of Conversational AI
+
+To be done today
 
 * Explanation of conversational AI technology and its applications
 * Examples of conversational AI in popular culture and business
