@@ -1,7 +1,7 @@
 +++
 author = "M.I.Titus"
 categories = "Artificial Intelligence & Machine Learning"
-date = 2023-03-20T20:55:40Z
+date = 2023-03-23T22:44:24Z
 description = "Can a computer achieve a state of consciousness, is passing the Turing test still relevant"
 tags = ["deep mind", "Open AI", "Conversational AI"]
 title = "Conversational Ai, Dangerous Ai: The Journey to Ai conciousness"
