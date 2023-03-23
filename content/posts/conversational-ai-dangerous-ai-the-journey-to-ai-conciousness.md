@@ -8,7 +8,7 @@ title = "Conversational Ai, Dangerous Ai: The Journey to Ai conciousness"
 [cover]
 alt = "bunnie abc"
 caption = ""
-image = ""
+image = "/uploads/agi.avif"
 
 +++
 ## Can Machines Think?
