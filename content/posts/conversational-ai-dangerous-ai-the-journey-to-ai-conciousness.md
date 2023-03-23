@@ -24,7 +24,7 @@ Alan Turing would later come up with a thesis, can a computer mimic human intell
 
 Here is how it worked:
 
-Suppose a computer and a person were to be questioned about a specific topic and their answers evaluated by a human without them knowing which answers came from either. Would they be able to distinguish between the human and the computer?
+Suppose a computer and a person were questioned about a specific topic and their answers evaluated by a human without them knowing which solutions came from either. Would they be able to distinguish between the human and the computer?
 
 When the evaluator could not distinguish between the two, the computer was considered to have Artificial Intelligence.
 
@@ -38,7 +38,7 @@ Behind conversational AI lies a lot of machine learning, Large volumes of data, 
 
 * Allowing user input (Either speech or text)
 * Analyzing input.
-* Dialog management - used to formulate a response in a way that mimics humans.
+* Dialog management - used to formulate a response that mimics humans.
 * Reinforcement learning to improve the responses.
 
   But just because something is readable doesn't mean it makes sense. The best application of this technology is to automate repetitive tasks which could include
@@ -47,25 +47,48 @@ Behind conversational AI lies a lot of machine learning, Large volumes of data, 
 * Summarizing text.
 
   **This powerful application of AI comes with a set of disruptions:**
-* Piracy - since these models are trained on massive data collected on the web.
+* Piracy - since these models are trained on massive data collected online.
 * Low-quality content
 * Content lacks a human touch like blog posts from 2000 that made you feel a human experience - Something AI will probably never achieve.
 * Many times it's too perfect, easy to understand, etc.
 
 ### The Risks of Dangerous AI
 
-* Explanation of dangerous AI and its potential risks
-* Examples of dangerous AI in popular culture and real-life incidents
-* Ethical implications of creating dangerous AI
+Elon Musk thinks that AI is more dangerous than a nuclear warhead. If you have no idea how dangerous that is, it's unfathomable and could potentially kill millions in weeks. Clothes and skin could ignite a fire, for this reason, it is considered the most potent weapon and largest threat to humanity. In reality, we don't know what AI is capable of doing, we simply have no idea.
+
+### The Dangers of AI
+
+Today we can only think about some of what could be thought of as the dangers of AI. They include:
+
+* Loss of human control, inspired by sci-fi
+* Unemployment and economic disruption
+* Autonomous weapons and warfare
+* Disinformation and manipulation
+
+To prevent this from happening, it is suggested that we have oversight on the development of AI as a bad actor would cause chaos.
 
 ### The Journey to AI Consciousness
 
-* Explanation of AI consciousness and its potential benefits and drawbacks
-* Challenges of creating AI consciousness
-* Philosophical and ethical questions surrounding AI consciousness
+It is still hard to get consciousness as an AI feature, but what is consciousness? 
+
+#### consciousness
+
+**/ˈkɒnʃəsnəs/**
+
+a person's awareness or perception of something.
+
+but how can measure consciousness? There is simply no way. It is the main reasons believe there is God, it separates us from animals. Could AI achieve this state in the future?
+
+Many animals are conscious and consciousness is not entangled with long-term memory. We might one day achieve a state of consciousness and still argue whether we got to that point. To achieve this maybe we will have to change how models are trained. But how do you train consciousness when it's not falsifiable and cannot be tested?
+
+To be able to build a plane, you use the concept of a flying bird yet, flipping wings is not added but rather another concept to achieve flight is used. This is the same dynamic reasoning that will be used to achieve AI consciousness but why do we need it anyway? There are many unanswered questions surrounding this topic.
+
+Overall, creating AI consciousness is a complex and challenging goal that will require significant advances in our understanding of the brain.
+
+## AGI for the benefit of humanity.
+
+Unlike AI consciousness one day we will get to AGI (Artificial General Intelligence). Read Open AI's: [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond)
 
 ### Conclusion
 
-* Recap of the topics covered in the blog post
-* Call to action for responsible development and use of AI technology
-* Final thoughts on the future of AI and its potential impact on society
+Creating AI consciousness is a complex and challenging goal that will require significant advances in our understanding of the brain, and while machines may be able to mimic human intelligence and communication, it is still up for debate whether they can truly think like humans.
