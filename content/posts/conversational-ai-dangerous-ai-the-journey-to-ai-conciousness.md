@@ -41,6 +41,7 @@ Behind conversational AI lies a lot of machine learning, Large volumes of data, 
 * Reinforcement learning to improve the responses.
 
   But just because something is readable doesn't mean it makes sense. The best application of this technology is to automate repetitive tasks which could include
+
 * Customer care bot
 * Improving & debugging code
 * Summarizing text.
@@ -50,6 +51,8 @@ Behind conversational AI lies a lot of machine learning, Large volumes of data, 
 * Low-quality content
 * Content lacks a human touch like blog posts from 2000 that made you feel a human experience - Something AI will probably never achieve.
 * Many times it's too perfect, easy to understand, etc.
+
+{{< youtube pOUBt-S5dHY >}}
 
 ### The Risks of Dangerous AI
 
@@ -68,7 +71,7 @@ To prevent this from happening, it is suggested that we have oversight on the de
 
 ### The Journey to AI Consciousness
 
-It is still hard to get consciousness as an AI feature, but what is consciousness? 
+It is still hard to get consciousness as an AI feature, but what is consciousness?
 
 #### consciousness
 
