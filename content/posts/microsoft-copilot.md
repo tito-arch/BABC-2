@@ -24,25 +24,25 @@ Read more about chat GPT 4 and what it capable of on [_ChatGPT 4 vs ChatGPT 3: W
 
 # What is microsoft co-pilot?
 
-If you are a developer you pretty much guessed it already. Co-pilot is an AI assistant that helps one to write code just from reading the comments or even giving the right
+If you are a developer, you pretty much guessed it already. Co-pilot is an AI assistant that helps one to write code just from reading the comments or even giving the right
 
-code suggestions.a more familiar example is chat gpt but the diffrence is that co-pilot is more focused on writing code and nothing else but code
+code suggestions.a more familiar example is chat gpt, but the difference is that co-pilot is more focused on writing code and nothing else, but code.
 
-related: if you want to know more about chat GPT read more on ..............
+related: if you want to know more about chat GPT read more on [_Exploring the Capabilities of Chat GPT a comprehensive guide_](https://www.blog.bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/)
 
-but microsoft co-pilot is completely diffrent from the normal co-pilot we know where microsoft will be rolling out co-pilot in two ways. one as i mentioned is where co-pilot
+however microsoft co-pilot is completely different from the normal co-pilot we know where microsoft will be rolling out co-pilot in two ways. one as i mentioned is where co-pilot
 
-will be your assisntat in word while writing documents in excel while calculating stuff and generating graphs and pretty much every microsoft tools. the other version of microsoft
+will be your assistant in word while writing documents in Excel while calculating stuff and generating graphs and pretty much every microsoft tools. the other version of microsoft
 
-co-pilot is microsoft business chat. which will be using
+Co-pilot is **Microsoft Business Chat.** which will be using
 
-all the data from your microsoft office tools to maybe create updates on the change of stock this week..it may also scan your documents and provide a summary of the whole and other cool things
+all the data from your Microsoft Office tools to maybe create updates on the change of stock this week..it may also scan your documents and provide a summary of the whole and other cool things
 
-we could never think there were possible. lets check how you could use each tool with this embeded ai to increase your productivity and most impotant save time.
+We could never think there were possible. lets check how you could use each tool with this embedded to increase your productivity and most importantly save time.
 
-One point to note is that its not the first time microsoft is introducing ai into their tools. many dont remeber but before copilot there was clippy an ai which used to assist ................
+One point to note is that its not the first time microsoft is introducing ai into their tools. many dont remember but before copilot there was **Clippy** an ai which used to assist ................
 
-that been said we cant compare co-pilot with clippy for obvious reasons.
+that been said we can't compare co-pilot with clippy for obvious reasons.
 
 Co-pilot in word
 
