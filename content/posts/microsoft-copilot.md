@@ -30,9 +30,9 @@ code suggestions.a more familiar example is chat gpt, but the difference is that
 
 related: if you want to know more about chat GPT read more on [_Exploring the Capabilities of Chat GPT a comprehensive guide_](https://www.blog.bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/)
 
-however microsoft co-pilot is completely different from the normal co-pilot we know where microsoft will be rolling out co-pilot in two ways. one as i mentioned is where co-pilot
+however microsoft co-pilot is completely different from the normal co-pilot we know where microsoft will be rolling out co-pilot in two ways. One as i mentioned is where co-pilot
 
-will be your assistant in word while writing documents in Excel while calculating stuff and generating graphs and pretty much every microsoft tools. the other version of microsoft
+will be your assistant in word while writing documents in Excel while calculating stuff and generating graphs and pretty much every microsoft tool. the other version of microsoft
 
 Co-pilot is **Microsoft Business Chat.** which will be using
 
@@ -58,7 +58,7 @@ it can also summarize emails for you and give you a summrized sample hence makin
 
 any email upadates from your company.
 
-Co-pilot in Microsoft teams
+## **Co-pilot in Microsoft teams**
 
 Microsoft 365 users will be able to summon Copilot to provide information on an upcoming Microsoft Teams meeting, preparing people with updates on related projects,
 
@@ -66,13 +66,11 @@ organizational changes like recent hires, and even updates on co-workers who mig
 
 lets say you miss a meeting or get
 
-Co-pilot in Powerpoint
+## Co-pilot in PowerPoint
 
 you will no longer have to worry about the tediuos work of creating a presentation slides as the co pilot as your assistant things are made easy for you remember copilot
 
-is just like a chatbot so you can just tell it to create a 8 slide presentation for you and it will just do exatly that.also you can use your documents to create a slide
-
-presentation for you how cool is that
+is just like a chatbot so you can just tell it to create a 8 slide presentation for you and it will just do exatly that.also you can use your documents to create a slide presentation for you how cool is that
 
 But if we look closely this two companies are pretty much at war with each other even if we can see it. But the best part theya are giving us good products one good example is chatGPT
 
