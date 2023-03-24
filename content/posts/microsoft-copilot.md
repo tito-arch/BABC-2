@@ -12,9 +12,7 @@ caption = ""
 image = ""
 
 +++
-The Ai war still continues, and the best is yet to come. The same week after Google announced about integrating their workspace with generative ai was still the same
-
-week that microsoft announced that they will be releasing microsoft copilot which will be embedded inside  Word, PowerPoint, Excel, Outlook, Microsoft Teams, and microsoft business chat and pretty much every tool that microsoft owns you won't miss a sprinkle of some AI features. This comes after OpenAI released ChatGPT 4 which is an advancement of the gpt 3.5 The reason why open ai first announced the model then microsoft followed is because the same gpt4 will be integrated with this
+The Ai war still continues, and the best is yet to come. The same week after Google announced about integrating their workspace with generative ai was still the same week that **microsoft** announced that they will be releasing **microsoft copilot** which will be embedded inside  Word, PowerPoint, Excel, Outlook, Microsoft Teams, and microsoft business chat and pretty much every tool that microsoft owns you won't miss a sprinkle of some AI features. This comes after OpenAI released ChatGPT 4 which is an advancement of the gpt 3.5 The reason why open ai first announced the model then microsoft followed is because the same gpt4 will be integrated with this
 
 microsoft tools, in what they are calling microsoft co-pilot
 
@@ -50,9 +48,7 @@ Co-pilot in Excel
 
 Co-pilot in Outlook
 
-With microsoft co-pilot in your emails, it means you can just ask the ai to write emails for you on (X) subject also you no longer have to respond to 100 of emails in your inbox. as
-
-The AI can just do it for you if it can read your emails, it also means it can delete the less important emails or even spot spams and also detect fishy links.
+With microsoft co-pilot in your emails, it means you can just ask the AI to write emails for you on (X) subject also you no longer have to respond to 100 of emails in your inbox. as the AI can just do it for you if it can read your emails, it also means it can delete the less important emails or even spot spam and also detect fishy links.
 
 It can also summarize emails for you and give you a summarized sample hence making your emails sound literate straight to the point and most important increase productivity as you can't miss
 
@@ -68,15 +64,15 @@ Let's say you miss a meeting or get
 
 ## Co-pilot in PowerPoint
 
-you will no longer have to worry about the tediuos work of creating a presentation slides as the co pilot as your assistant things are made easy for you remember copilot
+You will no longer have to worry about the tedious work of creating a presentation slides as the co-pilot as your assistant things are made easy for you remember copilot
 
-is just like a chatbot so you can just tell it to create a 8 slide presentation for you and it will just do exatly that.also you can use your documents to create a slide presentation for you how cool is that
+is just like a chatbot, so you can just tell it to create a 8-slide presentation for you, and it will just do exactly that. Also, you can use your documents to create a slide presentation for you How cool is that
 
-But if we look closely this two companies are pretty much at war with each other even if we can see it. But the best part theya are giving us good products one good example is chatGPT.
+But if we look closely this two companies are pretty much at war with each other even if we can see it. But the best part is they are giving us good products. One good example is ChatGPT..
 
-even if at comparison microsoft copilot features are pretty much the same as google generative ai...we have to admit that microsoft is winning here remeber they own a small percentage.
+Even if at comparison microsoft copilot features are pretty much the same as google generative ai...we have to admit that microsoft is winning here remember they own a small percentage.
 
-of chatgpt they have business chat which is a new feature microsoft collective suite embeded with ai unlocks alot of capabilities.
+Of ChatGPT, they have business chat which is a new feature microsoft collective suite embedded with AI unlocks a lot of capabilities.
 
 With Copilot, you’re always in control. You decide what to keep, modify or discard. Now, you can be more creative in Word, more analytical
 
