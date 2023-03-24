@@ -38,9 +38,9 @@ Co-pilot is **Microsoft Business Chat.** which will be using
 
 all the data from your Microsoft Office tools to maybe create updates on the change of stock this week..it may also scan your documents and provide a summary of the whole and other cool things
 
-We could never think there were possible. lets check how you could use each tool with this embedded to increase your productivity and most importantly save time.
+We could never think there were possible. Let's check how you could use each tool with this embedded to increase your productivity and most importantly save time.
 
-One point to note is that its not the first time microsoft is introducing ai into their tools. many dont remember but before copilot there was **Clippy** an ai which used to assist ................
+One point to note is that it not the first time microsoft is introducing ai into their tools. many dont remember, but before copilot there was **Clippy** an ai which used to assist ................
 
 that been said we can't compare co-pilot with clippy for obvious reasons.
 
@@ -50,21 +50,21 @@ Co-pilot in Excel
 
 Co-pilot in Outlook
 
-With microsoft co-pilot in your emails it means you can just ask the ai to write emails for you on (X) subject also you no longer have to responds to 100 of emails in your inbox as
+With microsoft co-pilot in your emails, it means you can just ask the ai to write emails for you on (X) subject also you no longer have to respond to 100 of emails in your inbox. as
 
-the ai can just do it for you if it can read your emails it also means it can delete the less imaportant emails or even spot spams and also detect phisy links
+The AI can just do it for you if it can read your emails, it also means it can delete the less important emails or even spot spams and also detect fishy links.
 
-it can also summarize emails for you and give you a summrized sample hence making your emails sound literate straight to the point and most important increase productivity as you cant miss
+It can also summarize emails for you and give you a summarized sample hence making your emails sound literate straight to the point and most important increase productivity as you can't miss
 
-any email upadates from your company.
+any email updates from your company.
 
-## **Co-pilot in Microsoft teams**
+## **Co-pilot in Microsoft Teams**
 
-Microsoft 365 users will be able to summon Copilot to provide information on an upcoming Microsoft Teams meeting, preparing people with updates on related projects,
+Microsoft 365 users will be able to summon Copilot to provide information on an upcoming Microsoft Teams meeting, preparing people with updates on related projects.
 
 organizational changes like recent hires, and even updates on co-workers who might have returned from vacation.
 
-lets say you miss a meeting or get
+Let's say you miss a meeting or get
 
 ## Co-pilot in PowerPoint
 
@@ -72,9 +72,9 @@ you will no longer have to worry about the tediuos work of creating a presentati
 
 is just like a chatbot so you can just tell it to create a 8 slide presentation for you and it will just do exatly that.also you can use your documents to create a slide presentation for you how cool is that
 
-But if we look closely this two companies are pretty much at war with each other even if we can see it. But the best part theya are giving us good products one good example is chatGPT
+But if we look closely this two companies are pretty much at war with each other even if we can see it. But the best part theya are giving us good products one good example is chatGPT.
 
-even if at comparison microsoft copilot features are pretty much the same as google genearative ai...we have to admit that microsoft is winning here remeber they own a small percentage
+even if at comparison microsoft copilot features are pretty much the same as google generative ai...we have to admit that microsoft is winning here remeber they own a small percentage.
 
 of chatgpt they have business chat which is a new feature microsoft collective suite embeded with ai unlocks alot of capabilities.
 
