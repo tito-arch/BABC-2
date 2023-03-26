@@ -18,13 +18,13 @@ Read more about chat GPT 4 and what it is capable of on [_ChatGPT 4 vs ChatGPT 3
 
 > “Today marks the next major step in the evolution of how we interact with computing, which will fundamentally change the way we work and unlock a new wave of productivity growth. With our new copilot for work, we’re giving people more agency and making technology more accessible through the most universal interface natural language.” **Satya Nadella**
 
-# What is Microsoft co-pilot?
+# What is Microsoft Co-pilot?
 
 If you are a developer, you pretty much guessed it already. Co-pilot is an AI assistant that helps one to autocomplete code just by reading the comments or even giving the right code suggestions. A more familiar example is chat gpt, but the difference is that the co-pilot is more focused on writing code and nothing else, but code.
 
 related: if you want to know more about chat GPT read more on [_Exploring the Capabilities of Chat GPT a comprehensive guide_](https://www.blog.bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/)
 
-However, Microsoft co-pilot is completely different from the normal GitHub co-pilot, because according to Microsoft they will be rolling out co-pilot in two ways. One as I mentioned is where co-pilot will be your assistant in word while writing documents in Excel while calculating stuff and generating graphs and pretty much every Microsoft tool. 
+However, Microsoft co-pilot is completely different from the normal GitHub co-pilot, because according to Microsoft they will be rolling out co-pilot in two ways. One as I mentioned is where co-pilot will be your assistant in word while writing documents in Excel while calculating stuff and generating graphs and pretty much every Microsoft tool.
 
 The other version of Microsoft Co-pilot is **Microsoft Business Chat.** which will be using All the data from your **Microsoft Office tools** to maybe create updates on the change of stock this week.it may also scan your documents and provide a summary of the whole and other cool things We could never think there were possible. Let's check how you could use each tool with this embedded Ai to increase your productivity and most importantly save time.
 
@@ -52,10 +52,10 @@ You will no longer have to worry about the tedious work of creating presentation
 
 If we look closely these two companies are pretty much at war with each other even if we can see it. But the best part is they are giving us good products. One good example is ChatGPT or even microsoft 365 suite.
 
-{{ < youtube Yx_-xaoIa-Y> }}
+{{< youtube Yx_-xaoIa-Y >}}
 
 Even if in comparison microsoft copilot features are pretty much the same as google generative AI. we have to admit that microsoft is winning here Remember they own  **75%** percentage of ChatGPT, and they have business chat which is a new feature microsoft collective suite embedded with AI unlocks a lot of capabilities.
 
 With Copilot, you’re always in control. You decide what to keep, modify or discard. Now, you can be more **creative** in Word, more **analytical** in Excel, more **expressive** in PowerPoint, more **productive** in Outlook, and more **collaborative** in Teams.
 
-{{ < youtube 6DaJVZBXETE> }}
+{{< youtube 6DaJVZBXETE >}}
