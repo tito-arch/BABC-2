@@ -8,7 +8,7 @@ title = "Conversational Ai, Dangerous Ai: The Journey to Ai conciousness"
 [cover]
 alt = "Can Machines Think?"
 caption = "image credits: Open Ai"
-image = "/uploads/new-and-improved-content-moderation-tooling-2.webp"
+image = "/uploads/11111.webp"
 
 +++
 ## Can Machines Think?
