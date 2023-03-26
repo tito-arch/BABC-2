@@ -42,6 +42,8 @@ With co-pilot in word users can just enter a prompt of what they want to write  
 
 With Microsoft co-pilot in your emails, it means you can just ask the AI to write emails for you on (X) subject. Also, you no longer have to respond to 100 emails in your inbox. As the AI can just do it for you if it can read your emails, it also means it can delete the less important emails or even spot spam and also detect phisy links.
 
+![](/uploads/image.png)
+
 It can also summarize emails for you and give you a summarized sample, hence making your emails sound literate and straight to the point and most important increase productivity as you can't miss any email updates from your company as you will be alerted on every important emails.
 
 ## Co-pilot in Microsoft Teams
@@ -54,7 +56,11 @@ Let's say you miss a meeting or get late The Ai will update you on what you have
 
 ## Co-pilot in PowerPoint
 
-You will no longer have to worry about the tedious work of creating presentation slides as the co-pilot as your assistant things are made easy for you. Remember copilot is just like a chatbot, so you can just tell it to create an 8-slide presentation for you, and it will just do exactly that. Also, you can use your documents as the reference to create a slide presentation for you.I have to admit this will be the coolest feature on Microsoft Office Suite.
+You will no longer have to worry about the tedious work of creating presentation slides as the co-pilot as your assistant things are made easy for you.
+
+![](/uploads/00irwva8kjfhqryl4s1n2ik-4-fit_lim-size_768x.png)
+
+Remember copilot is just like a chatbot, so you can just tell it to create an 8-slide presentation for you, and it will just do exactly that. Also, you can use your documents as the reference to create a slide presentation for you.I have to admit this will be the coolest feature on Microsoft Office Suite.
 
 ## The Ai Battle
 
