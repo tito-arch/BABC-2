@@ -59,3 +59,5 @@ If we look closely these two companies are pretty much at war with each other ev
 Even if in comparison microsoft copilot features are pretty much the same as google generative AI. we have to admit that microsoft is winning here Remember they own  **75%** percentage of ChatGPT, and they have business chat which is a new feature microsoft collective suite embedded with AI unlocks a lot of capabilities.
 
 With Copilot, you’re always in control. You decide what to keep, modify or discard. Now, you can be more **creative** in Word, more **analytical** in Excel, more **expressive** in PowerPoint, more **productive** in Outlook, and more **collaborative** in Teams.
+
+{{ < youtube 6DaJVZBXETE> }}
