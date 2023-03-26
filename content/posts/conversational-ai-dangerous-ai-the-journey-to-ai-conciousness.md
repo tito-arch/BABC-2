@@ -6,9 +6,9 @@ description = "Can a computer achieve a state of consciousness, is passing the T
 tags = ["deep mind", "Open AI", "Conversational AI"]
 title = "Conversational Ai, Dangerous Ai: The Journey to Ai conciousness"
 [cover]
-alt = "bunnie abc"
-caption = ""
-image = "/uploads/agi.avif"
+alt = "Can Machines Think?"
+caption = "image credits: Open Ai"
+image = "/uploads/new-and-improved-content-moderation-tooling-2.webp"
 
 +++
 ## Can Machines Think?
