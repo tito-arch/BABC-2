@@ -22,9 +22,9 @@ Read more about chat GPT 4 and what it capable of on [_ChatGPT 4 vs ChatGPT 3: W
 
 # What is microsoft co-pilot?
 
-If you are a developer, you pretty much guessed it already. Co-pilot is an AI assistant that helps one to write code just from reading the comments or even giving the right
+If you are a developer, you pretty much guessed it already. Co-pilot is an AI assistant that helps one to write code just from reading the comments or even giving the right code suggestions.
 
-code suggestions.a more familiar example is chat gpt, but the difference is that co-pilot is more focused on writing code and nothing else, but code.
+A more familiar example is chat gpt, but the difference is that co-pilot is more focused on writing code and nothing else, but code.
 
 related: if you want to know more about chat GPT read more on [_Exploring the Capabilities of Chat GPT a comprehensive guide_](https://www.blog.bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/)
 
