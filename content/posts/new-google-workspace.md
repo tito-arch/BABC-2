@@ -16,7 +16,7 @@ image = "/uploads/google-workspace.jpg"
 
 On **March 14th,** Google announced that soon they will be releasing a new workspace that will be integrated with generative AI.
 
-However since the release of ChatGPT big tech companies have been trying to up their game by releasing their (LLM) **Large language Models** as we saw with Microsoft releasing AI on their Bing search not long before Google released Bard which was a big large model bigger than GPT, but Google was not willing to release it yet to the public fearing to ruin their repetition _(of which they later did😶_). The reality is we knew Google was doing something behind the scenes, but we were not expecting to be Ai in their workspace.
+However since the release of ChatGPT big tech companies have been trying to up their game by releasing their (LLM) **Large language Models** as we saw with Microsoft releasing AI on their Bing search not long before Google released Bard which was a big large model bigger than GPT, but Google was not willing to release it yet to the public fearing to ruin their repetition _(of which they later did_😶). The reality is that we knew Google was doing something behind the scenes, but we were not expecting to be Ai in their workspace.
 
 {{< youtube 6DaJVZBXETE >}}
 
@@ -56,7 +56,7 @@ Inside the Google meeting, the AI will be like your secretary as it will be list
 
 ## When will the New AI be available to the public?
 
-As google announced AI will still not be available to be used by the public for one reason which you probably guessed already, (we _all witnessed what happened to Bard😏_).
+As google announced AI will still not be available to be used by the public for one reason which you probably guessed already, (we _all witnessed what happened to Bard_😏).
 
 So google is first releasing the model to their only trusted testers who are going to make sure the AI is ready to be used by the public until then let's hope for the best. The first rollout is going to be on **Google Docs and Gmail** only.
 
