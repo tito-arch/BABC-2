@@ -42,7 +42,7 @@ It can also summarize emails for you and give you a summarized sample, hence mak
 
 ## Co-pilot in Microsoft Teams
 
-Microsoft 365 users will be able to summon Copilot to provide information on an upcoming Microsoft Teams meeting, preparing people with updates on related projects. organizational changes like recent hires, and even updates on co-workers who might have returned from vacation. Let's say you miss a meeting or get late The Ai will update you on what you have missed with well summarized notes of what was discussed or even a video a recorded video chat of the passed meeting.
+Microsoft 365 users will be able to summon Copilot to provide information on an upcoming Microsoft Teams meeting, preparing people with updates on related projects. organizational changes like recent hires, and even updates on co-workers who might have returned from vacation. Let's say you miss a meeting or get late The Ai will update you on what you have missed with well summarized notes of what was discussed or even a recorded video chat of the passed meeting.
 
 ## Co-pilot in PowerPoint
 
