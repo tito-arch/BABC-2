@@ -36,7 +36,7 @@ all the data from your Microsoft Office tools to maybe create updates on the cha
 
 We could never think there were possible. Let's check how you could use each tool with this embedded to increase your productivity and most importantly save time.
 
-One point to note is that it is not the first time Microsoft is introducing ai into its tools. many don't remember, but before copilot, there was **Clippy** an ai who used to assist ................
+One point to note is that it is not the first time Microsoft is introducing ai into its tools. Many don't remember, but before copilot, there was **Clippy** an AI who used to assist ................
 
 that being said we can't compare co-pilot with clippy for obvious reasons.
 
