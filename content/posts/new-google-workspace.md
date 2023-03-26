@@ -20,7 +20,7 @@ However since the release of ChatGPT big tech companies have been trying to up t
 
 {{< youtube 6DaJVZBXETE >}}
 
-However, on March 14 it was a big day for Google users because, in one of their blog posts, they announced that they will be rolling out generative AI experiences in **google sheets, Google Docs, Gmail, Google Slides,** and finally **Google chat.**How cool is that?
+However, on March 14 it was a big day for Google users because, in one of their blog posts, they announced that they will be rolling out generative AI experiences in **google sheets, Google Docs, Gmail, Google Slides,** and finally **Google chat** How cool is that?
 
 ## Generative AI on Google Sheets
 
