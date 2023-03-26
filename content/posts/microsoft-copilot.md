@@ -46,7 +46,7 @@ Microsoft 365 users will be able to summon Copilot to provide information on an 
 
 ## Co-pilot in PowerPoint
 
-You will no longer have to worry about the tedious work of creating presentation slides as the co-pilot as your assistant things are made easy for you. Remember copilot is just like a chatbot, so you can just tell it to create an 8-slide presentation for you, and it will just do exactly that. Also, you can use your documents to create a slide presentation for yourself.I have to admit this is the coolest feature on Microsoft Office Suite so far.
+You will no longer have to worry about the tedious work of creating presentation slides as the co-pilot as your assistant things are made easy for you. Remember copilot is just like a chatbot, so you can just tell it to create an 8-slide presentation for you, and it will just do exactly that. Also, you can use your documents as the reference to create a slide presentation for you.I have to admit this will be the coolest feature on Microsoft Office Suite.
 
 ## The Ai Battle
 
