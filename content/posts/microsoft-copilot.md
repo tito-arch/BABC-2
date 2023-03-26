@@ -36,11 +36,9 @@ One point to note is that it is not the first time Microsoft is introducing AI i
 
 ## Co-pilot in Outlook
 
-With Microsoft co-pilot in your emails, it means you can just ask the AI to write emails for you on (X) subject also you no longer have to respond to 100 emails in your inbox. As the AI can just do it for you if it can read your emails, it also means it can delete the less important emails or even spot spam and also detect fishy links.
+With Microsoft co-pilot in your emails, it means you can just ask the AI to write emails for you on (X) subject. Also, you no longer have to respond to 100 emails in your inbox. As the AI can just do it for you if it can read your emails, it also means it can delete the less important emails or even spot spam and also detect phisy links.
 
-It can also summarize emails for you and give you a summarized sample, hence making your emails sound literate and straight to the point and most important increase productivity as you can't miss
-
-any email updates from your company.
+It can also summarize emails for you and give you a summarized sample, hence making your emails sound literate and straight to the point and most important increase productivity as you can't miss any email updates from your company as you will be alerted on every important emails.
 
 ## Co-pilot in Microsoft Teams
 
@@ -52,7 +50,9 @@ You will no longer have to worry about the tedious work of creating presentation
 
 is just like a chatbot, so you can just tell it to create an 8-slide presentation for you, and it will just do exactly that. Also, you can use your documents to create a slide presentation for yourself.I have to admit this is the coolest feature on Microsoft Office Suite so far.
 
-But if we look closely these two companies are pretty much at war with each other even if we can see it. But the best part is they are giving us good products. One good example is ChatGPT.
+## The Ai Battle
+
+If we look closely these two companies are pretty much at war with each other even if we can see it. But the best part is they are giving us good products. One good example is ChatGPT or even microsoft 365 suite.
 
 Even if in comparison microsoft copilot features are pretty much the same as google generative AI. we have to admit that microsoft is winning here Remember they own  **75%** percentage of ChatGPT, and they have business chat which is a new feature microsoft collective suite embedded with AI unlocks a lot of capabilities.
 
