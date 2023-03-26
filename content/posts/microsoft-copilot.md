@@ -69,7 +69,7 @@ Remember copilot is just like a chatbot, so you can just tell it to create an 8-
 
 ## When will this Features be available to be used by the public?
 
-As of now microsoft is still testing this technology with its trusted companies and testers making sure the technology is ready to be used by everyone publicly and mostly making sure they don't run into any issues as this Ai models may sometimes portray ethical traits or even be sentient at some point.However, the official release date has not yet been announced, but we are expecting to see this features by the end of thisyear.
+As of now microsoft is still testing this technology with its trusted companies and testers making sure the technology is ready to be used by everyone publicly and mostly making sure they don't run into any issues as this Ai models may sometimes portray ethical traits or even be sentient at some point.However, the official release date has not yet been announced, but we are expecting to see this features by the end of this year.
 
 ## The Ai Battle
 
