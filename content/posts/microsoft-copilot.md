@@ -3,7 +3,6 @@ author = "P.Gitau"
 categories = "Artificial Intelligence & Machine Learning"
 date = 2023-03-24T18:54:35Z
 description = "Introducing Microsoft Co-pilot which will be Embeded with Microsoft 365 suite"
-draft = true
 tags = ["Microsoft 365 Copilot", "Ai", "Microsoft 365"]
 title = "The Future Is Here: Microsoft Co-Pilot Revolutionizes Productivity"
 [cover]
