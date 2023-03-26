@@ -14,6 +14,8 @@ image = "/uploads/silicon-valley-bank-1-2.jpg"
 +++
 The Ai war continues, and the best is yet to come. The same week after Google announced integrating their workspace with generative AI was still the same week that **Microsoft** announced that they will be releasing **Microsoft copilot** which will be embedded inside **Word, PowerPoint, Excel, Outlook, Microsoft Teams**, and **Microsoft business chat** and pretty much every tool that Microsoft owns you won't miss a sprinkle of some AI features. This comes after OpenAI released ChatGPT 4 which is an advancement of the GPT 3.5 The reason why open AI first announced the model and then Microsoft followed is because the same gpt4 will be integrated with this Microsoft tools, in what they are calling **Microsoft co-pilot.**
 
+{{< youtube 6DaJVZBXETE >}}
+
 Read more about chat GPT 4 and what it is capable of on [_ChatGPT 4 vs ChatGPT 3: When Is ChatGPT 4 Coming Out_](https://www.blog.bunnieabc.com/posts/chatgpt-4-vs-chatgpt-3-when-is-chatgpt-4-coming-out/)
 
 > “Today marks the next major step in the evolution of how we interact with computing, which will fundamentally change the way we work and unlock a new wave of productivity growth. With our new copilot for work, we’re giving people more agency and making technology more accessible through the most universal interface natural language.” **Satya Nadella**
@@ -78,4 +80,4 @@ Even if in comparison microsoft copilot features are pretty much the same as goo
 
 With Copilot, you’re always in control. You decide what to keep, modify or discard. Now, you can be more **creative** in Word, more **analytical** in Excel, more **expressive** in PowerPoint, more **productive** in Outlook, and more **collaborative** in Teams.
 
-{{< youtube 6DaJVZBXETE >}}
+{{< youtube ebls5x-gb0s >}}
