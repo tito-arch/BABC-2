@@ -3,7 +3,6 @@ author = "P.Gitau"
 categories = "Artificial Intelligence & Machine Learning"
 date = 2023-03-26T18:50:27Z
 description = "A breakdown on Microsoft introducing generative AI on Google Workspace."
-draft = true
 tags = ["  Generative Ai ", "Google Workspace "]
 title = "The Power of AI in Your Hands: Google Workspace's New Era"
 [cover]
