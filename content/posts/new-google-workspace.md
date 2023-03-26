@@ -12,13 +12,9 @@ caption = "image credits: 21st centurychronicles"
 image = "/uploads/google-workspace.jpg"
 
 +++
-On March 14th Google announced that soon they will be releasing a new workspace space integrated with generative AI. How cool is this?
+On March 14th Google announced that soon they will be releasing a new workspace integrated with generative AI. How cool is this?
 
-However since the release of ChatGPT big tech companies have been trying to up their game by releasing their language models like we saw
-
-with microsoft releasing AI on their Bing search not long before google released Bard which was a big large model more big than GPT, but Google was
-
-Not willing to release it yet to the public fearing to ruin their repetitio Thehe reality is we knew Google was doing something behind the scenes but we were not expecting to be ai on their workspace.
+However since the release of ChatGPT big tech companies have been trying to up their game by releasing their language models like we saw with microsoft releasing AI on their Bing search not long before google released Bard which was a big large model more big than GPT, but Google was Not willing to release it yet to the public fearing to ruin their repetition The reality is we knew Google was doing something behind the scenes but we were not expecting to be Ai on their workspace.
 
 However on March 14 it was a big day for Google users because in one of their blog posts they announced that they will be rolling out generative ai experience in google sheets, google docs, gmail,Google Slides and finally googlechat.t How cool is that.
 
@@ -28,7 +24,7 @@ with Ai intergarted on google sheets the end capabilities of what we can do are 
 
 also you no longer have to worry about the big formulas and how to calculate stuff with ai as your assistant one click and all the tediuos repetitive tasks will be automatically be done for you
 
-Generative ai on google docs
+## Generative ai on Google Docs
 
 we all know how frustrating it is to start something from stratch like writing a sales report to even summarizing your homework.google knows this and now with this inbult ai
 
@@ -36,7 +32,7 @@ you will be able to generate a whole report or even a summary of your rough work
 
 rough work summary for you.
 
-Generative ai on gmail
+## Generative ai on Gmail
 
 i have to admit am a lazy person when it comes to reading gmails especially the promotions emails.but with this new ai on gmail i no longer have to worry about that becose
 
@@ -48,7 +44,7 @@ yes it will be possible. with only one sentence prompt the ai will be able to pr
 
 of course dont get me wrong the ai wont send the emails for you its upon you the user to double check the email and if everything is fine you can just click send
 
-generative ai on google slides
+## generative ai on Google Slides
 
 writing presentations with ai as your assistant is the best thing you can probably have. the inbult google ai will be able to give you suggestions on what to write to your slides of course making sure
 
@@ -60,7 +56,7 @@ google docs as the reference and will will do exatly that.also to spice things u
 
 will be created by ai hence bringing about originality and most importantly saving time which could have otherwise been used to browse the internet looking for the right fit for your presentation.
 
-generative ai on google meet
+## generative AI on Google Meet
 
 inside of google meeting the ai will be like your secretary as it will be listening the whole converstion and writing notes as the meeting is proceeding
 
