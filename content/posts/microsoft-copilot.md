@@ -22,9 +22,9 @@ Read more about chat GPT 4 and what it is capable of on [_ChatGPT 4 vs ChatGPT 3
 
 If you are a developer, you pretty much guessed it already. Co-pilot is an AI assistant that helps one to autocomplete code just by reading the comments or even giving the right code suggestions. A more familiar example is chat gpt, but the difference is that the co-pilot is more focused on writing code and nothing else, but code.
 
-![](/uploads/4545454545.PNG)
+![What is Microsoft Co-pilot?](/uploads/4545454545.PNG "co-pilot")
 
-related: if you want to know more about chat GPT read more on [_Exploring the Capabilities of Chat GPT a comprehensive guide_](https://www.blog.bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/)
+**Related:** if you want to know more about chat GPT read more on [_Exploring the Capabilities of Chat GPT a comprehensive guide_](https://www.blog.bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/)
 
 However, Microsoft co-pilot is completely different from the normal GitHub co-pilot, because according to Microsoft they will be rolling out co-pilot in two ways. One is where co-pilot will be your assistant in word while writing documents in Excel while calculating stuff and generating graphs and pretty much every Microsoft tool.
 
@@ -33,6 +33,8 @@ The other version of Microsoft Co-pilot is **Microsoft Business Chat.** which wi
 One point to note is that it is not the first time Microsoft is introducing AI into its tools. Many don't remember, but before copilot, there was **Clippy, (**_a cartoonish character in the shape of a paperclip with two large googly eyes and expressive eyebrows_). which mostly used  to pop up on the screen to offer assistance and suggest helpful features, such as formatting text or inserting graphics. That being said we can't compare co-pilot with Clippy for obvious reasons.
 
 ## Co-pilot in word
+
+With co-pilot in word users can just enter a prompt of what they want to write  and the tool will automatically generate the entire document for them. It's as simple as starting from a template where you will only double-check to confirm for clarity and mistakes. But most of the time the Ai will always score right. Also, if you have an entire document  the tool can rewrite and summarize the work for you as easy as entering a prompt and leaving the rest to the Ai.
 
 ## Co-pilot in Excel
 
@@ -44,7 +46,11 @@ It can also summarize emails for you and give you a summarized sample, hence mak
 
 ## Co-pilot in Microsoft Teams
 
-Microsoft 365 users will be able to summon Copilot to provide information on an upcoming Microsoft Teams meeting, preparing people with updates on related projects. organizational changes like recent hires, and even updates on co-workers who might have returned from vacation. Let's say you miss a meeting or get late The Ai will update you on what you have missed with well summarized notes of what was discussed or even a recorded video chat of the passed meeting.
+Microsoft 365 users will be able to summon Copilot to provide information on an upcoming Microsoft Teams meeting, preparing people with updates on related projects. organizational changes like recent hires, and even updates on co-workers who might have returned from vacation. 
+
+![](/uploads/microsoft-365-copilot-for-teams-meeting-696x368-jpg.webp)
+
+Let's say you miss a meeting or get late The Ai will update you on what you have missed with well summarized notes of what was discussed or even a recorded video chat of the passed meeting.
 
 ## Co-pilot in PowerPoint
 
