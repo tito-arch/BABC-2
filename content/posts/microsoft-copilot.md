@@ -67,6 +67,10 @@ You will no longer have to worry about the tedious work of creating presentation
 
 Remember copilot is just like a chatbot, so you can just tell it to create an 8-slide presentation for you, and it will just do exactly that. Also, you can use your documents as the reference to create a slide presentation for you.I have to admit this will be the coolest feature on Microsoft Office Suite.
 
+## When will this Features be available to be used by the public?
+
+As of now microsoft is still testing this technology with its trusted companies and testers making sure the technology is ready to be used by everyone publicly and mostly making sure they don't run into any issues as this Ai models may sometimes portray ethical traits or even be sentient at some point.However, the official release date has not yet been announced, but we are expecting to see this features by the end of thisyear.
+
 ## The Ai Battle
 
 If we look closely these two companies are pretty much at war with each other even if we can see it. But the best part is they are giving us good products. One good example is ChatGPT or even microsoft 365 suite.
