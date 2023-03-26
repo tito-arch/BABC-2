@@ -7,9 +7,9 @@ draft = true
 tags = ["  Generative Ai ", "Google Workspace "]
 title = " New google workspace"
 [cover]
-alt = "bunnie abc"
-caption = ""
-image = ""
+alt = "A breakdown on Microsoft introducing generative AI on Google Workspace."
+caption = "image credits: 21st centurychronicles"
+image = "/uploads/google-workspace.jpg"
 
 +++
 On March 14th Google announced that soon they will be releasing a new workspace space integrated with generative AI. How cool is this?
