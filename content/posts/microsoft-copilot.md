@@ -36,11 +36,13 @@ One point to note is that it is not the first time Microsoft is introducing AI i
 
 With co-pilot in word users can just enter a prompt of what they want to write  and the tool will automatically generate the entire document for them. It's as simple as starting from a template where you will only double-check to confirm for clarity and mistakes. But most of the time the Ai will always score right. Also, if you have an entire document  the tool can rewrite and summarize the work for you as easy as entering a prompt and leaving the rest to the Ai.
 
+{{< youtube  C8WDGKaOt2s >}}
+
 ## Co-pilot in Excel
 
 With copilot in Excel you can simply as the tool to break down the trends and analyze the data for you while explaining every step with graphs visualizations and simplified tables which are easy to understand. Remember this time round you are using natural language to base of your queries unlike before where you could only use formulas. This allows you to ask questions about your data like ("**analyze the trend**" or "**draw a line graph**") and within seconds you can turn unimeaningful numbers to simple understandable work hence encouraging collaborations and even more productivity.
 
-{{< youtube  -waFp6rLc0 >}}
+{{< youtube  -waFp6rLc0 >}}{{< youtube  C8WDGKaOt2s >}}{{< youtube  C8WDGKaOt2s >}}{{< youtube  C8WDGKaOt2s >}}{{< youtube  C8WDGKaOt2s >}}{{< youtube  C8WDGKaOt2s >}}{{< youtube  C8WDGKaOt2s >}}
 
 ## Co-pilot in Outlook
 
