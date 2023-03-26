@@ -44,8 +44,6 @@ With co-pilot in word users can just enter a prompt of what they want to write  
 
 With copilot in Excel you can simply as the tool to break down the trends and analyze the data for you while explaining every step with graphs visualizations and simplified tables which are easy to understand. Remember this time round you are using natural language to base of your queries unlike before where you could only use formulas. This allows you to ask questions about your data like ("**analyze the trend**" or "**draw a line graph**") and within seconds you can turn unimeaningful numbers to simple understandable work hence encouraging collaborations and even more productivity.
 
-{{< youtube  -waFp6rLc0 >}}{{< youtube  C8WDGKaOt2s >}}{{< youtube  C8WDGKaOt2s >}}{{< youtube  C8WDGKaOt2s >}}{{< youtube  C8WDGKaOt2s >}}{{< youtube  C8WDGKaOt2s >}}{{< youtube  C8WDGKaOt2s >}}
-
 ## Co-pilot in Outlook
 
 With Microsoft co-pilot in your emails, it means you can just ask the AI to write emails for you on (X) subject. Also, you no longer have to respond to 100 emails in your inbox. As the AI can just do it for you if it can read your emails, it also means it can delete the less important emails or even spot spam and also detect phisy links.
