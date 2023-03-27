@@ -16,7 +16,7 @@ Founded by **Juan Benet** the **Interplanetary File System (IPFS)** is a fancy, 
 
 ## The IPFS explained.
 
-The name IPFS was motivated by what [**JCR Lick **](https://en.wikipedia.org/wiki/J._C._R._Licklider)called the  ARPANET, which eventually turned into the Intergalactic network. A network that could work on an Intergalactic scale. 
+The name IPFS was motivated by what JCR Lick called the  ARPANET, which eventually turned into the Intergalactic network. A network that could work on an Intergalactic scale.
 
 The Hyper Text Transfer Protocol (HTTP)  does many things under the hood, including getting a response to a specific computer as a resource. _Benet argued that since servers sometimes go down causing outages, why don't I just send you what you are asking for if at all I have it?_
 
@@ -26,6 +26,8 @@ If you understand everything to this point, here is a cookie 🍪.
 
 ### How does the IPFS work?
 
-When the human species becomes multi-planetary, many questions on latency arise. Since the IPFS allows serving files on a giant peer-to-peer scale, the latency becomes low. When one computer requests a certain resource (image, text) it provides a hash like this: 
+When the human species becomes multi-planetary, many questions on latency arise. Since the IPFS allows serving files on a giant peer-to-peer scale, the latency becomes low. When one computer requests a certain resource (image, text) it provides a hash like this: `QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco`   with a hash like this called a **CID (Content Identifier).** Let's take a step back and understand what Content Identifiers are and how files are served.
 
-    QjXDKcW6DL1umvznoyFHwpaii3nP1OqtsZrMeYxboWgJl
+### Content Identifiers
+
+Content identifiers have been around for years some of them including ISBNs, and URLs generally used to locate a specific resource. When files are uploaded to the IPFS they are assigned a CID unique to them across the network the 
