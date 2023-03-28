@@ -44,7 +44,7 @@ For coming this far here is another cookie 🍪
 
 //GPT3 CORRECTION
 
-IPFS works as a content-addressed, versioned, peer-to-peer file system. When a computer requests a resource (such as an image or text), it provides a hash code called a CID (Content Identifier) like this: QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco. This CID is unique to each file uploaded to the IPFS network and is used to locate a specific file or folder.
+IPFS works as a content-addressed, versioned, peer-to-peer file system. When a computer requests a resource (such as an image or text), it provides a hash code called a CID (Content Identifier) like this: `QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco`. This CID is unique to each file uploaded to the IPFS network and is used to locate a specific file or folder.
 
 The Interplanetary File System uses the SHA-256 hash function to encode files, which outputs 256 bits (equivalent to 32 bytes). If a file is larger than 32 bytes, it is split into smaller pieces called blocks and served as one when a computer requests it. An object can be either a single file of 32 bytes or multiple objects that join to form a large file. These small objects are served by different computers (nodes) to the computer that made the request.
 
