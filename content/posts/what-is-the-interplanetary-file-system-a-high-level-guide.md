@@ -47,3 +47,13 @@ While content identifiers are essential for organizing and managing large amount
 **However, It is important to note that Cloudflare does not have any control over any files already on the system and only controls what files are served through the Cloudflare IPFS gateway.**
 
 For coming this far here is another cookie 🍪
+
+## Key Concepts & Practical Applications of the IPFS.
+
+### IPFS Node
+
+### Pinning
+
+### Swarm
+
+### Use Cases of the IPFS
