@@ -3,7 +3,6 @@ author = "BABC"
 categories = "Blockchain & Web3"
 date = 2023-03-25T21:20:36Z
 description = "IPFS is designed as a content-addressed, versioned, peer-to-peer file system."
-draft = true
 tags = ["IPFS Tutorial", "IPFS explained", "Cryptography", "IPFS"]
 title = "What is The Interplanetary File System: A High Level Guide"
 [cover]
