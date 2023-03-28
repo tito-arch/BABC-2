@@ -12,7 +12,7 @@ caption = ""
 image = ""
 
 +++
-Founded by **Juan Benet** the **Interplanetary File System (IPFS)** is a fancy, alien-like name used to refer to a distributed network of computers designed to store and share files in a more secure and reliable manner than traditional centralized systems.IPFS is an open-source project that is maintained and developed by a community of contributors.
+Founded by **Juan Benet** the **Interplanetary File System (IPFS)** is a fancy, alien-like name used to refer to a distributed network of computers designed to store and share files in a more secure and reliable manner than traditional centralized systems. IPFS is an open-source project that is maintained and developed by a community of contributors.
 
 We have relied on the web for many years when it comes to international communication, and learning skills and Juan thinks it could be in danger. As everything evolves, the web has silently been changing drastically these evolutions remain unknown to many. We are now moving to the third web, a decentralized web version, **Web3**. He later founded **Protocol Labs**.
 
@@ -38,7 +38,7 @@ Content identifiers are essential for organizing and managing large amounts of d
 
 ### IPFS Hashing
 
-The Interplanetary File System uses the SHA-256 hash function to encode files, which outputs 256 bits (equivalent to 32 bytes). If a file is larger than 32 bytes, it is split into smaller pieces called blocks and served as one when a computer requests it. 
+The Interplanetary File System uses the SHA-256 hash function to encode files, which outputs 256 bits (equivalent to 32 bytes). If a file is larger than 32 bytes, it is split into smaller pieces called blocks and served as one when a computer requests it.
 
 An object can be either a single file of 32 bytes or multiple objects that join to form a large file. These small objects are served by different computers (nodes) to the computer that made the request.
 
