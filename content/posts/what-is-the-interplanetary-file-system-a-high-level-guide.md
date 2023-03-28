@@ -52,10 +52,17 @@ For coming this far here is another cookie 🍪
 
 ### IPFS Node
 
+An IPFS node is a computer that has joined the network and is running the IPFS software. It is important for organizations and developers building solutions (dAPPS) on the IPFS to run a node.
+
 ### Pinning
 
-### Swarm
+Pinning refers to the process of keeping a file or a set of files stored on an IPFS node even when the node is not actively using or accessing them, Pinning services provide a way to ensure that important files are stored on multiple nodes and are accessible even if the original node that added the files goes offline.
 
 ### Use Cases of the IPFS
+
+* Nft collections storage
+* Decentralized websites
+* Decentralized apps
+* Distributed package management
 
 You deserve another cookie 🍪 but they kinda ran out.
