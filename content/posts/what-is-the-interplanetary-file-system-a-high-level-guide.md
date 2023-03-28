@@ -8,8 +8,8 @@ tags = ["IPFS Tutorial", "IPFS explained", "Cryptography", "IPFS"]
 title = "What is The Interplanetary File System: A High Level Guide"
 [cover]
 alt = "bunnie abc"
-caption = ""
-image = ""
+caption = "Image source: Win-rar.com"
+image = "/uploads/files.jpg"
 
 +++
 Founded by **Juan Benet** the **Interplanetary File System (IPFS)** is a fancy, alien-like name used to refer to a distributed network of computers designed to store and share files in a more secure and reliable manner than traditional centralized systems. IPFS is an open-source project that is maintained and developed by a community of contributors.
