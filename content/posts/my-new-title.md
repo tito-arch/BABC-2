@@ -3,7 +3,6 @@ author = "B.Wamaitha"
 categories = "Device Reviews"
 date = 2023-03-29T07:06:12Z
 description = "This is a short description that is required"
-draft = true
 tags = ["mobile", "Tecno"]
 title = "My new Title"
 [cover]
