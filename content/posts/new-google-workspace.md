@@ -2,7 +2,7 @@
 author = "P.Gitau"
 categories = "Artificial Intelligence & Machine Learning"
 date = 2023-03-26T18:50:27Z
-description = "A breakdown on Microsoft introducing generative AI on Google Workspace."
+description = "A breakdown Quick on Google introducing generative AI on Google Workspace."
 tags = ["  Generative Ai ", "Google Workspace "]
 title = "The Power of AI in Your Hands: Google Workspace's New Era"
 [cover]
@@ -15,7 +15,7 @@ image = "/uploads/google-workspace.jpg"
 
 On **March 14th,** Google announced that soon they will be releasing a new workspace that will be integrated with generative AI.
 
-However since the release of ChatGPT big tech companies have been trying to up their game by releasing their (LLM) **Large language Models**. as we saw with Microsoft releasing AI on their Bing search not long before Google released Bard which was a big large model bigger than GPT, but Google was not willing to release it yet to the public fearing to ruin their repetition _(of which they later did_😶). The reality is that we knew Google was doing something behind the scenes, but we were not expecting to be Ai in their workspace.
+However since the release of ChatGPT big tech companies have been trying to up their game by releasing their (LLM) **Large language Models**. As we recently saw Microsoft releasing AI on their Bing search not long before Google released Bard which was a big large model bigger than GPT, but Google was not willing to release it yet to the public fearing to ruin their repetition (of which they later did😶). The reality is that we knew Google was doing something behind the scenes, but we were not expecting to be Ai in their workspace.
 
 {{< youtube 6DaJVZBXETE >}}
 
