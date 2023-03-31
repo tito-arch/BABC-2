@@ -31,8 +31,6 @@ When the human species becomes multi-planetary, many questions on latency arise.
 
 Since the IPFS allows serving files on a giant peer-to-peer scale, the latency becomes low. When a computer requests a resource (such as an image or text), it provides a hash code called a **CID** (Content Identifier) like this: `QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco`. This CID is unique to each file uploaded to the IPFS network and is used to locate a specific file or folder which is a fixed-length string of 46 characters (including the prefix 'Qm').
 
-![](/uploads/web3.svg)
-
 ### Content Identifiers
 
 Content identifiers are essential for organizing and managing large amounts of digital content, and their applications include ISBNs, and URLs generally used to locate a specific resource. When files are uploaded to the IPFS they are assigned a CID unique to them across the network this unique character is used to request a specific file or folder.
