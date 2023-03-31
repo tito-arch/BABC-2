@@ -3,7 +3,6 @@ author = "M.I.Titus"
 categories = "Blockchain & Web3"
 date = 2023-03-28T20:59:46Z
 description = "IPFS is designed as a content-addressed, versioned, peer-to-peer file system."
-draft = true
 tags = ["IPFS Tutorial", "IPFS explained", "Cryptography", "IPFS"]
 title = "What is The Interplanetary File System: A High Level Guide"
 [cover]
@@ -31,6 +30,8 @@ If you understand everything to this point, here is a cookie 🍪.
 When the human species becomes multi-planetary, many questions on latency arise. Traditionally, we have had only big tech companies owning huge server farms like Google, Amazon, and Microsoft to access information from these servers (Content Delivery Networks) CDNs are used to improve speed. These CDNs are located at different places in different locations. [Read more about CDNs](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/).
 
 Since the IPFS allows serving files on a giant peer-to-peer scale, the latency becomes low. When a computer requests a resource (such as an image or text), it provides a hash code called a **CID** (Content Identifier) like this: `QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco`. This CID is unique to each file uploaded to the IPFS network and is used to locate a specific file or folder which is a fixed-length string of 46 characters (including the prefix 'Qm').
+
+![](/uploads/web3.svg)
 
 ### Content Identifiers
 
