@@ -40,7 +40,9 @@ Behind conversational AI lies a lot of machine learning, Large volumes of data, 
 * Dialog management - used to formulate a response that mimics humans.
 * Reinforcement learning to improve the responses.
 
-  But just because something is readable doesn't mean it makes sense. The best application of this technology is to automate repetitive tasks which could include
+  But just because something is readable doesn't mean it makes sense. The best application of this technology is to automate 
+
+  repetitive tasks which could include
 
 * Customer care bot
 * Improving & debugging code
@@ -54,9 +56,33 @@ Behind conversational AI lies a lot of machine learning, Large volumes of data, 
 
 {{< youtube pOUBt-S5dHY >}}
 
-### The Risks of Dangerous AI
+## The Risks of Dangerous AI
 
 Elon Musk thinks that AI is more dangerous than a nuclear warhead. If you have no idea how dangerous that is, it's unfathomable and could potentially kill millions in weeks. Clothes and skin could ignite a fire, for this reason, it is considered the most potent weapon and largest threat to humanity. In reality, we don't know what AI is capable of doing, we simply have no idea.
+
+### A Letter From Elon & Steve Wozz to All AI developers
+
+We call on all AI labs to immediately pause for at least 6 months the training of AI systems more powerful than GPT-4.
+
+In an open letter titled "[**Pause Giant AI Experiments: An Open Letter**](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)" to all AI developers Elon Musk, Apple co-founder Steve Wozz and other significant figures sign a letter calling all AI Labs to pause the development of AI systems powerful than GPT-4 since AI labs locked in an out-of-control race to develop and deploy ever more powerful digital minds that no one – not even their creators – can understand, predict, or reliably control.
+
+The letter has been signed by **2489** people at the time of writing this article.
+
+**Yoshua Bengio**, _Founder and Scientific Director at Mila, Turing Prize winner and professor at University of Montreal_
+
+**Stuart Russell**, _Berkeley, Professor of Computer Science, director of the Center for Intelligent Systems, and co-author of the standard textbook “Artificial Intelligence: a Modern Approach"_
+
+**Elon Musk**, _CEO of SpaceX, Tesla & Twitter_
+
+**Steve Wozniak**, _Co-founder, Apple_
+
+Elon has always insisted on the regulation of AI development. _Here is part of the letter_.
+
+> AI systems with human-competitive intelligence can pose profound risks to society and humanity, as shown by extensive research\[1\] and acknowledged by top AI labs.\[2\] As stated in the widely-endorsed [Asilomar AI Principles](https://futureoflife.org/open-letter/ai-principles/), _Advanced AI could represent a profound change in the history of life on Earth, and should be planned for and managed with commensurate care and resources_. Unfortunately, this level of planning and management is not happening, even though recent months have seen AI labs locked in an out-of-control race to develop and deploy ever more powerful digital minds that no one – not even their creators – can understand, predict, or reliably control.
+>
+> Contemporary AI systems are now becoming human-competitive at general tasks,\[3\] and we must ask ourselves: _Should_ we let machines flood our information channels with propaganda and untruth? _Should_ we automate away all the jobs, including the fulfilling ones? _Should_ we develop nonhuman minds that might eventually outnumber, outsmart, obsolete and replace us? _Should_ we risk loss of control of our civilization? Such decisions must not be delegated to unelected tech leaders. **Powerful AI systems should be developed only once we are confident that their effects will be positive and their risks will be manageable.** This confidence must be well justified and increase with the magnitude of a system's potential effects. OpenAI's [recent statement regarding artificial general intelligence](https://openai.com/blog/planning-for-agi-and-beyond), states that _"At some point, it may be important to get independent review before starting to train future systems, and for the most advanced efforts to agree to limit the rate of growth of compute used for creating new models."_ We agree. That point is now.
+>
+> Therefore, **we call on all AI labs to immediately pause for at least 6 months the training of AI systems more powerful than GPT-4**. This pause should be public and verifiable, and include all key actors. If such a pause cannot be enacted quickly, governments should step in and institute a moratorium.
 
 ### The Dangers of AI
 
