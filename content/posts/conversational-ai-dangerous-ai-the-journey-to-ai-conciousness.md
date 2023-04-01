@@ -40,10 +40,9 @@ Behind conversational AI lies a lot of machine learning, Large volumes of data, 
 * Dialog management - used to formulate a response that mimics humans.
 * Reinforcement learning to improve the responses.
 
-  But just because something is readable doesn't mean it makes sense. The best application of this technology is to automate 
+  But just because something is readable doesn't mean it makes sense. The best application of this technology is to automate
 
   repetitive tasks which could include
-
 * Customer care bot
 * Improving & debugging code
 * Summarizing text.
@@ -78,7 +77,7 @@ The letter has been signed by **2489** people at the time of writing this articl
 
 **Steve Wozniak**, _Co-founder, Apple_
 
-Elon has always insisted on the regulation of AI development. 
+Elon has always insisted on the regulation of AI development.
 
 **_Here is part of the letter_.**
 
@@ -107,9 +106,9 @@ It is still hard to get consciousness as an AI feature, but what is consciousnes
 
 **/ˈkɒnʃəsnəs/**
 
-a person's awareness or perception of something.
+A person's awareness or perception of something.
 
-but how can measure consciousness? There is simply no way. It is the main reasons believe there is God, it separates us from animals. Could AI achieve this state in the future?
+But how can measure consciousness? There is simply no way. It is one of the main reasons atheists believe there is God, it separates us from animals. Could AI achieve this state in the future?
 
 Many animals are conscious and consciousness is not entangled with long-term memory. We might one day achieve a state of consciousness and still argue whether we got to that point. To achieve this maybe we will have to change how models are trained. But how do you train consciousness when it's not falsifiable and cannot be tested?
 
