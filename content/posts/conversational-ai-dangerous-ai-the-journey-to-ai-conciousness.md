@@ -66,7 +66,7 @@ Elon Musk thinks that AI is more dangerous than a nuclear warhead. If you have n
 
 ![](/uploads/image_2023-04-01_122421841.png)
 
-In an open letter titled "[**Pause Giant AI Experiments: An Open Letter**](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)" to all AI developers Elon Musk, Apple co-founder Steve Wozz and other significant figures sign a letter calling all AI Labs to pause the development of AI systems powerful than GPT-4 since AI labs locked in an out-of-control race to develop and deploy ever more powerful digital minds that no one – not even their creators – can understand, predict, or reliably control.
+In an open letter titled "[**Pause Giant AI Experiments: An Open Letter**](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)" to all AI developers Elon Musk, Apple co-founder Steve Wozz and other significant figures sign a letter calling all AI Labs to pause the development of AI systems powerful than GPT-4, since AI labs locked in an out-of-control race to develop and deploy ever more powerful digital minds that no one – not even their creators – can understand, predict, or reliably control.
 
 The letter has been signed by **2489** people at the time of writing this article.
 
@@ -78,7 +78,9 @@ The letter has been signed by **2489** people at the time of writing this articl
 
 **Steve Wozniak**, _Co-founder, Apple_
 
-Elon has always insisted on the regulation of AI development. _Here is part of the letter_.
+Elon has always insisted on the regulation of AI development. 
+
+**_Here is part of the letter_.**
 
 > AI systems with human-competitive intelligence can pose profound risks to society and humanity, as shown by extensive research\[1\] and acknowledged by top AI labs.\[2\] As stated in the widely-endorsed [Asilomar AI Principles](https://futureoflife.org/open-letter/ai-principles/), _Advanced AI could represent a profound change in the history of life on Earth, and should be planned for and managed with commensurate care and resources_. Unfortunately, this level of planning and management is not happening, even though recent months have seen AI labs locked in an out-of-control race to develop and deploy ever more powerful digital minds that no one – not even their creators – can understand, predict, or reliably control.
 >
