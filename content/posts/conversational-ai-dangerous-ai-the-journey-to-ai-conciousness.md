@@ -62,7 +62,9 @@ Elon Musk thinks that AI is more dangerous than a nuclear warhead. If you have n
 
 ### A Letter From Elon & Steve Wozz to All AI developers
 
-We call on all AI labs to immediately pause for at least 6 months the training of AI systems more powerful than GPT-4.
+**We call on all AI labs to immediately pause for at least 6 months the training of AI systems more powerful than GPT-4.**
+
+![](/uploads/image_2023-04-01_122421841.png)
 
 In an open letter titled "[**Pause Giant AI Experiments: An Open Letter**](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)" to all AI developers Elon Musk, Apple co-founder Steve Wozz and other significant figures sign a letter calling all AI Labs to pause the development of AI systems powerful than GPT-4 since AI labs locked in an out-of-control race to develop and deploy ever more powerful digital minds that no one – not even their creators – can understand, predict, or reliably control.
 
