@@ -41,7 +41,7 @@ So Google's reputation was really at stake here, soon they swallowed their words
 
 ### Meet Bard, the ChatGPT "Killer"
 
-On February 6,2023:[ A message from our CEO - Sundar Pichai](https://blog.google/technology/ai/bard-google-ai-search-updates/) in the company news segment google fired their bullet, **Bard!** sounds bad? Completion at this point is all we needed only the best wins for sure. ChatGPT was dominating and Google had dominated search for decades.
+On February 6, 2023:[ A message from our CEO - Sundar Pichai](https://blog.google/technology/ai/bard-google-ai-search-updates/) in the company news segment google fired their bullet, [**Bard!**](Bard.Google.Com) sounds bad? Completion at this point is all we needed only the best wins for sure. ChatGPT was dominating and Google had dominated search for decades.
 
 **Google's Bard**  happened to wrongly answer the question:
 
@@ -67,12 +67,16 @@ $ 100 billion never to be seen again the forecast Google had made about "reputat
 
 ## Let the AI battle begin, come place your bets
 
+![](/uploads/screenshot-from-2023-04-03-23-33-27.png)
+
+You can interact with Bard at [Bard.Google.Com](Bard.Google.Com)
+
 $ 100 billion can be considered a bell, the fight has begun. ChatGPT is yet to meet its rival it makes stupid mistakes and at times provides nonsensical answers, the guys at OpenAi know that too well, Why? ChatGPT lacks a crucial cord guess...
 
 If your guess was access to the internet resulting in limited knowledge of events then start using Bard, Google has signed up to battle OpenAi and the odds are favoring them google has all access to the latest data and Bard has access to the internet, anticipate Google to dominate at what they know best, **search**!
 
-## Will Ai Kill Search?
+## Will Conversational Ai Kill Search?
 
 **No, Ai will not completely replace search but the future of search will definitely be AI-powered**. Search engines will use AI to provide more relevant results helping us find information more efficiently and effortlessly. **Ai will not replace you, someone using AI will.**
 
-Even Google was not the first search engine in the world, it was [Archie](). The engine has since been superseded by others like Yahoo and Google search algorithms to provide the most relevant results see [Google Search. (2023, February 8). In _Wikipedia_. ]()
+Google was not the first search engine in the world, it was [Archie](). The engine has since been superseded by others like Yahoo and Google search algorithms to provide the most relevant results see [Google Search. (2023, February 8). In _Wikipedia_. ]()
