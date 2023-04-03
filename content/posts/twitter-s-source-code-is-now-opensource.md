@@ -35,7 +35,7 @@ Recently, Elon became the most followed on Twitter beating Barrack Obama. Some s
 
 ![](/uploads/screenshot-from-2023-04-03-23-52-26.png)
 
-It makes him the cool guy, users can read the code and complain when it's unfair yet a marketing strategy to build trust. Many people consume news from Twitter, therefore, earning people's trust is very essential rather than them thinking of it as an app that boosts certain posts. 
+It makes him the cool guy, users can read the code and complain when it's unfair yet a marketing strategy to build trust. Many people consume news from Twitter, therefore, earning people's trust is very essential rather than them thinking of it as an app that boosts certain posts.
 
 Here is part of the code.
 
@@ -47,4 +47,8 @@ Here is part of the code.
 
 ![](/uploads/open-algorithm-png-img-fullhd-medium.png)
 
+**Here is part of the code.**
+
 {{< github-code-snippets 0c318ba491f926abbb194eb62ebeacdf >}}
+
+Of course, this is just part of the code, the rest can be found in the file [**the-algorithm/ForYouScoredTweetsMixerPipelineConfig **](https://github.com/twitter/the-algorithm/blob/main/home-mixer/server/src/main/scala/com/twitter/home_mixer/product/for_you/ForYouScoredTweetsMixerPipelineConfig.scala)the repository is of course [**_the-algorithm _**](https://github.com/twitter/the-algorithm)just don't get lost there that thing is wide geez!
