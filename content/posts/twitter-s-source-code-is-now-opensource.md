@@ -48,4 +48,4 @@ Here is part of the code.
 
 ![](/uploads/open-algorithm-png-img-fullhd-medium.png)
 
-<script src="https://gist.github.com/tito-arch/892447907c8b2d568b906612492826f6.js"></script>
+{{< github-code-snippets 0c318ba491f926abbb194eb62ebeacdf >}}
