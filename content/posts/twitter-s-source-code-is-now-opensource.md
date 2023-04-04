@@ -49,6 +49,6 @@ Here is part of the code.
 
 **Here is part of the code.**
 
-{{< github-code-snippets 0c318ba491f926abbb194eb62ebeacdf >}}
+{{< github-code-snippets 892447907c8b2d568b906612492826f6 >}}
 
 Of course, this is just part of the code, the rest can be found in the file [TheAlgorithim/ForYouScoredTweetsMixerPipelineConfig](https://github.com/twitter/the-algorithm/blob/main/home-mixer/server/src/main/scala/com/twitter/home_mixer/product/for_you/ForYouScoredTweetsMixerPipelineConfig.scala) the repository is of course [the-algorithm  ](https://github.com/twitter/the-algorithm)just don't get lost there that thing is wide, geez!
