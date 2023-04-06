@@ -24,6 +24,8 @@ Unlike other image generators, Adobe Firefly comes with several added features. 
 
 The first thing I noticed when navigating to the website is their cool UI(user interface) unlike their competitor **mid-journey** where you can only generate images inside Discord _(which is kind of frustrating to get used to_) another cool thing I noticed is that Adobe Firefly image generator is actually faster it only takes seconds to produce your image. And we can't ignore the fact that by producing great images you don't have to master those long **prompts. (**like _midjourney_)
 
+![](/uploads/mj-prompt.png)
+
 But you will be provided with already made styles, and all you have to do is come up with a prompt, choose a style, and just like like click generate. What this means is that you don't have to be a pro to use Adobe Firefly. And actually, everyone can create stunning art with Firefly since it's only a matter of minutes if not seconds to get used to it.
 
 ## Adobe Firefly Features
