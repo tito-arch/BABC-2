@@ -14,11 +14,13 @@ image = "/uploads/firefly.jpg"
 +++
 In the recent months, we have witnessed unprecedented breakthroughs in the creation of realistic and high-quality images that were once only possible through human creativity. The potential of AI in image generation is immense, opening up new possibilities in various fields such as art, design, entertainment, and beyond.
 
-However, we have to accept that, AI is coming to life and as programmers and content creators and actually, everyone living in this age of AI we have to embrace it and harvest its benefits because if you don't, you are surely going to be replaced. Last week March 2023 was actually my favorite one because Adobe has announced an AI model in what they are calling **Adobe Firefly beta** which is pretty much a text-to-image generator like **Dalle** and **mid-journey**, As of now it's still in beta....but still produces great content. Let's look at what Firefly does and how it's going to be different from other image generators.
+However, we have to accept that, AI is coming to life and as programmers and content creators and actually, everyone living in this age of AI we have to embrace it and harvest its benefits because if you don't, you are surely going to be replaced. Last week March 2023 was actually my favorite one because Adobe has announced an AI model in what they are calling [**Adobe Firefly beta**](https://firefly.adobe.com/ "Adobe firefly") which is pretty much a text-to-image generator like **Dalle** and **mid-journey**, As of now it's still in beta,but still produces great content. Let's look at what Firefly does and how it's going to be different from other image generators.
 
 # What is Adobe Firefly
 
 Unlike other image generators, Adobe Firefly comes with several added features. With Adobe Firefly you will be able to create stunning social media posts, stunning art, and everything you can imagine because with Adobe your ideas are the limit. All this you will simply generate through visiting their website and writing your prompt and clicking generate. And remember you don't have to be a member of creative cloud to use Adobe Firefly.
+
+![](/uploads/fire.PNG)
 
 The first thing I noticed when navigating to the website is their cool UI(user interface) unlike their competitor **mid-journey** where you can only generate images inside Discord _(which is kind of frustrating to get used to_) another cool thing I noticed is that Adobe Firefly image generator is actually faster it only takes seconds to produce your image. And we can't ignore the fact that by producing great images you don't have to master those long **prompts**.
 
@@ -30,7 +32,9 @@ Adobe Firefly is coming with a lot of features like **Text to image**(which we h
 
 ### Text Effects
 
-With text effects, you will be able to add styles and textures to letters and objects. This new text effects feature is new to the Ai image generators like Dalle and the like therefore this is going to change a lot. mostly for graphic designers. Imagine turning the normal letters or words into leaves, metal-like or even bubbles tiger skin. Everything you can think just type in the prompt, and it will be right there with you.
+With text effects, you will be able to add styles and textures to letters and objects. This new text effects feature is new to the Ai image generators like Dalle and the like therefore this is going to change a lot.
+
+mostly for graphic designers. Imagine turning the normal letters or words into leaves, metal-like or even bubbles tiger skin. Everything you can think just type in the prompt, and it will be right there with you.
 
 ### Recoloring vectors
 
@@ -38,11 +42,13 @@ if you have ever used Adobe Illustrator. You must be familiar with using vectors
 
 ## What to expect with Adobe Firefly
 
-adobe's future is bright remember they have been at the forefront by owning adobe creative suite which comprises many apps used by creators and artists. Since they don't want you to go searching for AI features in other apps (mid-journey) they are bringing them inside the creative suite. This will change how we work mostly Photoshop and Illustrator. These are some of the features Adobe will be releasing soon in Adobe Firefly..
+adobe's future is bright remember they have been at the forefront by owning adobe creative suite which comprises many apps used by creators and artists. Since they don't want you to go searching for AI features in other apps (mid-journey) they are bringing them inside the creative suite. This will change how we work mostly Photoshop and Illustrator. These are some of the features Adobe will be releasing soon in Adobe Firefly.
+
+{{ youtube DvBRj--sUMU }}
 
 ### In-painting
 
-Imagine being able to erase a part of your image and replace it with whatever you like. Let's say you don't like the color of your shoes great just erase them using the in painting feature.e.e and replace them with whatever color you want. okay fine, if you don't like your picture background, use inpainting to change it. the end capabilities of what we can do with inpainting are just great
+Imagine being able to erase a part of your image and replace it with whatever you like. Let's say you don't like the color of your shoes great just erase them using the in painting feature.e.e and replace them with whatever color you want. okay fine, if you don't like your picture background, use in painting to change it. the end capabilities of what we can do with in painting are just great
 
 the best part is that Firefly generates not one but a few options to choose from
 
