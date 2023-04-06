@@ -47,7 +47,7 @@ if you have ever used Adobe Illustrator. You must be familiar with using vectors
 
 adobe's future is bright remember they have been at the forefront by owning adobe creative suite which comprises many apps used by creators and artists. Since they don't want you to go searching for AI features in other apps (mid-journey) they are bringing the AI features inside the creative suite. This will change how we work mostly **Photoshop** and **Illustrator.** These are some of the features Adobe will be releasing soon in Adobe Firefly.
 
-{{ youtube DvBRj--sUMU }}
+{{< youtube DvBRj--sUMU >}}
 
 ### In-painting
 
@@ -57,7 +57,7 @@ Imagine being able to erase a part of your image and replace it with whatever yo
 
 ### Text to pattern and Text to vector
 
-Creating a vector object has been made easy because you have two options use the **text-to-vector** feature or use **text to image** feature for me, they both work the same i don't see why Adobe categorized them as two different features, 
+Creating a vector object has been made easy because you have two options use the **text-to-vector** feature or use **text to image** feature for me, they both work the same i don't see why Adobe categorized them as two different features,
 
 However, this feature will be great mostly in **Figma** (_which Adobe now owns_) and illustrator. remember just a prompt and leave the rest to the Ai before I had always used Photoshop to create pattern vectors with were not that great since they lacked the sense of realism but now with this cool feature. I will be able to create all types of imagery with ease and actually even more faster.
 
@@ -71,13 +71,11 @@ This will be a huge time saver for 3d creators where they will use the AI to ful
 
 Adobe claims they didn't steal creator's art to train their model. Since they used Adobe stock photos (_which they own_) to train Firefly. Therefore, for now we won't hear artists suing Adobe for their art creations. And actually this is true since the image produced by Firefly has that stock photo **"taste".**
 
-![firefly creations](/uploads/images-2.jpg "firefly creations")
-
 Firefly is great it's level of detail is incredible. is also great, but we can still notice the difference between **Midjouney** and **Firefly** by comparison. I think the beta version of Firefly produces images like Midjourney v4, which is actually great because it's still in beta. also for that reason, every image you create with Firefly will have a label or a mark showing its produced by firefly beta so of now, you can't use Firefly creations for commercial use.
 
 ## Welcome, to the Ai world
 
-Adobe is a company known for its image and video software. Photoshop, for example, is a great tool, and a must-have for every graphic designer. But c'mon we have to admit when it comes to great designers softwares then Adobe is the place to be. since there have now entered into 
+Adobe is a company known for its image and video software. Photoshop, for example, is a great tool, and a must-have for every graphic designer. But c'mon we have to admit when it comes to great designers softwares then Adobe is the place to be. since there have now entered into
 
 ![adobe firefly](/uploads/adobe-firefly-is-a-text-to-image-generator-that-didnt-steal-your-work.webp "adobe firefly ")
 
