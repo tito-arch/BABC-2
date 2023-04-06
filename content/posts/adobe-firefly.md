@@ -42,7 +42,7 @@ mostly for graphic designers. Imagine turning the normal letters or words into l
 
 ### Recoloring vectors
 
-if you have ever used Adobe Illustrator. You must be familiar with using vectors and the different ways of adding colors to them. But now imagine all that tedious work being done for you. This will greatly increase creation time and in the end happy clients and more creativity for creators. But since this new technology is in beta and of now only a few can access it, for now, the only features available in Firefly beta are text-to-image and text effects.
+if you have ever used Adobe Illustrator. You must be familiar with using vectors and the different ways of adding colors to them. But now imagine all that tedious work being done for you. This will greatly increase creation time and in the end happy clients and more creativity for creators. But since this new technology is in beta only a few can access it, also for now, the only features available in Firefly beta are **text-to-image** and **text effects.**
 
 ## What to expect with Adobe Firefly
 
