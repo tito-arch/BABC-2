@@ -52,7 +52,7 @@ adobe's future is bright remember they have been at the forefront by owning adob
 
 ### In-painting
 
-Imagine being able to erase a part of your image and replace it with whatever you like. Let's say you don't like the color of your shoes great just erase them using the in painting feature.e.e and replace them with whatever color you want. okay fine, if you don't like your picture background, use in painting to change it. the end capabilities of what we can do with in painting are just great The best part is that Firefly generates not one but a few options to choose from.
+Imagine being able to erase a part of your image and replace it with whatever you like. Let's say you don't like the color of your shoes great just erase them using the in painting feature, and replace them with whatever color you want. okay fine, if you don't like your picture background, use in painting to change it. the end capabilities of what we can do with in painting are just great The best part is that Firefly generates not one but a few options to choose from.
 
 ![](/uploads/screenshot-2023-04-04-at-08-41-36.png)
 
