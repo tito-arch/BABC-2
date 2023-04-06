@@ -38,7 +38,7 @@ With text effects, you will be able to add styles and textures to letters and ob
 
 ![](/uploads/firefly_rubberballs_24949-scaled.webp)
 
-mostly for graphic designers. Imagine turning the normal letters or words into leaves, metal-like objects or even bubbles tiger skin. Everything you can think just type in the prompt, and it will be right there with you.
+mostly for graphic designers. Imagine turning the normal letters or words into leaves, metal-like objects or even bubbles tiger skin, Everything you can think just type in the prompt, and it will be right there with you.
 
 ### Recoloring vectors
 
