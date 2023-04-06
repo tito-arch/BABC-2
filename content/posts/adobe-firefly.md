@@ -46,7 +46,7 @@ if you have ever used Adobe Illustrator. You must be familiar with using vectors
 
 ## What to expect with Adobe Firefly
 
-adobe's future is bright remember they have been at the forefront by owning adobe creative suite which comprises many apps used by creators and artists. Since they don't want you to go searching for AI features in other apps (mid-journey) they are bringing them inside the creative suite. This will change how we work mostly Photoshop and Illustrator. These are some of the features Adobe will be releasing soon in Adobe Firefly.
+adobe's future is bright remember they have been at the forefront by owning adobe creative suite which comprises many apps used by creators and artists. Since they don't want you to go searching for AI features in other apps (mid-journey) they are bringing the AI features inside the creative suite. This will change how we work mostly **Photoshop** and **Illustrator.** These are some of the features Adobe will be releasing soon in Adobe Firefly.
 
 {{ youtube DvBRj--sUMU }}
 
