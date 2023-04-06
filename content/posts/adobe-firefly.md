@@ -3,7 +3,6 @@ author = "P.Gitau"
 categories = "Artificial Intelligence & Machine Learning"
 date = 2023-04-05T03:57:25Z
 description = "Adobe introducing Ai into their creative master suite"
-draft = true
 tags = ["Adobe Firefly", "  Generative Ai ", "Ai"]
 title = "The Rise of AI in Image Generation: Adobe Firefly Beta "
 [cover]
