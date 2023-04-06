@@ -5,7 +5,7 @@ date = 2023-04-05T03:57:25Z
 description = "Adobe introducing Ai into their creative master suite"
 draft = true
 tags = ["Adobe Firefly", "  Generative Ai ", "Ai"]
-title = "Adobe firefly"
+title = "The Rise of AI in Image Generation: Adobe Firefly Beta "
 [cover]
 alt = "Adobe Firefly"
 caption = "image credits: as.com"
@@ -34,6 +34,8 @@ Adobe Firefly is coming with a lot of features like **Text to image**(which we h
 
 With text effects, you will be able to add styles and textures to letters and objects. This new text effects feature is new to the Ai image generators like Dalle and the like therefore this is going to change a lot.
 
+![](/uploads/firefly_rubberballs_24949-scaled.webp)
+
 mostly for graphic designers. Imagine turning the normal letters or words into leaves, metal-like or even bubbles tiger skin. Everything you can think just type in the prompt, and it will be right there with you.
 
 ### Recoloring vectors
@@ -48,34 +50,38 @@ adobe's future is bright remember they have been at the forefront by owning adob
 
 ### In-painting
 
-Imagine being able to erase a part of your image and replace it with whatever you like. Let's say you don't like the color of your shoes great just erase them using the in painting feature.e.e and replace them with whatever color you want. okay fine, if you don't like your picture background, use in painting to change it. the end capabilities of what we can do with in painting are just great
+Imagine being able to erase a part of your image and replace it with whatever you like. Let's say you don't like the color of your shoes great just erase them using the in painting feature.e.e and replace them with whatever color you want. okay fine, if you don't like your picture background, use in painting to change it. the end capabilities of what we can do with in painting are just great The best part is that Firefly generates not one but a few options to choose from.
 
-the best part is that Firefly generates not one but a few options to choose from
+![](/uploads/screenshot-2023-04-04-at-08-41-36.png)
 
 ### Text to pattern and Text to vector
 
-creating a vector object has been made easy because you have two options use this text-to-vector feature or use text to image feature for me they both work the same i don't see why Adobe categorized them as two
+creating a vector object has been made easy because you have two options use this text-to-vector feature or use text to image feature for me, they both work the same i don't see why Adobe categorized them as two different features, 
 
-different features, however, this feature will be great mostly in Figma (which adobe now owns) and illustrator. remember just a prompt and leave the rest to the Ai before I had always used Photoshop to create pattern vectors with were not that great since they lacked the sense of realism but now with this cool feature. I will be able to create all types of imagery with ease and even faster actually.
+However, this feature will be great mostly in Figma (which Adobe now owns) and illustrator. remember just a prompt and leave the rest to the Ai before I had always used Photoshop to create pattern vectors with were not that great since they lacked the sense of realism but now with this cool feature. I will be able to create all types of imagery with ease and even faster, actually.
 
 ### 3D design
 
-This will be a huge time saver for 3d creators where they will use the ai to fully add textures and decorate their 3d designs. and considering the fact that Adobe owns Adobe Dimensions
+This will be a huge time saver for 3d creators where they will use the ai to fully add textures and decorate their 3d designs. and considering the fact that Adobe owns Adobe Dimensions, which is a great tool for 3d designers. I can only imagine where the future of 3d design is going
 
-which is a great tool for 3d designers. I can only imagine where the future of 3d design is going
+![](/uploads/0220cad03d49487eaccc7dec660043fd.gif)
 
-## How will Adobe trains their models
+## How will Adobe train their models?
 
-adobe claims they didn't steal creator's art to train their model. since they used Adobe stock photos(which they own) to train Firefly. therefore for now we won't hear
+Adobe claims they didn't steal creator's art to train their model. Since they used Adobe stock photos (which they own) to train Firefly. Therefore, for now we won't hear
 
-artists suing Adobe for their art creations. and actually this is true since the image produced by Firefly have that stock photo "taste". yes firefly is great it's level of details
+artists suing Adobe for their art creations. And actually this is true since the image produced by Firefly has that stock photo **"taste".** yes Firefly is great it's level of detail.
 
-is also great but we can still notice the difference between midjouney and Firefly by comparison I think the beta version of Firefly produces images like Midjourney v4 not
+![](/uploads/images-2.jpg)
 
-which is actually great because it's still in beta. also for that reason, every image you create with Firefly will have a label or a mark showing its produced by firefly beta
+is also great, but we can still notice the difference between Midjouney and Firefly by comparison. I think the beta version of Firefly produces images like Midjourney v4 not
 
-so of now, you cant use Firefly creations for commercial use.
+which is actually great because it's still in beta. also for that reason, every image you create with Firefly will have a label or a mark showing its produced by firefly beta so of now, you can't use Firefly creations for commercial use.
 
 ## Welcome, to the Ai world
 
-Adobe is a company known for its image and video software. Photoshop, for example, is a great tool and a must-have for every graphic designer.but cmon we have to admit when it comes to great.software then adobe is the place to be. since there have now entered into the ai game we are going to see a lot of advancements in Image generation features. and since adobe is usually at the forefront of creative apps ands sofwares we can expect great things now..before then let's explore what this text to image and letter effects
+Adobe is a company known for its image and video software. Photoshop, for example, is a great tool and a must-have for every graphic designer. But c'mon we have to admit when it comes to great.software then Adobe is the place to be. since there have now entered into 
+
+![](/uploads/adobe-firefly-is-a-text-to-image-generator-that-didnt-steal-your-work.webp)
+
+the AI game we are going to see a lot of advancements in Image generation features. And since Adobe is usually at the forefront of creative apps and software we can expect great things now. Before then let's explore what this text to image and letter effects.
