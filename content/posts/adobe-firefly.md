@@ -20,7 +20,7 @@ However, we have to accept that, AI is coming and as programmers and content cre
 
 Unlike other image generators, Adobe Firefly comes with several added features. With Adobe Firefly you will be able to create stunning social media posts, stunning art, and everything you can imagine because with Adobe your ideas are the limit. All this you will simply generate through visiting their website and writing your prompt and clicking generate. And remember you don't have to be a member of creative cloud to use Adobe Firefly.
 
-![What is Adobe Firefly?](/uploads/fire.PNG "What is Adobe Firefly?")
+![](/uploads/fire.PNG)
 
 The first thing I noticed when navigating to the website is their cool UI(user interface) unlike their competitor **mid-journey** where you can only generate images inside Discord _(which is kind of frustrating to get used to_) another cool thing I noticed is that Adobe Firefly image generator is actually faster it only takes seconds to produce your image. And we can't ignore the fact that by producing great images you don't have to master those long **prompts. (**like _midjourney_)
 
@@ -30,7 +30,7 @@ But you will be provided with already made styles, and all you have to do is com
 
 ## Adobe Firefly Features
 
-Adobe Firefly is coming with a lot of features like **Text to image**(which we have talked about) **text effects**, **recoloring vectors**, **in-painting**, **text-to-vectors,** and many more.
+Adobe Firefly is coming with a lot of features like **Text to image**(_which we have talked about_) **text effects**, **recoloring vectors**, **in-painting**, **text-to-vectors,** and many more.
 
 ### Text Effects
 
