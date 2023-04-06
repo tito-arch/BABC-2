@@ -34,7 +34,7 @@ Adobe Firefly is coming with a lot of features like **Text to image**(which we h
 
 ### Text Effects
 
-With text effects, you will be able to add styles and textures to letters and objects. This new text effects feature is new to the Ai image generators like Dalle and the like therefore this is going to change a lot.
+With text effects, you will be able to add styles and textures to letters and objects. This new text effects feature is new to the Ai image generators like Dalle and the like, therefore this is going to change a lot.
 
 ![](/uploads/firefly_rubberballs_24949-scaled.webp)
 
