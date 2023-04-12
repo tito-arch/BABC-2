@@ -3,7 +3,7 @@ author = "M.I.Titus"
 categories = "Emerging Issues & Trends"
 date = 2023-04-11T10:06:25Z
 description = "SpaceX starship orbital test flight is set to go down on April 17th 2023."
-tags = ["Starlink", "SpaceX", "Go SpaceX"]
+tags = ["starship", "Starlink", "SpaceX", "Go SpaceX"]
 title = "SpaceX Starship Orbital Test Flight happening on Monday 17th."
 [cover]
 alt = "bunnie abc"
@@ -25,9 +25,9 @@ Many things threaten our existence: Climate change, dangerous AI and cyborgs as 
 
 # Go SpaceX!
 
-Elon stated that after selling Paypal he invested all the money in things he believed would affect the future of humanity these were: The advent of electric cars(Tesla), Space exploration(SpaceX) later he co-founded other companies like OpenAI, The Boring Company and Neural link- a brain interfaces company to improve the capabilities of the human brain- so that we won’t become primates when the aliens find us (if they exist).
+Elon stated that after selling Paypal he invested all the money in what he believed would affect the future of humanity, these were: The advent of electric cars(Tesla), Space exploration(SpaceX) later he co-founded other companies like OpenAI, The Boring Company and Neural link- a brain interfaces company to improve the capabilities of the human brain- so that we won’t become primates when the aliens find us (if they exist).
 
-In this article, we will focus on SpaceX once again. SpaceX is well known for launching rockets to Earth orbit and landing them for reusing aimed at making space travel cheaper (affordable). It’s always exciting to see Falcon boosters landing on a drone ship in the middle of an ocean. Recovering a rocket in the fashion Spacex does has never been possible. The boosters have landing legs that deploy when the rocket approaches the Earth’s surface which seemed epic until they introduced chopsticks engineered to hold the rocket before it lands.
+In this article, we will focus on SpaceX once again. SpaceX is well known for launching rockets to Earth orbit and landing them for reusing aimed at making space travel cheaper (affordable). It’s always exciting to see Falcon boosters landing on a drone ship in the middle of an ocean. Recovering a rocket in the fashion Spacex does has never been possible. The boosters have landing legs that deploy when the rocket approaches the Earth’s surface which seemed epic until they introduced chopsticks engineered to hold the rocket before it lands (At the time of writing this article only Starship is recovered using chopsticks(arms)).
 
 ![](/uploads/image-removebg-preview-5.png)
 
@@ -44,3 +44,5 @@ We are all excited to see Starship go to orbit. Orbital test, what is it? This i
 ## Starship's Mission to Mass Animation
 
 {{< youtube 921VbEMAwwY >}}
+
+Make sure you toggle the full-screen mode on the left bottom or simply press (F).
