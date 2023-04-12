@@ -11,7 +11,6 @@ caption = ""
 image = "/uploads/starbase.jpeg"
 
 +++
-
 What is the future of the human species? Are we destined to go to the stars and become multi-planetary or remain on the earth's surface and become extinct like dinos?
 
 Theoretical physicists and space enthusiasts have devised theories of what might one day wipe out the human race on Earth’s surface. Prof. Stephen Hawkings dedicated his life to proving why we need to become a multi-planetary species. But who is dead? God or Charles Darwin?
@@ -30,7 +29,7 @@ Elon stated that after selling Paypal he invested all the money in things he bel
 
 In this article, we will focus on SpaceX once again. SpaceX is well known for launching rockets to Earth orbit and landing them for reusing aimed at making space travel cheaper (affordable). It’s always exciting to see Falcon boosters landing on a drone ship in the middle of an ocean. Recovering a rocket in the fashion Spacex does has never been possible. The boosters have landing legs that deploy when the rocket approaches the Earth’s surface which seemed epic until they introduced chopsticks engineered to hold the rocket before it lands.
 
-![](https://miro.medium.com/v2/resize:fit:375/1*loQc8fct5nVzaKOJKMieEA.png =375x666)
+![](/uploads/image-removebg-preview-5.png)
 
 WAI Media[@FelixSchlang](https://twitter.com/FelixSchlang)
 
@@ -42,4 +41,6 @@ Starship is the world’s most powerful rocket and was designed to travel to Mar
 
 We are all excited to see Starship go to orbit. Orbital test, what is it? This involves the rocket launching to orbit and returning to Earth. It passes different stages of the flight just like the Falcon Heavy.
 
-![](https://miro.medium.com/v2/resize:fit:700/0*cypDrinOFI5DZ6_i.jpg =700x331)
+## Starship's Mission to Mass Animation
+
+{{< youtube 921VbEMAwwY >}}
