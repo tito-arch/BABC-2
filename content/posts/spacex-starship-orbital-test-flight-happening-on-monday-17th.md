@@ -37,7 +37,7 @@ Both the booster and the ship have rocket lift stabilizer sockets, into which th
 
 Starship is the world’s most powerful rocket and was designed to travel to Mars and beyond delivering both payload, astronauts, and humans to outer space. This is by far the world’s hugest ship, it will be responsible to take humans to Mars and [deploying Starlink satellites to Low Earth Orbit](https://www.bunnieabc.com/posts/starlink-internet-future-of-high-speed-connection-in-remote-areas/). While not trying to draw speculations, Starship Heavy will launch on 04/07/2023 with backup(s) opening on 04/18–21/2023 according to the Federal Aviation Administration (FAA).
 
-![](https://miro.medium.com/v2/resize:fit:680/0*Pg1Du60_bpajGkgz =680x373)
+![](/uploads/faastraship.jpg)
 
 We are all excited to see Starship go to orbit. Orbital test, what is it? This involves the rocket launching to orbit and returning to Earth. It passes different stages of the flight just like the Falcon Heavy.
 
