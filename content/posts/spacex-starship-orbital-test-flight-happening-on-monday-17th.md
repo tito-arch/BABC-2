@@ -21,9 +21,9 @@ Elon Musk too thinks that making the human race multi-planetary is the only way 
 
 How will the universe meet its end? we’ll never be certain about this. We can agree that nobody wants to die, not even those of us who want to go to heaven.
 
-Many things threaten our existence: Climate change, dangerous AI and cyborgs as seen in sci-fi movies, impact by a giant asteroid, massive volcanic eruption, and like all other stars, the sun will one day cease to exist(it will overheat and destroy the Earth and then fade away), and overpopulation as Hawkings predicted: “in the next century humans on Earth will move shoulder-to-shoulder”. These events however remain unknown.
+Many things threaten our existence: Climate change, [dangerous AI ](https://www.bunnieabc.com/posts/conversational-ai-dangerous-ai-the-journey-to-ai-conciousness/)and cyborgs as seen in sci-fi movies, impact by a giant asteroid, massive volcanic eruption, and like all other stars, the sun will one day cease to exist (it will overheat, expand and destroy the Earth and then fade away to become a dwarf), and overpopulation as Hawkings predicted: “in the next century humans on Earth will move shoulder-to-shoulder”. These events however remain unknown.
 
-# Go SpaceX!
+# Go SpaceX Starship!
 
 Elon stated that after selling Paypal he invested all the money in what he believed would affect the future of humanity, these were: The advent of electric cars(Tesla), Space exploration(SpaceX) later he co-founded other companies like OpenAI, The Boring Company and Neural link- a brain interfaces company to improve the capabilities of the human brain- so that we won’t become primates when the aliens find us (if they exist).
 
