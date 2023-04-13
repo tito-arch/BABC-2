@@ -18,6 +18,10 @@ Founded by SpaceX founders **Elon & Kimbal Musk** and **Gwynne Shotwell _-(chief
 
 Technologically, beaming the internet in a remote area from outer space is insane making it even crazier is that the satellites are actually moving at 27 to 28,000 km/h. Does the dish move to follow the satellite? come along with me to find out how Starlink internet "magically" works.
 
+Humanity has always relied on cables lying under seas to supply internet across different continents, you have probably heard about that. These cables are bulk and often require servicing and are a total mess at times. [See the submarine cable map.](https://www.submarinecablemap.com/)
+
+![](/uploads/screenshot-from-2023-04-13-13-19-15.png)
+
 Traditionally, geostationary satellites were the technology that existed, and Starlink could be considered as their advancement. They have (and still exist) big dishes to receive data with a diameter of about 9 meters and the smallest up to 3 meters compared to **Starlink's portable pizza-sized dishes AKA _dishy_**.
 
 Geostationary/geosynchronous satellite is where a satellite remains in a fixed position relative to a point on the Earth's surface. They may seem stationary but are actually moving at the same speed as the Earth.
@@ -56,30 +60,30 @@ The dish components are two motors -used to autonomously position the dish at a 
 
 ![](/uploads/screenshot-from-2023-03-02-10-29-12.png)
 
-On the RHS is a single antenna made up of 6  smaller components this antenna is super complicated, it makes Starlink what we know today. 
+On the RHS is a single antenna made up of 6  smaller components this antenna is super complicated, it makes Starlink what we know today.
 
 #### Aperture-coupled patch antenna
 
 ![](/uploads/image-removebg-preview-3.png)
 
-Each of these antennas is controlled by a chip below it on the circuit board. Two of the 6 components are where everything starts ie: to create an electromagnetic wave. 
+Each of these antennas is controlled by a chip below it on the circuit board. Two of the 6 components are where everything starts ie: to create an electromagnetic wave.
 
 * The feed line - This delivers a 1200GHZ (12 billion times in one second) voltage in a sine curve going from positive to negative every 83 Pico Second.
 * The antenna patch - A copper coin-like with notches cut into it. This is located at the top level.
 
 Well, since these two are not physically connected that is why we need a high-frequency current and DC power cannot be used.
 
- When the current gets to the end of the feed line (which ends abruptly) it's positively charged repelling all positive charges on the patch antenna making it negative and the other side (RHS) of the antenna patch is positively charged and vice versa when in the maximum negative voltage as illustrated below.
+When the current gets to the end of the feed line (which ends abruptly) it's positively charged repelling all positive charges on the patch antenna making it negative and the other side (RHS) of the antenna patch is positively charged and vice versa when in the maximum negative voltage as illustrated below.
 
 ![](/uploads/screenshot-from-2023-03-02-20-10-51.png)
 
-The fields illustrated are equal and opposite hence canceling each other. However, things on the top of the antenna patch are a little different. Since electrical fields are horizontal on the same plane and [are called fringing fields](https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Electro-Optics/Book%3A_Electromagnetics_I_(Ellingson)/05%3A_Electrostatics/5.23%3A_The_Thin_Parallel_Plate_Capacitor#:\~:text=%E2%80%9CFringing%20field%E2%80%9D%20is%20simply%20a,significant%20effect%20in%20this%20region.). These fringing fields move in one direction and hence add up to one another but since we have current flowing, a magnetic field is created perpendicularly to the electric fields so that now there is an electric field and a magnetic field. When the current changes everything goes vice versa -both the electric and magnetic fields move in the opposite direction as they were previously moving (flipping). 
+The fields illustrated are equal and opposite hence canceling each other. However, things on the top of the antenna patch are a little different. Since electrical fields are horizontal on the same plane and [are called fringing fields](https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Electro-Optics/Book%3A_Electromagnetics_I_(Ellingson)/05%3A_Electrostatics/5.23%3A_The_Thin_Parallel_Plate_Capacitor#:\~:text=%E2%80%9CFringing%20field%E2%80%9D%20is%20simply%20a,significant%20effect%20in%20this%20region.). These fringing fields move in one direction and hence add up to one another but since we have current flowing, a magnetic field is created perpendicularly to the electric fields so that now there is an electric field and a magnetic field. When the current changes everything goes vice versa -both the electric and magnetic fields move in the opposite direction as they were previously moving (flipping).
 
 ![](/uploads/screenshot-from-2023-03-02-20-39-29.png)
 
 By this, forming an electromagnetic wave traveling perpendicularly to the magnetic and electric fields traveling outside in a balloon-like structure like a light bulb on the ceiling is achieved like so:
 
-It is important to note that this dish can send and receive signals for internet transfer. To prevent other issues with signal interruption, the  Top and Bottom antenna patch are specifically designed to receive certain signals. The top antenna patch has a 1.28 cm diameter while the bottom antenna patch has a 1.15cm. This enables it to block out all other signals outside 13 and 11.7 GHZ. 
+It is important to note that this dish can send and receive signals for internet transfer. To prevent other issues with signal interruption, the  Top and Bottom antenna patch are specifically designed to receive certain signals. The top antenna patch has a 1.28 cm diameter while the bottom antenna patch has a 1.15cm. This enables it to block out all other signals outside 13 and 11.7 GHZ.
 
 ![](/uploads/screenshot-from-2023-03-02-20-46-13.png)
 
