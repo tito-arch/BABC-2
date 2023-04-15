@@ -39,7 +39,7 @@ Starship is the world’s most powerful rocket and was designed to travel to Mar
 
 ## When is the SpaceX Starship Orbital test happening?
 
-While not trying to draw speculations, Starship Heavy will launch on 04/17/2023 with backup(s) opening on 04/18–21/2023 according to the Federal Aviation Administration (FAA) and SpaceX youtube channel. The 150-minute test window will open at 7:00 a.m. CT.
+**While not trying to draw speculations, Starship Heavy will launch on 04/17/2023 with backup(s) opening on 04/18–21/2023 according to the Federal Aviation Administration (FAA) and SpaceX youtube channel.** The 150-minute test window will open at 7:00 a.m. CT.
 
 {{< youtube L5QXreqOrTA >}}
 
