@@ -35,7 +35,13 @@ WAI Media[@FelixSchlang](https://twitter.com/FelixSchlang)
 
 Both the booster and the ship have rocket lift stabilizer sockets, into which the lift/catch arms insert during lifts. That tall metallic “skyscraper” is known as the launch tower it holds the arms (chopsticks). Elon musk Tweeted that Starship's orbital launch is set.
 
-Starship is the world’s most powerful rocket and was designed to travel to Mars and beyond delivering both payload, astronauts, and humans to outer space. This is by far the world’s hugest ship, it will be responsible to take humans to Mars and [deploying Starlink satellites to Low Earth Orbit](https://www.bunnieabc.com/posts/starlink-internet-future-of-high-speed-connection-in-remote-areas/). While not trying to draw speculations, Starship Heavy will launch on 04/07/2023 with backup(s) opening on 04/18–21/2023 according to the Federal Aviation Administration (FAA).
+Starship is the world’s most powerful rocket and was designed to travel to Mars and beyond delivering both payload, astronauts, and humans to outer space. This is by far the world’s hugest ship, it will be responsible to take humans to Mars and [deploying Starlink satellites to Low Earth Orbit](https://www.bunnieabc.com/posts/starlink-internet-future-of-high-speed-connection-in-remote-areas/). 
+
+## When is the SpaceX Starship Orbital test happening?
+
+While not trying to draw speculations, Starship Heavy will launch on 04/17/2023 with backup(s) opening on 04/18–21/2023 according to the Federal Aviation Administration (FAA) and SpaceX youtube channel. The 150-minute test window will open at 7:00 a.m. CT.
+
+{{< youtube L5QXreqOrTA >}}
 
 ![](/uploads/faastraship.jpg)
 
