@@ -47,7 +47,7 @@ Starship is the world’s most powerful rocket and was designed to travel to Mar
 
 We are all excited to see Starship go to orbit. Orbital test, what is it? This involves the rocket launching to orbit and returning to Earth. It passes different stages of the flight just like the Falcon Heavy.
 
-## Starship's Mission to Mass Animation
+## Starship's Mission to Mars Animation
 
 {{< youtube 921VbEMAwwY >}}
 
