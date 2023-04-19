@@ -54,7 +54,7 @@ You can also opt out of cookies by visiting the Network Advertising Initiative's
 Contact Us
 ----------
 
-If you have any questions about this Cookie Policy or our use of cookies, please contact us at <bunniestore.rabbitgroup@gmail.com>.
+If you have any questions about this Cookie Policy or our use of cookies, please contact us at <bunniestore.rabbitgroup@gmail.com> or <a rel="me" href="https://mastodon.social/@BABC">Mastodon</a>.
 
 Changes to this Policy
 ----------------------
