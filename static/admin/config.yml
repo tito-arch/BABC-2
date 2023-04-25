@@ -29,12 +29,28 @@ collections:
         ]
       }
 
-  - name: "pages"
-    label: "Pages"
-    files:
-      - file: "content/_index.md"
-        label: "Home Page"
-        name: "home"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Blurb", name: "blurb", widget: "text"
+- name: "pages"
+  label: "Pages"
+  files:
+    - file: "content/_index.md"
+      label: "Home Page"
+      name: "home"
+      fields:
+        - { label: "Title", name: "title", widget: "string" }
+        - { label: "Blurb", name: "blurb", widget: "text" }
+        - {
+            label: "Section",
+            name: "section",
+            widget: "object",
+            fields: [
+              { label: "Heading", name: "heading", widget: "string" },
+              { label: "Text", name: "text", widget: "text" }
+            ]
+          }
+    - file: "content/about/index.md"
+      label: "About"
+      name: "about"
+      fields:
+        - { label: "Title", name: "title", widget: "string" }
+        - { label: "Body", name: "body", widget: "text" }
+
