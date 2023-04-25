@@ -3,8 +3,8 @@
 backend:
   name: git-gateway
   branch: master
-media_folder: "static/images" # Folder where user uploaded files should go
-public_folder: "images"
+media_folder: "static/uploads" # Folder where user uploaded files should go
+public_folder: "uploads"
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/post
     label: "Posts" # Used in the UI
@@ -43,4 +43,3 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "text" }
-
