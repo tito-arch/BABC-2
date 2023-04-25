@@ -6,18 +6,30 @@ backend:
 media_folder: "static/uploads" # Folder where user uploaded files should go
 public_folder: "uploads"
 collections:
-  - name: "posts" # Used in routes, e.g., /admin/collections/post
-    label: "Posts" # Used in the UI
-    folder: "content/posts" # The path to the folder where the documents are stored
+  - name: "posts"
+    label: "Posts"
+    folder: "content/posts"
     path: "{{slug}}/index"
-    media_folder: "" # Save images in the post's own folder instead of the static folder
+    media_folder: ""
     public_folder: ""
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields for each document, usually in front matter
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Featured Image", name: "image", widget: "image" }
-      - { label: "Body", name: "body", widget: "markdown" }
+    create: true
+    fields:
+      - { label: "Brand New Post ✨", name: "brand_new_post", widget: "object", fields:
+        [
+          { type: "text", name: "title", label: "Title", config: { required: true, min: 10, max: 67 }, description: "Enter the Article's title." },
+          { type: "datetime", name: "date", label: "Publish Date", config: { date_format: "", time_format: "", required: true }, default: "now" },
+          { name: "author", type: "select", default: "BABC", config: { required: true, options: ["M.I.Titus", "R.Kipchirchir", "BABC", "P.Gitau", "B.Wamaitha"], source: { type: "simple" } }, label: "Author", description: "Insert authors name" },
+          { type: "text", name: "description", label: "Description", config: { required: true, min: 40, max: 160 }, description: "Enter a short description of the new post. Clue: Enter a summary" },
+          { name: "categories", type: "select", default: "Emerging Issues & Trends", config: { required: true, options: ["Artificial Intelligence & Machine Learning", "App Updates", "Computer Science", "Blockchain & Web3", "Device Reviews", "Emerging Issues & Trends"], source: { type: "simple" } }, label: "Categories", description: "Add a category to ease user site navigation" },
+          { type: "field_group", name: "cover", label: "Cover", fields:
+            [
+              { type: "file", name: "image", label: "Featured Image", description: "All images should have an alt this should be the same as the title of the post" },
+              { type: "text", name: "alt", label: "Alt Text", description: "All images should have an alt this should be the same as the title of the post", default: "bunnie abc" },
+              { type: "text", name: "caption", label: "Caption", description: "Describe the source of the photo eg. (image sourced from source.unsplash.com/random)" }
+            ], description: "This section is mandatory to enhance the User Experience ~CTO" },
+          { type: "list", name: "tags", label: "Tags", config: { use_select: false, min: 2, max: 5 }, description: "Add the most relevant tags to help us manage how content is displayed." }
+        ]
+      }
   - name: "pages"
     label: "Pages"
     files:
