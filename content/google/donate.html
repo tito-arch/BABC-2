@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donations</title>
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@500&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Baloo Tamma 2', cursive;
+            background-color: #F8F8F8;
+            display: grid;
+            grid-gap: 2px;
+        }
+        h1 {
+            text-align: center;
+            margin: 50px auto;
+        }
+        img {
+            display: block;
+            margin: 0 auto 50px;
+            max-width: 100%;
+            border-radius: 10px;
+        }
+        form.btcpay-form {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          margin-top: 10px;
+        }
+        .submit {
+          margin-top: 50px;
+        }
+      </style>
+</head>
+<body>
+    <h1>Want to support us? Buy a cup of cof☕fee!</h1> 
+    <img src="https://ke.bunnieabc.com/static/media/bunnieframe.37862a2101c816b46583.jpeg" alt="Bunnie ABC logo">
+      
+      <form method="POST" action="https://btcpay0.voltageapp.io/api/v1/invoices" class="btcpay-form btcpay-form--block">
+        <input type="hidden" name="storeId" value="6EBdJoum9i2Hh5dnBRBpSRTv9sniY3hfMWXFSG6hWXjG" />
+        <input type="hidden" name="currency" value="USD" />
+        <input type="image" class="submit" name="submit" src="https://btcpay0.voltageapp.io/img/paybutton/pay.svg" style="width:209px" alt="Pay with BTCPay Server, a Self-Hosted Bitcoin Payment Processor">
+      </form>
+      
+</body>
+</html>
