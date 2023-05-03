@@ -3,15 +3,16 @@
 backend:
   name: git-gateway
   branch: master
+  publish_mode: editorial_workflow
 media_folder: "static/uploads" # Folder where user uploaded files should go
-public_folder: "uploads"
+public_folder: "static/uploads"
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/post
     label: "Posts" # Used in the UI
     folder: "content/posts" # The path to the folder where the documents are stored
     path: "{{slug}}/index"
-    media_folder: "" # Save images in the post's own folder instead of the static folder
-    public_folder: ""
+    media_folder: "static/uploads" # Save images in the post's own folder instead of the static folder
+    public_folder: "static/uploads"
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }

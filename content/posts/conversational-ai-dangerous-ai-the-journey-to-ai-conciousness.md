@@ -15,7 +15,7 @@ image = "/uploads/11111.webp"
 
 [**Alan Turing**](https://en.wikipedia.org/wiki/Alan_Turing) asked, "**I propose the question, can machines think?**". Can a computer achieve a state of consciousness? Distinguishing a bot from a human has lately become so overwhelming. Suddenly humans sound like bots.
 
-We have always had a way to distinguish bots from real humans but everything has since become so unreal. Recent advancements in technology are outpacing [Moore's Law](https://blog.bunnieabc.com/posts/new-macbook-pro-14-16-overview-specs-96-gb-ram/). We are now living in an age with a technology that maybe did not exist in the realms of magic 50 years ago. **The Age of AI.**
+We have always had a way to distinguish bots from real humans but everything has since become so unreal. Recent advancements in technology are outpacing [Moore's Law](https://blog.bunnieabc.com/posts/new-macbook-pro-14-16-overview-specs-96-gb-ram/). We are now living in an age with technologies that maybe did not exist in the realms of magic 50 years ago. **The Age of AI.**
 
 ### The Turing Test.
 
@@ -57,7 +57,7 @@ Behind conversational AI lies a lot of machine learning, Large volumes of data, 
 
 ## The Risks of Dangerous AI
 
-Elon Musk thinks that AI is more dangerous than a nuclear warhead. If you have no idea how dangerous that is, it's unfathomable and could potentially kill millions in weeks. Clothes and skin could ignite a fire, for this reason, it is considered the most potent weapon and largest threat to humanity. In reality, we don't know what AI is capable of doing, we simply have no idea.
+Elon Musk thinks that AI is more dangerous than a nuclear warhead. If you have no idea how dangerous that is, it's unfathomable and could potentially kill millions in weeks. Clothes and skin could ignite to a fire, for this reason, it is considered the most potent weapon and largest threat to humanity. In reality, we don't know what AI is capable of doing, we simply have no idea.
 
 ### A Letter From Elon & Steve Wozz to All AI developers
 
@@ -75,7 +75,7 @@ The letter has been signed by **2489** people at the time of writing this articl
 
 **Elon Musk**, _CEO of SpaceX, Tesla & Twitter_
 
-**Steve Wozniak**, _Co-founder, Apple_
+**Steve Wozniak**, _Co-founder, Apple Inc_
 
 Elon has always insisted on the regulation of AI development.
 
@@ -110,7 +110,7 @@ A person's awareness or perception of something.
 
 But how can measure consciousness? There is simply no way. It is one of the main reasons atheists believe there is God, it separates us from animals. Could AI achieve this state in the future?
 
-Many animals are conscious and consciousness is not entangled with long-term memory. We might one day achieve a state of consciousness and still argue whether we got to that point. To achieve this maybe we will have to change how models are trained. But how do you train consciousness when it's not falsifiable and cannot be tested?
+Many animals are conscious since consciousness is not entangled with long-term memory. We might one day achieve a state of consciousness and still argue whether we got to that point. To achieve this maybe we will have to change how models are trained. But how do you train consciousness when it's not falsifiable and cannot be tested?
 
 To be able to build a plane, you use the concept of a flying bird yet, flipping wings is not added but rather another concept to achieve flight is used. This is the same dynamic reasoning that will be used to achieve AI consciousness but why do we need it anyway? There are many unanswered questions surrounding this topic.
 
