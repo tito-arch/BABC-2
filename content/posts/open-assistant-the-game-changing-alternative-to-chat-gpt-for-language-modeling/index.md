@@ -6,25 +6,25 @@ image: https://frangam.com/wp-content/uploads/2023/02/Open-assistant-alternative
 ---
 # Open Assistant a free and open source created by the people for the people
 
-The talk of the day in the world right now is **Ai** *(Artificial Intelligence*) the biggest of them all being ChatGPT many AI products have been built on top of it 
-While still others are creating other LLM (large language model) like ChatGPT, the most recent one was Open assistant which is similar to ChatGPT, but open assistant 
-is free to use and open source and its being developed many members of Ai community and actually everyone can contribute to or even clone the whole repo and run it 
-locally on your machine using consumer GPU's. So you can potentially build over it and create other cool AI products since its free to use
+The talk of the day in the world right now is **Ai** *(Artificial Intelligence*) the biggest of them all being **ChatGPT** many AI products have been built on top of it 
+While still others are creating other **LLM** (large language model) like ChatGPT, the most recent one was Open assistant which is similar to ChatGPT, but open assistant 
+is free to use and open source and its being developed many members of Ai community, and actually since its an open source project everyone can contribute to or even clone the whole repo and run it 
+locally on your machine using consumer **GPU's**. So you can potentially build over it and create other cool AI products since its free to use under **Apache Licence**
 
 # How To Use Open Assistant
 
-When your head over to their website you will be welcomed with a nice interface but to use the model you will first be required to create an account using an 
-email or either discord..another cool thing i noticed is that open assistant is available in bunch of different languages, so you are not limited to using english only if english id not your first language.
+When your head over to their website you will be welcomed with a nice UI interface but to use the model you will first be required to create an account using an 
+email or either discord..another cool thing i noticed is that open assistant is available in bunch of different languages, so you are not limited to using english only if english isthe not your first language.
 
 ![](static/uploads/1_8ggrahck0te8i165vms2oq.png)
 
 also if you head to their road map document. There say that there is no need to create a model with a billion of parameters because open assistants can be able to understand.
-requests and retrieve useful responses from the web of course using third party APIs and interface pretty much the same as ChatGPT plugins. Also, they say that
+requests and retrieve useful responses from the web of course using third party APIs and interface pretty much the same as **ChatGPT plugins**. Also, they say that
 Models can also be trained to give personalized results, this is a game changer for open AI considering open assistant is open source.
 
 ## O﻿pen Assistant Features
 
-One amazing thing about open assistance is how they are actually training the model's data. They have even a full dedicated dashboard for users to help them improve The model and if you want to be part of the team to help improve the model you can go to open assistant dashboard, and you will be presented with various tasks which you will be required to finish in order to help improve the model that runs in the background. You can either choose to rank open assistant replies from the most important reply.to the least one basing in the accuracy of the model and readability or even chat as a user and help improve its responses as you interact with it
+One amazing thing about open assistance is how they are actually training the model's data. They have even a full dedicated dashboard for users to help them improve the model and if you want to be part of the team to help improve the model you can go to open assistant dashboard, and you will be presented with various tasks which you will be required to finish in order to help improve the model that runs in the background. You can either choose to rank open assistant replies from the most important reply.to the least one basing in the accuracy of the model and readability or even chat as a user and help improve its responses as you interact with it
 
 ![](static/uploads/get-involved-with-open-assistant-1536x509.webp)
 
@@ -39,9 +39,9 @@ compared to its competitor ChatGPT, but we can't actually compare it to GPT sinc
 
  {{< youtube CEt2nRzUVpE >}}
 
-But one thinks it ranks for its making jokes or even at personifying other people with different tone we can go ahead and ask it to "make a joke about with a tone of Donald Trump, Elon Musk, Pope Francis or even Kevin Hart it will give you very funny results definitely try it out. If you are a ChatGPT user am sure you have one or twice asked ChatGPT to do something illegal unethical or inappropriate just for the sake of testing, but instead you were given a response like this
+But one thinks it ranks for its making jokes or even at personifying other people with different tone we can go ahead and ask it to "make a joke about with a tone of **Donald Trump, Elon Musk,** **Pope Francis** or even **Kevin Hart** it will give you very funny results definitely try it out. If you are a ChatGPT user am sure you have one or twice asked ChatGPT to do something illegal unethical or inappropriate just for the sake of testing, but instead you were given a response like this
 
-> " **as an AI language model am programmed to follow ethical guidelines and not to create or promote content that can be considered offensive or hurtful** "
+> "A**s an AI language model am programmed to follow ethical guidelines and not to create or promote content that can be considered offensive or hurtful** "
 
 which is kind of frustrating at first but yeah for good reasons only..but unlike ChatGPT which is biased open assistant is not if you go ahead and ask it ethical or religious based questions it will give you 
 its honest decision on the (x) topic 
