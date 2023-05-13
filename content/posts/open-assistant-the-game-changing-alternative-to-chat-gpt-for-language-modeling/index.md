@@ -6,7 +6,7 @@ image: https://frangam.com/wp-content/uploads/2023/02/Open-assistant-alternative
 ---
 # Open Assistant a free and open source created by the people for the people
 
-The talk of the day in the world right now is **Ai** *(Artificial Intelligence*) the biggest of them all being **ChatGPT** many AI products have been built on top of it 
+The talk of the day in the world right now is **Ai** *(Artificial Intelligence*) the biggest of them all being **ChatGPT** many AI products have been built on top of it ,
 While still others are creating other **LLM** (large language model) like ChatGPT, the most recent one was Open assistant which is similar to ChatGPT, but open assistant 
 is free to use and open source and its being developed many members of Ai community, and actually since its an open source project everyone can contribute to or even clone the whole repo and run it 
 locally on your machine using consumer **GPU's**. So you can potentially build over it and create other cool AI products since its free to use under **Apache Licence**
