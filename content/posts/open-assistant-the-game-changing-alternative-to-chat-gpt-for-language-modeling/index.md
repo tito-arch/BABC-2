@@ -2,7 +2,7 @@
 title: "Open Assistant: The Game-Changing Alternative to Chat GPT for Language
   Modeling"
 date: 2023-05-01T14:46:43.216Z
-image: static/uploads/open-assistant-alternative-to-open-ai-chat-gpt.webp
+image: https://frangam.com/wp-content/uploads/2023/02/Open-assistant-alternative-to-open-ai-chat-gpt.jpg
 ---
 Open Assistant a free and open source created by the people for the people
 
@@ -43,7 +43,7 @@ video by aienteprenuer about open assistant
 donald trump elon musk or pope francis or even andrew kibe"
           {{ utube video by open assintant ceo}}
 
-{﻿{ < youtube ybCIbQbDFag >}}
+{﻿{< youtube ybCIbQbDFag >}}
 
 If you are a ChatGPT user am sure you have one or twice asked ChatGPT to do something illegal unethical or inappropriate just for the sake of testing, but instead you were given a response like this
 " as an AI language model am programmed to follow ethical guidelines and not to create or promote content that can be considered offensive or hurtful "
