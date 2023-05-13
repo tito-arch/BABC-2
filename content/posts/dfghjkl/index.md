@@ -6,3 +6,7 @@ image: static/uploads/screenshot-from-2023-05-10-23-49-21.png
 ![](static/uploads/screenshot-from-2023-05-10-23-49-21.png)
 
 r﻿tyuiop
+
+
+
+ {{< youtube jNQXAC9IVRw >}}
