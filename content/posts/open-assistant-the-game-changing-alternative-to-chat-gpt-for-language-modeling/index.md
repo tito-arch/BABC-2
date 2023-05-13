@@ -23,6 +23,10 @@ One amazing thing about open assistance is how they are actually training the mo
 The model and if you want to be part of the team to help improve the model you can go to open assistant dashboard, and you will be presented with various tasks which you will 
 be required to finish in order to help improve the model that runs in the background. You can either choose to rank open assistant replies from the most important reply.
 to the least one basing in the accuracy of the model and readability or even chat as a user and help improve its responses as you interact with it
+
+![](static/uploads/get-involved-with-open-assistant-1536x509.webp)
+
+
  You can even chat as an assistant and provide responses to the given prompts and many more notice that your work won't go unnoticed because the more you engage in more tasks 
 The more and highly your chances of ranking in the open assistant leaderboard. And most important is that you are actually helping the model improve the responses. that 
 People potentially are going to get later on while using the model.
