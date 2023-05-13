@@ -4,7 +4,7 @@ title: "Open Assistant: The Game-Changing Alternative to Chat GPT for Language
 date: 2023-05-01T14:46:43.216Z
 image: https://frangam.com/wp-content/uploads/2023/02/Open-assistant-alternative-to-open-ai-chat-gpt.jpg
 ---
-Open Assistant a free and open source created by the people for the people
+# Open Assistant a free and open source created by the people for the people
 
 The talk of the day in the world right now is Ai (Artificial Intelligence) the biggest of them all being ChatGPT many AI products have been built on top of it 
 While still others are creating other LLM (large language model) like ChatGPT the most recent one was Open assistant which is similar to ChatGPT, but open assistant 
@@ -15,6 +15,10 @@ locally on your machine using consumer GPU's. So you can potentially build over 
 
 When your head over to their website you will be welcomed with a nice interface but to use the model you will first be required to create an account using an 
 email or either discord..another cool thing i noticed is that open assistant is available in bunch of different languages, so you are not limited to using english only
+
+![](static/uploads/1_8ggrahck0te8i165vms2oq.png)
+
+
 also if you head to their road map document. There say that there is no need to create a model with a billion of parameters because open assistants can be able to understand.
 requests and retrieve useful responses from the web of course using third party APIs and interface pretty much the same as ChatGPT plugins. Also, they say that
 Models can also be trained to give personalized results, this is a game changer for open AI considering open assistant is open source.
@@ -36,14 +40,14 @@ other sources or maybe don't trust it 100% although most of the time its will ge
 
 compared to its competitor ChatGPT but we cant actually compare it to GPT since its still in its early stages of development.This is however not very satisfying especially for developers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ybCIbQbDFag" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-video by aienteprenuer about open assistant
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CEt2nRzUVpE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+https://youtu.be/CEt2nRzUVpE
 
- But one thinks it ranks for its making jokes or even at personifying other people with different tone we can go ahead and ask it to "make a joke about with a tone of
+But one thinks it ranks for its making jokes or even at personifying other people with different tone we can go ahead and ask it to "make a joke about with a tone of
 donald trump elon musk or pope francis or even andrew kibe"
           {{ utube video by open assintant ceo}}
 
-{﻿{< youtube ybCIbQbDFag >}}
+{﻿
 
 If you are a ChatGPT user am sure you have one or twice asked ChatGPT to do something illegal unethical or inappropriate just for the sake of testing, but instead you were given a response like this
 " as an AI language model am programmed to follow ethical guidelines and not to create or promote content that can be considered offensive or hurtful "
@@ -59,5 +63,5 @@ In various tasks you're probably still going to go to ChatGPT, but this could be
 the very early days of something really, really special that you could potentially be a part in building and improving
 We can't really judge it right now but what excites me is the vision open assistant has  the open source nature of it that's what's so exciting about this and that's
 Why I think it's something worth looking into something worth supporting and if you're someone that wants to say i was part of the movement back in the very beginning when they
-started to build this that's what open assistant will allow you to do you can be a part of moving open source large language models in a ai forward
+started to build this that's what open assistant will allow you to do you can be a part of moving open source large language models in a AI forward
  By helping open assistance train its model better hope we found this review helpful definitely go check out open assistant webpage
