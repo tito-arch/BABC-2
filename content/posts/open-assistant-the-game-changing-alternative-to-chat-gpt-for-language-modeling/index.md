@@ -39,10 +39,7 @@ compared to its competitor ChatGPT, but we can't actually compare it to GPT sinc
 
  {{< youtube CEt2nRzUVpE >}}
 
-But one thinks it ranks for its making jokes or even at personifying other people with different tone we can go ahead and ask it to "make a joke about with a tone of
-donald trump elon musk or pope francis or even andrew kibe"
-
-If you are a ChatGPT user am sure you have one or twice asked ChatGPT to do something illegal unethical or inappropriate just for the sake of testing, but instead you were given a response like this
+But one thinks it ranks for its making jokes or even at personifying other people with different tone we can go ahead and ask it to "make a joke about with a tone of Donald Trump, Elon Musk, Pope Francis or even Kevin Hart it will give you very funny results definitely try it out. If you are a ChatGPT user am sure you have one or twice asked ChatGPT to do something illegal unethical or inappropriate just for the sake of testing, but instead you were given a response like this
 
 > " **as an AI language model am programmed to follow ethical guidelines and not to create or promote content that can be considered offensive or hurtful** "
 
