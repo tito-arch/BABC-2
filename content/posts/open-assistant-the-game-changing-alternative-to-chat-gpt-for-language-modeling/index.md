@@ -6,15 +6,15 @@ image: https://frangam.com/wp-content/uploads/2023/02/Open-assistant-alternative
 ---
 # Open Assistant a free and open source created by the people for the people
 
-The talk of the day in the world right now is Ai (Artificial Intelligence) the biggest of them all being ChatGPT many AI products have been built on top of it 
-While still others are creating other LLM (large language model) like ChatGPT the most recent one was Open assistant which is similar to ChatGPT, but open assistant 
+The talk of the day in the world right now is **Ai** *(Artificial Intelligence*) the biggest of them all being ChatGPT many AI products have been built on top of it 
+While still others are creating other LLM (large language model) like ChatGPT, the most recent one was Open assistant which is similar to ChatGPT, but open assistant 
 is free to use and open source and its being developed many members of Ai community and actually everyone can contribute to or even clone the whole repo and run it 
 locally on your machine using consumer GPU's. So you can potentially build over it and create other cool AI products since its free to use
 
 # How To Use Open Assistant
 
 When your head over to their website you will be welcomed with a nice interface but to use the model you will first be required to create an account using an 
-email or either discord..another cool thing i noticed is that open assistant is available in bunch of different languages, so you are not limited to using english only
+email or either discord..another cool thing i noticed is that open assistant is available in bunch of different languages, so you are not limited to using english only if english id not your first language.
 
 ![](static/uploads/1_8ggrahck0te8i165vms2oq.png)
 
@@ -36,21 +36,22 @@ also if you go ahead and create a new chat, you can pretty much ask the AI any q
 give you any recent happenings.also remember since the model is still in development, it may give you misguiding information or information in apprehensive, so its advisable to double-check on 
 other sources or maybe don't trust it 100% although most of the time its will get it right..another thing i noticed is that open assistant is not that good when writing code.
 
-compared to its competitor ChatGPT but we cant actually compare it to GPT since its still in its early stages of development.This is however not very satisfying especially for developers.
+compared to its competitor ChatGPT but we can't actually compare it to GPT since its still in its early stages of development.This is however not very satisfying especially for developers.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CEt2nRzUVpE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 https://youtu.be/CEt2nRzUVpE
 
 But one thinks it ranks for its making jokes or even at personifying other people with different tone we can go ahead and ask it to "make a joke about with a tone of
 donald trump elon musk or pope francis or even andrew kibe"
-          {{ utube video by open assintant ceo}}
 
 If you are a ChatGPT user am sure you have one or twice asked ChatGPT to do something illegal unethical or inappropriate just for the sake of testing, but instead you were given a response like this
-" as an AI language model am programmed to follow ethical guidelines and not to create or promote content that can be considered offensive or hurtful "
+
+>
+> " **as an AI language model am programmed to follow ethical guidelines and not to create or promote content that can be considered offensive or hurtful** "
 
 which is kind of frustrating at first but yeah for good reasons only..but unlike ChatGPT which is biased open assistant is not if you go ahead and ask it ethical or religious based questions it will give you 
 its honest decision on the (x) topic 
-also when it comes to creative story telling, or story continuation is not that perfect. i even tried it with code completion where it writes then aftersometimese it just stops and if you prompt it to continue it doesn't do a pretty good job at picking up but considering it's their first model we can give them credit for good work. This is however going to change overtime considering the number of communities.
+also when it comes to creative story telling, or story continuation is not that perfect. i even tried it with code completion where it writes then after sometimes it just stops and if you prompt it to continue it doesn't do a pretty good job at picking up but considering it's their first model we can give them credit for good work. This is however going to change overtime considering the number of communities.
 behind the open source project.
 
 So well again i don't think there are a lot of practical use cases and if you're really going to use this for your business and for automated In various tasks you're probably still going to go to ChatGPT, but this could be 
