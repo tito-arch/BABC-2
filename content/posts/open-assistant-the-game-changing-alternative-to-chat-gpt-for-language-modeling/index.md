@@ -26,7 +26,6 @@ to the least one basing in the accuracy of the model and readability or even cha
 
 ![](static/uploads/get-involved-with-open-assistant-1536x509.webp)
 
-
  You can even chat as an assistant and provide responses to the given prompts and many more notice that your work won't go unnoticed because the more you engage in more tasks 
 The more and highly your chances of ranking in the open assistant leaderboard. And most important is that you are actually helping the model improve the responses. that 
 People potentially are going to get later on while using the model.
@@ -36,11 +35,15 @@ give you any recent happenings.also remember since the model is still in develop
 other sources or maybe don't trust it 100% although most of the time its will get it right..another thing i noticed is that open assistant is not that good when writing code.
 
 compared to its competitor ChatGPT but we cant actually compare it to GPT since its still in its early stages of development.This is however not very satisfying especially for developers.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ybCIbQbDFag" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 video by aienteprenuer about open assistant
 
  But one thinks it ranks for its making jokes or even at personifying other people with different tone we can go ahead and ask it to "make a joke about with a tone of
 donald trump elon musk or pope francis or even andrew kibe"
           {{ utube video by open assintant ceo}}
+
+{﻿{ < youtube ybCIbQbDFag >}}
 
 If you are a ChatGPT user am sure you have one or twice asked ChatGPT to do something illegal unethical or inappropriate just for the sake of testing, but instead you were given a response like this
 " as an AI language model am programmed to follow ethical guidelines and not to create or promote content that can be considered offensive or hurtful "
