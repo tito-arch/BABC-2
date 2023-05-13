@@ -2,7 +2,7 @@
 title: "Open Assistant: The Game-Changing Alternative to Chat GPT for Language
   Modeling"
 date: 2023-05-01T14:46:43.216Z
-image: static/uploads/open-assistant-alternative-to-open-ai-chat-gpt.webp
+image: https://frangam.com/wp-content/uploads/2023/02/Open-assistant-alternative-to-open-ai-chat-gpt.jpg
 ---
 Open Assistant a free and open source created by the people for the people
 
