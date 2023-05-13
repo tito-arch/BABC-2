@@ -29,24 +29,21 @@ One amazing thing about open assistance is how they are actually training the mo
 ![](static/uploads/get-involved-with-open-assistant-1536x509.webp)
 
  You can even chat as an assistant and provide responses to the given prompts and many more notice that your work won't go unnoticed because the more you engage in more tasks 
-The more and highly your chances of ranking in the open assistant leaderboard. And most important is that you are actually helping the model improve the responses. that 
-People potentially are going to get later on while using the model.
+The more and highly your chances of ranking in the open assistant leaderboard. And most important is that you are actually helping the model improve the responses. That people potentially are going to get later on while using the model.
 
-also if you go ahead and create a new chat, you can pretty much ask the AI any question even the more recent events because remember the ai has accessed the web and can potentially
-give you any recent happenings.also remember since the model is still in development, it may give you misguiding information or information in apprehensive, so its advisable to double-check on 
-other sources or maybe don't trust it 100% although most of the time its will get it right..another thing i noticed is that open assistant is not that good when writing code.
+also if you go ahead and create a new chat, you can pretty much ask the AI any question even the more recent events because remember the AI has accessed the web and can potentially
+give you any recent happenings.also remember since the model is still in development, it may give you misguiding information or information in apprehensive, so it advisable to double-check on 
+other sources or maybe don't trust it 100% although most of the time it will get it right..another thing i noticed is that open assistant is not that good when writing code.
 
-compared to its competitor ChatGPT but we can't actually compare it to GPT since its still in its early stages of development.This is however not very satisfying especially for developers.
+compared to its competitor ChatGPT, but we can't actually compare it to GPT since its still in its early stages of development.This is however not very satisfying especially for developers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CEt2nRzUVpE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-https://youtu.be/CEt2nRzUVpE
+ {{< youtube CEt2nRzUVpE >}}
 
 But one thinks it ranks for its making jokes or even at personifying other people with different tone we can go ahead and ask it to "make a joke about with a tone of
 donald trump elon musk or pope francis or even andrew kibe"
 
 If you are a ChatGPT user am sure you have one or twice asked ChatGPT to do something illegal unethical or inappropriate just for the sake of testing, but instead you were given a response like this
 
->
 > " **as an AI language model am programmed to follow ethical guidelines and not to create or promote content that can be considered offensive or hurtful** "
 
 which is kind of frustrating at first but yeah for good reasons only..but unlike ChatGPT which is biased open assistant is not if you go ahead and ask it ethical or religious based questions it will give you 
