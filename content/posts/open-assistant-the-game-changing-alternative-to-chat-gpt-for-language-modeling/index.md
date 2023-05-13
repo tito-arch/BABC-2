@@ -43,7 +43,7 @@ video by aienteprenuer about open assistant
 donald trump elon musk or pope francis or even andrew kibe"
           {{ utube video by open assintant ceo}}
 
-{﻿{ < youtube ybCIbQbDFag >}}
+{﻿{< youtube ybCIbQbDFag >}}
 
 If you are a ChatGPT user am sure you have one or twice asked ChatGPT to do something illegal unethical or inappropriate just for the sake of testing, but instead you were given a response like this
 " as an AI language model am programmed to follow ethical guidelines and not to create or promote content that can be considered offensive or hurtful "
