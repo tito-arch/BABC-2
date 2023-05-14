@@ -6,15 +6,15 @@ image: https://frangam.com/wp-content/uploads/2023/02/Open-assistant-alternative
 ---
 # Open Assistant a free and open source created by the people for the people
 
-The talk of the day in the world right now is **Ai** *(Artificial Intelligence*) the biggest of them all being **ChatGPT** many AI products have been built on top of it 
+The talk of the day in the world right now is **Ai** *(Artificial Intelligence*) the biggest of them all being **ChatGPT** many AI products have been built on top of it ,
 While still others are creating other **LLM** (large language model) like ChatGPT, the most recent one was Open assistant which is similar to ChatGPT, but open assistant 
-is free to use and open source and its being developed many members of Ai community, and actually since its an open source project everyone can contribute to or even clone the whole repo and run it 
+is free to use and open source and is being developed many members of Ai community, and actually since its an open source project everyone can contribute to or even clone the whole repo and run it 
 locally on your machine using consumer **GPU's**. So you can potentially build over it and create other cool AI products since its free to use under **Apache Licence**
 
 # How To Use Open Assistant
 
 When your head over to their website you will be welcomed with a nice UI interface but to use the model you will first be required to create an account using an 
-email or either discord..another cool thing i noticed is that open assistant is available in bunch of different languages, so you are not limited to using english only if english isthe not your first language.
+email or either discord..another cool thing i noticed is that open assistant is available in bunch of different languages, so you are not limited to using english only if english is not your first language.
 
 ![](static/uploads/1_8ggrahck0te8i165vms2oq.png)
 
@@ -32,10 +32,10 @@ One amazing thing about open assistance is how they are actually training the mo
 The more and highly your chances of ranking in the open assistant leaderboard. And most important is that you are actually helping the model improve the responses. That people potentially are going to get later on while using the model.
 
 also if you go ahead and create a new chat, you can pretty much ask the AI any question even the more recent events because remember the AI has accessed the web and can potentially
-give you any recent happenings.also remember since the model is still in development, it may give you misguiding information or information in apprehensive, so it advisable to double-check on 
-other sources or maybe don't trust it 100% although most of the time it will get it right..another thing i noticed is that open assistant is not that good when writing code.
+give you any recent happenings.also remember since the model is still in development, it may give you misguiding information or information in apprehensive, so is advisable to double-check on 
+other sources or maybe don't trust it 100% although most of the time it will get it right.another thing i noticed is that open assistant is not that good when writing code.
 
-compared to its competitor ChatGPT, but we can't actually compare it to GPT since its still in its early stages of development.This is however not very satisfying especially for developers.
+compared to its competitor ChatGPT, but we can't actually compare it to GPT since it's still in its early stages of development.This is however not very satisfying especially for developers.
 
  {{< youtube CEt2nRzUVpE >}}
 
