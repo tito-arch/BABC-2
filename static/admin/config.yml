@@ -15,12 +15,15 @@ collections:
     media_folder: "static/uploads" # Save images in the post's own folder instead of the static folder
     public_folder: "static/uploads"
     create: true # Allow users to create new documents in this collection
-    fields: # The fields for each document, usually in front matter
+    fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Featured Image", name: "image", widget: "image" }
       - { label: "Draft", name: "draft", widget: "boolean", required: false, default: true }
+      - { label: "Category", name: "category", widget: "select", options: ["Artificial Intelligence & Machine Learning", "App Updates", "Computer Science", "Blockchain & Web3", "Device Reviews", "Emerging Issues & Trends"], required: true }
+      - { label: "Author", name: "author", widget: "select", options: ["M.I.Titus", "BABC", "P.Gitau", "B.Wamaitha"], required: true }
       - { label: "Body", name: "body", widget: "markdown" }
+
   - name: "pages"
     label: "Pages"
     files:
