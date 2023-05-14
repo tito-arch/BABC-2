@@ -50,3 +50,5 @@ behind the open source project.
 
 So well again i don't think there are a lot of practical use cases and if you're really going to use this for your business and for automated In various tasks you're probably still going to go to ChatGPT, but this could be 
 the very early days of something really, really special that you could potentially be a part in building and improving We can't really judge it right now but what excites me is the vision open assistant has  the open source nature of it that's what's so exciting about this and that's Why I think it's something worth looking into something worth supporting and if you're someone that wants to say i was part of the movement back in the very beginning when they started to build this that's what open assistant will allow you to do you can be a part of moving open source large language models in a AI forward  By helping open assistance train its model better hope we found this review helpful definitely go check out open[ assistant webpage.](https://open-assistant.io/)
+
+{{< youtube ddG2fM9i4Kk >}}
