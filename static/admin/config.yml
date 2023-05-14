@@ -2,6 +2,8 @@ backend:
   name: git-gateway
   branch: static-cms
 logo_url: https://ke.bunnieabc.com/static/media/bunnieframe.37862a2101c816b46583.jpeg
+site_url: https://bunnieabc.com
+
 publish_mode: simple # Enable saving drafts and editing
 media_folder: "static/uploads" # Folder where user uploaded files should go
 public_folder: "static/uploads"
