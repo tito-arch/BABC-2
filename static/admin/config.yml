@@ -4,6 +4,9 @@ backend:
 publish_mode: simple # Enable saving drafts and editing
 media_folder: "static/uploads" # Folder where user uploaded files should go
 public_folder: "/uploads"
+editor:
+  preview: false
+  frame: false
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/post
     label: "Posts" # Used in the UI
@@ -16,7 +19,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Featured Image", name: "image", widget: "image" }
-      - {label: "Draft", name: "draft", widget: "boolean", required: false, default: true}
+      - { label: "Draft", name: "draft", widget: "boolean", required: false, default: true }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Pages"
