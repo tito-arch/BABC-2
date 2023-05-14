@@ -3,7 +3,7 @@ backend:
   branch: static-cms
 publish_mode: simple # Enable saving drafts and editing
 media_folder: "static/uploads" # Folder where user uploaded files should go
-public_folder: "/uploads"
+public_folder: "static/uploads"
 editor:
   preview: false
   frame: false
