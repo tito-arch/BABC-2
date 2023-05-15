@@ -7,3 +7,8 @@ category: Emerging Issues & Trends
 author: BABC
 ---
 Lorem ipsum dolor
+
+![](static/uploads/278772222_157648433380395_8944516774152515683_n.jpg)
+
+
+
