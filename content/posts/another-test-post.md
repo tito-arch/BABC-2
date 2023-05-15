@@ -6,4 +6,7 @@ draft: true
 category: Emerging Issues & Trends
 author: BABC
 ---
-hfhfhffhfhfhhfhfeuhefuf
+![](screenshot-from-2023-05-16-00-39-33.png)
+
+
+
