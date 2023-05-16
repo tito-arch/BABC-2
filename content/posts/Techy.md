@@ -10,7 +10,7 @@ tags:
   - Genesis Post
   - "Initial "
   - bunnieabc
-image: imageedit_4_3671584613.jpg
+image: static/uploads/blockchainillustration.jpg
 author: M.I.Titus
 categories: Artificial Intelligence & Machine Learning
 draft: false
@@ -29,6 +29,6 @@ Whenever I come across sufficiently advanced technology tears come to my eyes, I
 
 [Share](https://bunnieabc.com/#contact)[ what you have come across too. `https://bunnieabc.com/#contact`](https://bunnieabc.com/#contact)
 
-Newsroom@bunnieabc.com | **#BABCBlogAndBeyond**
+[Newsroom@bunnieabc.com](Newsroom@bunnieabc.com) | **#BABCBlogAndBeyond**
 
 The BunnieABC blog is 🚀 launched.
