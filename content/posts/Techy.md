@@ -14,7 +14,7 @@ image: imageedit_4_3671584613.jpg
 author: M.I.Titus
 categories: Artificial Intelligence & Machine Learning
 draft: false
-category: Device Reviews
+category: Emerging Issues & Trends
 ---
 Hi!
 
