@@ -4,16 +4,16 @@ date: 2022-08-11T13:09:42.527+00:00
 image: https://source.unsplash.com/YVvfrXDYQXE
 description: The all new Galaxy Zflip 4
 tags:
-- galaxy flip4
-- review
-- samsung
-- android
+  - galaxy flip4
+  - review
+  - samsung
+  - android
 cover:
-  image: "/uploads/flipz.webp"
+  image: /uploads/flipz.webp
   alt: Everything you need to know about the Samsung Galaxy Z flip4
   caption: Samsung Flip Z
 author: M.I.Titus
-
+draft: true
 ---
 ## How much will it cost?
 
