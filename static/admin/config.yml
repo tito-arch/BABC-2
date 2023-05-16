@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: static-cms
+  branch: master
 logo_url: https://ke.bunnieabc.com/static/media/bunnieframe.37862a2101c816b46583.jpeg
 site_url: https://bunnieabc.com
 display_url: https://bunnieabc.com
