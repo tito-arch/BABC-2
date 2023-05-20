@@ -29,11 +29,15 @@ Moving from plain geometry to vibrant fur requires the expertise of shading arti
 
 While the models and fur are in place, we need riggers to make the animal move like a puppeteer. They create controls that allow animators to bring the virtual creature to life. With precision, they establish handles for each part of the animal, such as its legs, tail, ears, and face. Their work empowers animators to focus on conveying emotions and creating cinematic performances for these awe-inspiring creatures.
 
-![](static/uploads/wolf-dog-rig-3d-model.webp)
+![](static/uploads/large_0.jpeg)
 
-## Animation: 
+## Animation:
 
-**Animation** is where the magic happens. Animators study real animal movements to make their creations look authentic. They observe reference footage and capture realistic details like **weight distribution** and **subtle movements**. Through their skill and creativity, they bring the digital animals to life, evoking emotions and crafting cinematic performances that captivate our imaginations.
+Animation is like the heartbeat of CGI. It's the part that makes things move, dance, and come alive on the screen. You know those awesome animated movies like "Toy Story" or "Frozen"? They're made using animation techniques. To create animations, talented artists called animators study the movements of real animals, people, and objects. They watch videos and observe how things really behave in the world. It's like they become mini-scientists, carefully studying the details of motion.
+
+Once they have a good understanding of how things move, animators use special software to bring their digital creations to life. They create a series of pictures called frames, and when these frames are shown one after another really fast, it tricks our eyes into seeing movement. It's like flipping through a flip book really quickly! But animators don't just make things move randomly. They're like puppeteers, controlling every little detail to make their characters feel alive. They think about weight distribution, facial expressions, and even tiny movements like the flicker of an eyelash. It's all about making their digital creations look as real and believable as possible.
+
+And you know what? Animators also make sure their characters show emotions and perform in a way that tells a story. Just like actors on a stage, digital characters can make us laugh, cry, or feel all sorts of things. It's pretty amazing how they can bring emotions to life through their animated performances. So, animation is like the secret ingredient that makes CGI creations come alive. It's where the magic happens, as animators use their skills and creativity to craft performances that captivate our imaginations and make the digital world feel real and full of emotions.
 
 {﻿{< youtube ke4Isk-po2Y >}}
 
