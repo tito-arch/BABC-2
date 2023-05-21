@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chat bot on BABC Blog</title>
+    <link>https://bunnieabc.com/tags/chat-bot/</link>
+    <description>Recent content in Chat bot on BABC Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Dec 2022 10:45:10 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/chat-bot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A complete guide on the various types of chatbots</title>
+      <link>https://bunnieabc.com/posts/various-types-of-chatbots-and-how-to-use-them/</link>
+      <pubDate>Thu, 15 Dec 2022 10:45:10 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/posts/various-types-of-chatbots-and-how-to-use-them/</guid>
+      <description>A chatbot is a “ computer program designed to simulate a conversation with human users, especially over the Internet.”</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>windows update on BABC Blog</title>
+    <link>https://bunnieabc.com/tags/windows-update/</link>
+    <description>Recent content in windows update on BABC Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Jan 2023 21:01:59 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/windows-update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows 11 Update 22H2: A Review of Its Controversial Features</title>
+      <link>https://bunnieabc.com/posts/windows-11-update-22h2-a-review-of-its-controversial-features/</link>
+      <pubDate>Mon, 09 Jan 2023 21:01:59 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/posts/windows-11-update-22h2-a-review-of-its-controversial-features/</guid>
+      <description>lets see why Windows 11 Update 22H2 is receiving lots of hate</description>
+    </item>
+    
+  </channel>
+</rss>

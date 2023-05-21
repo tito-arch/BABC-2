@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blockchain on BABC Blog</title>
+    <link>https://bunnieabc.com/tags/blockchain/</link>
+    <description>Recent content in Blockchain on BABC Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Jan 2023 10:20:44 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Future of Trade: Understanding Blockchain Technology</title>
+      <link>https://bunnieabc.com/posts/the-future-of-trade-understanding-blockchain-technology/</link>
+      <pubDate>Sun, 29 Jan 2023 10:20:44 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/posts/the-future-of-trade-understanding-blockchain-technology/</guid>
+      <description>Blockchain technology is a database that maintains a continuously growing list of ordered records, called blocks</description>
+    </item>
+    
+  </channel>
+</rss>

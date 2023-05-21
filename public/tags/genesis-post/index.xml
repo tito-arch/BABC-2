@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Genesis Post on BABC Blog</title>
+    <link>https://bunnieabc.com/tags/genesis-post/</link>
+    <description>Recent content in Genesis Post on BABC Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jul 2022 01:38:54 +0300</lastBuildDate><atom:link href="https://bunnieabc.com/tags/genesis-post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I am born : </title>
+      <link>https://bunnieabc.com/posts/techy/</link>
+      <pubDate>Fri, 22 Jul 2022 01:38:54 +0300</pubDate>
+      
+      <guid>https://bunnieabc.com/posts/techy/</guid>
+      <description>BABC Blog was launched on July 22nd,2022 to evangalise technology. </description>
+    </item>
+    
+  </channel>
+</rss>

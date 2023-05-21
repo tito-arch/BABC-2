@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>App updates on BABC Blog</title>
+    <link>https://bunnieabc.com/tags/app-updates/</link>
+    <description>Recent content in App updates on BABC Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Nov 2022 21:00:00 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/app-updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What&#39;s App new features 2022</title>
+      <link>https://bunnieabc.com/posts/what-s-app-new-features-2022/</link>
+      <pubDate>Wed, 23 Nov 2022 21:00:00 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/posts/what-s-app-new-features-2022/</guid>
+      <description>Communities on WhatsApp enables people to bring together separate groups under one umbrella with a structure that works for them.</description>
+    </item>
+    
+  </channel>
+</rss>

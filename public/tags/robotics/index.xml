@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Robotics on BABC Blog</title>
+    <link>https://bunnieabc.com/tags/robotics/</link>
+    <description>Recent content in Robotics on BABC Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Sep 2022 21:00:00 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meet the world&#39;s most interesting Robots.</title>
+      <link>https://bunnieabc.com/posts/meet-the-world-s-most-interesting-robots/</link>
+      <pubDate>Mon, 12 Sep 2022 21:00:00 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/posts/meet-the-world-s-most-interesting-robots/</guid>
+      <description>A robot is a machine that does not necessarily look like a human that can replicate one or more tasks with less or no human intervention.</description>
+    </item>
+    
+  </channel>
+</rss>

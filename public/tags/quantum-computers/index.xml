@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Quantum computers on BABC Blog</title>
+    <link>https://bunnieabc.com/tags/quantum-computers/</link>
+    <description>Recent content in Quantum computers on BABC Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Jan 2023 22:52:06 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/quantum-computers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring the World of Quantum Computing: A Beginner&#39;s Guide</title>
+      <link>https://bunnieabc.com/posts/what-is-quantum-computing/</link>
+      <pubDate>Wed, 11 Jan 2023 22:52:06 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/posts/what-is-quantum-computing/</guid>
+      <description>Devices that perform quantum computations are known as quantum computers</description>
+    </item>
+    
+  </channel>
+</rss>

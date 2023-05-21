@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NOT gate on BABC Blog</title>
+    <link>https://bunnieabc.com/tags/not-gate/</link>
+    <description>Recent content in NOT gate on BABC Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Oct 2022 07:00:00 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/not-gate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Logic Fundamentals: Gates, Chips, Logic Elements &amp; More</title>
+      <link>https://bunnieabc.com/posts/computer-logic/</link>
+      <pubDate>Sat, 01 Oct 2022 07:00:00 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/posts/computer-logic/</guid>
+      <description>Learn the building blocks of computer technology and how they work together in this comprehensive guide on computer logic. From gates to chips, logic elements.</description>
+    </item>
+    
+  </channel>
+</rss>

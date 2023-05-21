@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>  Generative Ai  on BABC Blog</title>
+    <link>https://bunnieabc.com/tags/generative-ai/</link>
+    <description>Recent content in   Generative Ai  on BABC Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Apr 2023 03:57:25 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/generative-ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Rise of AI in Image Generation: Adobe Firefly Beta </title>
+      <link>https://bunnieabc.com/posts/adobe-firefly/</link>
+      <pubDate>Wed, 05 Apr 2023 03:57:25 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/posts/adobe-firefly/</guid>
+      <description>Adobe introducing Ai into their creative master suite</description>
+    </item>
+    
+    <item>
+      <title>The Power of AI in Your Hands: Google Workspace&#39;s New Era</title>
+      <link>https://bunnieabc.com/posts/new-google-workspace/</link>
+      <pubDate>Sun, 26 Mar 2023 18:50:27 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/posts/new-google-workspace/</guid>
+      <description>A breakdown Quick on Google introducing generative AI on Google Workspace.</description>
+    </item>
+    
+  </channel>
+</rss>
