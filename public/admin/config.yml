@@ -5,8 +5,8 @@ logo_url: https://ke.bunnieabc.com/static/media/bunnieframe.37862a2101c816b46583
 site_url: https://bunnieabc.com
 display_url: https://bunnieabc.com
 publish_mode: simple # Enable saving drafts and editing
-media_folder: "../uploads" # Folder where user uploaded files should go
-public_folder: "../uploads"
+media_folder: "../../uploads" # Folder where user uploaded files should go
+public_folder: "../../uploads"
 editor:
   preview: false
   frame: false
@@ -15,8 +15,8 @@ collections:
     label: "Posts" # Used in the UI
     folder: "content/posts" # The path to the folder where the documents are stored
     path: "{{slug}}"
-    media_folder: "../uploads" # Folder where user uploaded files should go
-    public_folder: "../uploads"
+    media_folder: "../../uploads" # Folder where user uploaded files should go
+    public_folder: "../../uploads"
     create: true # Allow users to create new documents in this collection
     fields:
       - { label: "Title", name: "title", widget: "string", config: { required: true, min: 10, max: 67 }, description: "Enter the Article's title." }
