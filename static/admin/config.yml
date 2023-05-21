@@ -15,8 +15,6 @@ collections:
     label: "Posts" # Used in the UI
     folder: "content/posts" # The path to the folder where the documents are stored
     path: "{{slug}}"
-    media_folder: "/static/uploads" # Folder where user uploaded files should go
-    public_folder: "/uploads"
     create: true # Allow users to create new documents in this collection
     fields:
       - { label: "Title", name: "title", widget: "string", config: { required: true, min: 10, max: 67 }, description: "Enter the Article's title." }
