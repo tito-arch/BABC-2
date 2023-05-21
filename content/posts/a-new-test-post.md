@@ -6,8 +6,7 @@ draft: false
 category: Emerging Issues & Trends
 author: P.Gitau
 ---
-Hello from the new cms
-
+![](screenshot-from-2023-05-21-10-48-11.png)
 
 
 
