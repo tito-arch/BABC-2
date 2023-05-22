@@ -23,4 +23,4 @@ The Website may contain links to third-party websites or services that are not o
 ## Modifications to the Website 
 Bunnie ABC reserves the right to make changes to the Website and these Terms at any time and without notice. Your continued use of the Website after any such changes constitutes your acceptance of the new Terms.
 
-Contact Us If you have any questions about these Terms of Service, please contact us at <bunniestore.rabbitgroup@gmail.com>. Kind Regards.
+Contact Us If you have any questions about these Terms of Service, please contact us at <newsroom@bunnieabc.com>. Kind Regards.
