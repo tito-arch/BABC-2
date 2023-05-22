@@ -14,4 +14,9 @@ And this is a table to test this cool feature.
 |Sam Altman|Programmer|M|OpenAI, Worldcoin|
 |---|---|---|---|
 |Elon Musk|Programmer|M|Paypal, X.com, Twitter, SpaceX, Tesla|
-|Steve Jobs|!programmer|M|Apple, Next computers|
+|Steve Jobs|!programmer|M|Apple, Next computer|
+
+![](status-1-.jpg)
+
+
+
