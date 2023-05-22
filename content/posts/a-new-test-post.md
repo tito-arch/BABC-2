@@ -2,7 +2,7 @@
 title: A new test post
 date: 2023-05-22T01:05:00.669+03:00
 image: screenshot-from-2023-05-21-10-48-11.png
-draft: false
+draft: true
 category: Emerging Issues & Trends
 author: P.Gitau
 ---
@@ -15,7 +15,3 @@ And this is a table to test this cool feature.
 |---|---|---|---|
 |Elon Musk|Programmer|M|Paypal, X.com, Twitter, SpaceX, Tesla|
 |Steve Jobs|!programmer|M|Apple, Next computers|
-
-
-
-
