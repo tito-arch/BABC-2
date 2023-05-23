@@ -5,7 +5,7 @@ logo_url: https://ke.bunnieabc.com/static/media/bunnieframe.37862a2101c816b46583
 site_url: https://bunnieabc.com
 display_url: https://bunnieabc.com
 publish_mode: simple # Enable saving drafts and editing
-media_folder: "/static/uploads" # Folder where user uploaded files should go
+media_folder: "../content/posts/static/uploads" # Folder where user uploaded files should go
 public_folder: "/uploads"
 editor:
   preview: false
