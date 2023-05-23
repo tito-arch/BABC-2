@@ -7,3 +7,8 @@ category: Emerging Issues & Trends
 author: P.Gitau
 ---
 Every day is a testing day voila!
+
+![](kycrabbit.png)
+
+
+
