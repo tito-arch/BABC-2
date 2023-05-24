@@ -8,7 +8,4 @@ author: P.Gitau
 ---
 Every day is a testing day voila!
 
-![](kycrabbit.png)
-
-
-
+![](screenshot-from-2023-05-25-00-27-16.png)
