@@ -6,18 +6,12 @@ draft: true
 category: App Updates
 author: P.Gitau
 ---
-on May 10 2023 google graced the california with their annual google keynote event,but this 2023
+Imagine the sunny streets of California buzzing with anticipation as the date of May 10, 2023, approached. The air was filled with an electric energy, for it was the day when Google, the tech giant, would unveil its much-anticipated annual Google Keynote event. People from all walks of life, from tech enthusiasts to curious onlookers, eagerly gathered in anticipation of what was to come. This year's event promised to be a spectacle like no other, with promises of cutting-edge technology showcases and insightful device reviews that would leave attendees in awe.
 
-event was far more diffrent from the previous and everyone can agree with me on this.they had alot of technology and device reviews
+Notably, Google has long been known as the leading AI company, even before OpenAI gained prominence. However, Google had been keeping its AI developments behind the scenes, safeguarding its brand name. It was only when OpenAI introduced their LLM (Large Language Model) ChatGPT that Google decided to step forward. And it was a wise move. ChatGPT has enabled numerous big companies to thrive and has given birth to new ventures. Additionally, we now even have an open-source chatbot called Open Assistant, not forgetting about Hugging Face Chat.
 
+All of this progress is thanks to the rapid advancements in AI over the years. So, for a moment, let's set aside the distractions of the cool AI stuff happening and quickly recap what took place at the Google IO event in 2023.
 
+when openAi introduced ChatGPT, which gained immense popularity worldwide. and everyone thought AI and LLM were the future, Google struck back with their language model called BARD, which surpassed ChatGPT in terms of parameters (a staggering 1000:1 difference). However, within a week, people started to realize the potential complexities and dark side of AI. This raised questions about why Google would take such risks. But that was just the tip of the iceberg.
 
-
-
-and more important google was the number one Ai company that is before even OpenAi came into the limelight but due to safeguarding their brand
-
-name google kept the Ai stuff behind the scenes until when openAi came with their LLM(large language model) Chatgpt. i can say it was for a good reason
-
-because through chat Gpt many big companies have thrived other small ones have started and we even have an open source Chat gpt(open assistant not forgetting 
-
-hugging face chat)
+Since 2023, during the Google Keynote event, Google had already hinted at introducing AI to their search engine. It's worth noting that a significant portion (90%) of Google's revenue comes from its search feature. What does this tell us? Well, it's a clear indication that AI, Artificial Intelligence, is not only the future but also the new normal.
