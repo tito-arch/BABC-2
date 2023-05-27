@@ -1,7 +1,7 @@
 ---
 title: Guide to using the version 2 of the CMS.
 date: 2023-05-27T17:32:18.574+03:00
-draft: false
+draft: true
 description: "Explore this post to know how to use the CMS like a pro. For a
   more detailed guide to show you the cursor location, copy this link. "
 cover-photo: /uploads/imageedit_4_4158722024.jpg
