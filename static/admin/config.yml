@@ -13,15 +13,18 @@ collections: # A list of collections the CMS should be able to edit
     folder: "content/post" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - { label: "Title", name: "title", widget: "string", config: { required: true, min: 10, max: 67 }, description: "Enter the Article's title." }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "boolean", required: false, default: true, hint: "If turned on, this post will not be visible to the public." }
       - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - { label: "Cover Photo", name: "thumbnail", widget: "image", hint: "All images should have an alt text.", default: "bunnie abc" }
+      - { label: "Category", name: "category", widget: "select", options: ["Artificial Intelligence & Machine Learning", "App Updates", "Computer Science", "Blockchain & Web3", "Device Reviews", "Emerging Issues & Trends"], required: true }
+      - { label: "Author", name: "author", widget: "select", options: ["BABC", "M.I.Titus", "P.Gitau", "B.Wamaitha"], required: true }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:
-      - file: "site/content/_index.md"
+      - file: "page/content/_index.md"
         label: "Home Page"
         name: "home"
         fields:
