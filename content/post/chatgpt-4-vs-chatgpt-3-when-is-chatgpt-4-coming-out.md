@@ -14,7 +14,7 @@ cover:
   caption: ""
   image: /uploads/gpt-4.avif
 draft: true
-thumbnail: bunnie abc
+thumbnail: /uploads/1_x36lf_qqpbgkbj8_fu6flg.jpeg
 category: Artificial Intelligence & Machine Learning
 ---
 > We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs. While less capable than humans in many real-world scenarios, GPT-4 exhibits human-level performance on various professional and academic benchmarks, including passing a simulated bar exam with a score around the top 10% of test takers.**~OpenAi**
