@@ -127,5 +127,6 @@ author: M.I.Titus
 ![](https://colony-recorder.s3-accelerate.amazonaws.com/files/2023-05-27/f286a759-767d-48a1-9625-6c2c867a9d45/ascreenshot.jpeg?AWSAccessKeyId=AKIA2JDELI43YPETRQSC&Signature=tDGxbSHbTwcvL8kwq4l4EUmtD60%3D&Expires=1685212239)
 **42**Click "x" once done.
 
-You can also see the Docs here [right here](https://scribehow.com/shared/Guide_to_Adding_Editing_and_Formatting_Content_in_CMS__ELLOXI4uQweyk3BjwlhnpQ) also feel free to edit and improve this page.
+You can also see the Docs here [right here](https://scribehow.com/shared/Guide_to_Adding_Editing_and_Formatting_Content_in_CMS__ELLOXI4uQweyk3BjwlhnpQ) also feel free to edit and improve this page or 
+<iframe src="https://scribehow.com/embed/Guide_to_Adding_Editing_and_Formatting_Content_in_CMS__ELLOXI4uQweyk3BjwlhnpQ" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
