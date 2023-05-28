@@ -26,6 +26,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Intro Blurb", name: "description", widget: "text"}
       - { label: "Cover Photo", name: "cover-photo", widget: "image", hint: "All images should have an alt text.", default: "bunnie abc" }
       - { label: "Category", name: "category", widget: "select", options: ["Artificial Intelligence & Machine Learning", "App Updates", "Computer Science", "Blockchain & Web3", "Device Reviews", "Emerging Issues & Trends"], required: true }
+      - { label: "Tags", name: "tags", widget: "list", field: { label: "Tag", name: "tag", widget: "string", config: { min: 3, max: 5 } }, required: false, hint: "Add 3 to 5 tags to categorize your article." }
       - { label: "Author", name: "author", widget: "select", options: ["BABC", "M.I.Titus", "P.Gitau", "B.Wamaitha"], required: true }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
