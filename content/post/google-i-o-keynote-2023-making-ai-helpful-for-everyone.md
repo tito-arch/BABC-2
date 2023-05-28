@@ -2,13 +2,15 @@
 title: Google I/O keynote 2023:Making Ai Helpful For Everyone
 date: 2023-05-15T00:00:00.000+03:00
 image: i023_blogbanner_recap-02-banner.png
-draft: true
+draft: false
 description: Google main Genda on I/O keynote was to intergrate Ai in almost their product
 cover-photo: /uploads/i023_blogbanner_recap-02-banner.png
 category: App Updates
 author: P.Gitau
 ---
 Imagine the sunny streets of California(_mountain view_) buzzing with anticipation as the date of **May 10, 2023**, approached. The air was filled with an electric energy, for it was the day when Google, the tech giant, would unveil its much-anticipated **annual Google Keynote** event. People from all walks of life, from tech enthusiasts to curious onlookers, eagerly gathered in anticipation of what was to come. This year's event promised to be a spectacle like no other, with promises of cutting-edge technology showcases and insightful device reviews that would leave attendees in awe.
+
+# Google's Game-Changing Language Model Shaping the Future
 
 Notably, Google has long been known as the leading **AI** company, even before OpenAI gained prominence. However, Google had been keeping its AI developments behind the scenes, safeguarding its brand name. It was only when OpenAI introduced their LLM _(Large Language Model_) **ChatGPT** that Google decided to step forward. And it was a wise move. ChatGPT has enabled numerous big companies to thrive and has given birth to new ventures. Additionally, we now even have an open-source chatbot called **Open Assistant,** not forgetting about **Hugging Face Chat.**
 
@@ -29,10 +31,15 @@ Bard, Google's groundbreaking language model, has been making waves with its rec
 
 With this expansion, Bard brings a host of new features to the table. App integration is a game-changer, particularly for developers. You can now ask Bard for code suggestions, completions, or even assistance with understanding complex code. It's like having a coding companion by your side, ready to provide detailed explanations and insights.
 
+
+
+
+
 ## Bard has image capabilities, coding features, and export features
 
 Another significant advancement is Bard's image capabilities. As a multimodal language model, Bard can now understand images and even generate new AI-generated images. This collaboration with Adobe brings forth the power of Adobe Firefly, enhancing Bard's creative potential. It's a fusion of text and visual elements that unlocks a whole new level of expression.
 
+![bard image capabilities](/uploads/image-36-1-1024x576.png)
 But that's not all. Bard has also been fine-tuned with coding abilities, expanding its understanding to over 20 programming languages. It can generate code snippets and provide citations to relevant documentation or blog posts, ensuring you have access to reliable resources for further exploration.
 
 ## Bard can now connect with Google apps and services like Docs, Drive, Gmail, Maps, and others
@@ -47,8 +54,11 @@ Summarization capabilities have also been enhanced, giving Bard the ability to d
 
 To improve user experience, Bard now supports dark mode, offering a visually pleasing and customizable interface. Whether you have specific preferences or need to reduce eye strain, the dark theme enhances usability.
 
+![bard dark theme](/uploads/sssss.png)
 ## Google Lens is coming to Bard
 
 Excitingly, Google Lens is coming to Bard, allowing users to upload photos and ask prompts regarding the images. This integration brings image understanding to a new level, enabling you to interact with visuals and gain deeper insights.
 
 Overall, the event focused heavily on AI and showcased how Google is using generative AI to improve its products and make AI more helpful for everyone
+
+{﻿{< youtube cNfINi5CNbY >}}
