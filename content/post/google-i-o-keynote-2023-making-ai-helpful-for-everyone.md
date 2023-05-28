@@ -12,6 +12,8 @@ Imagine the sunny streets of California(_mountain view_) buzzing with anticipati
 
 Notably, Google has long been known as the leading **AI** company, even before OpenAI gained prominence. However, Google had been keeping its AI developments behind the scenes, safeguarding its brand name. It was only when OpenAI introduced their LLM _(Large Language Model_) **ChatGPT** that Google decided to step forward. And it was a wise move. ChatGPT has enabled numerous big companies to thrive and has given birth to new ventures. Additionally, we now even have an open-source chatbot called **Open Assistant,** not forgetting about **Hugging Face Chat.**
 
+**Related:** Open Assistant: The Game-Changing Alternative to Chat GPT for Language Modeling
+
 All of this progress is thanks to the rapid advancements in AI over the years. So, for a moment, let's set aside the distractions of the cool AI stuff happening and quickly recap what took place at the Google IO event in 2023.
 
 when openAi introduced ChatGPT, which gained immense popularity worldwide. and everyone thought AI and LLM were the future, Google struck back with their language model called **BARD,** which surpassed **ChatGPT** in terms of parameters (a staggering 1000:1 difference). However, within a week, people started to realize the potential complexities and dark side of AI. This raised questions about why Google would take such risks. But that was just the tip of the iceberg.
@@ -20,6 +22,7 @@ Since 2022, during the Google Keynote event, Google had already hinted at introd
 
 ## Bard is expanding to over 180 countries and territories
 
+![google extending bard to over 180 countries](/uploads/image-139.png)
 Bard, Google's groundbreaking language model, has been making waves with its recent updates and features. One of the most exciting developments is Bard's expansion to over 180 countries and territories, making it accessible to a wider audience. Previously, only trusted testers had the privilege of using Bard, but now, anyone can dive in and explore its capabilities.
 
 ## Bard now has app integration to maximize its utility and collaborative potential
