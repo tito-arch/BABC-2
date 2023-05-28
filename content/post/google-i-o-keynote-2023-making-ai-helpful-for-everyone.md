@@ -31,10 +31,6 @@ Bard, Google's groundbreaking language model, has been making waves with its rec
 
 With this expansion, Bard brings a host of new features to the table. App integration is a game-changer, particularly for developers. You can now ask Bard for code suggestions, completions, or even assistance with understanding complex code. It's like having a coding companion by your side, ready to provide detailed explanations and insights.
 
-
-
-
-
 ## Bard has image capabilities, coding features, and export features
 
 Another significant advancement is Bard's image capabilities. As a multimodal language model, Bard can now understand images and even generate new AI-generated images. This collaboration with Adobe brings forth the power of Adobe Firefly, enhancing Bard's creative potential. It's a fusion of text and visual elements that unlocks a whole new level of expression.
@@ -55,6 +51,7 @@ Summarization capabilities have also been enhanced, giving Bard the ability to d
 To improve user experience, Bard now supports dark mode, offering a visually pleasing and customizable interface. Whether you have specific preferences or need to reduce eye strain, the dark theme enhances usability.
 
 ![bard dark theme](/uploads/sssss.png)
+
 ## Google Lens is coming to Bard
 
 Excitingly, Google Lens is coming to Bard, allowing users to upload photos and ask prompts regarding the images. This integration brings image understanding to a new level, enabling you to interact with visuals and gain deeper insights.
