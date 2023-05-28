@@ -58,6 +58,4 @@ Excitingly, Google Lens is coming to Bard, allowing users to upload photos and a
 
 Overall, the event focused heavily on AI and showcased how Google is using generative AI to improve its products and make AI more helpful for everyone
 
-{﻿{< youtube cNfINi5CNbY >}}
-
-{{< youtube DvBRj--sUMU >}}
+{{< youtube  cNfINi5CNbY >}}
