@@ -10,7 +10,7 @@ tags:
   - Generative Fill
 author: P.Gitau
 ---
-**Adobe Photoshop** has received an incredible upgrade with the introduction of **Generative Fill**. This new feature brings AI capabilities to the already powerful Content-Aware Fill tool, making it even easier to remove subjects from images seamlessly. If you've ever used Photoshop, you know the challenges of removing subjects without leaving any traces, especially when dealing with complex images. **Content-Aware Fill** works by removing pixels from the surrounding area and replacing them with an algorithmically generated content. With Generative Fill, the power of **Adobe's Firefly** image generation technology comes into play. It can generate objects, backgrounds, extend images, and remove objects non-destructively, creating new images on their own layer.
+**Adobe Photoshop** has received an incredible upgrade with the introduction of **Generative Fill**. This new feature brings AI capabilities to the already powerful Content-Aware Fill tool, making it even easier to remove subjects from images seamlessly. If you've ever used Photoshop, you know the challenges of removing subjects without leaving any traces, especially when dealing with complex images. **Content-Aware Fill** works by analyzing the surrounding pixels and textures to seamlessly replace the selected area with content that matches the surrounding context, However With Generative Fill, the power of **Adobe's Firefly** image generation technology comes into play. It can generate objects, backgrounds, extend images, and remove objects non-destructively, creating new images on their own layer.
 
 {{< youtube IVTyLYupECI >}}
 
