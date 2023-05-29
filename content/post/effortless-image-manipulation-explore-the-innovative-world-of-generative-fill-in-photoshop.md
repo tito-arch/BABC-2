@@ -12,6 +12,8 @@ author: P.Gitau
 ---
 **Adobe Photoshop** has received an incredible upgrade with the introduction of **Generative Fill**. This new feature brings AI capabilities to the already powerful Content-Aware Fill tool, making it even easier to remove subjects from images seamlessly. If you've ever used Photoshop, you know the challenges of removing subjects without leaving any traces, especially when dealing with complex images. **Content-Aware Fill** works by removing pixels from the surrounding area and replacing them with an algorithmically generated content. With Generative Fill, the power of **Adobe's Firefly** image generation technology comes into play. It can generate objects, backgrounds, extend images, and remove objects non-destructively, creating new images on their own layer.
 
+{{< youtube IVTyLYupECI >}}
+
 # How to Access generative fill
 
 To install Generative Fill, it's important to note that it is still in beta at the time of writing this post. To access it, you'll need to have a Creative Cloud app installed and an account. In the Creative Cloud desktop app, navigate to the beta apps section and install _Photoshop (beta)_. Once installed, go to the **"Edit"** menu in Photoshop, where you'll find the newly added **"Generative Fill"** option. Click on it, and a contextual taskbar will appear with a text entry prompt. If you don't see it by default, go to **"Windows"** and ensure that the "Contextual Taskbar" is selected. And just like that, you now have image generation capabilities within Photoshop.
