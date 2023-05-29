@@ -3,13 +3,11 @@ title: "Effortless Image Manipulation: Explore the Innovative World of
   Generative Fill in Photoshop"
 date: 2023-05-25T00:00:00.000+03:00
 draft: true
-description: Experience the power of Adobe Firefly inside photoshop with Generative fill
+description: Experience the power of adobe firefly inside photoshop with Generative fill
 cover-photo: /uploads/ssssssssssssssssssssssssdddddddddddd.jpg
 category: App Updates
 tags:
-  - Adobe
-  - Ai
-  - Generative fill
+  - Generative Fill
 author: P.Gitau
 ---
 Adobe Photoshop has received an incredible upgrade with the introduction of Generative Fill. This new feature brings AI capabilities to the already powerful Content-Aware Fill tool, making it even easier to remove subjects from images seamlessly. If you've ever used Photoshop, you know the challenges of removing subjects without leaving any traces, especially when dealing with complex images. Content-Aware Fill works by removing pixels from the surrounding area and replacing them with an algorithmically generated content. With Generative Fill, the power of Adobe's Firefly image generation technology comes into play. It can generate objects, backgrounds, extend images, and remove objects non-destructively, creating new images on their own layer.
@@ -55,9 +53,5 @@ Another remarkable feature of Generative Fill is its ability to remove subjects 
 
 
 It's worth mentioning that using a loose selection is advised, as including parts of the surrounding objects helps achieve a seamless
-
-
-
-
 
  blending effect. With Generative Fill, the possibilities are endless, whether you're adding objects, extending backgrounds, or removing subjects from your images.
