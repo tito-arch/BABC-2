@@ -6,6 +6,10 @@ draft: false
 description: Google main Genda on I/O keynote was to intergrate Ai in almost their product
 cover-photo: /uploads/i023_blogbanner_recap-02-banner.png
 category: App Updates
+tags:
+  - Google I/O Keynote
+  - Google
+  - Bard
 author: P.Gitau
 ---
 Imagine the sunny streets of California(_mountain view_) buzzing with anticipation as the date of **May 10, 2023**, approached. The air was filled with an electric energy, for it was the day when Google, the tech giant, would unveil its much-anticipated **annual Google Keynote** event. People from all walks of life, from tech enthusiasts to curious onlookers, eagerly gathered in anticipation of what was to come. This year's event promised to be a spectacle like no other, with promises of cutting-edge technology showcases and insightful device reviews that would leave attendees in awe.
@@ -59,3 +63,7 @@ Excitingly, Google Lens is coming to Bard, allowing users to upload photos and a
 Overall, the event focused heavily on AI and showcased how Google is using generative AI to improve its products and make AI more helpful for everyone
 
 {{< youtube  cNfINi5CNbY >}}
+
+
+
+
