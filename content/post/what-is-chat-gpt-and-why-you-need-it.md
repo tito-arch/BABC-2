@@ -3,7 +3,7 @@ author: P.Gitau
 categories: Artificial Intelligence & Machine Learning
 title: Exploring the Capabilities of Chat GPT a comprehensive guide
 date: 2022-12-01T15:25:01.000Z
-draft: true
+draft: false
 description: Generative Pre-trained Transformer 3 is an autoregressive language
   model that uses deep learning to produce human-like text
 image: ""
