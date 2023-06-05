@@ -1,17 +1,25 @@
-+++
-author = "M.I.Titus"
-categories = "Blockchain & Web3"
-date = 2022-09-16T23:43:26Z
-description = "Ethereum switched from Proof of Work to Proof of Stake to stop alot of energy consumption."
-image = ""
-tags = ["Cryptocurrencies", "Ethereum"]
-title = "The Great Ethereum merge."
-[cover]
-alt = "The great Ethereum merge."
-caption = "Photo by <a href=\"https://unsplash.com/@zoltantasi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Zoltan Tasi</a> on <a href=\"https://unsplash.com/s/photos/ethereum?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>   "
-image = "/uploads/zoltan-tasi-unxmhzcqjxg-unsplash.jpg"
-
-+++
+---
+author: M.I.Titus
+categories: Blockchain & Web3
+title: The Great Ethereum merge.
+date: 2022-09-16T23:43:26.000Z
+draft: false
+description: Ethereum switched from Proof of Work to Proof of Stake to stop alot
+  of energy consumption.
+image: ""
+cover-photo: bunnie abc
+category: Blockchain & Web3
+tags:
+  - Cryptocurrencies
+  - Ethereum
+cover:
+  alt: The great Ethereum merge.
+  caption: 'Photo by <a
+    href="https://unsplash.com/@zoltantasi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Zoltan
+    Tasi</a> on <a
+    href="https://unsplash.com/s/photos/ethereum?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>   '
+  image: /uploads/zoltan-tasi-unxmhzcqjxg-unsplash.jpg
+---
 # 
 
 On **December 1, 2020**, Ethereum shipped the Beacon chain this would then merge with the Mainnet on September 15, 2022, which existed since it was launched in 2015. This and some other events were referred to as  "**The Merge**".
