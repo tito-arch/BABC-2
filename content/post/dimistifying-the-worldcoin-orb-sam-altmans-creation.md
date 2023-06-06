@@ -20,8 +20,20 @@ World Coin is a native coin for the World App - A crypto wallet. A crypto wallet
 
 ## How to get started with WorldCoin and why you should.
 
-To get started, Download the World App from the [play store](https://play.google.com/store/apps/details?id=com.worldcoin&hl=en&gl=US&pli=1) and» Create a free account » Start earning World coins directly to your wallet. By completing tasks like ***researching**
+To get started with the Worldcoin & the World app, you will need an IOS or Android phone. Linux and other common Operating systems are not currently supported.
 
+1. Visit your App Store (Play/App Store).
+1. Search "World App"
+1. Download, by default, the installation will be done by the system after the download status is "complete"
+1. Sign up for a free account
+1. To complete tasks, you need to verify your personhood at an ORB station.
 
+## But what is an ORB?🤔
 
+An ORB is a spherical gadget used by Worldcoin agents to scan your face but mostly targets the eyeballs.
 
+> As we work towards decentralization, we are incrementally open sourcing the Orb. The goal is to provide transparency and, eventually, the ability to verify our claims. Ultimately, we plan to decentralize everything involving the Orb, enabling others to develop, manufacture, and operate similar devices to issue Proof-of-Personhood credentials in a privacy-preserving manner.
+> **~Worldcoin**
+
+![](/uploads/overview-orb-min.png)
+Here is the inside story of the Worldcoin ORB:
