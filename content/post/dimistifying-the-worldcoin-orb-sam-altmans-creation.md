@@ -1,7 +1,7 @@
 ---
 title: "Dimistifying the worldcoin, ORB: Sam Altman's creation"
 date: 2023-05-30T17:24:53.508+03:00
-draft: false
+draft: true
 description: world coin is an open-source system, created to aid everyone
   towards the global economy here is how it works.
 cover-photo: bunnie abc
