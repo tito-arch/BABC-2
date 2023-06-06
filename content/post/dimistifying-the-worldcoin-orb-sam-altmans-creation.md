@@ -28,7 +28,7 @@ To get started with the Worldcoin & the World app, you will need an IOS or Andro
 1. Sign up for a free account
 1. To complete tasks, you need to verify your personhood at an ORB station.
 
-## But what is an ORB?🤔
+## But what is this world coin ORB?🤔
 
 An ORB is a spherical gadget used by Worldcoin agents to scan your face but mostly targets the eyeballs to harvest your mutable biometric eye data.
 
@@ -36,10 +36,6 @@ An ORB is a spherical gadget used by Worldcoin agents to scan your face but most
 > **~Worldcoin**
 
 ![](/uploads/overview-orb-min.png)
-
-
-
-
 
 Here is the inside story of the Worldcoin ORB:
 
@@ -52,14 +48,35 @@ Worldcoin ORB components:
 - optical enclosure
 - fraud prevention sensors
 - battery dock
-- main board 
+- main board
 - LEDs
 
-
-
-
-
 ![](/uploads/3f406fd4-79f6-4454-9179-6effd251fc23_opening-orb-look-inside-worldcoin-biometric-imaging-device-2.webp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -68,11 +85,11 @@ Worldcoin ORB components:
 
 At the time of writing this article - June 6 2023, Worldcoin has :
 
-1.7million users 
+1.7million users
 
-24 +countries 
+24 +countries
 
-$117M investor funding 
+$117M investor funding
 
 
 
