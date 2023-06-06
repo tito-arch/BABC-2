@@ -1,7 +1,7 @@
 ---
 title: "BTC Pay Server: Accept Payments Online, Crowdfunding in Bitcoin & Lightning."
 date: 2023-06-06T06:40:02.824+03:00
-draft: true
+draft: false
 description: BTCPay Server is a self-hosted, open-source Bitcoin payment
   processor. Accept Bitcoin payments without a third-party & for free! Learn
   more.
