@@ -16,11 +16,7 @@ If you are in Argentina, Chile, India, Kenya, Portugal, and Spain you've probabl
 
 ## What really is Worldcoin?
 
-World Coin is a native coin for the World App - A crypto wallet. A crypto wallet is a digital wallet (E-wallet) like your Mobile banking app, but stores cryptocurrencies. 
-
-
-
-
+World Coin is a native coin for the World App - A crypto wallet. A crypto wallet is a digital wallet (E-wallet) like your Mobile banking app, but stores cryptocurrencies.
 
 Sam Altman the CEO of Open AI the thriving company for the viral [chatGPT](https://www.bunnieabc.com/post/what-is-chat-gpt-and-why-you-need-it/) is a chief investor.
 
@@ -36,17 +32,13 @@ To get started with the Worldcoin & the World app, you will need an IOS or Andro
 
 ## What is World ID  and its applications?
 
-Upon verification of unique humanness, a world id is issued which is a combination of numbers and letters (hash) of the details captured by the Worldcoin ORB . These unique numbers (world ID) are then added to a global list of verified humans its important to note the world coin ORB does not store users' data therefore there is nothing to worry about. Your data is already hashed and cannot be accessed not even World Coin can see your face so this means you can use the World app and World ID to verify your identity around the internet totally anonymously.
+Upon verification of unique humanness, a world id is issued which is a combination of numbers and letters (hash) of the details captured by the Worldcoin ORB. These unique numbers (world ID) are then added to a global list of verified humans its important to note the world coin ORB does not store users' data therefore there is nothing to worry about. Your data is already hashed and cannot be accessed not even World Coin can see your face so this means you can use the World app and World ID to verify your identity around the internet totally anonymously.
 
 ## Use cases of the world ID
 
-since every human can only have one world ID it could be used to verify personhood if integrated into apps so that users could authenticate their identity the same way Auth providers like Google, Microsoft, Facebook, and Github provide authentication services. World ID is a greater AUTH provider 
+Since every human can only have one world ID it could be used to verify personhood if integrated into apps so that users could authenticate their identity the same way Auth providers like Google, Microsoft, Facebook, and Github provide authentication services. World ID is a greater Auth provider since it's only one World ID per user.  
 
-  
-
-
-
-
+To use World ID to verify users in your app visit [here](https://docs.worldcoin.org/apps). 
 
 ## But what is this world coin ORB?🤔
 
@@ -82,7 +74,3 @@ At the time of writing this article - June 6 2023, Worldcoin has :
 24 +countries
 
 $117M investor funding
-
-
-
-
