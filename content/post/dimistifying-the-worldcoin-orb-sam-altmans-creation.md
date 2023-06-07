@@ -80,7 +80,7 @@ Using World ID, and particularly relying on global proof of personhood, can be u
 - Novel DAO governance including quadratic, and conviction voting
 - Anonymous online polls platform
 - Snapshot integration
-- [Change.org](Change.org) integration
+- [[Change.org](Change.org)](Change.org) integration
 
 ### social media
 
@@ -92,7 +92,13 @@ Social networks where humans, not bots, engage. With World ID and progressive pr
 - Content attribution to prevent deep fakes & misinformation
 - Discord, Twitter, Lens, and Farcaster integrations
 
-### ealth distribution
+### Wealth distribution
+
+Using World ID’s proof of personhood, a system could be built to ensure aid from NGOs, non-profits, government programs, etc. is distributed equitably to recipients.
+
+- Government welfare programs
+- Non-profit and refugee aid distribution
+- Privately or publicly funded Universal Basic Income
 
 ## The state of Worldcoin
 
