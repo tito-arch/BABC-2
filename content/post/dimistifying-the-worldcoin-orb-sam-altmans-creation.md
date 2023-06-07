@@ -4,13 +4,14 @@ date: 2023-05-30T17:24:53.508+03:00
 draft: true
 description: world coin is an open-source system, created to aid everyone
   towards the global economy here is how it works.
-cover-photo: bunnie abc
+cover-photo: /uploads/crypto-worldcoin-orb-230312-km-fortune-worldcoin-5537.webp
 category: Blockchain & Web3
 tags:
   - worldcoin
   - crypto
   - orb
-author: B.Wamaitha
+  - World ID
+author: W.Bree
 ---
 If you are in Argentina, Chile, India, Kenya, Portugal, and Spain you've probably seen some world coin operators collecting people's eyeballs.
 
@@ -59,6 +60,8 @@ Worldcoin ORB components:
 
 Upon verification of unique humanness, a world id is issued which is a combination of numbers and letters (hash) of the details captured by the Worldcoin ORB. These unique numbers (world ID) are then added to a global list of verified humans its important to note the world coin ORB does not store users' data therefore there is nothing to worry about. Your data is already hashed and cannot be accessed not even World Coin can see your face so this means you can use the World app and World ID to verify your identity around the internet totally anonymously.
 
+![](/uploads/f2672ae9-0ec6-46c6-8eb4-69a542ff00c2_world_id_card.webp)
+
 ## Use cases of the world ID
 
 Since every human can only have one world ID it could be used to verify personhood if integrated into apps so that users could authenticate their identity the same way Auth providers like Google, Microsoft, Facebook, and Github provide authentication services. World ID is a greater Auth provider since it's only one World ID per user.
@@ -67,13 +70,29 @@ To use World ID to verify users in your app visit [here](https://docs.worldcoin.
 
 Apps like Lens, Poap, Discord bouncer, pet Orbz and World coin Airdrop -which will be used to equally distribute the World coin Airdrop already use World ID.
 
+## Other use cases:
 
+### voting
 
+Using World ID, and particularly relying on global proof of personhood, can be used to build a truly democratic, one person one vote, system as well as novel voting systems.
 
+- Deduplication in government elections
+- Novel DAO governance including quadratic, and conviction voting
+- Anonymous online polls platform
+- Snapshot integration
+- [Change.org](Change.org) integration
 
+### social media
 
+Social networks where humans, not bots, engage. With World ID and progressive proof of personhood social networks can be enhanced and several abuse problems solved.
 
+- Bot protection for posting, views, likes
+- Filter posts, comments, replies, and notifications to verified accounts
+- Community moderation tools
+- Content attribution to prevent deep fakes & misinformation
+- Discord, Twitter, Lens, and Farcaster integrations
 
+### ealth distribution
 
 ## The state of Worldcoin
 
