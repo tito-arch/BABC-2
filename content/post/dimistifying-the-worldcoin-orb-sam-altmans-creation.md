@@ -30,16 +30,6 @@ To get started with the Worldcoin & the World app, you will need an IOS or Andro
 1. Sign up for a free account
 1. To complete tasks, you need to verify your personhood at an ORB station.
 
-## What is World ID  and its applications?
-
-Upon verification of unique humanness, a world id is issued which is a combination of numbers and letters (hash) of the details captured by the Worldcoin ORB. These unique numbers (world ID) are then added to a global list of verified humans its important to note the world coin ORB does not store users' data therefore there is nothing to worry about. Your data is already hashed and cannot be accessed not even World Coin can see your face so this means you can use the World app and World ID to verify your identity around the internet totally anonymously.
-
-## Use cases of the world ID
-
-Since every human can only have one world ID it could be used to verify personhood if integrated into apps so that users could authenticate their identity the same way Auth providers like Google, Microsoft, Facebook, and Github provide authentication services. World ID is a greater Auth provider since it's only one World ID per user.  
-
-To use World ID to verify users in your app visit [here](https://docs.worldcoin.org/apps). 
-
 ## But what is this world coin ORB?🤔
 
 An ORB is a spherical gadget used by Worldcoin agents to scan your face but mostly targets the eyeballs to harvest your mutable biometric eye data.
@@ -65,9 +55,29 @@ Worldcoin ORB components:
 
 ![](/uploads/3f406fd4-79f6-4454-9179-6effd251fc23_opening-orb-look-inside-worldcoin-biometric-imaging-device-2.webp)
 
+## What is World ID  and its applications?
+
+Upon verification of unique humanness, a world id is issued which is a combination of numbers and letters (hash) of the details captured by the Worldcoin ORB. These unique numbers (world ID) are then added to a global list of verified humans its important to note the world coin ORB does not store users' data therefore there is nothing to worry about. Your data is already hashed and cannot be accessed not even World Coin can see your face so this means you can use the World app and World ID to verify your identity around the internet totally anonymously.
+
+## Use cases of the world ID
+
+Since every human can only have one world ID it could be used to verify personhood if integrated into apps so that users could authenticate their identity the same way Auth providers like Google, Microsoft, Facebook, and Github provide authentication services. World ID is a greater Auth provider since it's only one World ID per user.
+
+To use World ID to verify users in your app visit [here](https://docs.worldcoin.org/apps).
+
+Apps like Lens, Poap, Discord bouncer, pet Orbz and World coin Airdrop -which will be used to equally distribute the World coin Airdrop already use World ID.
+
+
+
+
+
+
+
+
+
 ## The state of Worldcoin
 
-At the time of writing this article - June 6 2023, Worldcoin has :
+At the time of writing this article - June 6, 2023, Worldcoin has :
 
 1.7million users
 
