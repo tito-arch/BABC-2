@@ -47,7 +47,7 @@ If you run out of daily shakes and you need more shakes, the only way to get the
 - The page will now prompt you to sign up. After filling in your details and reading the terms and conditions, you shall click on create an account after which you shall be required to prove the identity of the phone number of the phone number you used by keying in a One Time Password (OTP) which shall be sent to your phone number.
 - You shall now be able to see the main page of the giveaways from where you will see the puzzle you will have tackled.
 
-**Guideline on how to get your referral link.**
+## **Guideline on how to get your referral link.**
 
 On the same page from which you can see your rewards, click on the gift icon then proceed to click earn more shakes.
 
@@ -55,7 +55,7 @@ On the same page from which you can see your rewards, click on the gift icon the
 
 1. You will then be able to see the refer a friend button from which you will get a referral link. Copy the referral link and share it with your friends in order to increase the number of shakes.
 
-**What do I do if I want to redeem the prize?**
+## **What do I do if I want to redeem the prize?**
 
  After completing the six puzzles:
 
@@ -64,22 +64,22 @@ On the same page from which you can see your rewards, click on the gift icon the
 - Follow the prompts that you will see on the screen. You may be required to share your contact details or other information to claim your prize
 - Once you have completed the redemption process you will be notified when and how your prize will be delivered to you. 
 
-**What happens if I win a mobile phone**
+## **What happens if I win a mobile phone**
 
 In instances where one has unlocked all six puzzles, the following shall be applicable to the contestant
 
-- The contestant shall be liable of the cost incurred in collecting prizes from the specified area
+- The contestant shall be liable for the cost incurred in collecting prizes from the specified area
 - The contestant shall produce a legally accepted document as a form of identification (ID or passport)
 - If the details in contestant registration does not conform to the presented documents, Opera will hold the gist until he or she satisfies that he or she is the correct recipient. 
 
-**What happens if I win airtime**
+### **What happens if I win airtime**
 
 - If you win airtime you may be able to claim it instantly, depending on the terms and conditions of your mobile network provider. Some may require you to complete a verification process before you can claim the airtime.
 - In some cases, you may need to wait for a specific period of time before you can claim your airtime prize.
 
 Make sure you read the instructions carefully and follow the steps provided. If you are not sure how to claim your prize or you are experiencing any issues with redeeming your airtime, you can try contacting the promotional support team.
 
-**What happens if I win a voucher**
+## **What happens if I win a voucher**
 
 If you win a voucher, you will need to redeem the voucher code to claim the prize. Once you have won the voucher it will be added to your “prize wallet” section of the “Shake and Win” promotion website.
 
