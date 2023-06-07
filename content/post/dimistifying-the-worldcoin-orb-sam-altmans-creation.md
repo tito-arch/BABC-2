@@ -80,7 +80,7 @@ Using World ID, and particularly relying on global proof of personhood, can be u
 - Novel DAO governance including quadratic, and conviction voting
 - Anonymous online polls platform
 - Snapshot integration
-- [[Change.org](Change.org)](Change.org) integration
+- [[[Change.org](Change.org)](Change.org)]([Change.org](Change.org)) integration
 
 ### social media
 
@@ -104,8 +104,8 @@ Using World ID’s proof of personhood, a system could be built to ensure aid fr
 
 At the time of writing this article - June 6, 2023, Worldcoin has :
 
-1.7million users
+**1.7*****million users***
 
-24 +countries
+**24** ***+countries***
 
-$117M investor funding
+**$117M** ***investor funding***
