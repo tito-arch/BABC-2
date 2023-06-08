@@ -1,7 +1,7 @@
 ---
 title: Opera Launches it's now popular “SHAKE AND WIN” in three countries in Africa.
 date: 2023-06-08T02:02:00.868+03:00
-draft: true
+draft: false
 description: Opera Mini has launched a new campaign called "Shake and Win" in
   Kenya, Nigeria, and South Africa. Users can win prizes by shaking their phones
   and collecting puzzle pieces. The campaign runs from June 5 to July 3, 2023.
