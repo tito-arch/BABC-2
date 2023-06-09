@@ -6,6 +6,7 @@ description: BTCPay Server is a self-hosted, open-source Bitcoin payment
   processor. Accept Bitcoin payments without a third-party & for free! Learn
   more.
 cover-photo: bunnie abc
+image: /uploads/6.PNG
 category: Blockchain & Web3
 tags:
   - BTC Pay Server
