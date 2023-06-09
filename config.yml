@@ -2,7 +2,7 @@
 baseURL: https://bunnieabc.com/
 languageCode: en-us
 timeZone: Africa/Nairobi
-title: BABC Blog
+title: Bunnie ABC
 theme: PaperMod
 defaultTheme: auto
 googleAnalytics: UA-235280790-1
@@ -42,16 +42,36 @@ Params:
 
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: Apps
+      name: App Updates
+      url: /categories/app-updates/
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    - identifier: AI
+      name: AI & ML
+      url: /categories/artificial-intelligence-machine-learning/
       weight: 20
-    - identifier: archives
-      name: Archives
-      url: /archives/
+    - identifier: blockchain & Web3
+      name: Blockchain & Web3
+      url: /categories/blockchain-web3/
       weight: 30
+    - identifier: CS
+      name: Computer Science
+      url: /categories/computer-science/
+      weight: 40
+    - identifier: Device
+      name: Device Reviews
+      url: /categories/device-reviews/
+      weight: 50
+    - identifier: Trending
+      name: Tech Trends
+      url: /categories/emerging-issues-trends/
+      weight: 60     
+    - identifier: About
+      name: About
+      url: /
+      weight: 70  
+    - identifier: Privacy policy
+      name: Privacy policy
+      url: /google/cp/
+      weight: 80              
 ---
