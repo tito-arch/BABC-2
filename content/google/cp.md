@@ -10,7 +10,7 @@ Cookie Policy for Bunnie ABC
 Introduction
 ------------
 
-This Cookie Policy explains what cookies are and how Bunnie ABC uses them on our website, located at [blog.bunnieabc.com](https://blog.bunnieabc.com/).
+This Cookie Policy explains what cookies are and how Bunnie ABC uses them on our website, located at [bunnieabc.com](https://blog.bunnieabc.com/).
 
 What Are Cookies?
 -----------------
