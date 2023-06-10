@@ -10,7 +10,7 @@ Cookie Policy for Bunnie ABC
 Introduction
 ------------
 
-This Cookie Policy explains what cookies are and how Bunnie ABC uses them on our website, located at [blog.bunnieabc.com](https://blog.bunnieabc.com/).
+This Cookie Policy explains what cookies are and how Bunnie ABC uses them on our website, located at [bunnieabc.com](https://blog.bunnieabc.com/).
 
 What Are Cookies?
 -----------------
@@ -54,7 +54,7 @@ You can also opt out of cookies by visiting the Network Advertising Initiative's
 Contact Us
 ----------
 
-If you have any questions about this Cookie Policy or our use of cookies, please contact us at <bunniestore.rabbitgroup@gmail.com> or <a rel="me" href="https://mastodon.social/@BABC">Mastodon</a>.
+If you have any questions about this Cookie Policy or our use of cookies, please contact us at <newsroom@bunnieabc.com> or <a rel="me" href="https://mastodon.social/@BABC">Mastodon</a>.
 
 Changes to this Policy
 ----------------------
