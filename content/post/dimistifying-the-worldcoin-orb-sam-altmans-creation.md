@@ -5,6 +5,7 @@ draft: false
 description: world coin is an open-source system, created to aid everyone
   towards the global economy here is how it works.
 cover-photo: /uploads/crypto-worldcoin-orb-230312-km-fortune-worldcoin-5537.webp
+image: /uploads/f2672ae9-0ec6-46c6-8eb4-69a542ff00c2_world_id_card.webp
 category: Blockchain & Web3
 tags:
   - worldcoin
