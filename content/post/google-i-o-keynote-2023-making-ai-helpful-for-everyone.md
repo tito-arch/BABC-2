@@ -1,9 +1,9 @@
 ---
 title: Google I/O keynote 2023:Making Ai Helpful For Everyone
 date: 2023-05-15T00:00:00.000+03:00
-image: i023_blogbanner_recap-02-banner.png
 draft: false
 description: Google main Genda on I/O keynote was to intergrate Ai in almost their product
+image: /uploads/i023_blogbanner_recap-02-banner.png
 cover-photo: /uploads/i023_blogbanner_recap-02-banner.png
 category: App Updates
 tags:
