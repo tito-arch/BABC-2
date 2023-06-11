@@ -68,7 +68,7 @@ menu:
       weight: 60     
     - identifier: About
       name: About
-      url: /
+      url: /google/about/
       weight: 70  
     - identifier: Privacy policy
       name: Privacy policy
