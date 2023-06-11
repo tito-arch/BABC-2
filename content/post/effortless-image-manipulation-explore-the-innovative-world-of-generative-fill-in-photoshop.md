@@ -4,7 +4,8 @@ title: "Effortless Image Manipulation: Explore the Innovative World of
 date: 2023-05-25T00:00:00.000+03:00
 draft: false
 description: Experience the power of adobe firefly inside photoshop with Generative fill
-cover-photo: /uploads/ssssssssssssssssssssssssdddddddddddd.jpg
+cover:
+ image: /uploads/ssssssssssssssssssssssssdddddddddddd.jpg
 category: App Updates
 tags:
   - Generative Fill
