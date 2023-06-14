@@ -49,15 +49,15 @@ After making really good prompts and having a really meaningful conversation, yo
 
 `**chat GPT Save Conversation.**`
 
-`Recent versions of the chatGPT user interface have seen an introduction of features like a clipboard (copy button), and a shareable link to a specific conversation - which is really sick. To copy a conversation simply click on a reply provided by the chatbot and paste it anywhere you'd like, edit to remove any unwanted parts and that's it.`
+Recent versions of the chatGPT user interface have seen an introduction of features like a clipboard (copy button), and a shareable link to a specific conversation - which is really sick. To copy a conversation simply click on a reply provided by the chatbot and paste it anywhere you'd like, edit to remove any unwanted parts and that's it.
 
-`To get a link to a conversation navigate next to the title of the conversation, there notice three icons` 
+To get a link to a conversation navigate next to the title of the conversation, there notice three icons
 
-- `Pen icon to edit the title of the conversation.`
-- `**An outbox icon to show the link to the conversation you intend to share - this is the feature we are talking about.**`
-- `A delete Icon to discard a conversation.`
+- Pen icon to edit the title of the conversation.
+- **An outbox icon to show the link to the conversation you intend to share - this is the feature we are talking about.**
+- A delete Icon to discard a conversation.
 
-`You can also use browser extensions like` [SaveGPT](https://savegpt.com/) `to save the conversation we will cover more extensions in the future.`
+You can also use browser extensions like` [SaveGPT](https://savegpt.com/) `to save the conversation we will cover more extensions in the future.
 
 ### How to solve the "Too many requests error"
 
