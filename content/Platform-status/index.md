@@ -26,3 +26,5 @@ Coming soon
 
 ## Github Logs
 Coming soon
+
+## Lisa & Skillzy on Telegram
