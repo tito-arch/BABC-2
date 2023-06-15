@@ -20,3 +20,9 @@ coming soon! happy hacking
 
 ## CMS Status
 Coming soon
+
+## Lisa on Slack
+Coming soon
+
+## Github Logs
+Coming soon
