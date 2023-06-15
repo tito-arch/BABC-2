@@ -2,7 +2,7 @@
 title: "Platform Status"
 draft: false
 ---
-# Platform/Serer Status
+# Platform/Sever Status
 
 The badge below shows server status, Green means everything is working as expected. Red on the other hand means something. either content you publish did not compile successfully - at this stage contact a Snr Eng for debug logs.
 
