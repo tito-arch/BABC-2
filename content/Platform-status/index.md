@@ -9,7 +9,7 @@ The badge below shows server status, Green means everything is working as expect
 Possible stausses are:
 ![statuses](/uploads/monitor-sites-status-badges.png)
 
-## BunnieABC Blog Status
+## BunnieABC Blog Status (beta)
 [![Server Status](https://api.netlify.com/api/v1/badges/688ee309-832d-42c6-8422-85fbb7c108d0/deploy-status)](https://app.netlify.com/sites/babcblog/deploys)
 
 ## Corporate site (Ke.bunnieabc.com)
@@ -17,3 +17,6 @@ Possible stausses are:
 
 ## Preview server
 coming soon! happy hacking
+
+## CMS Status
+Coming soon
