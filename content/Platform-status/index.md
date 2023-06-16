@@ -1,5 +1,5 @@
 ---
-title: "Platform Status"
+title: Platform Status
 draft: false
 ---
 # Platform/Sever Status
