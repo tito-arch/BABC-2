@@ -1,10 +1,10 @@
 ---
 title: "Behind the Scenes: Unveiling the Astonishing World of CGI Animals"
 date: 2023-05-20T19:43:25.108Z
-image: static/uploads/film-review-the-jungle-book-1.jpg
+cover:
+ image: static/uploads/film-review-the-jungle-book-1.jpg
 draft: false
 description: .
-cover-photo: /uploads/film-review-the-jungle-book-1.jpg
 category: Artificial Intelligence & Machine Learning
 tags:
   - CGI
