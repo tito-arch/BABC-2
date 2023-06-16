@@ -6,7 +6,7 @@ description: BTCPay Server is a self-hosted, open-source Bitcoin payment
   processor. Accept Bitcoin payments without a third-party & for free! Learn
   more.
 cover:
-  image: /uploads/btcpay_server_abstract_logo-1-1024x576.png
+  image: /uploads/btcpay.jpeg
 cover-photo: /uploads/btcpay_server_abstract_logo-1-1024x576.png
 category: Blockchain & Web3
 tags:
@@ -40,6 +40,7 @@ The easiest way to get around this would be to use Voltage and Sparrow. To use V
 I’ll assume you just added credits and dived back, you will now need to click on **“Nodes” and** next click “Create Node” You now have three options:
 
 ![](/uploads/btcpay1.png)
+
 **Lightning Node**: Facilitates fast, cheap, and off-chain BTC transactions.
 
 **BTC Node**: A server that validates and relays Bitcoin transactions.
@@ -56,7 +57,7 @@ Proceed with option one to allow both lightning and normal transactions. Follow 
 
 With that done, click the four squares on the top RHS, and you’ll see that the node you created is Running click “**create new**” to create a BTC PayServer, done? I recommend you copy and save that password. This blog will not help you recover it. Hitting log in will redirect you to a page where you can log in to your BTCServer dashboard, remember that password I told you to save and you ignored it? You now need it.
 
-If you successfully logged in, which I am sure you did. Click “setup wallet”, >> “**connect an existing wallet**” >> select the third option. “**Enter extended public key**”. You will need to Download and Install[ **Sparrow**](https://sparrowwallet.com/download/) **—** ***A bitcoin with focus, security, and usability*****. Follow the tutorial below.** If you are on **IOS or Android,** your journey ends here. Select “Create new wallet”, and see you on the other side captain. 
+If you successfully logged in, which I am sure you did. Click “setup wallet”, >> “**connect an existing wallet**” >> select the third option. “**Enter extended public key**”. You will need to Download and Install[ **Sparrow**](https://sparrowwallet.com/download/) **—** ***A bitcoin with focus, security, and usability***. Follow the tutorial below.** If you are on **IOS or Android,** your journey ends here. Select “Create new wallet”, and see you on the other side captain. 
 
 ## **SPARROW WALLET: Manage Your Bitcoin (Hot, Cold, and Multisig)**
 
