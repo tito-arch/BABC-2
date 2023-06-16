@@ -2,6 +2,14 @@
 title: "Behind the Scenes: Unveiling the Astonishing World of CGI Animals"
 date: 2023-05-20T19:43:25.108Z
 image: static/uploads/film-review-the-jungle-book-1.jpg
+draft: false
+description: .
+cover-photo: /uploads/film-review-the-jungle-book-1.jpg
+category: Artificial Intelligence & Machine Learning
+tags:
+  - CGI
+  - ""
+author: P.Gitau
 ---
 Get ready to dive into the fascinating realm of CGI (Computer *Generated* Imagery) animals! These amazing creatures may seem like simple animated characters, but there's a whole world of intricate details behind their creation. As someone who loves **visual effects** and has explored the world of CGI animals, I want to take you on a journey to discover how these magnificent creatures come to life. Let's start by exploring the first step: the incredible world of **3D modeling.**
 
