@@ -1,16 +1,21 @@
-+++
-author = "M.I.Titus"
-categories = "Artificial Intelligence & Machine Learning"
-date = 2023-02-16T18:50:10Z
-description = "Scientific discovery may not be satisfying as sex but the satisfaction lasts longer"
-tags = ["Google", "Open Ai"]
-title = "You all will very soon forget ChatGPT3 "
-[cover]
-alt = "You all will very soon forget ChatGPT3 "
-caption = "Image credits: TechTalks"
-image = "/uploads/you-all-will-very-soon-forget-chatgpt3.webp"
-
-+++
+---
+author: M.I.Titus
+categories: Artificial Intelligence & Machine Learning
+title: "You all will very soon forget ChatGPT3 "
+date: 2023-02-16T18:50:10.000Z
+draft: false
+description: Scientific discovery may not be satisfying as sex but the
+  satisfaction lasts longer
+cover-photo: bunnie abc
+category: Artificial Intelligence & Machine Learning
+tags:
+  - Google
+  - Open Ai
+cover:
+  alt: "You all will very soon forget ChatGPT3 "
+  caption: "Image credits: TechTalks"
+  image: /uploads/you-all-will-very-soon-forget-chatgpt3.webp
+---
 > AI could be the worst invention in the history of our civilization that brings dangers like powerful autonomous weapons or new ways for the few to oppress the many. AI could also be the best invention in the history of our civilization that helps eradicate poverty and disease and fundamentally transforms our approach to understanding our place in the cosmos.
 >
 > **_\~ Stephen Hawking_**
