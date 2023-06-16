@@ -1,16 +1,21 @@
-+++
-author = "P.Gitau"
-categories = "Emerging Issues & Trends"
-date = 2023-03-17T18:44:25Z
-description = " Should you upgrade your free Gmail for Proton mail?"
-tags = ["End to End Enscription", "Gmail", "proton mail"]
-title = "Proton Mail: The Email Service That Puts Your Privacy First"
-[cover]
-alt = "proton mail review"
-caption = "image sourced from: Proton.me"
-image = "/uploads/proton-mail-og.webp"
-
-+++
+---
+author: P.Gitau
+categories: Emerging Issues & Trends
+title: "Proton Mail: The Email Service That Puts Your Privacy First"
+date: 2023-03-17T18:44:25.000Z
+draft: true
+description: " Should you upgrade your free Gmail for Proton mail?"
+cover-photo: bunnie abc
+category: App Updates
+tags:
+  - End to End Encryption
+  - Gmail
+  - proton mail
+cover:
+  alt: proton mail review
+  caption: "image sourced from: Proton.me"
+  image: /uploads/proton-mail-og.webp
+---
 Did you know that hackers can email you and by simply opening the email the hacker gets your IP address? And we all know the security risks when an unauthorized person like a hacker accesses your IP address. He or she may steal your identity and access your location and personal files,It takes only one click of a button. But someone may still argue that email providers should protect their users from such attacks. and yes that is true.
 
 However, not all email providers provide extra security features to their users. There are various secure email providers eg. [**Tutanota**](https://tutanota.com/ "Tutanota link")**,** [**Cock. li** ](https://cock.li/ "Cock.li link")or even [**Hushmail**](https://www.hushmail.com/ "https://www.hushmail.com/")**,** but we are particularly going to look to only one email provider and that is **Protonmail.** If the name sounds familiar it's because of the famous [**ProtonVPN**](https://protonvpn.com/ "proton vpn link") service that mainly focuses on securing your online presence by redirecting traffic to a proton server based in **Geneva, Switzerland**.
