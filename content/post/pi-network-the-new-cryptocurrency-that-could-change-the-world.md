@@ -1,15 +1,16 @@
 ---
 title: "Pi Network: The New Cryptocurrency That Could Change the World"
 date: 2023-06-16T10:12:56.736+03:00
-draft: true
+draft: false
 description: Pi Network is a new cryptocurrency that is still in development,
   but it has the potential to be a major player in the cryptocurrency market.
   Learn more about Pi Network, how to mine it, and what the future holds for
   this exciting project.
-cover-photo: bunnie abc
+cover:
+ image: /uploads/mine-pi-network-main.jpg
 category: Blockchain & Web3
 tags:
-  - Affilate
+  - Affiliate
   - pi network
   - cryptocurrency
   - mining
@@ -76,7 +77,7 @@ In September 2022, the Pi network announced Pi Bridge, which seeks to provide a 
 
 
 
-![](/uploads/pi1.jpg)
+![](/uploads/pi1.jpg#center)
 ## **How to create a wallet** 
 
 1. Download the Pi Browser app
@@ -87,7 +88,7 @@ In September 2022, the Pi network announced Pi Bridge, which seeks to provide a 
 
 
 
-![](/uploads/pibrowser.jpeg)
+![](/uploads/pibrowser.jpeg#center)
 
 
 
