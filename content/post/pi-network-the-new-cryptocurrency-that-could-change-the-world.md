@@ -77,7 +77,7 @@ In September 2022, the Pi network announced Pi Bridge, which seeks to provide a 
 
 
 
-![](/uploads/pi1.jpg)
+![](/uploads/pi1.jpg#center)
 ## **How to create a wallet** 
 
 1. Download the Pi Browser app
