@@ -7,7 +7,8 @@ description: Pi Network is a new cryptocurrency that is still in development,
   Learn more about Pi Network, how to mine it, and what the future holds for
   this exciting project.
 cover:
- image: /uploads/mine-pi-network-main.jpg
+  image: /uploads/mine-pi-network-main.jpg
+cover-photo: bunnie abc
 category: Blockchain & Web3
 tags:
   - Affiliate
