@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Twitter on BABC Blog</title>
-    <link>https://bunnieabc.com/tags/twitter/</link>
-    <description>Recent content in Twitter on BABC Blog</description>
+    <title>Twitter on Bunnie ABC</title>
+    <link>https://bunnieabc-ps.web.app/tags/twitter/</link>
+    <description>Recent content in Twitter on Bunnie ABC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Apr 2023 18:48:47 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Apr 2023 18:48:47 +0000</lastBuildDate><atom:link href="https://bunnieabc-ps.web.app/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Twitter&#39;s Source code is now OpenSource</title>
-      <link>https://bunnieabc.com/posts/twitter-s-source-code-is-now-opensource/</link>
+      <link>https://bunnieabc-ps.web.app/post/twitter-s-source-code-is-now-opensource/</link>
       <pubDate>Mon, 03 Apr 2023 18:48:47 +0000</pubDate>
       
-      <guid>https://bunnieabc.com/posts/twitter-s-source-code-is-now-opensource/</guid>
+      <guid>https://bunnieabc-ps.web.app/post/twitter-s-source-code-is-now-opensource/</guid>
       <description>As promised by Elon, Part of Twiter&amp;#39;s code is now Open Source. Twitter is now the Linux of Social Media.</description>
     </item>
     

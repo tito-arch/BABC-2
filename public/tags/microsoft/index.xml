@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Microsoft on BABC Blog</title>
-    <link>https://bunnieabc.com/tags/microsoft/</link>
-    <description>Recent content in Microsoft on BABC Blog</description>
+    <title>Microsoft on Bunnie ABC</title>
+    <link>https://bunnieabc-ps.web.app/tags/microsoft/</link>
+    <description>Recent content in Microsoft on Bunnie ABC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 14:20:06 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 14:20:06 +0000</lastBuildDate><atom:link href="https://bunnieabc-ps.web.app/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Step-by-Step Guide to Setting up Microsoft Purview with Watermarks</title>
-      <link>https://bunnieabc.com/posts/step-by-step-guide-to-setting-up-microsoft-purview-with-watermarks/</link>
+      <link>https://bunnieabc-ps.web.app/post/step-by-step-guide-to-setting-up-microsoft-purview-with-watermarks/</link>
       <pubDate>Mon, 20 Feb 2023 14:20:06 +0000</pubDate>
       
-      <guid>https://bunnieabc.com/posts/step-by-step-guide-to-setting-up-microsoft-purview-with-watermarks/</guid>
+      <guid>https://bunnieabc-ps.web.app/post/step-by-step-guide-to-setting-up-microsoft-purview-with-watermarks/</guid>
       <description>This new microsoft feature will save companies from data breach and protect sensitive information from leaking to unwanted hands</description>
     </item>
     
     <item>
       <title> Everything you need to know about Microsoft&#39;s latest OS update </title>
-      <link>https://bunnieabc.com/posts/windows-new-feature-2023/</link>
+      <link>https://bunnieabc-ps.web.app/post/windows-new-feature-2023/</link>
       <pubDate>Thu, 05 Jan 2023 11:08:49 +0000</pubDate>
       
-      <guid>https://bunnieabc.com/posts/windows-new-feature-2023/</guid>
+      <guid>https://bunnieabc-ps.web.app/post/windows-new-feature-2023/</guid>
       <description>Get informed about this cool Microsoft features to boost your productivity</description>
     </item>
     
