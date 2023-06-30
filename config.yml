@@ -1,7 +1,6 @@
 ---
-baseURL: https://bunnieabc-ps.web.app/
+baseURL: https://bunnieabc.com/
 languageCode: en-us
-hugo: --buildDrafts
 timeZone: Africa/Nairobi
 title: Bunnie ABC
 theme: PaperMod
