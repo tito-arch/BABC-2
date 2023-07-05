@@ -1,16 +1,22 @@
-+++
-author = "BABC"
-categories = "Emerging Issues & Trends"
-date = 2023-04-03T18:48:47Z
-description = "As promised by Elon, Part of Twiter's code is now Open Source. Twitter is now the Linux of Social Media."
-tags = ["Open Source", "Twitter", "Elon Musk"]
-title = "Twitter's Source code is now OpenSource"
-[cover]
-alt = "bunnie abc"
-caption = ""
-image = "/uploads/twitter-banner.png"
-
-+++
+---
+author: M.I.Titus
+categories: Emerging Issues & Trends
+title: Twitter's Source code is now OpenSource
+date: 2023-04-03T18:48:47.000Z
+draft: true
+description: As promised by Elon, Part of Twiter's code is now Open Source.
+  Twitter is now the Linux of Social Media.
+cover-photo: bunnie abc
+category: App Updates
+tags:
+  - Open Source
+  - Twitter
+  - Elon Musk
+cover:
+  alt: bunnie abc
+  caption: ""
+  image: /uploads/twitter-banner.png
+---
 About six months ago, Elon Musk paid 44 Billion Dollars for the Twitter acquisition, since then Elon Twitter's CEO has done and said a lot of bizarre things: He fired half of the employees -some of them in the comment section gave blue check marks to the underserved and unbanned some accounts -like Donald Trump.
 
 With all this happening, the platform seemed to tank daily making its value $20 billion or in simple words, -24 Billion Dollars of its initial worth.
