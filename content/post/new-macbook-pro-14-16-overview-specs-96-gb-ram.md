@@ -1,17 +1,24 @@
-+++
-author = "M.I.Titus"
-categories = "Device Reviews"
-date = 2023-01-24T06:59:37Z
-description = "New MacBook Pro 14\" & 16\" models now available! Supercharged by M2 Pro & M2 Max chip, up to 96GB RAM, stunning XDR display & long battery life."
-image = ""
-tags = ["Apple", "M2Max", "M2Pro", "MacBookPro"]
-title = "New MacBook Pro 14\" & 16\": Overview, Specs - 96 GB RAM "
-[cover]
-alt = "New MacBook Pro 14\" & 16\": Overview, Specs - 96 GB RAM "
-caption = "Image credits: Apple.com"
-image = "/uploads/macbookpro.jpg"
-
-+++
+---
+author: M.I.Titus
+categories: Device Reviews
+title: 'New MacBook Pro 14" & 16": Overview, Specs - 96 GB RAM '
+date: 2023-01-24T06:59:37.000Z
+draft: true
+description: New MacBook Pro 14" & 16" models now available! Supercharged by M2
+  Pro & M2 Max chip, up to 96GB RAM, stunning XDR display & long battery life.
+image: ""
+cover-photo: bunnie abc
+category: Device Reviews
+tags:
+  - Apple
+  - M2Max
+  - M2Pro
+  - MacBookPro
+cover:
+  alt: 'New MacBook Pro 14" & 16": Overview, Specs - 96 GB RAM '
+  caption: "Image credits: Apple.com"
+  image: /uploads/macbookpro.jpg
+---
 # The Moore's Law:
 
 Moore's Law is a prediction made by **Gordon Moore**, the co-founder of Intel, in 1965 **_that the number of transistors on a microchip would double approximately every 18-24 months,_** this period is approximately 2 years. This prediction has been observed to hold truth over the years, leading to a rapid increase in the power and efficiency of computer processors. In real life, this same law is seen in the formation of a baby. In 9 months two small cells combine to form billions of complex cells to form a human baby, they keep doubling each month as the baby grows. **Evolution.**
