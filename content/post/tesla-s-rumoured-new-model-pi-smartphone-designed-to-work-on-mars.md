@@ -1,17 +1,21 @@
-+++
-author = "P.Gitau"
-categories = "Emerging Issues & Trends"
-date = 2023-01-15T11:31:57Z
-description = " The Future of Phones is Here: Introducing Tesla's Model Pi"
-image = ""
-tags = ["Elon Musk", "Tesla"]
-title = "Tesla's Rumoured New 'MODEL Pi' smartphone designed to work on mars"
-[cover]
-alt = ""
-caption = ""
-image = "/uploads/tesla-model-pi.webp"
-
-+++
+---
+author: P.Gitau
+categories: Emerging Issues & Trends
+title: Tesla's Rumoured New 'MODEL Pi' smartphone designed to work on mars
+date: 2023-01-15T11:31:57.000Z
+draft: true
+description: " The Future of Phones is Here: Introducing Tesla's Model Pi"
+image: ""
+cover-photo: bunnie abc
+category: Device Reviews
+tags:
+  - Elon Musk
+  - Tesla
+cover:
+  alt: ""
+  caption: ""
+  image: /uploads/tesla-model-pi.webp
+---
 Every year there is a new brand-new phone from the large companies **Huawei**, **Apple,** and  **Samsung** which have something in common. When it comes to improving their products, they only modify one feature, let's say the camera or even the storage capacity or the cover, but we don't get new features at all.
 
 It's the same every time except for some nice user experience improvements actually if you buy a new phone before you even open it you actually know what is inside it and even what to expect I don't know if it's me alone with high expectations which make me except something new like something from the future something no one has ever seen.
