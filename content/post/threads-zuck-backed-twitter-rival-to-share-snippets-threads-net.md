@@ -1,7 +1,7 @@
 ---
 title: "Threads: The New Social Media App That Could Overtake Twitter"
 date: 2023-07-07T00:28:48.905+03:00
-draft: true
+draft: false
 description: Threads is a new social media app launched by Meta Platforms Inc,
   the parent company of Facebook, Instagram, and Whatsapp. The app is similar to
   Twitter in that it allows users to share short, threaded messages. However,
@@ -18,10 +18,6 @@ tags:
   - threads
 author: M.I.Titus
 ---
-
-
-
-
 Meet Twitter, …. Sorry Threads rather.
 
 Threads, a social media application launched on 5th July 2023 to rival Twitter. The app is owned by Meta Platforms Inc well known for being Facebook, Instagram, and Whatsapp parent company. 
@@ -37,7 +33,7 @@ A Twitter thread comprises a sequence of interconnected tweets originating from 
 Twitter, recently acquired by Elon Musk has seen many changes in the last months some of them are: 
 
 - 72% layoffs and resignations bring its headcount from 7,500 to 1300.
-- Open-sourcing their code on Github to show transparency
+- Open-sourcing their code on [Github to show transparency](https://www.bunnieabc.com/posts/twitter-s-source-code-is-now-opensource/)
 - And of course, losing money, the company is now worth $15 Billion according to the Wall Street Journal
 
 Amongst others. While Twitter managed to be in the headlines, for controversy Elon -Twitter & Tesla CEO in a tweet said the app has roughly 259 million daily active users and a total of 396.5 million users globally. With that little background, you now know a little bit about Twitter.
