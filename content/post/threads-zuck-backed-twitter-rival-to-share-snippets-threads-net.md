@@ -10,9 +10,10 @@ description: Threads is a new social media app launched by Meta Platforms Inc,
   comments and preview link destinations. As a result, Threads has the potential
   to overtake Twitter in popularity.
 cover:
-  alt: Threads 
+  alt: Threads
   caption: "Image credits: Threads"
   image: /uploads/screenshot-from-2023-07-07-00-28-13.png
+cover-photo: bunnie abc
 category: App Updates
 tags:
   - Apps
@@ -39,7 +40,9 @@ Twitter, recently acquired by Elon Musk has seen many changes in the last months
 - Open-sourcing their code on [Github to show transparency](https://www.bunnieabc.com/posts/twitter-s-source-code-is-now-opensource/)
 - And of course, losing money, the company is now worth $15 Billion according to the Wall Street Journal
 
-<a href="https://www.statista.com/statistics/272140/employees-of-twitter/" rel="nofollow"><img src="https://www.statista.com/graphic/1/272140/employees-of-twitter.jpg" alt="Statistic: Number of Twitter employees from 2008 to 2021 | Statista" style="width: 100%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Find more statistics at  <a href="https://www.statista.com" rel="nofollow">Statista</a>
+![](/uploads/screenshot-from-2023-07-09-18-17-54.png)
+
+Find more statistics at [Statista](https://www.statista.com/statistics/272140/employees-of-twitter/)
 
 Amongst others. While Twitter managed to be in the headlines, for controversy Elon -Twitter & Tesla CEO in a tweet said the app has roughly 259 million daily active users and a total of 396.5 million users globally. With that little background, you now know a little bit about Twitter.
 
