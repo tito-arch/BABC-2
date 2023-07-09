@@ -69,6 +69,7 @@ Super easy:
 1. Share a post button, like, comment
 1. Another feature is muting, hiding posts from specific accounts
 
+![](/uploads/threadsmeme.jpeg)
 ## Why Threads could overtake Twitter
 
 Today, I created my Threads account, which is quite easy turns out I was the 95th million user. On clicking “Sign-in with Instagram” I had some pending requests that I simply approved and got some followers. 
@@ -93,3 +94,8 @@ Today, I created my Threads account, which is quite easy turns out I was the 95t
 |X-corp| |Meta platforms Inc|
 
 As we are in this **Twitter** _vs_ **Threads** thread, Twitter has threatened to take **legal action on Meta Platforms**. Thanks for reading and I’ll see you in the next one.
+
+![](/uploads/zuckcopying.jpeg)
+
+
+
