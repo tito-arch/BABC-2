@@ -72,7 +72,7 @@ Today, I created my Threads account, which is quite easy turns out I was the 95t
 
 ## Twitter vs Threads
 
-|### **Twitter**<br />|_VS_|### **Threads**<br />|
+|**Twitter**|_VS_|**Threads**|
 |---|---|---|
 |Pay 8$ to get verified| |Import your verified account from Instagram|
 |Partly open Source| |Closed Source|
