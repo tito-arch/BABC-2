@@ -22,7 +22,7 @@ Meet Twitter, …. Sorry Threads rather.
 
 Threads, a social media application launched on 5th July 2023 to rival Twitter. The app is owned by Meta Platforms Inc well known for being Facebook, Instagram, and Whatsapp parent company. 
 
-In recent months, we’ve seen a lot of big tech companies pick fights: Microsoft vs Google, Amazon vs Google, Twitter vs Facebook, and Apple vs Facebook to the extent of physical fights against the CEOs with a cage fight between Elon Musk & Zuck the Boss planned - they are dead serious.
+In recent months, we’ve seen a lot of big tech companies pick fights: **Microsoft vs Google, Amazon vs Google, Twitter vs Facebook, and Apple vs Facebook** to the extent of physical fights against the CEOs with a cage fight between Elon Musk & Zuck the Boss planned - they are dead serious.
 
 Threads, accessible as a native app on [App Store](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002) and [Google Play ](https://play.google.com/store/apps/details?id=com.instagram.barcelona&hl=en_US)is a new way for influencers to share more than photos with an Instagram & Twitter feeling. The UI is identical to Twitter threads which is a way to share a threaded/continued story.
 
@@ -53,45 +53,34 @@ Super easy:
 
 ## Threads Features
 
-Threading a conversation just like Twitter.
+1. Threading a conversation just like Twitter.
+1. A feed of accounts you follow
+1. You can share links in comments and as a stand-alone post
+1. Repost or quote an existing post
+1. Preview of the link destination
+1. Share a post button, like, comment
+1. Another feature is muting, hiding posts from specific accounts
+1. Why Threads could overtake Twitter
 
-A feed of accounts you follow
+Today, I created my Threads account, which is quite easy turns out I was the 95th million user. On clicking “Sign-in with Instagram” I had some pending requests that I simply approved and got some followers. 
 
-You can share links in comments and as a stand-alone post
-
-Repost or quote an existing post
-
-Preview of the link destination
-
-Share a post button, like, comment
-
-Another feature is muting, hiding posts from specific accounts
-
-## Why Threads could overtake Twitter
-
-Today, I created my Threads account, which is quite easy turns out I was the 95th million user. On clicking “Sign-n with Instagram” I had some pending requests that I simply approved and got some followers. 
-
-On Threads, you can censor any comment by hiding it from everyone thus protecting a business or personal identity which is really important.
-
-Your verified profile is imported from Instagram
-
-No rate limit on the number of posts per day
-
-No monetization till they hit 1 Billion users
-
-More features coming soon.
+1. On Threads, you can censor any comment by hiding it from everyone thus protecting a business or personal identity which is really important.
+1. Your verified profile is imported from Instagram
+1. No rate limit on the number of posts per day
+1. No monetization till they hit 1 Billion users
+1. More features coming soon.
 
 ## Twitter vs Threads
 
-|**Twitter**|**Threads**|
-|---|---|
-|Pay 8$ to get verified|Import your verified account from Instagram|
-|Partly open Source|Closed Source|
-|Promotes free speech|Highly censored|
-|Does not collect data on a massive scale|Collects your data mercilessly|
-|Monetized|Pending monetization|
-|Original|Twitter’s clone|
-|390 Million + users|95 million + users|
-|Meta platforms Inc|X-corp|
+|### **Twitter**<br />|_VS_|### **Threads**<br />|
+|---|---|---|
+|Pay 8$ to get verified| |Import your verified account from Instagram|
+|Partly open Source| |Closed Source|
+|Promotes free speech| |Highly censored|
+|Does not collect data on a massive scale| |Collects your data mercilessly|
+|Monetized| |Pending monetization|
+|Original| |Twitter’s clone|
+|390 Million + users| |95 million + users|
+|Meta platforms Inc| |X-corp|
 
-As we are in this Twitter vs Threads thread, Twitter has threatened to take legal action on Meta Platforms. Thanks for reading and I’ll see you in the next one.
+As we are in this **Twitter** _vs_ **Threads** thread, Twitter has threatened to take **legal action on Meta Platforms**. Thanks for reading and I’ll see you in the next one.
