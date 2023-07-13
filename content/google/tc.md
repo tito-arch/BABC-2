@@ -20,6 +20,8 @@ The Website may contain links to third-party websites or services that are not o
 #### Limitation of Liability
  In no event shall Bunnie ABC be liable for any damages whatsoever, including but not limited to any direct, indirect, special, incidental, or consequential damages, arising out of or in connection with the use or inability to use the Website or any content or services provided on or through the Website.
 
+ We partner with Microsoft Clarity and Microsoft Advertising to capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve and market our products/services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of products/services and online activity. Additionally, we use this information for site optimization, fraud/security purposes, and advertising. For more information about how Microsoft collects and uses your data, visit the Microsoft Privacy Statement.
+
 ## Modifications to the Website 
 Bunnie ABC reserves the right to make changes to the Website and these Terms at any time and without notice. Your continued use of the Website after any such changes constitutes your acceptance of the new Terms.
 
