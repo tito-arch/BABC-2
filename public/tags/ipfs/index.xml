@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>IPFS on Bunnie ABC</title>
-    <link>https://bunnieabc-ps.web.app/tags/ipfs/</link>
-    <description>Recent content in IPFS on Bunnie ABC</description>
+    <title>IPFS on BABC Blog</title>
+    <link>https://bunnieabc.com/tags/ipfs/</link>
+    <description>Recent content in IPFS on BABC Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Mar 2023 20:59:46 +0000</lastBuildDate><atom:link href="https://bunnieabc-ps.web.app/tags/ipfs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Mar 2023 20:59:46 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/ipfs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is The Interplanetary File System: A High Level Guide</title>
-      <link>https://bunnieabc-ps.web.app/post/what-is-the-interplanetary-file-system-a-high-level-guide/</link>
+      <link>https://bunnieabc.com/posts/what-is-the-interplanetary-file-system-a-high-level-guide/</link>
       <pubDate>Tue, 28 Mar 2023 20:59:46 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/post/what-is-the-interplanetary-file-system-a-high-level-guide/</guid>
+      <guid>https://bunnieabc.com/posts/what-is-the-interplanetary-file-system-a-high-level-guide/</guid>
       <description>IPFS is designed as a content-addressed, versioned, peer-to-peer file system.</description>
     </item>
     

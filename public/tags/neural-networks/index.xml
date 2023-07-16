@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Neural networks on Bunnie ABC</title>
-    <link>https://bunnieabc-ps.web.app/tags/neural-networks/</link>
-    <description>Recent content in Neural networks on Bunnie ABC</description>
+    <title>Neural networks on BABC Blog</title>
+    <link>https://bunnieabc.com/tags/neural-networks/</link>
+    <description>Recent content in Neural networks on BABC Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 13:13:52 +0000</lastBuildDate><atom:link href="https://bunnieabc-ps.web.app/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 13:13:52 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evolution of Computer Systems</title>
-      <link>https://bunnieabc-ps.web.app/post/evolution-of-computer-systems/</link>
+      <link>https://bunnieabc.com/posts/evolution-of-computer-systems/</link>
       <pubDate>Sun, 01 Jan 2023 13:13:52 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/post/evolution-of-computer-systems/</guid>
+      <guid>https://bunnieabc.com/posts/evolution-of-computer-systems/</guid>
       <description>We can’t imagine a world without computers today.</description>
     </item>
     

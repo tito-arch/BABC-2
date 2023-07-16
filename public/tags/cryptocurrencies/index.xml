@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Cryptocurrencies on Bunnie ABC</title>
-    <link>https://bunnieabc-ps.web.app/tags/cryptocurrencies/</link>
-    <description>Recent content in Cryptocurrencies on Bunnie ABC</description>
+    <title>Cryptocurrencies on BABC Blog</title>
+    <link>https://bunnieabc.com/tags/cryptocurrencies/</link>
+    <description>Recent content in Cryptocurrencies on BABC Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Sep 2022 23:43:26 +0000</lastBuildDate><atom:link href="https://bunnieabc-ps.web.app/tags/cryptocurrencies/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Sep 2022 23:43:26 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/cryptocurrencies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Great Ethereum merge.</title>
-      <link>https://bunnieabc-ps.web.app/post/the-great-etherum-merge/</link>
+      <link>https://bunnieabc.com/posts/the-great-etherum-merge/</link>
       <pubDate>Fri, 16 Sep 2022 23:43:26 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/post/the-great-etherum-merge/</guid>
+      <guid>https://bunnieabc.com/posts/the-great-etherum-merge/</guid>
       <description>Ethereum switched from Proof of Work to Proof of Stake to stop alot of energy consumption.</description>
     </item>
     

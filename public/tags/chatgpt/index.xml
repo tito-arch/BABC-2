@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ChatGPT on Bunnie ABC</title>
-    <link>https://bunnieabc-ps.web.app/tags/chatgpt/</link>
-    <description>Recent content in ChatGPT on Bunnie ABC</description>
+    <title>ChatGPT on BABC Blog</title>
+    <link>https://bunnieabc.com/tags/chatgpt/</link>
+    <description>Recent content in ChatGPT on BABC Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Feb 2023 21:00:00 +0000</lastBuildDate><atom:link href="https://bunnieabc-ps.web.app/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Feb 2023 21:00:00 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why ChatGPT won’t replace developers.</title>
-      <link>https://bunnieabc-ps.web.app/post/why-chatgpt-won-t-replace-developers/</link>
+      <link>https://bunnieabc.com/posts/why-chatgpt-won-t-replace-developers/</link>
       <pubDate>Sun, 05 Feb 2023 21:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/post/why-chatgpt-won-t-replace-developers/</guid>
+      <guid>https://bunnieabc.com/posts/why-chatgpt-won-t-replace-developers/</guid>
       <description>The blog is about whether ChatGPT can replace human software developers or automate certain tasks?.</description>
     </item>
     

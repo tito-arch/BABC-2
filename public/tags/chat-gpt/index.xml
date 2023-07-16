@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Chat GPT on Bunnie ABC</title>
-    <link>https://bunnieabc-ps.web.app/tags/chat-gpt/</link>
-    <description>Recent content in Chat GPT on Bunnie ABC</description>
+    <title>Chat GPT on BABC Blog</title>
+    <link>https://bunnieabc.com/tags/chat-gpt/</link>
+    <description>Recent content in Chat GPT on BABC Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Dec 2022 15:25:01 +0000</lastBuildDate><atom:link href="https://bunnieabc-ps.web.app/tags/chat-gpt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 15:25:01 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/chat-gpt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring the Capabilities of Chat GPT a comprehensive guide</title>
-      <link>https://bunnieabc-ps.web.app/post/what-is-chat-gpt-and-why-you-need-it/</link>
+      <link>https://bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/</link>
       <pubDate>Thu, 01 Dec 2022 15:25:01 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/post/what-is-chat-gpt-and-why-you-need-it/</guid>
+      <guid>https://bunnieabc.com/posts/what-is-chat-gpt-and-why-you-need-it/</guid>
       <description>Generative Pre-trained Transformer 3 is an autoregressive language model that uses deep learning to produce human-like text</description>
     </item>
     

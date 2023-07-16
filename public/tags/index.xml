@@ -1,936 +1,819 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Bunnie ABC</title>
-    <link>https://bunnieabc-ps.web.app/tags/</link>
-    <description>Recent content in Tags on Bunnie ABC</description>
+    <title>Tags on BABC Blog</title>
+    <link>https://bunnieabc.com/tags/</link>
+    <description>Recent content in Tags on BABC Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jun 2023 10:12:56 +0300</lastBuildDate><atom:link href="https://bunnieabc-ps.web.app/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Affiliate</title>
-      <link>https://bunnieabc-ps.web.app/tags/affiliate/</link>
-      <pubDate>Fri, 16 Jun 2023 10:12:56 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/affiliate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blockchain</title>
-      <link>https://bunnieabc-ps.web.app/tags/blockchain/</link>
-      <pubDate>Fri, 16 Jun 2023 10:12:56 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/blockchain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cryptocurrency</title>
-      <link>https://bunnieabc-ps.web.app/tags/cryptocurrency/</link>
-      <pubDate>Fri, 16 Jun 2023 10:12:56 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/cryptocurrency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mining</title>
-      <link>https://bunnieabc-ps.web.app/tags/mining/</link>
-      <pubDate>Fri, 16 Jun 2023 10:12:56 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/mining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pi network</title>
-      <link>https://bunnieabc-ps.web.app/tags/pi-network/</link>
-      <pubDate>Fri, 16 Jun 2023 10:12:56 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/pi-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>technology</title>
-      <link>https://bunnieabc-ps.web.app/tags/technology/</link>
-      <pubDate>Fri, 16 Jun 2023 10:12:56 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opera</title>
-      <link>https://bunnieabc-ps.web.app/tags/opera/</link>
-      <pubDate>Thu, 08 Jun 2023 02:02:00 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/opera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Operamini</title>
-      <link>https://bunnieabc-ps.web.app/tags/operamini/</link>
-      <pubDate>Thu, 08 Jun 2023 02:02:00 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/operamini/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shake &amp; win</title>
-      <link>https://bunnieabc-ps.web.app/tags/shake-win/</link>
-      <pubDate>Thu, 08 Jun 2023 02:02:00 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/shake-win/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bitcoin</title>
-      <link>https://bunnieabc-ps.web.app/tags/bitcoin/</link>
-      <pubDate>Tue, 06 Jun 2023 06:40:02 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/bitcoin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BTC Pay Server</title>
-      <link>https://bunnieabc-ps.web.app/tags/btc-pay-server/</link>
-      <pubDate>Tue, 06 Jun 2023 06:40:02 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/btc-pay-server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lighting Node</title>
-      <link>https://bunnieabc-ps.web.app/tags/lighting-node/</link>
-      <pubDate>Tue, 06 Jun 2023 06:40:02 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/lighting-node/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>crypto</title>
-      <link>https://bunnieabc-ps.web.app/tags/crypto/</link>
-      <pubDate>Tue, 30 May 2023 17:24:53 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/crypto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>orb</title>
-      <link>https://bunnieabc-ps.web.app/tags/orb/</link>
-      <pubDate>Tue, 30 May 2023 17:24:53 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/orb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>World ID</title>
-      <link>https://bunnieabc-ps.web.app/tags/world-id/</link>
-      <pubDate>Tue, 30 May 2023 17:24:53 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/world-id/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>worldcoin</title>
-      <link>https://bunnieabc-ps.web.app/tags/worldcoin/</link>
-      <pubDate>Tue, 30 May 2023 17:24:53 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/worldcoin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adobe</title>
-      <link>https://bunnieabc-ps.web.app/tags/adobe/</link>
-      <pubDate>Thu, 25 May 2023 00:00:00 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/adobe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ai</title>
-      <link>https://bunnieabc-ps.web.app/tags/ai/</link>
-      <pubDate>Thu, 25 May 2023 00:00:00 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generative Fill</title>
-      <link>https://bunnieabc-ps.web.app/tags/generative-fill/</link>
-      <pubDate>Thu, 25 May 2023 00:00:00 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/generative-fill/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CGI</title>
-      <link>https://bunnieabc-ps.web.app/tags/cgi/</link>
-      <pubDate>Sat, 20 May 2023 19:43:25 +0000</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/cgi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bard</title>
-      <link>https://bunnieabc-ps.web.app/tags/bard/</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/bard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Google</title>
-      <link>https://bunnieabc-ps.web.app/tags/google/</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0300</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/google/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 11 Apr 2023 10:06:25 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go SpaceX</title>
-      <link>https://bunnieabc-ps.web.app/tags/go-spacex/</link>
+      <link>https://bunnieabc.com/tags/go-spacex/</link>
       <pubDate>Tue, 11 Apr 2023 10:06:25 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/go-spacex/</guid>
+      <guid>https://bunnieabc.com/tags/go-spacex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SpaceX</title>
-      <link>https://bunnieabc-ps.web.app/tags/spacex/</link>
+      <link>https://bunnieabc.com/tags/spacex/</link>
       <pubDate>Tue, 11 Apr 2023 10:06:25 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/spacex/</guid>
+      <guid>https://bunnieabc.com/tags/spacex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Starlink</title>
-      <link>https://bunnieabc-ps.web.app/tags/starlink/</link>
+      <link>https://bunnieabc.com/tags/starlink/</link>
       <pubDate>Tue, 11 Apr 2023 10:06:25 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/starlink/</guid>
+      <guid>https://bunnieabc.com/tags/starlink/</guid>
       <description></description>
     </item>
     
     <item>
       <title>starship</title>
-      <link>https://bunnieabc-ps.web.app/tags/starship/</link>
+      <link>https://bunnieabc.com/tags/starship/</link>
       <pubDate>Tue, 11 Apr 2023 10:06:25 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/starship/</guid>
+      <guid>https://bunnieabc.com/tags/starship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>  Generative Ai </title>
-      <link>https://bunnieabc-ps.web.app/tags/generative-ai/</link>
+      <link>https://bunnieabc.com/tags/generative-ai/</link>
       <pubDate>Wed, 05 Apr 2023 03:57:25 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/generative-ai/</guid>
+      <guid>https://bunnieabc.com/tags/generative-ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adobe Firefly</title>
-      <link>https://bunnieabc-ps.web.app/tags/adobe-firefly/</link>
+      <link>https://bunnieabc.com/tags/adobe-firefly/</link>
       <pubDate>Wed, 05 Apr 2023 03:57:25 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/adobe-firefly/</guid>
+      <guid>https://bunnieabc.com/tags/adobe-firefly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ai</title>
+      <link>https://bunnieabc.com/tags/ai/</link>
+      <pubDate>Wed, 05 Apr 2023 03:57:25 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elon Musk</title>
-      <link>https://bunnieabc-ps.web.app/tags/elon-musk/</link>
+      <link>https://bunnieabc.com/tags/elon-musk/</link>
       <pubDate>Mon, 03 Apr 2023 18:48:47 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/elon-musk/</guid>
+      <guid>https://bunnieabc.com/tags/elon-musk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Source</title>
-      <link>https://bunnieabc-ps.web.app/tags/open-source/</link>
+      <link>https://bunnieabc.com/tags/open-source/</link>
       <pubDate>Mon, 03 Apr 2023 18:48:47 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/open-source/</guid>
+      <guid>https://bunnieabc.com/tags/open-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Twitter</title>
-      <link>https://bunnieabc-ps.web.app/tags/twitter/</link>
+      <link>https://bunnieabc.com/tags/twitter/</link>
       <pubDate>Mon, 03 Apr 2023 18:48:47 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/twitter/</guid>
+      <guid>https://bunnieabc.com/tags/twitter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cryptography</title>
-      <link>https://bunnieabc-ps.web.app/tags/cryptography/</link>
+      <link>https://bunnieabc.com/tags/cryptography/</link>
       <pubDate>Tue, 28 Mar 2023 20:59:46 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/cryptography/</guid>
+      <guid>https://bunnieabc.com/tags/cryptography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IPFS</title>
-      <link>https://bunnieabc-ps.web.app/tags/ipfs/</link>
+      <link>https://bunnieabc.com/tags/ipfs/</link>
       <pubDate>Tue, 28 Mar 2023 20:59:46 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/ipfs/</guid>
+      <guid>https://bunnieabc.com/tags/ipfs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IPFS explained</title>
-      <link>https://bunnieabc-ps.web.app/tags/ipfs-explained/</link>
+      <link>https://bunnieabc.com/tags/ipfs-explained/</link>
       <pubDate>Tue, 28 Mar 2023 20:59:46 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/ipfs-explained/</guid>
+      <guid>https://bunnieabc.com/tags/ipfs-explained/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IPFS Tutorial</title>
-      <link>https://bunnieabc-ps.web.app/tags/ipfs-tutorial/</link>
+      <link>https://bunnieabc.com/tags/ipfs-tutorial/</link>
       <pubDate>Tue, 28 Mar 2023 20:59:46 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/ipfs-tutorial/</guid>
+      <guid>https://bunnieabc.com/tags/ipfs-tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google Workspace </title>
-      <link>https://bunnieabc-ps.web.app/tags/google-workspace/</link>
+      <link>https://bunnieabc.com/tags/google-workspace/</link>
       <pubDate>Sun, 26 Mar 2023 18:50:27 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/google-workspace/</guid>
+      <guid>https://bunnieabc.com/tags/google-workspace/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microsoft 365</title>
-      <link>https://bunnieabc-ps.web.app/tags/microsoft-365/</link>
+      <link>https://bunnieabc.com/tags/microsoft-365/</link>
       <pubDate>Fri, 24 Mar 2023 18:54:35 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/microsoft-365/</guid>
+      <guid>https://bunnieabc.com/tags/microsoft-365/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microsoft 365 Copilot</title>
-      <link>https://bunnieabc-ps.web.app/tags/microsoft-365-copilot/</link>
+      <link>https://bunnieabc.com/tags/microsoft-365-copilot/</link>
       <pubDate>Fri, 24 Mar 2023 18:54:35 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/microsoft-365-copilot/</guid>
+      <guid>https://bunnieabc.com/tags/microsoft-365-copilot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conversational AI</title>
-      <link>https://bunnieabc-ps.web.app/tags/conversational-ai/</link>
+      <link>https://bunnieabc.com/tags/conversational-ai/</link>
       <pubDate>Sun, 19 Mar 2023 22:44:24 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/conversational-ai/</guid>
+      <guid>https://bunnieabc.com/tags/conversational-ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>deep mind</title>
-      <link>https://bunnieabc-ps.web.app/tags/deep-mind/</link>
+      <link>https://bunnieabc.com/tags/deep-mind/</link>
       <pubDate>Sun, 19 Mar 2023 22:44:24 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/deep-mind/</guid>
+      <guid>https://bunnieabc.com/tags/deep-mind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open AI</title>
-      <link>https://bunnieabc-ps.web.app/tags/open-ai/</link>
+      <link>https://bunnieabc.com/tags/open-ai/</link>
       <pubDate>Sun, 19 Mar 2023 22:44:24 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/open-ai/</guid>
+      <guid>https://bunnieabc.com/tags/open-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End to End Enscription</title>
+      <link>https://bunnieabc.com/tags/end-to-end-enscription/</link>
+      <pubDate>Fri, 17 Mar 2023 18:44:25 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/tags/end-to-end-enscription/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gmail</title>
+      <link>https://bunnieabc.com/tags/gmail/</link>
+      <pubDate>Fri, 17 Mar 2023 18:44:25 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/tags/gmail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proton mail</title>
+      <link>https://bunnieabc.com/tags/proton-mail/</link>
+      <pubDate>Fri, 17 Mar 2023 18:44:25 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/tags/proton-mail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chatgpt4 news</title>
+      <link>https://bunnieabc.com/tags/chatgpt4-news/</link>
+      <pubDate>Fri, 10 Mar 2023 05:11:11 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/tags/chatgpt4-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPT4 vs GPT3</title>
+      <link>https://bunnieabc.com/tags/gpt4-vs-gpt3/</link>
+      <pubDate>Fri, 10 Mar 2023 05:11:11 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/tags/gpt4-vs-gpt3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openAI</title>
+      <link>https://bunnieabc.com/tags/openai/</link>
+      <pubDate>Fri, 10 Mar 2023 05:11:11 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/tags/openai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lensa Ai</title>
-      <link>https://bunnieabc-ps.web.app/tags/lensa-ai/</link>
+      <link>https://bunnieabc.com/tags/lensa-ai/</link>
       <pubDate>Wed, 01 Mar 2023 14:44:37 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/lensa-ai/</guid>
+      <guid>https://bunnieabc.com/tags/lensa-ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NueralLink</title>
-      <link>https://bunnieabc-ps.web.app/tags/nuerallink/</link>
+      <link>https://bunnieabc.com/tags/nuerallink/</link>
       <pubDate>Sun, 26 Feb 2023 05:57:03 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/nuerallink/</guid>
+      <guid>https://bunnieabc.com/tags/nuerallink/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spam</title>
-      <link>https://bunnieabc-ps.web.app/tags/spam/</link>
+      <link>https://bunnieabc.com/tags/spam/</link>
       <pubDate>Wed, 22 Feb 2023 22:39:31 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/spam/</guid>
+      <guid>https://bunnieabc.com/tags/spam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microsoft</title>
-      <link>https://bunnieabc-ps.web.app/tags/microsoft/</link>
+      <link>https://bunnieabc.com/tags/microsoft/</link>
       <pubDate>Mon, 20 Feb 2023 14:20:06 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/microsoft/</guid>
+      <guid>https://bunnieabc.com/tags/microsoft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Purview labels</title>
-      <link>https://bunnieabc-ps.web.app/tags/purview-labels/</link>
+      <link>https://bunnieabc.com/tags/purview-labels/</link>
       <pubDate>Mon, 20 Feb 2023 14:20:06 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/purview-labels/</guid>
+      <guid>https://bunnieabc.com/tags/purview-labels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>https://bunnieabc.com/tags/google/</link>
+      <pubDate>Sat, 18 Feb 2023 04:20:57 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/tags/google/</guid>
       <description></description>
     </item>
     
     <item>
       <title>YouTube</title>
-      <link>https://bunnieabc-ps.web.app/tags/youtube/</link>
+      <link>https://bunnieabc.com/tags/youtube/</link>
       <pubDate>Sat, 18 Feb 2023 04:20:57 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/youtube/</guid>
+      <guid>https://bunnieabc.com/tags/youtube/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meta</title>
-      <link>https://bunnieabc-ps.web.app/tags/meta/</link>
+      <link>https://bunnieabc.com/tags/meta/</link>
       <pubDate>Sun, 12 Feb 2023 10:07:45 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/meta/</guid>
+      <guid>https://bunnieabc.com/tags/meta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whatsapp</title>
-      <link>https://bunnieabc-ps.web.app/tags/whatsapp/</link>
+      <link>https://bunnieabc.com/tags/whatsapp/</link>
       <pubDate>Sun, 12 Feb 2023 10:07:45 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/whatsapp/</guid>
+      <guid>https://bunnieabc.com/tags/whatsapp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Climpchamp</title>
-      <link>https://bunnieabc-ps.web.app/tags/climpchamp/</link>
+      <link>https://bunnieabc.com/tags/climpchamp/</link>
       <pubDate>Thu, 09 Feb 2023 12:38:27 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/climpchamp/</guid>
+      <guid>https://bunnieabc.com/tags/climpchamp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video Editing</title>
-      <link>https://bunnieabc-ps.web.app/tags/video-editing/</link>
+      <link>https://bunnieabc.com/tags/video-editing/</link>
       <pubDate>Thu, 09 Feb 2023 12:38:27 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/video-editing/</guid>
+      <guid>https://bunnieabc.com/tags/video-editing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ChatGPT</title>
-      <link>https://bunnieabc-ps.web.app/tags/chatgpt/</link>
+      <link>https://bunnieabc.com/tags/chatgpt/</link>
       <pubDate>Sun, 05 Feb 2023 21:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/chatgpt/</guid>
+      <guid>https://bunnieabc.com/tags/chatgpt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>image generator</title>
-      <link>https://bunnieabc-ps.web.app/tags/image-generator/</link>
+      <link>https://bunnieabc.com/tags/image-generator/</link>
       <pubDate>Fri, 03 Feb 2023 08:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/image-generator/</guid>
+      <guid>https://bunnieabc.com/tags/image-generator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text to image</title>
-      <link>https://bunnieabc-ps.web.app/tags/text-to-image/</link>
+      <link>https://bunnieabc.com/tags/text-to-image/</link>
       <pubDate>Fri, 03 Feb 2023 08:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/text-to-image/</guid>
+      <guid>https://bunnieabc.com/tags/text-to-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitcoin</title>
+      <link>https://bunnieabc.com/tags/bitcoin/</link>
+      <pubDate>Sun, 29 Jan 2023 10:20:44 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/tags/bitcoin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>https://bunnieabc.com/tags/blockchain/</link>
+      <pubDate>Sun, 29 Jan 2023 10:20:44 +0000</pubDate>
+      
+      <guid>https://bunnieabc.com/tags/blockchain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sol</title>
-      <link>https://bunnieabc-ps.web.app/tags/sol/</link>
+      <link>https://bunnieabc.com/tags/sol/</link>
       <pubDate>Fri, 27 Jan 2023 05:32:05 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/sol/</guid>
+      <guid>https://bunnieabc.com/tags/sol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solana</title>
-      <link>https://bunnieabc-ps.web.app/tags/solana/</link>
+      <link>https://bunnieabc.com/tags/solana/</link>
       <pubDate>Fri, 27 Jan 2023 05:32:05 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/solana/</guid>
+      <guid>https://bunnieabc.com/tags/solana/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web3</title>
-      <link>https://bunnieabc-ps.web.app/tags/web3/</link>
+      <link>https://bunnieabc.com/tags/web3/</link>
       <pubDate>Fri, 27 Jan 2023 05:32:05 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/web3/</guid>
+      <guid>https://bunnieabc.com/tags/web3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apple</title>
-      <link>https://bunnieabc-ps.web.app/tags/apple/</link>
+      <link>https://bunnieabc.com/tags/apple/</link>
       <pubDate>Tue, 24 Jan 2023 06:59:37 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/apple/</guid>
+      <guid>https://bunnieabc.com/tags/apple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M2Max</title>
-      <link>https://bunnieabc-ps.web.app/tags/m2max/</link>
+      <link>https://bunnieabc.com/tags/m2max/</link>
       <pubDate>Tue, 24 Jan 2023 06:59:37 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/m2max/</guid>
+      <guid>https://bunnieabc.com/tags/m2max/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M2Pro</title>
-      <link>https://bunnieabc-ps.web.app/tags/m2pro/</link>
+      <link>https://bunnieabc.com/tags/m2pro/</link>
       <pubDate>Tue, 24 Jan 2023 06:59:37 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/m2pro/</guid>
+      <guid>https://bunnieabc.com/tags/m2pro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MacBookPro</title>
-      <link>https://bunnieabc-ps.web.app/tags/macbookpro/</link>
+      <link>https://bunnieabc.com/tags/macbookpro/</link>
       <pubDate>Tue, 24 Jan 2023 06:59:37 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/macbookpro/</guid>
+      <guid>https://bunnieabc.com/tags/macbookpro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>space x</title>
-      <link>https://bunnieabc-ps.web.app/tags/space-x/</link>
+      <link>https://bunnieabc.com/tags/space-x/</link>
       <pubDate>Sun, 22 Jan 2023 20:40:58 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/space-x/</guid>
+      <guid>https://bunnieabc.com/tags/space-x/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Android</title>
-      <link>https://bunnieabc-ps.web.app/tags/android/</link>
+      <link>https://bunnieabc.com/tags/android/</link>
       <pubDate>Wed, 18 Jan 2023 15:34:52 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/android/</guid>
+      <guid>https://bunnieabc.com/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Samsung </title>
-      <link>https://bunnieabc-ps.web.app/tags/samsung/</link>
+      <link>https://bunnieabc.com/tags/samsung/</link>
       <pubDate>Wed, 18 Jan 2023 15:34:52 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/samsung/</guid>
+      <guid>https://bunnieabc.com/tags/samsung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tesla</title>
-      <link>https://bunnieabc-ps.web.app/tags/tesla/</link>
+      <link>https://bunnieabc.com/tags/tesla/</link>
       <pubDate>Sun, 15 Jan 2023 11:31:57 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/tesla/</guid>
+      <guid>https://bunnieabc.com/tags/tesla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>computers</title>
-      <link>https://bunnieabc-ps.web.app/tags/computers/</link>
+      <link>https://bunnieabc.com/tags/computers/</link>
       <pubDate>Wed, 11 Jan 2023 22:52:06 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/computers/</guid>
+      <guid>https://bunnieabc.com/tags/computers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantum computers</title>
-      <link>https://bunnieabc-ps.web.app/tags/quantum-computers/</link>
+      <link>https://bunnieabc.com/tags/quantum-computers/</link>
       <pubDate>Wed, 11 Jan 2023 22:52:06 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/quantum-computers/</guid>
+      <guid>https://bunnieabc.com/tags/quantum-computers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Windows</title>
-      <link>https://bunnieabc-ps.web.app/tags/windows/</link>
+      <link>https://bunnieabc.com/tags/windows/</link>
       <pubDate>Mon, 09 Jan 2023 21:01:59 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/windows/</guid>
+      <guid>https://bunnieabc.com/tags/windows/</guid>
       <description></description>
     </item>
     
     <item>
       <title>windows update</title>
-      <link>https://bunnieabc-ps.web.app/tags/windows-update/</link>
+      <link>https://bunnieabc.com/tags/windows-update/</link>
       <pubDate>Mon, 09 Jan 2023 21:01:59 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/windows-update/</guid>
+      <guid>https://bunnieabc.com/tags/windows-update/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applications</title>
-      <link>https://bunnieabc-ps.web.app/tags/applications/</link>
+      <link>https://bunnieabc.com/tags/applications/</link>
       <pubDate>Tue, 03 Jan 2023 21:31:27 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/applications/</guid>
+      <guid>https://bunnieabc.com/tags/applications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural networks</title>
-      <link>https://bunnieabc-ps.web.app/tags/neural-networks/</link>
+      <link>https://bunnieabc.com/tags/neural-networks/</link>
       <pubDate>Sun, 01 Jan 2023 13:13:52 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/neural-networks/</guid>
+      <guid>https://bunnieabc.com/tags/neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chat bot</title>
-      <link>https://bunnieabc-ps.web.app/tags/chat-bot/</link>
+      <link>https://bunnieabc.com/tags/chat-bot/</link>
       <pubDate>Thu, 15 Dec 2022 10:45:10 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/chat-bot/</guid>
+      <guid>https://bunnieabc.com/tags/chat-bot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Virtual reality</title>
-      <link>https://bunnieabc-ps.web.app/tags/virtual-reality/</link>
+      <link>https://bunnieabc.com/tags/virtual-reality/</link>
       <pubDate>Mon, 12 Dec 2022 21:27:38 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/virtual-reality/</guid>
+      <guid>https://bunnieabc.com/tags/virtual-reality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>metaverse</title>
-      <link>https://bunnieabc-ps.web.app/tags/metaverse/</link>
+      <link>https://bunnieabc.com/tags/metaverse/</link>
       <pubDate>Sat, 10 Dec 2022 18:08:40 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/metaverse/</guid>
+      <guid>https://bunnieabc.com/tags/metaverse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ethernet topology</title>
-      <link>https://bunnieabc-ps.web.app/tags/ethernet-topology/</link>
+      <link>https://bunnieabc.com/tags/ethernet-topology/</link>
       <pubDate>Mon, 05 Dec 2022 08:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/ethernet-topology/</guid>
+      <guid>https://bunnieabc.com/tags/ethernet-topology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mesh topology</title>
-      <link>https://bunnieabc-ps.web.app/tags/mesh-topology/</link>
+      <link>https://bunnieabc.com/tags/mesh-topology/</link>
       <pubDate>Mon, 05 Dec 2022 08:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/mesh-topology/</guid>
+      <guid>https://bunnieabc.com/tags/mesh-topology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network Topology</title>
-      <link>https://bunnieabc-ps.web.app/tags/network-topology/</link>
+      <link>https://bunnieabc.com/tags/network-topology/</link>
       <pubDate>Mon, 05 Dec 2022 08:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/network-topology/</guid>
+      <guid>https://bunnieabc.com/tags/network-topology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Star topology</title>
-      <link>https://bunnieabc-ps.web.app/tags/star-topology/</link>
+      <link>https://bunnieabc.com/tags/star-topology/</link>
       <pubDate>Mon, 05 Dec 2022 08:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/star-topology/</guid>
+      <guid>https://bunnieabc.com/tags/star-topology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Token ring Topology</title>
-      <link>https://bunnieabc-ps.web.app/tags/token-ring-topology/</link>
+      <link>https://bunnieabc.com/tags/token-ring-topology/</link>
       <pubDate>Mon, 05 Dec 2022 08:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/token-ring-topology/</guid>
+      <guid>https://bunnieabc.com/tags/token-ring-topology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chat GPT</title>
-      <link>https://bunnieabc-ps.web.app/tags/chat-gpt/</link>
+      <link>https://bunnieabc.com/tags/chat-gpt/</link>
       <pubDate>Thu, 01 Dec 2022 15:25:01 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/chat-gpt/</guid>
+      <guid>https://bunnieabc.com/tags/chat-gpt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>App updates</title>
-      <link>https://bunnieabc-ps.web.app/tags/app-updates/</link>
+      <link>https://bunnieabc.com/tags/app-updates/</link>
       <pubDate>Wed, 23 Nov 2022 21:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/app-updates/</guid>
+      <guid>https://bunnieabc.com/tags/app-updates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Barcodes</title>
-      <link>https://bunnieabc-ps.web.app/tags/barcodes/</link>
+      <link>https://bunnieabc.com/tags/barcodes/</link>
       <pubDate>Tue, 22 Nov 2022 08:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/barcodes/</guid>
+      <guid>https://bunnieabc.com/tags/barcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ICR</title>
-      <link>https://bunnieabc-ps.web.app/tags/icr/</link>
+      <link>https://bunnieabc.com/tags/icr/</link>
       <pubDate>Tue, 22 Nov 2022 08:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/icr/</guid>
+      <guid>https://bunnieabc.com/tags/icr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magnetic encoding</title>
-      <link>https://bunnieabc-ps.web.app/tags/magnetic-encoding/</link>
+      <link>https://bunnieabc.com/tags/magnetic-encoding/</link>
       <pubDate>Tue, 22 Nov 2022 08:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/magnetic-encoding/</guid>
+      <guid>https://bunnieabc.com/tags/magnetic-encoding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mark sensing</title>
-      <link>https://bunnieabc-ps.web.app/tags/mark-sensing/</link>
+      <link>https://bunnieabc.com/tags/mark-sensing/</link>
       <pubDate>Tue, 22 Nov 2022 08:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/mark-sensing/</guid>
+      <guid>https://bunnieabc.com/tags/mark-sensing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OCR</title>
-      <link>https://bunnieabc-ps.web.app/tags/ocr/</link>
+      <link>https://bunnieabc.com/tags/ocr/</link>
       <pubDate>Tue, 22 Nov 2022 08:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/ocr/</guid>
+      <guid>https://bunnieabc.com/tags/ocr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AND gate</title>
-      <link>https://bunnieabc-ps.web.app/tags/and-gate/</link>
+      <link>https://bunnieabc.com/tags/and-gate/</link>
       <pubDate>Sat, 01 Oct 2022 07:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/and-gate/</guid>
+      <guid>https://bunnieabc.com/tags/and-gate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EX-OR gate</title>
-      <link>https://bunnieabc-ps.web.app/tags/ex-or-gate/</link>
+      <link>https://bunnieabc.com/tags/ex-or-gate/</link>
       <pubDate>Sat, 01 Oct 2022 07:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/ex-or-gate/</guid>
+      <guid>https://bunnieabc.com/tags/ex-or-gate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NAND gate</title>
-      <link>https://bunnieabc-ps.web.app/tags/nand-gate/</link>
+      <link>https://bunnieabc.com/tags/nand-gate/</link>
       <pubDate>Sat, 01 Oct 2022 07:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/nand-gate/</guid>
+      <guid>https://bunnieabc.com/tags/nand-gate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NOT gate</title>
-      <link>https://bunnieabc-ps.web.app/tags/not-gate/</link>
+      <link>https://bunnieabc.com/tags/not-gate/</link>
       <pubDate>Sat, 01 Oct 2022 07:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/not-gate/</guid>
+      <guid>https://bunnieabc.com/tags/not-gate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OR gate</title>
-      <link>https://bunnieabc-ps.web.app/tags/or-gate/</link>
+      <link>https://bunnieabc.com/tags/or-gate/</link>
       <pubDate>Sat, 01 Oct 2022 07:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/or-gate/</guid>
+      <guid>https://bunnieabc.com/tags/or-gate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cryptocurrencies</title>
-      <link>https://bunnieabc-ps.web.app/tags/cryptocurrencies/</link>
+      <link>https://bunnieabc.com/tags/cryptocurrencies/</link>
       <pubDate>Fri, 16 Sep 2022 23:43:26 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/cryptocurrencies/</guid>
+      <guid>https://bunnieabc.com/tags/cryptocurrencies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ethereum</title>
-      <link>https://bunnieabc-ps.web.app/tags/ethereum/</link>
+      <link>https://bunnieabc.com/tags/ethereum/</link>
       <pubDate>Fri, 16 Sep 2022 23:43:26 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/ethereum/</guid>
+      <guid>https://bunnieabc.com/tags/ethereum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robotics</title>
-      <link>https://bunnieabc-ps.web.app/tags/robotics/</link>
+      <link>https://bunnieabc.com/tags/robotics/</link>
       <pubDate>Mon, 12 Sep 2022 21:00:00 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/robotics/</guid>
+      <guid>https://bunnieabc.com/tags/robotics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cs matiangi</title>
-      <link>https://bunnieabc-ps.web.app/tags/cs-matiangi/</link>
+      <link>https://bunnieabc.com/tags/cs-matiangi/</link>
       <pubDate>Tue, 30 Aug 2022 22:27:39 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/cs-matiangi/</guid>
+      <guid>https://bunnieabc.com/tags/cs-matiangi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>digital number plates</title>
-      <link>https://bunnieabc-ps.web.app/tags/digital-number-plates/</link>
+      <link>https://bunnieabc.com/tags/digital-number-plates/</link>
       <pubDate>Tue, 30 Aug 2022 22:27:39 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/digital-number-plates/</guid>
+      <guid>https://bunnieabc.com/tags/digital-number-plates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kenyan number plates</title>
-      <link>https://bunnieabc-ps.web.app/tags/kenyan-number-plates/</link>
+      <link>https://bunnieabc.com/tags/kenyan-number-plates/</link>
       <pubDate>Tue, 30 Aug 2022 22:27:39 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/kenyan-number-plates/</guid>
+      <guid>https://bunnieabc.com/tags/kenyan-number-plates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NTSA </title>
-      <link>https://bunnieabc-ps.web.app/tags/ntsa/</link>
+      <link>https://bunnieabc.com/tags/ntsa/</link>
       <pubDate>Tue, 30 Aug 2022 22:27:39 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/ntsa/</guid>
+      <guid>https://bunnieabc.com/tags/ntsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>number plates </title>
-      <link>https://bunnieabc-ps.web.app/tags/number-plates/</link>
+      <link>https://bunnieabc.com/tags/number-plates/</link>
       <pubDate>Tue, 30 Aug 2022 22:27:39 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/number-plates/</guid>
+      <guid>https://bunnieabc.com/tags/number-plates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bunnieabc</title>
-      <link>https://bunnieabc-ps.web.app/tags/bunnieabc/</link>
+      <link>https://bunnieabc.com/tags/bunnieabc/</link>
       <pubDate>Fri, 22 Jul 2022 01:38:54 +0300</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/bunnieabc/</guid>
+      <guid>https://bunnieabc.com/tags/bunnieabc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genesis Post</title>
-      <link>https://bunnieabc-ps.web.app/tags/genesis-post/</link>
+      <link>https://bunnieabc.com/tags/genesis-post/</link>
       <pubDate>Fri, 22 Jul 2022 01:38:54 +0300</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/genesis-post/</guid>
+      <guid>https://bunnieabc.com/tags/genesis-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initial </title>
-      <link>https://bunnieabc-ps.web.app/tags/initial/</link>
+      <link>https://bunnieabc.com/tags/initial/</link>
       <pubDate>Fri, 22 Jul 2022 01:38:54 +0300</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/tags/initial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Google I/O Keynote</title>
-      <link>https://bunnieabc-ps.web.app/tags/google-i/o-keynote/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bunnieabc-ps.web.app/tags/google-i/o-keynote/</guid>
+      <guid>https://bunnieabc.com/tags/initial/</guid>
       <description></description>
     </item>
     

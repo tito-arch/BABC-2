@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Starlink on Bunnie ABC</title>
-    <link>https://bunnieabc-ps.web.app/tags/starlink/</link>
-    <description>Recent content in Starlink on Bunnie ABC</description>
+    <title>Starlink on BABC Blog</title>
+    <link>https://bunnieabc.com/tags/starlink/</link>
+    <description>Recent content in Starlink on BABC Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Apr 2023 10:06:25 +0000</lastBuildDate><atom:link href="https://bunnieabc-ps.web.app/tags/starlink/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Apr 2023 10:06:25 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/starlink/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SpaceX Starship Orbital Test Flight happening on Monday 17th.</title>
-      <link>https://bunnieabc-ps.web.app/post/spacex-starship-orbital-test-flight-happening-on-monday-17th/</link>
+      <link>https://bunnieabc.com/posts/spacex-starship-orbital-test-flight-happening-on-monday-17th/</link>
       <pubDate>Tue, 11 Apr 2023 10:06:25 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/post/spacex-starship-orbital-test-flight-happening-on-monday-17th/</guid>
+      <guid>https://bunnieabc.com/posts/spacex-starship-orbital-test-flight-happening-on-monday-17th/</guid>
       <description>SpaceX starship orbital test flight is set to go down on April 17th 2023.</description>
     </item>
     
     <item>
       <title>Starlink Internet: Future of High-Speed Connection in remote Areas</title>
-      <link>https://bunnieabc-ps.web.app/post/starlink-internet-future-of-high-speed-connection-in-remote-areas/</link>
+      <link>https://bunnieabc.com/posts/starlink-internet-future-of-high-speed-connection-in-remote-areas/</link>
       <pubDate>Sun, 22 Jan 2023 20:40:58 +0000</pubDate>
       
-      <guid>https://bunnieabc-ps.web.app/post/starlink-internet-future-of-high-speed-connection-in-remote-areas/</guid>
+      <guid>https://bunnieabc.com/posts/starlink-internet-future-of-high-speed-connection-in-remote-areas/</guid>
       <description>Learn about the revolutionary satellite internet service from SpaceX that&amp;#39;s bringing high-speed connectivity to remote and underserved areas</description>
     </item>
     
