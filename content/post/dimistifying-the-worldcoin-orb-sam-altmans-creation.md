@@ -7,6 +7,8 @@ description: world coin is an open-source system, created to aid everyone
 cover:
   image: /uploads/crypto-worldcoin-orb-230312-km-fortune-worldcoin-5537.webp
 category: Blockchain & Web3
+cover-photo: bunnie abc
+categories: Blockchain & Web3
 tags:
   - worldcoin
   - crypto
