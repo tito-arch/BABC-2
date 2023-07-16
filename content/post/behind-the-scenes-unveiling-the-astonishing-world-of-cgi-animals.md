@@ -1,17 +1,28 @@
 ---
 title: "Behind the Scenes: Unveiling the Astonishing World of CGI Animals"
 date: 2023-05-20T19:43:25.108Z
-cover:
- image: /uploads/film-review-the-jungle-book-1.jpg
+image: static/uploads/film-review-the-jungle-book-1.jpg
 draft: false
-description: .
+description: CGI animals are amazing creatures that seem to come to life on the
+  screen. But how are they created? This article takes a look at the complex
+  process of creating CGI animals, from 3D modeling and grooming to shading and
+  animation. Learn about the different techniques used to create
+  realistic-looking fur, how riggers create controls that allow animators to
+  move the animals, and how animators bring the animals to life by creating
+  animations.
+cover-photo: /uploads/film-review-the-jungle-book-1.jpg
 category: Artificial Intelligence & Machine Learning
+categories: Artificial Intelligence & Machine Learning
 tags:
-  - CGI
-  - ""
+  - CGI animals
+  - 3D modeling
+  - grooming
+  - shading
+  - rigging
+  - animation
 author: P.Gitau
 ---
-Get ready to dive into the fascinating realm of CGI (Computer *Generated* Imagery) animals! These amazing creatures may seem like simple animated characters, but there's a whole world of intricate details behind their creation. As someone who loves **visual effects** and has explored the world of CGI animals, I want to take you on a journey to discover how these magnificent creatures come to life. Let's start by exploring the first step: the incredible world of **3D modeling.**
+Get ready to dive into the fascinating realm of CGI (Computer _Generated_ Imagery) animals! These amazing creatures may seem like simple animated characters, but there's a whole world of intricate details behind their creation. As someone who loves **visual effects** and has explored the world of CGI animals, I want to take you on a journey to discover how these magnificent creatures come to life. Let's start by exploring the first step: the incredible world of **3D modeling.**
 
 # Bringing Digital Creatures to Life:
 
@@ -23,9 +34,9 @@ Imagine a world where digital objects are made with astonishing complexity. That
 
 Now let's enter the world of **grooming**, where digital fur becomes a work of art. Just like skilled barbers,
 Grooming artists pay attention to every single strand of hair on the animal, from its coat to its eyelashes.
-They shape, trim, and group the virtual fur to make it look incredibly realistic. However, dealing with millions 
-of hair strands requires powerful computers that can handle the load because of this a groom artist's days can often be filled with crashes and tears as they try to render the millions of hair strands. No wonder why 
-Groom artists are very expensive. 
+They shape, trim, and group the virtual fur to make it look incredibly realistic. However, dealing with millions
+of hair strands requires powerful computers that can handle the load because of this a groom artist's days can often be filled with crashes and tears as they try to render the millions of hair strands. No wonder why
+Groom artists are very expensive.
 
 ![](static/uploads/sans-titre-9.jpg)
 
@@ -49,4 +60,4 @@ And you know what? Animators also make sure their characters show emotions and p
 
 {﻿{< youtube ke4Isk-po2Y >}}
 
-You know, 3D modeling isn't just for movies anymore! Nowadays, people are bringing 3D stuff to the web too. They're using cool technologies like Three.js and other fancy tools to make websites more awesome.Imagine you're on a website, and instead of just looking at pictures, you can actually play around with a 3D model. You can move it, zoom in and out, and really explore it like it's right in front of you. It's like having your own virtual toy to play with! This is super cool because it makes websites more fun and interesting.
+You know, 3D modeling isn't just for movies anymore! Nowadays, people are bringing 3D stuff to the web too. They're using cool technologies like [Three.js](Three.js) and other fancy tools to make websites more awesome.Imagine you're on a website, and instead of just looking at pictures, you can actually play around with a 3D model. You can move it, zoom in and out, and really explore it like it's right in front of you. It's like having your own virtual toy to play with! This is super cool because it makes websites more fun and interesting.
