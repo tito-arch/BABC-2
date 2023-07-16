@@ -1,16 +1,21 @@
-+++
-author = "P.Gitau"
-categories = "Emerging Issues & Trends"
-date = 2023-02-18T04:20:57Z
-description = "  Google Acquired YouTube at $1.65bn in 2006 from its three co-founders Jawed Karim, Steve Chen and Chad Hurley"
-tags = ["Google", "YouTube"]
-title = "Untold Facts About YouTube's Evolution"
-[cover]
-alt = "From a Dating Site to a Billion-Dollar Platform: Untold Facts About YouTube's Evolution"
-caption = "image credits: facts.net"
-image = "/uploads/youtube-2712573_1280-730x411.webp"
-
-+++
+---
+title: Untold Facts About YouTube's Evolution
+date: 2023-02-18T04:20:57.000Z
+draft: true
+description: "  Google Acquired YouTube at $1.65bn in 2006 from its three
+  co-founders Jawed Karim, Steve Chen and Chad Hurley"
+cover-photo: bunnie abc
+categories: App Updates
+tags:
+  - Google
+  - YouTube
+author: P.Gitau
+cover:
+  alt: "From a Dating Site to a Billion-Dollar Platform: Untold Facts About
+    YouTube's Evolution"
+  caption: "image credits: facts.net"
+  image: /uploads/youtube-2712573_1280-730x411.webp
+---
 YouTube is everyone's go-to tool whenever they want to watch a video online or even want to share a video with people in the world to see. YouTube is not only free to sign in to but also very easy to upload your videos with features such as customizing your video using YouTube video editor, adding tags to help people access your videos, and adding subtitles among many others. Another reason why YouTube is popular is that you can monetize your videos and get paid according to the number of views and subscriptions. But only after accepting their terms and service and some rules set by YouTube is when you can become a YouTuber. Those are some of the few facts that YouTube has let's dive deeper to find some of the facts, you probably don't know.
 
  1. The domain name YouTube.com was officially bought on Valentine's Day. Also, the first video to be posted on YouTube was called **me at the zoo**. by **Karim** (one of YouTube's original co-founders) in the year 2005. Since then YouTube has grown to be what it is today.
