@@ -1,17 +1,21 @@
-+++
-author = "M.I.Titus"
-categories = "Artificial Intelligence & Machine Learning"
-date = 2022-09-12T21:00:00Z
-description = "A robot is a machine that does not necessarily look like a human that can replicate one or more tasks with less or no human intervention."
-image = "/uploads/untitled-design.png"
-tags = ["Robotics", "AI"]
-title = "Meet the world's most interesting Robots."
-[cover]
-alt = "Meet the world's most exciting Robots."
-caption = ""
-image = "/uploads/untitled-design.png"
-
-+++
+---
+title: Meet the world's most interesting Robots.
+date: 2022-09-12T21:00:00.000Z
+draft: true
+description: A robot is a machine that does not necessarily look like a human
+  that can replicate one or more tasks with less or no human intervention.
+cover-photo: bunnie abc
+categories: Device Reviews
+author: M.I.Titus
+image: /uploads/untitled-design.png
+tags:
+  - Robotics
+  - AI
+cover:
+  alt: Meet the world's most exciting Robots.
+  caption: ""
+  image: /uploads/untitled-design.png
+---
 # 
 
 ## Robots, what are they?
