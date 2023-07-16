@@ -1,16 +1,16 @@
 ---
-author: P.Gitau
-categories: Emerging Issues & Trends
 title: "Proton Mail: The Email Service That Puts Your Privacy First"
 date: 2023-03-17T18:44:25.000Z
 draft: true
 description: " Should you upgrade your free Gmail for Proton mail?"
 cover-photo: bunnie abc
-category: App Updates
+categories: App Updates
 tags:
   - End to End Encryption
   - Gmail
   - proton mail
+author: P.Gitau
+category: App Updates
 cover:
   alt: proton mail review
   caption: "image sourced from: Proton.me"
