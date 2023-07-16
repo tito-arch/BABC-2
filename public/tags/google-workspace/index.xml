@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Google Workspace  on BABC Blog</title>
-    <link>https://bunnieabc.com/tags/google-workspace/</link>
-    <description>Recent content in Google Workspace  on BABC Blog</description>
+    <title>Google Workspace  on Bunnie ABC</title>
+    <link>https://bunnieabc-ps.web.app/tags/google-workspace/</link>
+    <description>Recent content in Google Workspace  on Bunnie ABC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Mar 2023 18:50:27 +0000</lastBuildDate><atom:link href="https://bunnieabc.com/tags/google-workspace/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Mar 2023 18:50:27 +0000</lastBuildDate><atom:link href="https://bunnieabc-ps.web.app/tags/google-workspace/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Power of AI in Your Hands: Google Workspace&#39;s New Era</title>
-      <link>https://bunnieabc.com/posts/new-google-workspace/</link>
+      <link>https://bunnieabc-ps.web.app/post/new-google-workspace/</link>
       <pubDate>Sun, 26 Mar 2023 18:50:27 +0000</pubDate>
       
-      <guid>https://bunnieabc.com/posts/new-google-workspace/</guid>
+      <guid>https://bunnieabc-ps.web.app/post/new-google-workspace/</guid>
       <description>A breakdown Quick on Google introducing generative AI on Google Workspace.</description>
     </item>
     
