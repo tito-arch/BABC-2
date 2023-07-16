@@ -5,7 +5,10 @@ draft: false
 description: Learn how to use WhatsApp Web and the best extensions to enhance
   your experience. With WA Web Plus and Privacy Extension for WhatsApp Web, you
   can add features like a login form, blur messages, and more.
-cover-photo: /uploads/cooby-extension.png
+cover:
+  alt: "How to Use WhatsApp Web with Extensions for a Better Experience"
+  caption: "Image credits: Cooby.co"
+  image: /uploads/cooby-extension.png
 category: App Updates
 tags:
   - WhatsApp Web
