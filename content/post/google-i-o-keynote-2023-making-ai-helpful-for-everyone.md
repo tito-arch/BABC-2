@@ -4,8 +4,10 @@ date: 2023-05-15T00:00:00.000+03:00
 draft: false
 description: Google main Genda on I/O keynote was to intergrate Ai in almost their product
 cover:
- image: /uploads/i023_blogbanner_recap-02-banner.png
+  image: /uploads/i023_blogbanner_recap-02-banner.png
 category: App Updates
+cover-photo: bunnie abc
+categories: Artificial Intelligence & Machine Learning
 tags:
   - Google I/O Keynote
   - Google
