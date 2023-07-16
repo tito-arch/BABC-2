@@ -14,10 +14,6 @@ tags:
   - ""
 author: M.I.Titus
 ---
-
-
-
-
 On 21st January 2015, [WhatsApp](https://www.bunnieabc.com/post/what-s-app-new-features-2022/) launched a Web version of the mobile app. Like many apps, it is difficult to succeed without a web presence. While it’s easy for apps like Instagram, Facebook, and Twitter to run fully-fledged on the web it’s not the case with WhatsApp due to its somehow Encryption and decentralized nature. Also, WhatsApp does not have a login form or password to authenticate users. However, they still found a way even with these hurdles. [Threads by Meta, an app recently launched to rival Twitter](https://www.bunnieabc.com/post/threads-zuck-backed-twitter-rival-to-share-snippets-threads-net/) still doesn't have a browser interface. To connect and use your Whatsapp account on the web you have to scan a QR code or link with your phone number. Here are the steps:
 
 On your WhatsApp application:
@@ -30,7 +26,7 @@ On your computer or tablet: 
 
 1.  Open your preferred web browser `chrome, safari, firefox, or Bing Safari and Bing users might           
 1.  have additional setup later. Use Chrome instead.
-1.  Visit [web.WhatsApp.com](http://web.whatsapp.com)
+1.  Visit [[web.WhatsApp.com](web.WhatsApp.com)](http://web.whatsapp.com)
 1.  Now simply scan the QR code using your phone and that's it.
 
 ## Linking Whatsapp to Whatsapp Web using phone number.
@@ -50,7 +46,7 @@ _This feature comes in handy when your phone is far from you or has a faulty cam
 
 Recent advancement in the WhatsApp web interface has seen it get additional features like an Advertising button, status rings,  sticker suggestions when you type a message, status reaction stickers, and many others but still doesn't bring the native app feeling. Today we dive into extensions that can bring this feeling and functionality.
 
-## [**WA Web Plus for WhatsApp**](https://chrome.google.com/webstore/detail/wa-web-plus-for-whatsapp/ekcgkejcjdcmonfpmnljobemcbpnkamh)**.**
+## 1. [**WA Web Plus for WhatsApp**](https://chrome.google.com/webstore/detail/wa-web-plus-for-whatsapp/ekcgkejcjdcmonfpmnljobemcbpnkamh)**.**
 
 Web Plus tops the list, it’s lightweight, easy to use, and simply works. To install visit [Web Plus on the Chrome web store](https://chrome.google.com/webstore/detail/wa-web-plus-for-whatsapp/ekcgkejcjdcmonfpmnljobemcbpnkamh) and click install, afterwards, you'll need to configure what additional settings you need added to boost your productivity and general feeling when interacting with Whatsapp web.
 
@@ -68,10 +64,6 @@ This is the most used Whatsapp web extension in the Chrome web store surpassing 
 
 ![](https://lh5.googleusercontent.com/Lai76JXhoJW0_EzBg2WRbiNbo8rMZ_Vr_K6dEI8-AGemiyEXC_XlRBMIwZ71XO0ZV866w04633DJDw7_r92NdcWi3nsq7jaC0QINrG8QiKz5XC6T2RV19kGmiZKCVSkxU-c6N7I1r78WE4Rz0drprbk)
 
-
-
-
-
 ##  2. [**Privacy Extension For WhatsApp Web**](https://chrome.google.com/webstore/detail/privacy-extension-for-wha/jbojhlhhggfmmkpefknmbdhlaghehini)
 
 Nothing too fancy about this one, because it lacks a Lock Whatsapp page feature yet, is meant for privacy. Other interesting features as the extension name suggests are directed to privacy.
@@ -87,10 +79,6 @@ On launch toggle what you want visible to others and what should be hidden. Here
 - Profile pictures and message input.
 
 ![](https://lh5.googleusercontent.com/fBOzYbQ9s7b6SeYn8g_hZcb4IyfUQv-zFuTHATPA-XJTh_DJCiySN7ziyGH03xom6lCFjkEtrQWncg4ajA2gm-6ySTqbQt1I1SlbB5IlhfJcl8KsB7SCoqaUJT66w7VmsDdNvYy_i8Wm5-QBWxGNiWA)
-
-
-
-
 
 ## 3. [**WhatsUp+ for WhatsApp**](https://chrome.google.com/webstore/detail/whatsup%2B-for-whatsapp-web/lpbkofhnclhhlaibcklkgaonbbmhjeco/related)**.**
 
@@ -123,14 +111,6 @@ Some of Cobby's features are:
 
 ![](https://lh4.googleusercontent.com/Mq86b9Z1WDUSbSmanYLQNFpmaYMf27gnlsjs4Gcs-L4jUVOnFR7IDakdeLe_gd9aQ41Ry8JMRtxM_uquiT8j9xx01NoHv3VB9zSbMX3_mTZxbA6b9hC4rn4yB6Ev3WjUpZtnX6TvQolcgXSdU2ha8JE)
 
-
-
-
-
-As you can see, Cooby is a powerful app that we can bet will be here for a long time. Visit [Cobby.co](https://www.cooby.co/) to learn more about them. 
+As you can see, Cooby is a powerful app that we can bet will be here for a long time. Visit [[Cobby.co](Cobby.co)](https://www.cooby.co/) to learn more about them. 
 
 Am going to go ahead and wrap things there. Thanks for reading and I’ll see you in the next one.
-
-
-
-
