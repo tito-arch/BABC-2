@@ -1,6 +1,7 @@
 ---
 title: "I am born : "
 date: 2022-07-22T01:38:54.000+03:00
+draft: false
 description: "BABC Blog was launched on July-22-2022 to evangelize technology. "
 cover:
   image: img/buildingNtesting.jpg
@@ -11,10 +12,9 @@ tags:
   - "Initial "
   - bunnieabc
 image: static/uploads/blockchainillustration.jpg
-author: M.I.Titus
-categories: Artificial Intelligence & Machine Learning
-draft: false
 cover-photo: bunnie abc
+categories: Emerging Issues & Trends
+author: M.I.Titus
 category: Emerging Issues & Trends
 ---
 Hi!
