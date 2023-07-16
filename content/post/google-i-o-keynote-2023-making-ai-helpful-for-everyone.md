@@ -2,7 +2,9 @@
 title: Google I/O keynote 2023:Making Ai Helpful For Everyone
 date: 2023-05-15T00:00:00.000+03:00
 draft: false
-description: Google main Genda on I/O keynote was to intergrate Ai in almost their product
+description: Bard is Google's groundbreaking language model with app
+  integration, image capabilities, coding features, and export features. Try it
+  today!
 cover:
   image: /uploads/i023_blogbanner_recap-02-banner.png
 category: App Updates
@@ -65,7 +67,3 @@ Excitingly, Google Lens is coming to Bard, allowing users to upload photos and a
 Overall, the event focused heavily on AI and showcased how Google is using generative AI to improve its products and make AI more helpful for everyone
 
 {{< youtube  cNfINi5CNbY >}}
-
-
-
-
