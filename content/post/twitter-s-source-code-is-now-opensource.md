@@ -1,17 +1,17 @@
 ---
-author: M.I.Titus
-categories: Emerging Issues & Trends
 title: Twitter's Source code is now OpenSource
 date: 2023-04-03T18:48:47.000Z
 draft: false
 description: As promised by Elon, Part of Twiter's code is now Open Source.
   Twitter is now the Linux of Social Media.
 cover-photo: bunnie abc
-category: App Updates
+categories: App Updates
 tags:
   - Open Source
   - Twitter
   - Elon Musk
+author: M.I.Titus
+category: App Updates
 cover:
   alt: bunnie abc
   caption: ""
