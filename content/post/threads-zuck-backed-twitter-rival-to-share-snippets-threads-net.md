@@ -15,6 +15,7 @@ cover:
   image: /uploads/screenshot-from-2023-07-07-00-28-13.png
 cover-photo: bunnie abc
 category: App Updates
+categories: App Updates
 tags:
   - Apps
   - Meta
