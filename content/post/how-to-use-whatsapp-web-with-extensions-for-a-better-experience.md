@@ -9,7 +9,7 @@ cover:
   alt: "How to Use WhatsApp Web with Extensions for a Better Experience"
   caption: "Image credits: Cooby.co"
   image: /uploads/cooby-extension.png
-category: App Updates
+categories: App Updates
 tags:
   - WhatsApp Web
   - WhatsApp extensions
