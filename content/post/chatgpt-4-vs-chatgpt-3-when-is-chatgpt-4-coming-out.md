@@ -1,19 +1,20 @@
 ---
-author: M.I.Titus
-categories: Artificial Intelligence & Machine Learning
+title: "ChatGPT 4 vs ChatGPT 3: When Is ChatGPT 4 Coming Out"
 date: 2023-03-10T05:11:11.000Z
+draft: false
 description: "Discover everything you need to know about OpenAI's latest
   language model, ChatGPT 4. "
+cover-photo: bunnie abc
+categories: Artificial Intelligence & Machine Learning
 tags:
   - openAI
   - chatgpt4 news
   - GPT4 vs GPT3
-title: "ChatGPT 4 vs ChatGPT 3: When Is ChatGPT 4 Coming Out"
+author: M.I.Titus
 cover:
   alt: When Is ChatGPT 4 Coming Out?
   caption: ""
   image: /uploads/gpt-4.avif
-draft: true
 thumbnail: /uploads/1_x36lf_qqpbgkbj8_fu6flg.jpeg
 category: Artificial Intelligence & Machine Learning
 ---
