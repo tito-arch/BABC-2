@@ -1,0 +1,32 @@
+name: Hugo
+on: [push]
+jobs:
+
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Check out code into the Go module directory
+        uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Hugo setup
+        uses: peaceiris/actions-hugo@v2.4.12
+        with:
+          # The Hugo version to download (if necessary) and use. Example: 0.58.2
+          hugo-version: latest # optional, default is latest
+          # Download (if necessary) and use Hugo extended version. Example: true
+          extended: false # optional, default is false
+
+      - name: Build
+        run: hugo --buildDrafts
+
+      - name: Deploy to Firebase
+        uses: w9jds/firebase-action@master
+        with:
+          args: deploy --only hosting
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
