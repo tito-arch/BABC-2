@@ -1,11 +1,11 @@
 ---
 title: 'New MacBook Pro 14" & 16": Overview, Specs - 96 GB RAM '
 date: 2023-01-24T06:59:37.000Z
-draft: true
+draft: false
 description: New MacBook Pro 14" & 16" models now available! Supercharged by M2
   Pro & M2 Max chip, up to 96GB RAM, stunning XDR display & long battery life.
 cover-photo: bunnie abc
-categories: Blockchain & Web3
+categories: Device Reviews
 author: M.I.Titus
 image: ""
 category: Device Reviews
