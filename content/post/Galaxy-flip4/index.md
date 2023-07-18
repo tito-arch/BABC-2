@@ -13,7 +13,7 @@ cover:
   alt: Everything you need to know about the Samsung Galaxy Z flip4
   caption: Samsung Flip Z
 author: M.I.Titus
-draft: true
+draft: false
 ---
 ## How much will it cost?
 
