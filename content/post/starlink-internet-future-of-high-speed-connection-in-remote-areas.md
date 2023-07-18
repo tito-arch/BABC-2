@@ -129,3 +129,4 @@ Resources:
 [Branch Education](https://www.youtube.com/@BranchEducation).
 
 > _We do not own these images for copyright related issues reach out._
+Thanks for reading & I'll see you in the next one.
