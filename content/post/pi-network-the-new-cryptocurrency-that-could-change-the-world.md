@@ -10,7 +10,7 @@ cover:
   image: /uploads/mine-pi-network-main.jpg
 cover-photo: bunnie abc
 category: Blockchain & Web3
-categories: App Updates
+categories: Blockchain & Web3
 tags:
   - Affiliate
   - pi network
