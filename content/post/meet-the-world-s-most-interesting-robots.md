@@ -1,7 +1,7 @@
 ---
 title: Meet the world's most interesting Robots.
 date: 2022-09-12T21:00:00.000Z
-draft: true
+draft: false
 description: A robot is a machine that does not necessarily look like a human
   that can replicate one or more tasks with less or no human intervention.
 cover-photo: bunnie abc
