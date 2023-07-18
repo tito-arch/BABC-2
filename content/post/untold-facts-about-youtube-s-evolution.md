@@ -1,7 +1,7 @@
 ---
 title: Untold Facts About YouTube's Evolution
 date: 2023-02-18T04:20:57.000Z
-draft: true
+draft: false
 description: "  Google Acquired YouTube at $1.65bn in 2006 from its three
   co-founders Jawed Karim, Steve Chen and Chad Hurley"
 cover-photo: bunnie abc
