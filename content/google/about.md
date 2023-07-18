@@ -17,19 +17,20 @@ At BunnieABC, our vision is to create a clear roadmap for building scalable busi
 
 ### M.I.Titus - CTO & Connector of Many dots
 
-M.I.Titus is the Head of Product design with a strong vision for the future of digital business. With expertise in creating scalable solutions he leads BunnieABC with a focus on helping businesses & organisations navigate the digital landscape successfully.
+M.I.Titus is the Head of Product design with a strong vision for the future of digital business. With expertise in creating scalable solutions, he leads BunnieABC with a focus on helping businesses & organizations navigate the digital landscape successfully.
+Learn more about the #beyondBunnieabcBlog project.
 
-### G.K.Peter - Co-Founder, Front-End Developer & Technology Writer
+### G.K. Peter - Co-Founder, Front-End Developer & Technology Writer
 
-G.K.Peter is a seasoned technology writer with a deep understanding of emerging trends and innovations. Through insightful articles, Peter brings valuable knowledge and analysis to our readers, keeping them informed about the latest advancements.
+Peter is a seasoned technology writer with a deep understanding of emerging trends and innovations. Through insightful articles, Peter brings valuable knowledge and analysis to our readers, keeping them informed about the latest advancements.
 
 ### W.Bree - Blockchain Specialist & Brand Awareness Managger
 
-W.Bree is our dedicated blockchain specialist with extensive experience in the world of distributed ledger technology. Additionally, as a Brand Awareness Manager she plays a pivotal role in developing and executing strategies to enhance the visibility and recognition of our brand. Leveraging their knowledge and expertise, Brie works towards increasing brand awareness, engaging the target audience, and building a positive brand image. Their multifaceted role ensures a strong presence in the blockchain industry while effectively promoting our brand to a wider audience.
+Bree is our Brand Awareness Manager, she plays a pivotal role in developing and executing strategies to enhance the visibility and recognition of our brand. Leveraging her knowledge and expertise, Brie works towards increasing brand awareness, engaging the target audience, and building a positive brand image. Her multifaceted role ensures a strong presence in the blockchain industry while effectively promoting our brand to a wider audience.
 
 ### Christopher - Computer Science Enthusiast
 
-Christopher's passion for computer science fuels his drive to explore and share knowledge about various programming languages, algorithms, and software development. Through his articles, Christopher aims to inspire and educate aspiring programmers.
+Chris, the newest on our team is the guy who catches up with the latest news, and trends before anyone knows they exist. His ability to test apps, airdrops, and other products ensures that he writes countless, well-researched articles.
 
 ## Contact Us
 
@@ -50,4 +51,4 @@ Thank you for your support and interest in BunnieABC! We look forward to hearing
 
 Thank you for joining us on this exciting tech journey. Together, let's explore the ever-evolving world of technology and embrace the opportunities it brings!
 
-### #LifeBeyondBunnieABC-Blog
+### #lifeBeyondBunnieABC-Blog
