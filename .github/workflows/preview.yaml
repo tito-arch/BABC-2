@@ -13,13 +13,13 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Hugo setup
-        uses: peaceiris/actions-hugo@v2.4.12
-        with:
-          # The Hugo version to download (if necessary) and use. Example: 0.58.2
-          hugo-version: latest # optional, default is latest
-          # Download (if necessary) and use Hugo extended version. Example: true
-          extended: false # optional, default is false
+      - name: Install Hugo
+        run: |
+          HUGO_VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r '.tag_name')
+          wget -O /tmp/hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/$HUGO_VERSION/hugo_extended_${HUGO_VERSION#v}_Linux-64bit.tar.gz
+          tar -zxvf /tmp/hugo.tar.gz -C /tmp/
+          sudo mv /tmp/hugo /usr/local/bin/hugo
+        shell: bash
 
       - name: Build
         run: hugo --buildDrafts
