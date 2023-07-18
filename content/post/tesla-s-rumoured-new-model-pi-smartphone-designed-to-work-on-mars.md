@@ -1,16 +1,23 @@
 ---
-author: P.Gitau
-categories: Emerging Issues & Trends
 title: Tesla's Rumoured New 'MODEL Pi' smartphone designed to work on mars
 date: 2023-01-15T11:31:57.000Z
-draft: true
-description: " The Future of Phones is Here: Introducing Tesla's Model Pi"
-image: ""
+draft: false
+description: " The Future of Phones is Here: Introducing Tesla's Model Pi: Tesla
+  Model Pi: The future of smartphones with solar charging, crypto mining, and
+  Starlink integration. Sleek design, a powerful camera, a long-lasting battery,
+  and unique features. Preorder yours today!"
 cover-photo: bunnie abc
+categories: Device Reviews
+author: P.Gitau
+image: ""
 category: Device Reviews
 tags:
   - Elon Musk
-  - Tesla
+  - Tesla model pi
+  - Smartphone
+  - Future
+  - Solar charging
+  - Crypto mining
 cover:
   alt: ""
   caption: ""
@@ -20,7 +27,7 @@ Every year there is a new brand-new phone from the large companies **Huawei**, *
 
 It's the same every time except for some nice user experience improvements actually if you buy a new phone before you even open it you actually know what is inside it and even what to expect I don't know if it's me alone with high expectations which make me except something new like something from the future something no one has ever seen.
 
-But this is excepted to change with an announcement from **Elon Musk** that a new phone model **_(model pi)_** will be with us soon. This shakes the whole phone industry because as we know When it comes to electric cars, **Tesla** is known to produce the most quality and affordable electric cars.
+But this is excepted to change with an announcement from **Elon Musk** that a new phone model ***(model pi)*** will be with us soon. This shakes the whole phone industry because as we know When it comes to electric cars, **Tesla** is known to produce the most quality and affordable electric cars.
 
 When it comes to Elon Musk, he always encourages **critical thinking** and new **problem-solving techniques** and even makes the impossible possible. Well, we expect the same even with the new **model pi** which is the first phone that tesla is producing. starting with the name model pi which is the same naming system as tesla car models, so we expect this phone to continue improving, and with musk, in the picture, we don't have to worry about that.
 
