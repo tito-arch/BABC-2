@@ -6,6 +6,9 @@ description: "Explore this post to know how to use the CMS like a pro. For a
   more detailed guide to show you the cursor location, copy this link. "
 cover-photo: /uploads/imageedit_4_4158722024.jpg
 category: Emerging Issues & Trends
+tags:
+  - "#beyondBABC-blog"
+  - Internal
 author: M.I.Titus
 ---
 
