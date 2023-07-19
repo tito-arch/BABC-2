@@ -19,9 +19,10 @@ In this internal document, I take you through the preview version (preview serve
 
 | | |
 |---|---|
-|Preview server:|[https://beyond-babc.web.app/](https://beyond-babc.web.app/)|
+|Preview server:|[[https://beyond-babc.web.app/](https://beyond-babc.web.app/)](https://beyond-babc.web.app/)|
 |CMS Guide:|[See here](https://scribehow.com/shared/Guide_to_Adding_Editing_and_Formatting_Content_in_CMS__ELLOXI4uQweyk3BjwlhnpQ)|
 |The time it takes to update:|**54 seconds**|
+|Internal Docs|[https://beyond-babc.web.app/tags/internal/](https://beyond-babc.web.app/tags/internal/)|
 
 Preview because you can view posts that are not yet released to the general public and hence accessible through search.
 
