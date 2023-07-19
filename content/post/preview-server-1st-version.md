@@ -4,7 +4,10 @@ date: 2023-07-19T12:53:09.831+03:00
 draft: true
 weight: 1
 description: As you can see, you are able to perfectly see the blog and also view drafts.
-cover-photo: /uploads/screenshot-from-2023-07-19-13-34-08.png
+cover:
+  alt: proton mail review
+  caption: "image sourced from: Bunnieabc Preview"
+  image: /uploads/screenshot-from-2023-07-19-13-34-08.png
 categories: App Updates
 tags:
   - "#beyondBABC-blog"
