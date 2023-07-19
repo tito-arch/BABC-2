@@ -19,7 +19,7 @@ In this internal document, I take you through the preview version (preview serve
 
 | | |
 |---|---|
-|Preview server:|[[Beyond-babc.web.app](Beyond-babc.web.app)](https://beyond-babc.web.app/)|
+|Preview server:|[https://beyond-babc.web.app/](https://beyond-babc.web.app/)|
 |CMS Guide:|[See here](https://scribehow.com/shared/Guide_to_Adding_Editing_and_Formatting_Content_in_CMS__ELLOXI4uQweyk3BjwlhnpQ)|
 |The time it takes to update:|**54 seconds**|
 |Internal Docs|[Open here](https://beyond-babc.web.app/tags/internal/)|
