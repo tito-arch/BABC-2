@@ -1,32 +1,34 @@
-name: Hugo
-on: [push]
-jobs:
+# name: Hugo
+# on: [push]
+# jobs:
 
-  build:
-    name: Build
-    runs-on: ubuntu-latest
-    steps:
+#   build:
+#     name: Build
+#     runs-on: ubuntu-latest
+#     steps:
 
-      - name: Check out code into the Go module directory
-        uses: actions/checkout@v2
-        with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+#       - name: Check out code into the Go module directory
+#         uses: actions/checkout@v2
+#         with:
+#           submodules: true  # Fetch Hugo themes (true OR recursive)
+#           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Install Hugo
-        run: |
-          HUGO_VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r '.tag_name')
-          wget -O /tmp/hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/$HUGO_VERSION/hugo_extended_${HUGO_VERSION#v}_Linux-64bit.tar.gz
-          tar -zxvf /tmp/hugo.tar.gz -C /tmp/
-          sudo mv /tmp/hugo /usr/local/bin/hugo
-        shell: bash
+#       - name: Install Hugo
+#         run: |
+#           HUGO_VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r '.tag_name')
+#           wget -O /tmp/hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/$HUGO_VERSION/hugo_extended_${HUGO_VERSION#v}_Linux-64bit.tar.gz
+#           tar -zxvf /tmp/hugo.tar.gz -C /tmp/
+#           sudo mv /tmp/hugo /usr/local/bin/hugo
+#         shell: bash
 
-      - name: Build
-        run: hugo --buildDrafts
+#       - name: Build
+#         run: hugo --buildDrafts
 
-      - name: Deploy to Firebase
-        uses: w9jds/firebase-action@master
-        with:
-          args: deploy --only hosting
-        env:
-          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+#       - name: Deploy to Firebase
+#         uses: w9jds/firebase-action@master
+#         with:
+#           args: deploy --only hosting
+#         env:
+#           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+
+#Archived
