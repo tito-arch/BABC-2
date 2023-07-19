@@ -4,10 +4,7 @@ date: 2023-07-19T12:53:09.831+03:00
 draft: true
 weight: 1
 description: As you can see, you are able to perfectly see the blog and also view drafts.
-cover:
-  alt: proton mail review
-  caption: "image sourced from: Bunnieabc Preview"
-  image: /uploads/screenshot-from-2023-07-19-13-34-08.png
+cover-photo: /uploads/screenshot-from-2023-07-19-13-34-08.png
 categories: App Updates
 tags:
   - "#beyondBABC-blog"
@@ -22,10 +19,10 @@ In this internal document, I take you through the preview version (preview serve
 
 | | |
 |---|---|
-|Preview server:|[[https://beyond-babc.web.app/](https://beyond-babc.web.app/)](https://beyond-babc.web.app/)|
+|Preview server:|[Beyond-babc.web.app](https://beyond-babc.web.app/)|
 |CMS Guide:|[See here](https://scribehow.com/shared/Guide_to_Adding_Editing_and_Formatting_Content_in_CMS__ELLOXI4uQweyk3BjwlhnpQ)|
 |The time it takes to update:|**54 seconds**|
-|Internal Docs|[https://beyond-babc.web.app/tags/internal/](https://beyond-babc.web.app/tags/internal/)|
+|Internal Docs|[[https://beyond-babc.web.app/tags/internal/](https://beyond-babc.web.app/tags/internal/)](https://beyond-babc.web.app/tags/internal/)|
 
 Preview because you can view posts that are not yet released to the general public and hence accessible through search.
 
