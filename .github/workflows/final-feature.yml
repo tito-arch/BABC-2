@@ -21,7 +21,7 @@ jobs:
         shell: bash
 
       - name: Build
-        run: hugo --baseURL="https://preview.bunnieabc.com/" --buildDrafts
+        run: hugo --baseURL="https://beyond-babc.com/" --buildDrafts
 
       - name: Deploy to Firebase
         uses: w9jds/firebase-action@master
