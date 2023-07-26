@@ -15,15 +15,15 @@ public_folder: "/uploads"
 local_backend: true
 
 collections: # A list of collections the CMS should be able to edit
-description: >
-  The Drafts feature is pretty new and ugly. Preview available at Beyond-BABC.web.app
-summary_fields:
-  - title
-  - draft
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "content/post" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    description: >
+      The Drafts feature is pretty new and ugly. Preview available at Beyond-BABC.web.app
+    summary_fields:
+      - title
+      - draft
     fields: # The fields each document in this collection have
       - { label: "Title", name: "title", widget: "string", config: { required: true, min: 10, max: 67 }, description: "Enter the Article's title." }
       - { label: "Publish Date", name: "date", widget: "datetime" }
