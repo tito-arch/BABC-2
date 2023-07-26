@@ -14,7 +14,7 @@ public_folder: "/uploads"
 
 local_backend: true
 description: >
-  The Drafts feature is pretty new and ugly. Preview will be up soon @ICBN-PS.web.app
+  The Drafts feature is pretty new and ugly. Preview available at Beyond-BABC.web.app
 summary_fields:
   - title
   - draft
