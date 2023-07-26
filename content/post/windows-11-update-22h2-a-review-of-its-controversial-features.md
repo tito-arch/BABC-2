@@ -1,17 +1,20 @@
-+++
-author = "P.Gitau"
-categories = "Emerging Issues & Trends"
-date = 2023-01-09T21:01:59Z
-description = "lets see why Windows 11 Update 22H2 is receiving lots of hate"
-image = ""
-tags = ["windows update", "Windows"]
-title = "Windows 11 Update 22H2: A Review of Its Controversial Features"
-[cover]
-alt = "Windows 11 Update 22H2: A Review of Its Controversial Features"
-caption = "image credits: Microsoft Windows"
-image = "/uploads/windows-11-glow-glass.webp"
-
-+++
+---
+title: "Windows 11 Update 22H2: A Review of Its Controversial Features"
+date: 2023-01-09T21:01:59.000Z
+draft: false
+description: lets see why Windows 11 Update 22H2 is receiving lots of hate
+cover-photo: bunnie abc
+categories: Emerging Issues & Trends
+author: P.Gitau
+image: ""
+tags:
+  - windows update
+  - Windows
+cover:
+  alt: "Windows 11 Update 22H2: A Review of Its Controversial Features"
+  caption: "image credits: Microsoft Windows"
+  image: /uploads/windows-11-glow-glass.webp
+---
 # Online accounts
 
 Last year Microsoft introduced the Windows update for version 22H2, which came with a handful of Ui Somes and an improvement of UI. Some of the features did not satisfy what we wanted. I have been a window user for over five years and can't say I am happy with some restrictions that the update brought. One feature, particularly which I am not happy with is where new Windows users are required to sign in using an online account which by the way is a must. In previous versions, you could be given the option to skip this step but now for Windows 11 and Windows 11 pro, this is a must requirement.
