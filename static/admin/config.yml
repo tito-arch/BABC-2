@@ -13,6 +13,11 @@ media_folder: "static/uploads" # Folder where user uploaded files should go
 public_folder: "/uploads"
 
 local_backend: true
+description: >
+  The Drafts feature is pretty new and ugly. Preview will be up soon @ICBN-PS.web.app
+summary_fields:
+  - title
+  - draft
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
