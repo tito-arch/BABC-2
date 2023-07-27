@@ -1,5 +1,5 @@
 ---
-title: "WorldCoin: The ORB Cryptocurrency with a Unique Airdrop System"
+title: "WorldCoin: The Cryptocurrency with a Unique Airdrop System"
 date: 2023-07-27T17:19:17.037+03:00
 draft: true
 description: The WorldCoin is a new cryptocurrency that is being launched with a
@@ -8,10 +8,6 @@ description: The WorldCoin is a new cryptocurrency that is being launched with a
   global currency that is accessible to everyone, regardless of their location
   or socioeconomic status.
 cover-photo: /uploads/f1u338awiaa8cg5.jpeg
-cover:
-  alt: Wordcoin orb
-  caption: "image credits: Worldcoin.org"
-  image: /uploads/f1u338awiaa8cg5.jpeg
 categories: Blockchain & Web3
 tags:
   - WorldCoin airdrop
