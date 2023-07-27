@@ -8,6 +8,10 @@ description: The WorldCoin is a new cryptocurrency that is being launched with a
   global currency that is accessible to everyone, regardless of their location
   or socioeconomic status.
 cover-photo: /uploads/f1u338awiaa8cg5.jpeg
+cover:
+  alt: Wordcoin orb
+  caption: "image credits: Worldcoin.org"
+  image: /uploads/f1u338awiaa8cg5.jpeg
 categories: Blockchain & Web3
 tags:
   - WorldCoin airdrop
