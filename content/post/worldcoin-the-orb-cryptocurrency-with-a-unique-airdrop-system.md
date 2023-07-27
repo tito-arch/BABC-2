@@ -1,7 +1,7 @@
 ---
 title: "WorldCoin: The Cryptocurrency with a Unique Airdrop System"
 date: 2023-07-27T17:19:17.037+03:00
-draft: true
+draft: false
 description: The WorldCoin is a new cryptocurrency that is being launched with a
   unique airdrop system. Anyone with a valid World ID is eligible to receive the
   airdrop, which consists of 25 WorldCoins. The WorldCoin is designed to be a
