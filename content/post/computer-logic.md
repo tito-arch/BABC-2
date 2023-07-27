@@ -1,17 +1,25 @@
-+++
-author = "P.Gitau"
-categories = "Computer Science"
-date = 2022-10-01T07:00:00Z
-description = "Learn the building blocks of computer technology and how they work together in this comprehensive guide on computer logic. From gates to chips, logic elements."
-image = ""
-tags = ["EX-OR gate", "NAND gate", "OR gate", "AND gate", "NOT gate"]
-title = "Computer Logic Fundamentals: Gates, Chips, Logic Elements & More"
-[cover]
-alt = "Computer Logic Fundamentals: Gates, Chips, Logic Elements & More"
-caption = "image credits: Intel"
-image = "/uploads/jl16e.jpg"
-
-+++
+---
+title: "Computer Logic Fundamentals: Gates, Chips, Logic Elements & More"
+date: 2022-10-01T07:00:00.000Z
+draft: false
+description: Learn the building blocks of computer technology and how they work
+  together in this comprehensive guide on computer logic. From gates to chips,
+  logic elements.
+cover-photo: bunnie abc
+categories: Computer Science
+author: P.Gitau
+image: ""
+tags:
+  - EX-OR gate
+  - NAND gate
+  - OR gate
+  - AND gate
+  - NOT gate
+cover:
+  alt: "Computer Logic Fundamentals: Gates, Chips, Logic Elements & More"
+  caption: "image credits: Intel"
+  image: /uploads/jl16e.jpg
+---
 # Everything you need to know about computer logic
 
 This is an aspect of computer design concerning the fundamental operations and structures upon which all computer systems are built
