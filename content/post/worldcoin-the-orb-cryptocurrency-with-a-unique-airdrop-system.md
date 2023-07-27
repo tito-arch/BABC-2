@@ -23,8 +23,11 @@ To many, Worldcoin is an App, an ORB, UBI, or perhaps a Ponzi scheme. Buckle up 
 > Imagine a world where everyone around the globe, regardless of who they are, could participate in the growing digital economy and benefit from decentralized, collective ownership. What would it take to get there?
 > ~**Worldcoin**
 
-![](https://lh4.googleusercontent.com/CmTWIGTvhzyAu2UBMSP_QZLvuyFG6nd-1cXTK_PoX0IObC4lsLUStoAVshUtdWYztkABWNoSM5g3Ky68eI37OPcl0NJ0PzZt93eaZL_k4HGn_SC-9t301PkqZSp8GqGUKKZ3KTOT-amgBT6ZW-yc5jE)
 
+
+
+
+![](/uploads/f6cc3349-c512-495e-922c-6394479eaa77_worldcoin-project-launches-2.webp)
 ## Background and common phrases.
 
 ### What is a Cryptocurrency (crypto)?
@@ -92,7 +95,7 @@ To transfer your grant, ask the receiver’s Optimism or Eth mainnet address and
 
 ## Scan transactions all transaction
 
-Remember we said that the blockchain transactions are recorded in a public ledger that anyone can scan. Head over to [[https://optimistic.etherscan.io/](https://optimistic.etherscan.io/)](https://optimistic.etherscan.io/) and enter an optimism address where you can see all transactions associated with that address. 
+Remember we said that the blockchain transactions are recorded in a public ledger that anyone can scan. Head over to [[[https://optimistic.etherscan.io/](https://optimistic.etherscan.io/)](https://optimistic.etherscan.io/)]([https://optimistic.etherscan.io/](https://optimistic.etherscan.io/)) and enter an optimism address where you can see all transactions associated with that address. 
 
 **At this point, I should receive an Orb and start my new job by next week.** I believe you have already learned a lot hopefully I shed enough light. **Hit the edit button to improve this article.**
 
