@@ -20,13 +20,10 @@ The day is **July 24 - 2023**, the Worldcoin launches and disrupts some parts of
 
 To many, Worldcoin is an App, an ORB, UBI, or perhaps a Ponzi scheme. Buckle up as I take you through an overview and stimulate your cognitive interaction.
 
-Imagine a world where everyone around the globe, regardless of who they are, could participate in the growing digital economy and benefit from decentralized, collective ownership. What would it take to get there?
+> Imagine a world where everyone around the globe, regardless of who they are, could participate in the growing digital economy and benefit from decentralized, collective ownership. What would it take to get there?
+> ~**Worldcoin**
 
 ![](https://lh4.googleusercontent.com/CmTWIGTvhzyAu2UBMSP_QZLvuyFG6nd-1cXTK_PoX0IObC4lsLUStoAVshUtdWYztkABWNoSM5g3Ky68eI37OPcl0NJ0PzZt93eaZL_k4HGn_SC-9t301PkqZSp8GqGUKKZ3KTOT-amgBT6ZW-yc5jE)
-
-
-
-
 
 ## Background and common phrases.
 
@@ -60,6 +57,7 @@ Unlike other airdrops that are unclear and may have scammer-cloned websites, you
 
 Many airdrops only reach a few people who dig the internet to find them, which results in less adoption by the public. Statistics show that only 3% of the world population knows crypto as a technology, well, if anything that is depressing. For anything to be successful it has to have to have a mass adoption. To solve this adoption issue airdrops come into the picture. 
 
+![](/uploads/aa686bfa-011a-4f49-81b0-f3eb44650e4c_worldcoin-begins-rollout-orbs-meet-global-demand-world-id-2.webp)
 Worldcoin is the only crypto that can be equally amongst everyone. Yeap, no connections, we are all equal. By giving as many unique people as possible an equal share of the new currency many people learn what Crypto is and own some too. To get why this is a new advanced development you have to understand the process of issuing a World ID and verifying unique personhood, I’ll have to wish you luck on that and perhaps touch a little bit on it.
 
 Yesterday, I got my fair share of 25 Worldcoins as am not a Us Citizen.
@@ -78,10 +76,6 @@ The Orb hashes your Iris, everyone has unique Iris data and the Orb has a fraud 
 
 ![](https://lh3.googleusercontent.com/T3WfRD8lZCT71iCDo7_V3zu4vynvV54PtyKGltERCEac20jnL8_M-_-glDu2Hwn4lcrZ5JeoZ8_sBmsV7ajVZdfGvj6XsVGYik5ukiUJGjmE-ZcKlr44N-_vurn-4UOlrk2SKYVDKagztN6T11CBQnA)
 
-
-
-
-
 This advanced technology keeps the World ID & Coin secure but has disadvantages too. While not trying to be negative here are the advantages.
 
 1. **Uniqueness:** The iris theoretically contains enough information to distinguish nearly all humans uniquely.
@@ -98,7 +92,7 @@ To transfer your grant, ask the receiver’s Optimism or Eth mainnet address and
 
 ## Scan transactions all transaction
 
-Remember we said that the blockchain transactions are recorded in a public ledger that anyone can scan. Head over to [https://optimistic.etherscan.io/](https://optimistic.etherscan.io/) and enter an optimism address where you can see all transactions associated with that address. 
+Remember we said that the blockchain transactions are recorded in a public ledger that anyone can scan. Head over to [[https://optimistic.etherscan.io/](https://optimistic.etherscan.io/)](https://optimistic.etherscan.io/) and enter an optimism address where you can see all transactions associated with that address. 
 
 **At this point, I should receive an Orb and start my new job by next week.** I believe you have already learned a lot hopefully I shed enough light. **Hit the edit button to improve this article.**
 
