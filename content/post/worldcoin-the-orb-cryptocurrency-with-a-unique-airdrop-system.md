@@ -27,11 +27,8 @@ To many, Worldcoin is an App, an ORB, UBI, or perhaps a Ponzi scheme. Buckle up 
 > Imagine a world where everyone around the globe, regardless of who they are, could participate in the growing digital economy and benefit from decentralized, collective ownership. What would it take to get there?
 > ~**Worldcoin**
 
-
-
-
-
 ![](/uploads/f6cc3349-c512-495e-922c-6394479eaa77_worldcoin-project-launches-2.webp)
+
 ## Background and common phrases.
 
 ### What is a Cryptocurrency (crypto)?
@@ -47,6 +44,8 @@ Hot wallets are those that are connected to the internet they can be looked up b
 ### Airdrop.
 
 A crypto airdrop is more of a marketing/ awareness strategy - it does not run forever. Blockchain companies award you with some crypto directly to your wallet with no cost or obligation ie: you don't pay. Airdrops are used for token distribution, marketing awareness, and fostering loyalty for early adopters.
+
+**W**orldcoin **can only be referred to as Worldcoin. Not** ***WorldCoin*** **or** ***World coin*** **and traded as** ***WLD*****.**
 
 Now that we have learned some common words let's go ahead and talk more about Worldcoin.
 
@@ -99,10 +98,14 @@ To transfer your grant, ask the receiver’s Optimism or Eth mainnet address and
 
 ## Scan transactions all transaction
 
-Remember we said that the blockchain transactions are recorded in a public ledger that anyone can scan. Head over to [[[https://optimistic.etherscan.io/](https://optimistic.etherscan.io/)](https://optimistic.etherscan.io/)]([https://optimistic.etherscan.io/](https://optimistic.etherscan.io/)) and enter an optimism address where you can see all transactions associated with that address. 
+Remember we said that the blockchain transactions are recorded in a public ledger that anyone can scan. Head over to [[https://optimistic.etherscan.io/ ](https://optimistic.etherscan.io/)](https://optimistic.etherscan.io/) and enter an optimism address where you can see all transactions associated with that address. 
 
 **At this point, I should receive an Orb and start my new job by next week.** I believe you have already learned a lot hopefully I shed enough light. **Hit the edit button to improve this article.**
 
-Or maybe Worldcoin is the one world Government and the grant is the Universal Basic Income? Go ahead and grab some WLDs the price might outpass the BNB value. Am going to wrap things there.Thanks for reading… see you in the next one.
+Or maybe Worldcoin is the one world Government and the grant is the Universal Basic Income? 
+
+But here is the thing, anything **that can go wrong will eventually go wrong**. You can delay technology but you can never stop it.
+
+ Go ahead and grab some WLDs the price might outpass the BNB value. Am going to wrap things there.Thanks for reading… see you in the next one.
 
 [#**W**orldcoin**G**rants**B**elong**T**o**E**veryone](https://worldcoin.org/)   **#toolsForHumanity** 
