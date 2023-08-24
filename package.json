@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "hugo": "hugo server --forceSyncStatic --port 6969"
+  }
+}

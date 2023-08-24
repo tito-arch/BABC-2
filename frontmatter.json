@@ -54,10 +54,5 @@
       "path": "[[workspace]]/content"
     }
   ],
-  "frontMatter.taxonomy.tags": [],
-  "frontMatter.taxonomy.categories": [
-    "Development",
-    "VIM"
-  ],
   "frontMatter.dashboard.openOnStart": false
 }
