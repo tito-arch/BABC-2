@@ -26,13 +26,13 @@ Yesterday my maker was in labor pains and couldn't
 
 My elder sister is [Sister Home](https://bunnieabc.com) and I am [little bunnie](https://blog.bunnieabc.com).
 
-Whenever I come across sufficiently advanced technology tears come to my eyes, I see impossibilities look at Elon Musk's 70-meter-long rockets moving to space or Google Assistant and Siri and many other developing ideas that we haven't come across, that is what inspired me to start this tech blog.
+Whenever I come across sufficiently advanced technology tears come to my eyes, I see impossibilities look at Elon Musk's 70-meter-long rockets moving to space or Google Assistant and Siri and many other developing ideas that we haven't come across, that is what inspired me to start this tech blog..
 
 Share what you have come across too.  `https://bunnieabc.com/#contact`
 
 #### BABC Blog was launched on July-22-2022 to evangelize technology.
 
-[[Newsroom@bunnieabc.com](Newsroom@bunnieabc.com)](Newsroom@bunnieabc.com) | **#BABCBlogAndBeyond**
+[[[Newsroom@bunnieabc.com](Newsroom@bunnieabc.com)](Newsroom@bunnieabc.com)]([Newsroom@bunnieabc.com](Newsroom@bunnieabc.com)) | **#BABCBlogAndBeyond**
 
 The BunnieABC blog is 🚀 launched.
 
