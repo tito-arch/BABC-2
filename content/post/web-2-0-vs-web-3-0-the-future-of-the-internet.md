@@ -9,7 +9,7 @@ description: |-
     user-controlled. In this blog post, we compare Web 2.0 and Web 3.0, and
     highlight some of the most exciting Web 3.0 apps that are currently in
     development.
-cover-photo: bunnie abc
+cover-photo: /uploads/web2vsweb314.jpeg
 categories: Blockchain & Web3
 tags:
   - Web 2.0
