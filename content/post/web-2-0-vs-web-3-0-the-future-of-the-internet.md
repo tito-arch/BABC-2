@@ -11,7 +11,6 @@ description: |-
     development.
 cover:
   image: /uploads/screenshot-from-2023-10-23-20-12-31.png
-cover-photo: /uploads/screenshot-from-2023-10-23-20-12-31.png
 categories: Blockchain & Web3
 tags:
   - Web 2.0
