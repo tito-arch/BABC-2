@@ -1,7 +1,7 @@
 ---
 title: "Web 2.0 vs Web 3.0: The Future of the Internet"
 date: 2023-10-23T19:36:28.804+03:00
-draft: true
+draft: false
 description: |-
   Web 3.0 is the next generation of the internet, and it has the
     potential to revolutionize the way we use it. Web 3.0 apps are built on
