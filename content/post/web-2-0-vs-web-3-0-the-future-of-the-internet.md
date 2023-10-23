@@ -31,7 +31,9 @@ The web was not built as we know it today, it is constantly evolving several thi
 
 ## PayPal VS MetaMask
 
-Paypal is an online payment system that allows you to pay and receive money online. Built by Max Levchin, Peter Thiel, and Luke Nosek as Confity and later Merge with Elon Musk’s X.com to become Paypal with Musk as the CEO. This happened in Two years. Paypal later went public as _PYPL_. Paypal is controlled by the Guys at Paypal and the Paypal fraud detection algorithm that sometimes calls false flags takes your wealth away with no way around it, which is a huge drawback in this age we are in. The people needed a way to control their funds hence bitcoin and Ethereum became so popular. But how do you interact with your crypto address in a completely decentralized way? There are many ways to do that but as of today October 2-2023 MetaMask leads. You can send any amount of crypto on the ERC20 blockchain. While we are here “Crypto exchange firms are not decentralized, your  chance of losing your assets to Binance  is possible.”
+Paypal is an online payment system that allows you to pay and receive money online. Built by Max Levchin, Peter Thiel, and Luke Nosek as Confity and later Merge with Elon Musk’s X.com to become Paypal with Musk as the CEO. This happened in Two years. Paypal later went public as _PYPL_. Paypal is controlled by the Guys at Paypal and the Paypal fraud detection algorithm that sometimes calls false flags takes your wealth away with no way around it
+
+The people needed a way to control their funds hence bitcoin and Ethereum became so popular. But how do you interact with your crypto address in a completely decentralized way? There are many ways to do that but as of today October 2-2023 MetaMask leads. You can send any amount of crypto on the ERC20 blockchain. While we are here “Crypto exchange firms are not decentralized, your  chance of losing your assets to Binance  is possible.”
 
 ![](/uploads/web2vsweb31.jpeg)
 
@@ -63,7 +65,7 @@ Google Chrome is powered by the OpenSource that manages Chromium. And since it�
 
 ## Google Authenticator VS WorldApp
 
-Am so sure you have used “Sign-In With Google” It’s easy, you don't have to remember your passwords. In the future, Skynet will try to rule us. Bots will have the power to hire and fire, and the human race will report to them. We will lose our jobs and report to these bots. Sounds bad? To prevent this, World Coin was born. I’d highly recommend you read the full Worldcoin article. In summary, World Coin simply ensures you are a unique human. Soon, social media apps like Threads, and Instagram will need you to prove that you are a unique human. 
+Am so sure you have used “Sign-In With Google” It’s easy, you don't have to remember your passwords. In the future, Skynet will try to rule us. Bots will have the power to hire and fire, and the human race will report to them. We will lose our jobs and report to these bots. Sounds bad? To prevent this, World Coin was born. [I’d highly recommend you read the full Worldcoin article](https://www.bunnieabc.com/post/worldcoin-the-orb-cryptocurrency-with-a-unique-airdrop-system/). In summary, World Coin simply ensures you are a unique human. Soon, social media apps like Threads, and Instagram will need you to prove that you are a unique human. 
 
 ![](/uploads/web2vsweb315.jpeg)
 
