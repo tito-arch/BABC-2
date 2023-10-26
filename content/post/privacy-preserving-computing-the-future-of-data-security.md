@@ -74,4 +74,5 @@ Federated learning decentralizes machine learning processes. Instead of sending 
 
  Governments today oversee how citizen data is handled, which can sometimes distract from efficient service delivery. Striking the right balance between data protection and effective governance remains a challenge. Meanwhile, Zuck is chewing data and making cash to build the metaverse to make the world a better place.
 
+![](/uploads/zuckerberg-robot.gif)
  
