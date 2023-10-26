@@ -1,7 +1,7 @@
 ---
 title: "Privacy-preserving computing: The future of data security?"
 date: 2023-10-26T15:41:36.937+03:00
-draft: true
+draft: false
 description: How to protect your data from data breaches and big tech firms.
   This article explores privacy-preserving techniques such as homomorphic
   encryption, zero-knowledge proofs, data minimization, blockchain technology,
@@ -10,7 +10,8 @@ description: How to protect your data from data breaches and big tech firms.
 cover:
   alt: Homomorphic Encryption
   caption: "image credits: BunnieAbc"
-  image: /uploads/homorphic.jpeg 
+  image: /uploads/homorphic.jpeg
+cover-photo: bunnie abc
 categories: Computer Science
 tags:
   - data privacy
