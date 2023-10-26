@@ -7,7 +7,10 @@ description: How to protect your data from data breaches and big tech firms.
   encryption, zero-knowledge proofs, data minimization, blockchain technology,
   and federated learning. It also discusses the future of data and the role of
   government oversight.
-cover-photo: /uploads/homorphic.jpeg
+cover:
+  alt: Homomorphic Encryption
+  caption: "image credits: BunnieAbc"
+  image: /uploads/homorphic.jpeg 
 categories: Computer Science
 tags:
   - data privacy
