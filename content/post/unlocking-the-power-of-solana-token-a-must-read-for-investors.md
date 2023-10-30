@@ -1,17 +1,22 @@
-+++
-author = "M.I.Titus"
-categories = "Blockchain & Web3"
-date = 2023-01-27T05:32:05Z
-description = "Solana is a high-performance blockchain platform that aims to provide fast and low-cost transactions for decentralized applications."
-image = ""
-tags = ["Web3", "Solana", "Sol"]
-title = "Unlocking the Power of Solana Token: A Must-Read for Investors"
-[cover]
-alt = "Unlocking the Power of Solana Token: A Must-Read for Investors"
-caption = "Image credits: Brightnode.io"
-image = "/uploads/solana.png"
-
-+++
+---
+title: "Unlocking the Power of Solana Token: A Must-Read for Investors"
+date: 2023-01-27T05:32:05.000Z
+draft: false
+description: Solana is a high-performance blockchain platform that aims to
+  provide fast and low-cost transactions for decentralized applications.
+cover-photo: bunnie abc
+categories: Blockchain & Web3
+author: M.I.Titus
+image: ""
+tags:
+  - Web3
+  - Solana
+  - Sol
+cover:
+  alt: "Unlocking the Power of Solana Token: A Must-Read for Investors"
+  caption: "Image credits: Brightnode.io"
+  image: /uploads/solana.png
+---
 Solana was created in 2017 by [Anatoly Yakovenko](https://www.crunchbase.com/person/anatoly-yakovenko) a Russian-born entrepreneur to satisfy all three desirable properties of a proper blockchain:  scalable, secure, and decentralized, since it's so fast (able to handle 710,000 transactions per second not exceeding 176 bytes) and has lower gas fees than Ethereum has led many to dub it an "Ethereum killer". Like ETH, Solana has smart contracts (self-executing code that automatically carries out the terms of an agreement having met certain conditions).
 
 ## Blockchain platform vs Coins.
