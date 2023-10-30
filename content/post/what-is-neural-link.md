@@ -1,16 +1,20 @@
-+++
-author = "P.Gitau"
-categories = "Emerging Issues & Trends"
-date = 2023-02-26T05:57:03Z
-description = "Neural link is a Neural Technology company that develops implantable computer chips, first founded by Elon Musk in 2016"
-tags = ["Elon Musk", "NueralLink"]
-title = "How NeuraLink is Taking Mind Control to the Next Level"
-[cover]
-alt = "What is Neural Link"
-caption = "image credits: Times Now"
-image = "/uploads/95901736.webp"
-
-+++
+---
+title: How NeuraLink is Taking Mind Control to the Next Level
+date: 2023-02-26T05:57:03.000Z
+draft: false
+description: Neural link is a Neural Technology company that develops
+  implantable computer chips, first founded by Elon Musk in 2016
+cover-photo: bunnie abc
+categories: Emerging Issues & Trends
+tags:
+  - Elon Musk
+  - NueralLink
+author: P.Gitau
+cover:
+  alt: What is Neural Link
+  caption: "image credits: Times Now"
+  image: /uploads/95901736.webp
+---
 Our brains are the most complex and fascinating organs in our body. Come to think of it, inside our brains, billions of **neurons** communicate with each other, making trillions of connections that are referred to as **synapses**, therefore our brains are just like electronic devices that send signals to all the body parts through the **nervous system.**
 
 Hence, we can move a hand or any other body part through these signals. What Scientists did is they took this basic idea and made chips (neural links) that could put **electrodes** in our brain and this enabled them to record our brain signals and also send and receive information to the brain basically that's what neural link is all about.
