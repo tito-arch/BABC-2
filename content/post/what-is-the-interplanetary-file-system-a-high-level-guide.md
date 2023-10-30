@@ -1,16 +1,21 @@
-+++
-author = "M.I.Titus"
-categories = "Blockchain & Web3"
-date = 2023-03-28T20:59:46Z
-description = "IPFS is designed as a content-addressed, versioned, peer-to-peer file system."
-tags = ["IPFS Tutorial", "IPFS explained", "Cryptography", "IPFS"]
-title = "What is The Interplanetary File System: A High Level Guide"
-[cover]
-alt = "bunnie abc"
-caption = "Image source: Win-rar.com"
-image = "/uploads/nodes.jpg"
-
-+++
+---
+title: "What is The Interplanetary File System: A High Level Guide"
+date: 2023-03-28T20:59:46.000Z
+draft: false
+description: IPFS is designed as a content-addressed, versioned, peer-to-peer file system.
+cover-photo: bunnie abc
+categories: Blockchain & Web3
+tags:
+  - IPFS Tutorial
+  - IPFS explained
+  - Cryptography
+  - IPFS
+author: M.I.Titus
+cover:
+  alt: bunnie abc
+  caption: "Image source: Win-rar.com"
+  image: /uploads/nodes.jpg
+---
 Founded by **Juan Benet** the **Interplanetary File System (IPFS)** is a fancy, alien-like name used to refer to a distributed network of computers designed to store and share files in a more secure and reliable manner than traditional centralized systems. IPFS is an open-source project that is maintained and developed by a community of contributors.
 
 We have relied on the web for many years when it comes to international communication, and learning skills and Juan thinks it could be in danger. As everything evolves, the web has silently been changing drastically these evolutions remain unknown to many. We are now moving to the third web, a decentralized web version, **Web3**. He later founded **Protocol Labs**.
