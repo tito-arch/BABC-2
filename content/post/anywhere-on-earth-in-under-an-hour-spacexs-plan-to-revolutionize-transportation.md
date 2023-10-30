@@ -19,7 +19,9 @@ author: M.I.Titus
 ---
 # Anywhere on Earth Under one hour.
 
-On July 16 - 1969, the Apollo 11 crew landed on the moon total crew of 3. **Neil Amstrong**, **Michael Collins**, and **Edwin Aldrin**. How they managed to do this is still a mystery. The trip took 3 days 3 hours 49 minutes. Everything worked so fine and 54 years later nobody has ever achieved that again. The code was written in **C** by Computer Scientist **Margaret Elaine Hamilton**. code that was so flawless that we suspect the whole landing was fake and filmed. There was no debugging, good laptops, or great IDE. Everything was written in books. Here is the source code.
+On July 16 - 1969, the Apollo 11 crew landed on the moon total crew of 3. **Neil Amstrong**, **Michael Collins**, and **Edwin Aldrin**. How they managed to do this is still a mystery. The trip took 3 days 3 hours 49 minutes. Everything worked so fine and 54 years later nobody has ever achieved that again. 
+
+The code was written in **C** by Computer Scientist **Margaret Elaine Hamilton**. code that was so flawless that we suspect the whole landing was fake and filmed. There was no debugging, good laptops, or great IDE. Everything was written in books. Here is the source code.
 
 ![](https://lh7-us.googleusercontent.com/Dpqv95DzWPokcFFwlq2oqXM_FpTrqHqQMHgCp_gK5aecfuMJ6DjfPcwrP5-TkUZpwEP-CX4d_9d_lX92H7ga3OIOb8U9k7To-3Erok17yGA9_3vIzsffxVoY7Q1AjPhxehbN3ilF_v1RhjZ_nYbMvvA)
 
@@ -27,7 +29,7 @@ A lot has since happened the greatest being the privatization of space travel he
 
 This is not an article about going back to the moon but teleporting anywhere on Earth in under one hour. Generations that will come after us will call us “The Early Man” wondering how we managed to travel around the Earth in 12 hours.
 
-But before we kick off, I’d like you to meet someone special. Someone that I would thank the gods if I met - Gwynne Shotwell. Other than Elon Musk, Gwynne is the force that glues SpaceX the outside world does not realize this, and hence we say “Respect”. She is the President and COO at SpaceX making critical decisions that Elon hardly visits SpaceX.
+But before we kick off, I’d like you to meet someone special. Someone that I would thank God if I met - [Gwynne Shotwell](https://en.wikipedia.org/wiki/Gwynne_Shotwell).  Other than Elon Musk, Gwynne is the force that glues SpaceX, the outside world does not realize this, and hence we say “Respect”. She is the President and COO at SpaceX making critical decisions that Elon hardly visits SpaceX.
 
 In 2006 the Falcon 1  launched successfully making it the first privately funded rocket to reach orbit. The company then redirected its energy to developing Falcon Nine - A bigger version of the Falcon One but with 9 Merlin engines. Later Musk would set out to build a larger rocket this was possible but the company was quite limited. They needed a rocket that could deliver huge payloads to space and again Gwynne’s move was to fix 3 Falcon 9 rockets to build the Falcon Heavy. This allowed the company to deliver large payloads with existing infrastructure as the development of the Big Falcon Rocket (BFR)  continued. 
 
@@ -77,6 +79,6 @@ A more detailed breakdown of the SpaceX plan:
 
 I also suggest you watch this video in case you doubt Vehicle speeds.
 
-{{< youtube wbSwFU6tY1c >}}
+{{< youtube A0FZIwabctw >}}
 
  SpaceX's plan to travel anywhere on Earth in under an hour is ambitious, but it has the potential to revolutionize transportation. If successful, it will make it possible to travel from any two points on Earth in less than an hour.
