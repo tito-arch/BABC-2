@@ -1,16 +1,21 @@
-+++
-author = "M.I.Titus"
-categories = "Emerging Issues & Trends"
-date = 2023-04-11T10:06:25Z
-description = "SpaceX starship orbital test flight is set to go down on April 17th 2023."
-tags = ["starship", "Starlink", "SpaceX", "Go SpaceX"]
-title = "SpaceX Starship Orbital Test Flight happening on Monday 17th."
-[cover]
-alt = "bunnie abc"
-caption = ""
-image = "/uploads/starbase.jpeg"
-
-+++
+---
+title: SpaceX Starship Orbital Test Flight happening on Monday 17th.
+date: 2023-04-11T10:06:25.000Z
+draft: false
+description: SpaceX starship orbital test flight is set to go down on April 17th 2023.
+cover-photo: bunnie abc
+categories: Emerging Issues & Trends
+tags:
+  - starship
+  - Starlink
+  - SpaceX
+  - Go SpaceX
+author: M.I.Titus
+cover:
+  alt: bunnie abc
+  caption: ""
+  image: /uploads/starbase.jpeg
+---
 What is the future of the human species? Are we destined to go to the stars and become multi-planetary or remain on the earth's surface and become extinct like dinos?
 
 Theoretical physicists and space enthusiasts have devised theories of what might one day wipe out the human race on Earth’s surface. Prof. Stephen Hawkings dedicated his life to proving why we need to become a multi-planetary species. But who is dead? God or Charles Darwin?
