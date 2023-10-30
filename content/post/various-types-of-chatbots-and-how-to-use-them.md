@@ -1,17 +1,21 @@
-+++
-author = "P.Gitau"
-categories = "Artificial Intelligence & Machine Learning"
-date = 2022-12-15T10:45:10Z
-description = "A chatbot is a “ computer program designed to simulate a conversation with human users, especially over the Internet.”"
-image = ""
-tags = ["Ai", "Chat bot"]
-title = "A complete guide on the various types of chatbots"
-[cover]
-alt = ""
-caption = ""
-image = "/uploads/dfghjk.PNG"
-
-+++
+---
+title: A complete guide on the various types of chatbots
+date: 2022-12-15T10:45:10.000Z
+draft: false
+description: A chatbot is a “ computer program designed to simulate a
+  conversation with human users, especially over the Internet.”
+cover-photo: bunnie abc
+categories: Artificial Intelligence & Machine Learning
+author: P.Gitau
+image: ""
+tags:
+  - Ai
+  - Chat bot
+cover:
+  alt: ""
+  caption: ""
+  image: /uploads/dfghjk.PNG
+---
 Most of us at this point once or twice have used a chatbot either knowing or without knowing. but have you ever wondered how they work?
 
 How do we interact with them? What types of different chatbots are there?. Before we dive in and answer these questions, let’s quickly cover the basics.
