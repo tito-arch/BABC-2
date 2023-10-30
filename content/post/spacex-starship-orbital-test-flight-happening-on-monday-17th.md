@@ -30,30 +30,30 @@ Many things threaten our existence: Climate change, [dangerous AI ](https://www.
 
 # Go SpaceX Starship!
 
-Elon stated that after selling Paypal he invested all the money in what he believed would affect the future of humanity, these were: The advent of electric cars(Tesla), Space exploration(SpaceX) later he co-founded other companies like OpenAI, The Boring Company and Neural link- a brain interfaces company to improve the capabilities of the human brain- so that we won’t become primates when the aliens find us (if they exist).
+Elon stated that after selling Paypal he invested all the money in what he believed would affect the future of humanity, these were: The advent of electric cars(Tesla) and space exploration(SpaceX) later he co-founded other companies like OpenAI, The Boring Company and Neural link- a brain interfaces company to improve the capabilities of the human brain- so that we won’t become primates when the aliens find us (if they exist).
 
-In this article, we will focus on SpaceX once again. SpaceX is well known for launching rockets to Earth orbit and landing them for reusing aimed at making space travel cheaper (affordable). It’s always exciting to see Falcon boosters landing on a drone ship in the middle of an ocean. Recovering a rocket in the fashion Spacex does has never been possible. The boosters have landing legs that deploy when the rocket approaches the Earth’s surface which seemed epic until they introduced chopsticks engineered to hold the rocket before it lands (At the time of writing this article only Starship is recovered using chopsticks(arms)).
+In this article, we will focus on SpaceX once again. SpaceX is well known for launching rockets to Earth orbit and landing them for reuse aimed at making space travel cheaper (affordable). It’s always exciting to see Falcon boosters landing on a drone ship in the middle of an ocean. Recovering a rocket in the fashion Spacex does has never been possible. The boosters have landing legs that deploy when the rocket approaches the Earth’s surface which seemed epic until they introduced chopsticks engineered to hold the rocket before it lands (At the time of writing this article only Starship is recovered using chopsticks(arms)).
 
 ![](/uploads/image-removebg-preview-5.png)
 
 WAI Media[@FelixSchlang](https://twitter.com/FelixSchlang)
 
-Both the booster and the ship have rocket lift stabilizer sockets, into which the lift/catch arms insert during lifts. That tall metallic “skyscraper” is known as the launch tower it holds the arms (chopsticks). Elon musk Tweeted that Starship's orbital launch is set.
+Both the booster and the ship have rocket lift stabilizer sockets, into which the lift/catch arms insert during lifts. That tall metallic “skyscraper” is known as the launch tower it holds the arms (chopsticks). Elon Musk tweeted that Starship's orbital launch is set.
 
-Starship is the world’s most powerful rocket and was designed to travel to Mars and beyond delivering both payload, astronauts, and humans to outer space. This is by far the world’s hugest ship, it will be responsible to take humans to Mars and [deploying Starlink satellites to Low Earth Orbit](https://www.bunnieabc.com/posts/starlink-internet-future-of-high-speed-connection-in-remote-areas/). 
+Starship is the world’s most powerful rocket and was designed to travel to Mars and beyond delivering both payload, astronauts, and humans to outer space. This is by far the world’s hugest ship, it will be responsible for taking humans to Mars and [deploying Starlink satellites to Low Earth Orbit](https://www.bunnieabc.com/posts/starlink-internet-future-of-high-speed-connection-in-remote-areas/).
 
 ## When is the SpaceX Starship Orbital test happening?
 
-**While not trying to draw speculations, Starship Heavy will launch on 04/17/2023 with backup(s) opening on 04/18–21/2023 according to the Federal Aviation Administration (FAA) and SpaceX youtube channel.** The 150-minute test window will open at 7:00 a.m. CT.
+**While not trying to draw speculations, Starship Heavy will launch on 04/17/2023 with backup(s) opening on 04/18–21/2023 according to the Federal Aviation Administration (FAA) and SpaceX YouTube channel.** The 150-minute test window will open at 7:00 a.m. CT.
 
 {{< youtube L5QXreqOrTA >}}
 
 ![](/uploads/faastraship.jpg)
 
-We are all excited to see Starship go to orbit. Orbital test, what is it? This involves the rocket launching to orbit and returning to Earth. It passes different stages of the flight just like the Falcon Heavy.
+We are all excited to see Starship go to orbit. Orbital test, what is it? This involves the rocket launching into orbit and returning to Earth. It passes different stages of the flight just like the Falcon Heavy.
 
 ## Starship's Mission to Mars Animation
 
-{{< youtube 921VbEMAwwY >}}
+{{< youtube 1wcilQ58hI >}}
 
 Make sure you toggle the full-screen mode on the left bottom or simply press (F).
