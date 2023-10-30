@@ -1,17 +1,21 @@
-+++
-author = "P.Gitau"
-categories = "Emerging Issues & Trends"
-date = 2022-12-10T18:08:40Z
-description = "The metaverse is a collective virtual shared space, created by the convergence of the physical and digital worlds."
-image = ""
-tags = ["metaverse", "Virtual reality"]
-title = " How Does the Metaverse Relate to Virtual Reality?"
-[cover]
-alt = "virtual headsets"
-caption = ""
-image = "/uploads/1.JPG"
-
-+++
+---
+title: " How Does the Metaverse Relate to Virtual Reality?"
+date: 2022-12-10T18:08:40.000Z
+draft: false
+description: The metaverse is a collective virtual shared space, created by the
+  convergence of the physical and digital worlds.
+cover-photo: bunnie abc
+categories: Emerging Issues & Trends
+author: P.Gitau
+image: ""
+tags:
+  - metaverse
+  - Virtual reality
+cover:
+  alt: virtual headsets
+  caption: ""
+  image: /uploads/1.JPG
+---
 ## What is the difference between Metaverse and Virtual Reality?
 
 **Virtual Reality:** in other words (VR) is a simulated experience that can be similar to or completely different from the real world. It typically involves the use of a headset or other device that allows the user to see, hear, and interact with virtual objects and environments. VR can be used for entertainment, education, or a variety of other purposes.
