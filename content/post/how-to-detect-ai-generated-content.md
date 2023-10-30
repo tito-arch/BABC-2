@@ -1,16 +1,20 @@
-+++
-author = "M.I.Titus"
-categories = "Artificial Intelligence & Machine Learning"
-date = 2023-02-22T22:39:31Z
-description = "AI-detecting superheroes! Say goodbye to those sneaky bots and hello to content with a human touch (and humor)!"
-tags = ["Spam", "Ai"]
-title = "5 best AI Content Detectors to Spot and Combat AI generated text"
-[cover]
-alt = "5 best AI Content Detectors to Spot and Combat AI generated text"
-caption = "image credits: Metaroids.com"
-image = "/uploads/the-future-of-chatgpt-content-how-ai-detection-tools-are-shaping-the-landscape.webp"
-
-+++
+---
+title: 5 best AI Content Detectors to Spot and Combat AI generated text
+date: 2023-02-22T22:39:31.000Z
+draft: false
+description: AI-detecting superheroes! Say goodbye to those sneaky bots and
+  hello to content with a human touch (and humor)!
+cover-photo: bunnie abc
+categories: Artificial Intelligence & Machine Learning
+tags:
+  - Spam
+  - Ai
+author: M.I.Titus
+cover:
+  alt: 5 best AI Content Detectors to Spot and Combat AI generated text
+  caption: "image credits: Metaroids.com"
+  image: /uploads/the-future-of-chatgpt-content-how-ai-detection-tools-are-shaping-the-landscape.webp
+---
 According to Google's Webmaster guidelines, ai generated text, lacks human touch and hence will be degraded and marked as spam. Google is the world's first-stop site for people searching for answers.
 
 In the world of content making, AI-generated content has become a threat since it's hard to notice with the naked eye, but there is how "AI talks" and these tools, both paid and free, will help you detect AI behind the scenes.
