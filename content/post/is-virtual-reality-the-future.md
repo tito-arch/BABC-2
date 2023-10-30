@@ -1,17 +1,21 @@
-+++
-author = "P.Gitau"
-categories = "Emerging Issues & Trends"
-date = 2022-12-12T21:27:38Z
-description = "Virtual Reality is a technology that immerses the user in a computer generated environment."
-image = ""
-tags = ["Virtual Reality", "Ai"]
-title = "Is Virtual Reality the future?"
-[cover]
-alt = "Is Virtual Reality the future?"
-caption = ""
-image = "/uploads/best-educational-apps-featured_1.webp"
-
-+++
+---
+title: Is Virtual Reality the future?
+date: 2022-12-12T21:27:38.000Z
+draft: false
+description: Virtual Reality is a technology that immerses the user in a
+  computer generated environment.
+cover-photo: bunnie abc
+categories: Emerging Issues & Trends
+author: P.Gitau
+image: ""
+tags:
+  - Virtual Reality
+  - Ai
+cover:
+  alt: Is Virtual Reality the future?
+  caption: ""
+  image: /uploads/best-educational-apps-featured_1.webp
+---
 # What is Virtual Reality?
 
 **Virtual Reality** (VR) is a simulated experience that can be similar to or completely different from the real world. It typically involves the use of a headset or other device that allows the user to see, hear, and interact with virtual objects and environments. VR can be used for entertainment, education, or a variety of other purposes.
