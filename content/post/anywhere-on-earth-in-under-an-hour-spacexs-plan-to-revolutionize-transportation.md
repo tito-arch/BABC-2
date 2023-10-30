@@ -8,10 +8,7 @@ description: SpaceX is developing a new rocket that could revolutionize
   an hour. Learn more about SpaceX's plan to make point-to-point travel a
   reality.
 cover-photo: /uploads/screenshot-from-2023-10-30-17-21-34.png
-cover:
-  alt: Anywhere on Earth in Under an Hour: SpaceX's Plan to Revolutionize transportation
-  caption: "image credits: SpaceX"
-  image: /uploads/screenshot-from-2023-10-30-17-21-34.png
+
 image: dc5855fd122817d1ff87d4637226acf7.jpg
 draft: false
 categories: Emerging Issues & Trends
