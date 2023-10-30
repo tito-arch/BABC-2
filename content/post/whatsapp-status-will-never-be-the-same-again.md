@@ -1,16 +1,19 @@
-+++
-author = "P.Gitau"
-categories = "App Updates"
-date = 2023-02-12T10:07:45Z
-description = "Introducing: link previews, voice messages, status reactions,among many more"
-tags = ["Meta", "WhatsApp"]
-title = "Revolutionizing Messaging: WhatsApp's Latest Status Features "
-[cover]
-alt = "bunnie abc"
-caption = "image credits: lowyat.net"
-image = "/uploads/whatsapp-status-update-link-preview-1536x763-1.webp"
-
-+++
+---
+title: "Revolutionizing Messaging: WhatsApp's Latest Status Features "
+date: 2023-02-12T10:07:45.000Z
+draft: false
+description: "Introducing: link previews, voice messages, status reactions,among many more"
+cover-photo: bunnie abc
+categories: App Updates
+tags:
+  - Meta
+  - WhatsApp
+author: P.Gitau
+cover:
+  alt: bunnie abc
+  caption: "image credits: lowyat.net"
+  image: /uploads/whatsapp-status-update-link-preview-1536x763-1.webp
+---
 Everyone is going to agree with me when I say WhatsApp is the best messaging app to chat with friends and family. One reason is that **it's free,** and **it's secure** as all the conversations are _end-to-end encrypted_ and the best part of all it has **no ads**. which makes our life simpler since you can chat securely.
 
 Without having to worry about those annoying ads every now and then or even being redirected to unknown URLs, we can say WhatsApp has come a long way. Last year we were introduced to **communities**, which are a great way to organize related groups. You can read the full article on  [WhatApp new features 2022](https://www.bunnieabc.com/posts/what-s-app-new-features-2022/) it was not long before we were introduced to WhatsApp avatars, which are a new personalized way to express yourself. I have already covered that topic on[ WhatsApp Avatars](https://www.bunnieabc.com/posts/whatsapp-new-features-2023/) Just to be on the safe side make sure you read both of them before reading this. But that aside, for now, let's focus on recent features.
