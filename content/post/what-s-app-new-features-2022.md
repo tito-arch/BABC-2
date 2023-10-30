@@ -1,17 +1,22 @@
-+++
-author = "M.I.Titus"
-categories = "App Updates"
-date = 2022-11-23T21:00:00Z
-description = "Communities on WhatsApp enables people to bring together separate groups under one umbrella with a structure that works for them."
-image = ""
-tags = ["Meta", "Whatsapp", "App updates"]
-title = "What's App new features 2022"
-[cover]
-alt = "Introducing communities ....."
-caption = "Image by WhatsApp."
-image = "/uploads/screenshot-from-2022-11-30-23-29-53.png"
-
-+++
+---
+title: What's App new features 2022
+date: 2022-11-23T21:00:00.000Z
+draft: false
+description: Communities on WhatsApp enables people to bring together separate
+  groups under one umbrella with a structure that works for them.
+cover-photo: bunnie abc
+categories: App Updates
+author: M.I.Titus
+image: ""
+tags:
+  - Meta
+  - Whatsapp
+  - App updates
+cover:
+  alt: Introducing communities .....
+  caption: Image by WhatsApp.
+  image: /uploads/screenshot-from-2022-11-30-23-29-53.png
+---
 # Introducing communities .....
 
 Ranked amongst the most popular messaging apps in the world, Meta's WhatsApp has over 2 billion active users today. The app was launched on November 2009 by [**Jan Koum**](https://en.wikipedia.org/wiki/Jan_Koum) **and** [**Brian Acton**](https://en.wikipedia.org/wiki/Brian_Acton)**.**  The two buddies created it from the idea of not missing calls (Voice-over-IP-service) while in the gym.
