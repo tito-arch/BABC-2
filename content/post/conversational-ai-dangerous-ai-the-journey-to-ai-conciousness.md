@@ -1,16 +1,21 @@
-+++
-author = "M.I.Titus"
-categories = "Artificial Intelligence & Machine Learning"
-date = 2023-03-19T22:44:24Z
-description = "Can a computer achieve a state of consciousness, is passing the Turing test still relevant"
-tags = ["deep mind", "Open AI", "Conversational AI"]
-title = "Conversational Ai, Dangerous Ai: The Journey to Ai conciousness"
-[cover]
-alt = "Can Machines Think?"
-caption = "image credits: Open Ai"
-image = "/uploads/11111.webp"
-
-+++
+---
+title: "Conversational Ai, Dangerous Ai: The Journey to Ai conciousness"
+date: 2023-03-19T22:44:24.000Z
+draft: false
+description: Can a computer achieve a state of consciousness, is passing the
+  Turing test still relevant
+cover-photo: bunnie abc
+categories: Artificial Intelligence & Machine Learning
+tags:
+  - deep mind
+  - Open AI
+  - Conversational AI
+author: M.I.Titus
+cover:
+  alt: Can Machines Think?
+  caption: "image credits: Open Ai"
+  image: /uploads/11111.webp
+---
 ## Can Machines Think?
 
 [**Alan Turing**](https://en.wikipedia.org/wiki/Alan_Turing) asked, "**I propose the question, can machines think?**". Can a computer achieve a state of consciousness? Distinguishing a bot from a human has lately become so overwhelming. Suddenly humans sound like bots.
