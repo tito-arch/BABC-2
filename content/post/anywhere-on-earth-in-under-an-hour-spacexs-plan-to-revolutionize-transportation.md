@@ -21,15 +21,7 @@ author: M.I.Titus
 
 On July 16 - 1969, the Apollo 11 crew landed on the moon total crew of 3. **Neil Amstrong**, **Michael Collins**, and **Edwin Aldrin**. How they managed to do this is still a mystery. The trip took 3 days 3 hours 49 minutes. Everything worked so fine and 54 years later nobody has ever achieved that again. The code was written in **C** by Computer Scientist**** Margaret Elaine Hamilton code which was so flawless that we suspect the whole landing was fake and filmed. There was no debugging, good laptops, or great IDE. Everything was written in books. Here is the source code.
 
-
-
-
-
 ![](https://lh7-us.googleusercontent.com/Dpqv95DzWPokcFFwlq2oqXM_FpTrqHqQMHgCp_gK5aecfuMJ6DjfPcwrP5-TkUZpwEP-CX4d_9d_lX92H7ga3OIOb8U9k7To-3Erok17yGA9_3vIzsffxVoY7Q1AjPhxehbN3ilF_v1RhjZ_nYbMvvA)
-
-
-
-
 
 A lot has since happened the greatest being the privatization of space travel hence attracting private investors to blow up billions. In 2002 SpaceX - then a startup joined the race to build efficient yet reusable rockets all seemed so unreal until it was achieved. 
 
@@ -48,6 +40,8 @@ Anywhere on Earth under an hour
 It takes long hours of traveling to move from one point on Earth to another SpaceX, The Boring Company, and Hyperloop all co-founded by Elon are focused on solving this. We’ll dive deeper into the SpaceX plan.
 
 **Imagine** traveling from New York to Shanghai 11,897 Km apart at a max speed of 27,000 km/hr in 39 minutes. 
+
+{{< youtube zqE-ultsWt0 >}}
 
 But how does this happen?
 
@@ -73,7 +67,6 @@ A more detailed breakdown of the SpaceX plan:
 1. **Remember it has to move to Orbit and leave the Earth rotating,** to move towards the Earth’s rotation Starship will need to move to orbit in order to reach a high enough speed to travel from New York to Shanghai in 39 minutes. Once in orbit, Starship will be able to travel at speeds of up to 27,000 km/h. 
 1. **Enter the Earth’s atmosphere and do a belly flip land on a drone ship on a water body passengers alight board a boat to land**. Once Starship has reached Shanghai, it will enter the Earth's atmosphere and do a belly flip landing on a drone ship. The passengers will then disembark from Starship and board a boat to land.
 
-
 |Cities|Distance (km)|Realistic flight time|Flight time (starship)|
 |---|---|---|---|
 |New York to Tokyo|10,940 km|14 hours and 35 minutes|35 minutes|
@@ -82,18 +75,8 @@ A more detailed breakdown of the SpaceX plan:
 |Dubai to Moscow|3,596 km|4 hours and 30 minutes|15 minutes|
 |Rio de Janeiro to Madrid|8,343 km|10 hours and 30 minutes|10 minutes|
 
-
-
-
-
 I also suggest you watch this video in case you doubt Vehicle speeds.
 
+{{< youtube wbSwFU6tY1c >}}
 
-
-
-
- SpaceX's plan to travel anywhere on Earth in under an hour is ambitious, but it has the potential to revolutionize transportation. If successful, it would make it possible to travel from any two points on Earth in less than an hour.
-
-
-
-
+ SpaceX's plan to travel anywhere on Earth in under an hour is ambitious, but it has the potential to revolutionize transportation. If successful, it will make it possible to travel from any two points on Earth in less than an hour.
