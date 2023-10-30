@@ -1,17 +1,24 @@
-+++
-author = "P.Gitau"
-categories = "Computer Science"
-date = 2022-11-22T08:00:00Z
-description = "Data capture is the process of getting information together for the computer to process."
-image = ""
-tags = ["ICR", "Magnetic encoding", "Mark sensing", "Barcodes", "OCR"]
-title = "All Data Collection Methods: From MICR to Augmented Reality"
-[cover]
-alt = "Data capture methods"
-caption = "Image credits: Google"
-image = "/uploads/data1.png"
-
-+++
+---
+title: "All Data Collection Methods: From MICR to Augmented Reality"
+date: 2022-11-22T08:00:00.000Z
+draft: false
+description: Data capture is the process of getting information together for the
+  computer to process.
+cover-photo: bunnie abc
+categories: Computer Science
+author: P.Gitau
+image: ""
+tags:
+  - ICR
+  - Magnetic encoding
+  - Mark sensing
+  - Barcodes
+  - OCR
+cover:
+  alt: Data capture methods
+  caption: "Image credits: Google"
+  image: /uploads/data1.png
+---
 # **What is data collection?**
 
 Data capture is the process of getting information together for the computer to process.
