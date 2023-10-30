@@ -1,17 +1,20 @@
-+++
-author = "P.Gitau"
-categories = "Computer Science"
-date = 2023-01-01T13:13:52Z
-description = "We can’t imagine a world without computers today."
-image = ""
-tags = ["Neural networks", "computers"]
-title = "Evolution of Computer Systems"
-[cover]
-alt = ""
-caption = ""
-image = "/uploads/1ssdsd.PNG"
-
-+++
+---
+title: Evolution of Computer Systems
+date: 2023-01-01T13:13:52.000Z
+draft: false
+description: We can’t imagine a world without computers today.
+cover-photo: bunnie abc
+categories: Computer Science
+author: P.Gitau
+image: ""
+tags:
+  - Neural networks
+  - computers
+cover:
+  alt: ""
+  caption: ""
+  image: /uploads/1ssdsd.PNG
+---
 There have been a lot of breakthroughs in the fields of computer and information technology and this is going to continue in the future, but all these trends will be influenced by the following:
 
 1. **_Rapid evolution in computer hardware and software_**
