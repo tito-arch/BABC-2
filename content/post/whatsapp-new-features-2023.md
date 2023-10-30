@@ -1,17 +1,20 @@
-+++
-author = "P.Gitau"
-categories = "App Updates"
-date = 2023-01-03T21:31:27Z
-description = "WhatsApp 3D Avatars can be used as profile photos or custom stickers."
-image = ""
-tags = ["Applications", "Whatsapp"]
-title = "WhatsApp New features 2023: WhatsApp Avatars"
-[cover]
-alt = "WhatsApp New features 2023: WhatsApp Avatars"
-caption = "image credits: WhatsApp"
-image = "/uploads/facebook-avatars.webp"
-
-+++
+---
+title: "WhatsApp New features 2023: WhatsApp Avatars"
+date: 2023-01-03T21:31:27.000Z
+draft: false
+description: WhatsApp 3D Avatars can be used as profile photos or custom stickers.
+cover-photo: bunnie abc
+categories: App Updates
+author: P.Gitau
+image: ""
+tags:
+  - Applications
+  - Whatsapp
+cover:
+  alt: "WhatsApp New features 2023: WhatsApp Avatars"
+  caption: "image credits: WhatsApp"
+  image: /uploads/facebook-avatars.webp
+---
 # Introducing 3D Avatars to WhatsApp
 
 WhatsApp is a **free instant messaging** app available on both **Android** and **iPhone** with 2+ billion registered users According to **2022** statistics. With this large amount of traffic, there is pressure to constantly improve performance and user experience every now and then, but WhatsApp never disappoints with its updates now and then. Even if it can be a little bit frustrating when you switch your phone and find you need to restart your phone because of an update, let's all agree it's for the best.
