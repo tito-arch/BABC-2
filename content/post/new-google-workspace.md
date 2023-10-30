@@ -1,16 +1,19 @@
-+++
-author = "P.Gitau"
-categories = "Artificial Intelligence & Machine Learning"
-date = 2023-03-26T18:50:27Z
-description = "A breakdown Quick on Google introducing generative AI on Google Workspace."
-tags = ["  Generative Ai ", "Google Workspace "]
-title = "The Power of AI in Your Hands: Google Workspace's New Era"
-[cover]
-alt = "A breakdown on Microsoft introducing generative AI on Google Workspace."
-caption = "image credits: 21st centurychronicles"
-image = "/uploads/google-workspace.jpg"
-
-+++
+---
+title: "The Power of AI in Your Hands: Google Workspace's New Era"
+date: 2023-03-26T18:50:27.000Z
+draft: false
+description: A breakdown Quick on Google introducing generative AI on Google Workspace.
+cover-photo: bunnie abc
+categories: Artificial Intelligence & Machine Learning
+tags:
+  - "  Generative Ai "
+  - "Google Workspace "
+author: P.Gitau
+cover:
+  alt: A breakdown on Microsoft introducing generative AI on Google Workspace.
+  caption: "image credits: 21st centurychronicles"
+  image: /uploads/google-workspace.jpg
+---
 # Introducing A New Era for Google Workspace
 
 On **March 14th,** Google announced that soon they will be releasing a new workspace that will be integrated with generative AI.
