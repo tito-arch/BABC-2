@@ -1,16 +1,20 @@
-+++
-author = "P.Gitau"
-categories = "Emerging Issues & Trends"
-date = 2023-02-20T14:20:06Z
-description = "This new microsoft feature will save companies from data breach and protect sensitive information from leaking to unwanted hands"
-tags = ["Purview labels", "Microsoft"]
-title = "Step-by-Step Guide to Setting up Microsoft Purview with Watermarks"
-[cover]
-alt = "Step-by-Step Guide to Setting up Microsoft Purview with Watermarks"
-caption = "image credits: Microsoft"
-image = "/uploads/3-watermarking.webp"
-
-+++
+---
+title: Step-by-Step Guide to Setting up Microsoft Purview with Watermarks
+date: 2023-02-20T14:20:06.000Z
+draft: false
+description: This new microsoft feature will save companies from data breach and
+  protect sensitive information from leaking to unwanted hands
+cover-photo: bunnie abc
+categories: Emerging Issues & Trends
+tags:
+  - Purview labels
+  - Microsoft
+author: P.Gitau
+cover:
+  alt: Step-by-Step Guide to Setting up Microsoft Purview with Watermarks
+  caption: "image credits: Microsoft"
+  image: /uploads/3-watermarking.webp
+---
 According to research done by [**surfshark**](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic_4aXzLL9AhXGse0KHUuuBBcYABAAGgJkZw&ohost=www.google.com&cid=CAESbOD2G2ve3JzZDJk-Cpp0xKQAOlI4tZue72xJdb8t4iSgcYgSXirwFftvf80VnqYbQSCj1JuN0LP4PE3fq7Xo3msD-taXgwgidhirZLn0F-vglxfHeyE5-9-ZqpA8cvtUI85l-oFl85xIi_cLKA&sig=AOD64_04jemY2klOOCwyRzrGeyUOShmBhA&q&adurl&ved=2ahUKEwjSiIGXzLL9AhVVjFwKHb-GCYoQ0Qx6BAgKEAE) and [**comparitech**](https://www.comparitech.com/)**,** the study showed that every year, millions of data are leaked for example, **California** has suffered the most data breaches than other states in 15 years. The results also showed that in these breaches more than 5.6 sensitive records were exposed between 2005 and 2020. But 2021 was so far the worst year for big companies like **Microsoft** where 10.8 billion top secret records were leaked.
 
 Other notable breaches in 2021. were
