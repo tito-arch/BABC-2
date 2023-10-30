@@ -1,17 +1,24 @@
-+++
-author = "P.Gitau"
-categories = "Computer Science"
-date = 2022-12-05T08:00:00Z
-description = "All messages that are sent and received through a network must be represented using a data signal."
-image = ""
-tags = ["Network Topology", "Mesh topology", "Star topology", "Token ring Topology", "Ethernet topology"]
-title = "How Your Network is Connected: The Topologies Explained"
-[cover]
-alt = "What is network topology"
-caption = ""
-image = "/uploads/these-three-security-trends-are-key-to-decentralize-artificial-intelligence-_-hackernoon.jfif"
-
-+++
+---
+title: "How Your Network is Connected: The Topologies Explained"
+date: 2022-12-05T08:00:00.000Z
+draft: false
+description: All messages that are sent and received through a network must be
+  represented using a data signal.
+cover-photo: bunnie abc
+categories: Computer Science
+author: P.Gitau
+image: ""
+tags:
+  - Network Topology
+  - Mesh topology
+  - Star topology
+  - Token ring Topology
+  - Ethernet topology
+cover:
+  alt: What is network topology
+  caption: ""
+  image: /uploads/these-three-security-trends-are-key-to-decentralize-artificial-intelligence-_-hackernoon.jfif
+---
 # What is topology
 
 A network topology is a substantial network arrangement in which all the nodes are connected using network links or connecting lines. Apart from just describing how the nodes are interconnected, network topology also explains how the data is transferred in a network.
