@@ -1,17 +1,25 @@
-+++
-author = "M.I.Titus"
-categories = "Emerging Issues & Trends"
-date = 2022-08-30T22:27:39Z
-description = "Digital number plates are next-generation vehicle identification devices mounted on car bumpers that emit radio signals to provide tracking information."
-image = "/uploads/kenyadigitalnumberplates.jpeg"
-tags = ["cs matiangi", "kenyan number plates", "number plates ", "digital number plates", "NTSA "]
-title = "Should Kenyans get excited about digital plates?"
-[cover]
-alt = "Should Kenyans get excited about digital plates"
-caption = "Kenyan digital number plates"
-image = "/uploads/kenyadigitalnumberplates.jpeg"
-
-+++
+---
+title: Should Kenyans get excited about digital plates?
+date: 2022-08-30T22:27:39.000Z
+draft: false
+description: Digital number plates are next-generation vehicle identification
+  devices mounted on car bumpers that emit radio signals to provide tracking
+  information.
+cover-photo: bunnie abc
+categories: Emerging Issues & Trends
+author: M.I.Titus
+image: /uploads/kenyadigitalnumberplates.jpeg
+tags:
+  - cs matiangi
+  - kenyan number plates
+  - "number plates "
+  - digital number plates
+  - "NTSA "
+cover:
+  alt: Should Kenyans get excited about digital plates
+  caption: Kenyan digital number plates
+  image: /uploads/kenyadigitalnumberplates.jpeg
+---
 # What are digital number plates?
 
 Digital number plates are next-generation vehicle identification devices mounted on car bumpers that emit radio signals to provide tracking information and additional data.
