@@ -1,17 +1,20 @@
-+++
-author = "P.Gitau"
-categories = "Computer Science"
-date = 2023-01-11T22:52:06Z
-description = "Devices that perform quantum computations are known as quantum computers"
-image = ""
-tags = ["Quantum computers", "computers"]
-title = "Exploring the World of Quantum Computing: A Beginner's Guide"
-[cover]
-alt = "Exploring the World of Quantum Computing: A Beginner's Guide"
-caption = "Image credits: Youtube | Quanta Magazine"
-image = "/uploads/maxresdefault.webp"
-
-+++
+---
+title: "Exploring the World of Quantum Computing: A Beginner's Guide"
+date: 2023-01-11T22:52:06.000Z
+draft: false
+description: Devices that perform quantum computations are known as quantum computers
+cover-photo: bunnie abc
+categories: Computer Science
+author: P.Gitau
+image: ""
+tags:
+  - Quantum computers
+  - computers
+cover:
+  alt: "Exploring the World of Quantum Computing: A Beginner's Guide"
+  caption: "Image credits: Youtube | Quanta Magazine"
+  image: /uploads/maxresdefault.webp
+---
 Before we even dive into this broad topic of quantum computing, I think the best approach would be to answer the most frequently asked questions about quantum computing so that we get a base understanding of quantum computing. So let's get started. this questions I've received more than 10 tens in Quora.
 
 ### **What is the difference between Quantum computers and other classical computers?**
