@@ -7,7 +7,7 @@ description: SpaceX is developing a new rocket that could revolutionize
   transportation, making it possible to travel from anywhere on Earth in under
   an hour. Learn more about SpaceX's plan to make point-to-point travel a
   reality.
-cover-photo: bunnie abc
+cover-photo: /uploads/screenshot-from-2023-10-30-17-21-34.png
 categories: Emerging Issues & Trends
 tags:
   - SpaceX
@@ -19,7 +19,7 @@ author: M.I.Titus
 ---
 # Anywhere on Earth Under one hour.
 
-On July 16 - 1969, the Apollo 11 crew landed on the moon total crew of 3. **Neil Amstrong**, **Michael Collins**, and **Edwin Aldrin**. How they managed to do this is still a mystery. The trip took 3 days 3 hours 49 minutes. Everything worked so fine and 54 years later nobody has ever achieved that again. The code was written in **C** by Computer Scientist**** Margaret Elaine Hamilton code which was so flawless that we suspect the whole landing was fake and filmed. There was no debugging, good laptops, or great IDE. Everything was written in books. Here is the source code.
+On July 16 - 1969, the Apollo 11 crew landed on the moon total crew of 3. **Neil Amstrong**, **Michael Collins**, and **Edwin Aldrin**. How they managed to do this is still a mystery. The trip took 3 days 3 hours 49 minutes. Everything worked so fine and 54 years later nobody has ever achieved that again. The code was written in **C** by Computer Scientist **Margaret Elaine Hamilton**. code that was so flawless that we suspect the whole landing was fake and filmed. There was no debugging, good laptops, or great IDE. Everything was written in books. Here is the source code.
 
 ![](https://lh7-us.googleusercontent.com/Dpqv95DzWPokcFFwlq2oqXM_FpTrqHqQMHgCp_gK5aecfuMJ6DjfPcwrP5-TkUZpwEP-CX4d_9d_lX92H7ga3OIOb8U9k7To-3Erok17yGA9_3vIzsffxVoY7Q1AjPhxehbN3ilF_v1RhjZ_nYbMvvA)
 
