@@ -1,17 +1,21 @@
-+++
-author = "P.Gitau"
-categories = "App Updates"
-date = 2022-12-25T12:28:38Z
-description = "WhatsApp will cease support for a selection of iPhones and Android handsets as we enter a new year"
-image = ""
-tags = ["meta", "Whatsapp"]
-title = "WhatsApp to stop working on some phones from 1 Jan 2023"
-[cover]
-alt = "WhatsApp to stop working on some phones from 1 Jan 2023"
-caption = "image credits: WhatsApp"
-image = "/uploads/q.PNG"
-
-+++
+---
+title: WhatsApp to stop working on some phones from 1 Jan 2023
+date: 2022-12-25T12:28:38.000Z
+draft: false
+description: WhatsApp will cease support for a selection of iPhones and Android
+  handsets as we enter a new year
+cover-photo: bunnie abc
+categories: App Updates
+author: P.Gitau
+image: ""
+tags:
+  - meta
+  - Whatsapp
+cover:
+  alt: WhatsApp to stop working on some phones from 1 Jan 2023
+  caption: "image credits: WhatsApp"
+  image: /uploads/q.PNG
+---
 **WhatsApp** has released this shocking news as we are preparing to enter the new year 2023. **meta** which now owns WhatsApp announced that from **1 January 2023**, more than **49 different devices** will no longer get software updates.
 
 Or if not, so they might not be able to access some of the cool features that WhatsApp offers or the chat application might not work entirely well this is sad for people who depend on WhatsApp to carry out their daily activities, some even saying they need more time to update their devices, the news was not received lightly by the users.
