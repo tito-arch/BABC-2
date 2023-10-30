@@ -1,16 +1,20 @@
-+++
-author = "P.Gitau"
-categories = "Artificial Intelligence & Machine Learning"
-date = 2023-03-24T18:54:35Z
-description = "Introducing Microsoft Co-pilot which will be Embeded with Microsoft 365 suite"
-tags = ["Microsoft 365 Copilot", "Ai", "Microsoft 365"]
-title = "The Future Is Here: Microsoft Co-Pilot Revolutionizes Productivity"
-[cover]
-alt = "Introducing Microsoft Co-pilot which will be Embeded with Microsoft 365 suite"
-caption = "image credits: IndianExpress.com"
-image = "/uploads/silicon-valley-bank-1-2.jpg"
-
-+++
+---
+title: "The Future Is Here: Microsoft Co-Pilot Revolutionizes Productivity"
+date: 2023-03-24T18:54:35.000Z
+draft: false
+description: Introducing Microsoft Co-pilot which will be Embeded with Microsoft 365 suite
+cover-photo: bunnie abc
+categories: Artificial Intelligence & Machine Learning
+tags:
+  - Microsoft 365 Copilot
+  - Ai
+  - Microsoft 365
+author: P.Gitau
+cover:
+  alt: Introducing Microsoft Co-pilot which will be Embeded with Microsoft 365 suite
+  caption: "image credits: IndianExpress.com"
+  image: /uploads/silicon-valley-bank-1-2.jpg
+---
 The Ai war continues, and the best is yet to come. The same week after Google announced integrating their workspace with generative AI, was still the same week that **Microsoft** announced that they will be releasing **Microsoft copilot** which will be embedded inside **Word, PowerPoint, Excel, Outlook, Microsoft Teams**, and **Microsoft business chat** and pretty much every tool that Microsoft owns you won't miss a sprinkle of some AI features. This comes after OpenAI released ChatGPT 4 which is an advancement of the GPT 3.5 The reason why open AI first announced the model and then Microsoft followed is because the same GPT4 will be integrated with this Microsoft tools, in what they are calling **Microsoft co-pilot.**
 
 {{< youtube 6DaJVZBXETE >}}
