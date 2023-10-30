@@ -1,16 +1,20 @@
-+++
-author = "P.Gitau"
-categories = "App Updates"
-date = 2023-02-09T12:38:27Z
-description = "Climpchamp was Acquired by Microsoft on 8th sep,2021 on windows 11 22h2 version "
-tags = ["Video Editing", "Climpchamp"]
-title = "Microsoft ClimpChamp Review and Features(the last one is the best)"
-[cover]
-alt = "microsoft climpchamp review and features(the last one is the best)"
-caption = "image credits: Microsoft"
-image = "/uploads/clipchamp-teaser-image-538px-wide.png"
-
-+++
+---
+title: Microsoft ClimpChamp Review and Features(the last one is the best)
+date: 2023-02-09T12:38:27.000Z
+draft: false
+description: "Climpchamp was Acquired by Microsoft on 8th sep,2021 on windows 11
+  22h2 version "
+cover-photo: bunnie abc
+categories: App Updates
+tags:
+  - Video Editing
+  - Climpchamp
+author: P.Gitau
+cover:
+  alt: microsoft climpchamp review and features(the last one is the best)
+  caption: "image credits: Microsoft"
+  image: /uploads/clipchamp-teaser-image-538px-wide.png
+---
 Video editing has never been easy. It takes a lot of time and energy to make something small. With different video editors in the market, it can be confusing and hard to choose the one that suits your needs, but what if I told you there is one tool that meets all your needs in one place. It's browser-based and also comes with an app for Android and iOS users. Am I talking to no other but Clipchamp want to know how it works? Make sure you read till the end.
 
 # What is [ClimpChamp](https://clipchamp.com/en/)?
