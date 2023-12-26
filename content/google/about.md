@@ -20,13 +20,13 @@ At BunnieABC, our vision is to create a clear roadmap for building scalable busi
 M.I.Titus is the Head of Product design with a strong vision for the future of digital business. With expertise in creating scalable solutions, he leads BunnieABC with a focus on helping businesses & organizations navigate the digital landscape successfully.
 Learn more about the #beyondBunnieabcBlog project.
 
-### G.K. Peter - Co-Founder, Front-End Developer & Technology Writer
+### G.K. Peter - Front-End Developer & Technology Writer
 
 Peter is a seasoned technology writer with a deep understanding of emerging trends and innovations. Through insightful articles, Peter brings valuable knowledge and analysis to our readers, keeping them informed about the latest advancements.
 
-### W.Bree - Blockchain Specialist & Brand Awareness Manager
+### W.Bree - Digital Marketer
 
-Bree is our Brand Awareness Manager, she plays a pivotal role in developing and executing strategies to enhance the visibility and recognition of our brand. Leveraging her knowledge and expertise, Brie works towards increasing brand awareness, engaging the target audience, and building a positive brand image. Her multifaceted role ensures a strong presence in the blockchain industry while effectively promoting our brand to a wider audience.
+Bree is our Brand Awareness Manager, she plays a pivotal role in developing and executing strategies to enhance the visibility and recognition of our brand. Leveraging her knowledge and expertise, Brie works towards increasing brand awareness, engaging the target audience, and building a positive brand image.
 
 ### Christopher - Computer Science Enthusiast
 
