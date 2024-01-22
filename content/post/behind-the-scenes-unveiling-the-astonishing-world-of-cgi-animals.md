@@ -60,4 +60,10 @@ And you know what? Animators also make sure their characters show emotions and p
 
 {﻿{< youtube ke4Isk-po2Y >}}
 
-You know, 3D modeling isn't just for movies anymore! Nowadays, people are bringing 3D stuff to the web too. They're using cool technologies like [Three.js](Three.js) and other fancy tools to make websites more awesome.Imagine you're on a website, and instead of just looking at pictures, you can actually play around with a 3D model. You can move it, zoom in and out, and really explore it like it's right in front of you. It's like having your own virtual toy to play with! This is super cool because it makes websites more fun and interesting.
+You know, 3D modeling isn't just for movies anymore! Nowadays, people are bringing 3D stuff to the web too. They're using cool technologies like [[Three.js](Three.js)](Three.js) and other fancy tools to make websites more awesome.Imagine you're on a website, and instead of just looking at pictures, you can actually play around with a 3D model. You can move it, zoom in and out, and really explore it like it's right in front of you. It's like having your own virtual toy to play with! This is super cool because it makes websites more fun and interesting.
+
+
+
+
+
+last edited  monday - jan - 22
