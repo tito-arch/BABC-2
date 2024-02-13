@@ -65,7 +65,7 @@ Some of Cobby's features are:
 
 ![](https://lh4.googleusercontent.com/Mq86b9Z1WDUSbSmanYLQNFpmaYMf27gnlsjs4Gcs-L4jUVOnFR7IDakdeLe_gd9aQ41Ry8JMRtxM_uquiT8j9xx01NoHv3VB9zSbMX3_mTZxbA6b9hC4rn4yB6Ev3WjUpZtnX6TvQolcgXSdU2ha8JE)
 
-As you can see, Cooby is a powerful app that we can bet will be here for a long time. Feel free to explore more about them at [Cobby.co](https://www.cooby.co/).
+As you can see, Cooby is a powerful app that we can bet will be here for a long time. Feel free to explore more about them at [Cooby.co](https://www.cooby.co/).
 
 
 ## 2. [**WA Web Plus for WhatsApp**](https://chrome.google.com/webstore/detail/wa-web-plus-for-whatsapp/ekcgkejcjdcmonfpmnljobemcbpnkamh)**.**
