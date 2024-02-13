@@ -67,7 +67,7 @@ Some of Cobby's features are:
 
 As you can see, Cooby is a powerful app that we can bet will be here for a long time. Feel free to explore more about them at [Cobby.co](https://www.cooby.co/).
 
-Am going to go ahead and wrap things there. Thanks for reading and I’ll see you in the next one.
+
 ## 2. [**WA Web Plus for WhatsApp**](https://chrome.google.com/webstore/detail/wa-web-plus-for-whatsapp/ekcgkejcjdcmonfpmnljobemcbpnkamh)**.**
 
 Web Plus tops the list, it’s lightweight, easy to use, and simply works. To install visit [Web Plus on the Chrome web store](https://chrome.google.com/webstore/detail/wa-web-plus-for-whatsapp/ekcgkejcjdcmonfpmnljobemcbpnkamh) and click install, afterwards, you'll need to configure what additional settings you need added to boost your productivity and general feeling when interacting with Whatsapp web.
@@ -118,4 +118,6 @@ Other added functionalities are:
 - Preserve discretion by avoiding revealing that you have listened to the audio, viewed messages, and status
 
 Other business features are added for paid versions of the Extension.
+
+Am going to go ahead and wrap things there. Thanks for reading and I’ll see you in the next one.
 
