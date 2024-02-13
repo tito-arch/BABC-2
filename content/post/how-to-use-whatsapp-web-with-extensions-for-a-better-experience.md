@@ -29,7 +29,7 @@ On your computer or tablet: 
 
 1.  Open your preferred web browser `chrome, safari, firefox, or Bing Safari and Bing users might           
 1.  have additional setup later. Use Chrome instead.
-1.  Visit [[web.WhatsApp.com](web.WhatsApp.com)](http://web.whatsapp.com)
+1. Visit [web.WhatsApp.com](http://web.whatsapp.com).
 1.  Now simply scan the QR code using your phone and that's it.
 
 ## Linking Whatsapp to Whatsapp Web using phone number.
@@ -49,7 +49,26 @@ _This feature comes in handy when your phone is far from you or has a faulty cam
 
 Recent advancement in the WhatsApp web interface has seen it get additional features like an Advertising button, status rings,  sticker suggestions when you type a message, status reaction stickers, and many others but still doesn't bring the native app feeling. Today we dive into extensions that can bring this feeling and functionality.
 
-## 1. [**WA Web Plus for WhatsApp**](https://chrome.google.com/webstore/detail/wa-web-plus-for-whatsapp/ekcgkejcjdcmonfpmnljobemcbpnkamh)**.**
+
+
+## 1. [**Cooby**](https://chrome.google.com/webstore/detail/cooby-best-whatsapp-exten/hcikfoejbgdmajlbhadhfchoekcoablm/related)
+
+Cooby, like [Superhuman](https://superhuman.com/), is designed for work. To boost your productivity by making you focus on what is important. I placed Cooby at the top though I haven't really used it but with the features they showcase, why not. While the three free extensions are free and can deliver just what matters, Cooby would be my choice in the event I should opt for a paid subscription.
+
+Some of Cobby's features are:
+
+-  WhatsApp reminders: set a reminder for a particular chat so you’ll never miss following up on a chat.
+- WhatsApp notes: create notes for specific chats.
+- WhatsApp CRM syncing: sync conversational data from WhatsApp to Salesforce, HubSpot, Zapier, Webhook, and more.
+- Share live chat: share live WhatsApp conversations with a link. New messages are shared in near real-time.
+- Start a chat with unsaved numbers: send WhatsApp messages to unsaved numbers from the desktop.
+
+![](https://lh4.googleusercontent.com/Mq86b9Z1WDUSbSmanYLQNFpmaYMf27gnlsjs4Gcs-L4jUVOnFR7IDakdeLe_gd9aQ41Ry8JMRtxM_uquiT8j9xx01NoHv3VB9zSbMX3_mTZxbA6b9hC4rn4yB6Ev3WjUpZtnX6TvQolcgXSdU2ha8JE)
+
+As you can see, Cooby is a powerful app that we can bet will be here for a long time. Feel free to explore more about them at [Cobby.co](https://www.cooby.co/).
+
+Am going to go ahead and wrap things there. Thanks for reading and I’ll see you in the next one.
+## 2. [**WA Web Plus for WhatsApp**](https://chrome.google.com/webstore/detail/wa-web-plus-for-whatsapp/ekcgkejcjdcmonfpmnljobemcbpnkamh)**.**
 
 Web Plus tops the list, it’s lightweight, easy to use, and simply works. To install visit [Web Plus on the Chrome web store](https://chrome.google.com/webstore/detail/wa-web-plus-for-whatsapp/ekcgkejcjdcmonfpmnljobemcbpnkamh) and click install, afterwards, you'll need to configure what additional settings you need added to boost your productivity and general feeling when interacting with Whatsapp web.
 
@@ -67,7 +86,7 @@ This is the most used Whatsapp web extension in the Chrome web store surpassing 
 
 ![](https://lh5.googleusercontent.com/Lai76JXhoJW0_EzBg2WRbiNbo8rMZ_Vr_K6dEI8-AGemiyEXC_XlRBMIwZ71XO0ZV866w04633DJDw7_r92NdcWi3nsq7jaC0QINrG8QiKz5XC6T2RV19kGmiZKCVSkxU-c6N7I1r78WE4Rz0drprbk)
 
-##  2. [**Privacy Extension For WhatsApp Web**](https://chrome.google.com/webstore/detail/privacy-extension-for-wha/jbojhlhhggfmmkpefknmbdhlaghehini)
+##  3. [**Privacy Extension For WhatsApp Web**](https://chrome.google.com/webstore/detail/privacy-extension-for-wha/jbojhlhhggfmmkpefknmbdhlaghehini)
 
 Nothing too fancy about this one, because it lacks a Lock Whatsapp page feature yet, is meant for privacy. Other interesting features as the extension name suggests are directed to privacy.
 
@@ -83,7 +102,7 @@ On launch toggle what you want visible to others and what should be hidden. Here
 
 ![](https://lh5.googleusercontent.com/fBOzYbQ9s7b6SeYn8g_hZcb4IyfUQv-zFuTHATPA-XJTh_DJCiySN7ziyGH03xom6lCFjkEtrQWncg4ajA2gm-6ySTqbQt1I1SlbB5IlhfJcl8KsB7SCoqaUJT66w7VmsDdNvYy_i8Wm5-QBWxGNiWA)
 
-## 3. [**WhatsUp+ for WhatsApp**](https://chrome.google.com/webstore/detail/whatsup%2B-for-whatsapp-web/lpbkofhnclhhlaibcklkgaonbbmhjeco/related)**.**
+## 4. [**WhatsUp+ for WhatsApp**](https://chrome.google.com/webstore/detail/whatsup%2B-for-whatsapp-web/lpbkofhnclhhlaibcklkgaonbbmhjeco/related)**.**
 
 This extension like the others promises screen privacy for public and work environments. But tread lightly, after adding to Chrome your active Whatsapp session will be logged out and you’ll have to log in using your phone again. This could be a disadvantage if your phone is faulty, off, or away.
 
@@ -100,20 +119,3 @@ Other added functionalities are:
 
 Other business features are added for paid versions of the Extension.
 
-## 4. [**Cooby**](https://chrome.google.com/webstore/detail/cooby-best-whatsapp-exten/hcikfoejbgdmajlbhadhfchoekcoablm/related)
-
-Cooby, like [Superhuman](https://superhuman.com/), is designed for work. To boost your productivity by making you focus on what is important. I placed Cooby at the bottom not cause it sucks but cause you to need a subscription. While the three free extensions are free and can deliver just what matters, Cooby would be my choice in the event I should opt for a paid solution.
-
-Some of Cobby's features are:
-
--  WhatsApp reminders: set a reminder for a particular chat so you’ll never miss following up on a chat.
-- WhatsApp notes: create notes for specific chats.
-- WhatsApp CRM syncing: sync conversational data from WhatsApp to Salesforce, HubSpot, Zapier, Webhook, and more.
-- Share live chat: share live WhatsApp conversations with a link. New messages are shared in near real-time.
-- Start a chat with unsaved numbers: send WhatsApp messages to unsaved numbers from the desktop.
-
-![](https://lh4.googleusercontent.com/Mq86b9Z1WDUSbSmanYLQNFpmaYMf27gnlsjs4Gcs-L4jUVOnFR7IDakdeLe_gd9aQ41Ry8JMRtxM_uquiT8j9xx01NoHv3VB9zSbMX3_mTZxbA6b9hC4rn4yB6Ev3WjUpZtnX6TvQolcgXSdU2ha8JE)
-
-As you can see, Cooby is a powerful app that we can bet will be here for a long time. Visit [[Cobby.co](Cobby.co)](https://www.cooby.co/) to learn more about them. 
-
-Am going to go ahead and wrap things there. Thanks for reading and I’ll see you in the next one.
