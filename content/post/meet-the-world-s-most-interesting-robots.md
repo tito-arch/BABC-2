@@ -16,7 +16,6 @@ cover:
   caption: ""
   image: /uploads/untitled-design.png
 ---
-
 ## Robots, what are they?
 
 A robot is a machine that does not necessarily look like a human that can replicate one or more tasks with less or no human intervention.
@@ -29,7 +28,7 @@ A robot is a machine that does not necessarily look like a human that can replic
 
 Now that we know the three of Asimov's laws of robotics let's meet the robots.
 
-## 1 Tesla Optimus 
+## 1 Tesla Optimus
 
 Among Elon Musk's creations, not the cyber-truck but the Tesla Optimus (Giga chad). On March 2023 Gen 1 was showcased, things at Tesla move pretty fast, about two months ago, Gen 2 was shown to the public: see the video below. Let's summarize what the Tesla Optimus Gen 2 is capable of and its future.
 
@@ -38,13 +37,13 @@ Among Elon Musk's creations, not the cyber-truck but the Tesla Optimus (Giga cha
 1. Faster and more capable hands
 1. Improved balance and full body control
 
-This is a machine powered by both AI and human body features. If you think that AI is not dangerous, this thing is about to make all people in an assembly line obsolete. To learn more visit [https://tesla.com/AI](https://tesla.com/AI) 
+This is a machine powered by both AI and human body features. If you think that AI is not dangerous, this thing is about to make all people in an assembly line obsolete. To learn more visit [[https://tesla.com/AI](https://tesla.com/AI)](https://tesla.com/AI)
 
 ### Tesla Optimus Gen 2
 
 {{< youtube cpraXaw7dyc >}}
 
-## 1. ASIMO.
+## 2. ASIMO.
 
 ## ![Meet the world's most interesting Robots.](/uploads/asimo.jpg)
 
@@ -66,7 +65,7 @@ He was built to be a companion to the elderly, children who often do repetitive 
 
 sadly, ASIMO was discontinued after he surpassed his teenage days. However, he will continue being developed and make public appearances once in a while.
 
-## 2. SOPHIA.
+## 3. SOPHIA.
 
 ![Meet the world's most interesting Robots.](/uploads/sophia-the-robot.jpg)
 
@@ -76,17 +75,17 @@ She is the most advanced robot and often participates in talks all over the worl
 
 {{< youtube G-zyTlZQYpE >}}
 
-sophia sings better than you would [here](https://www.youtube.com/clip/UgkxxdWKvcK6yuWBuclEKlhbLlCbP9-p8PcA).
+Sophia sings better than you would [here](https://www.youtube.com/clip/UgkxxdWKvcK6yuWBuclEKlhbLlCbP9-p8PcA).
 
-## 3. PEPPER.
+## 4. PEPPER.
 
 ![Meet the world's most exciting Robots.](/uploads/fbf8gvuuyamjgk4.png)
 
-Pepper is an intelligent semi-humanoid robot that was built to curb labor shortages. Where? I have no idea. Just like ASIMO and Sophia, Pepper has a gender and is male. He moves on a rolling base. The company, **soft bank robotics** says that it was the first robot to recognize faces and human emotions.
+Pepper is an intelligent semi-humanoid robot that was built to curb labor shortages. Where? I have no idea. Just like ASIMO and Sophia, Pepper has a gender and is male. He moves on a rolling base. The company, **Soft Bank Robotics** says that it was the first robot to recognize faces and human emotions.
 
-Today, companies use Pepper to interact with their customers since the robot is very good at collecting data this helps companies to understand the taste of their customers. According to [[iee.org](iee.org)](https://robots.ieee.org/robots/pepper/), Renault, Nestle, and Uniqlo have used Pepper to interact with their customers. Pepper does not look intimidating. it is short and friendly and only costs **$1,500 per robot.** You can purchase the robot by visiting their website [here](https://www.softbankrobotics.com/emea/en/contact-us).
+Today, companies use Pepper to interact with their customers since the robot is very good at collecting data this helps companies to understand the taste of their customers. According to [[[iee.org](iee.org)](iee.org)]([https://robots.ieee.org/robots/pepper/](https://robots.ieee.org/robots/pepper/)), Renault, Nestle, and Uniqlo have used Pepper to interact with their customers. Pepper does not look intimidating. it is short and friendly and only costs **$1,500 per robot.** You can purchase the robot by visiting their website [here](https://www.softbankrobotics.com/emea/en/contact-us).
 
-## 4. AMECA.
+## 5. AMECA.
 
 ![Meet the world's most exciting Robots.](/uploads/fb_4glvx0aibtfp.jpeg)
 
@@ -94,7 +93,7 @@ Ameca is still being built and still not quite efficient, he is built not to loo
 
 Ameca's purpose is for entertainment and will be seen around often in ten years' time he is still on a mission and very promising.
 
-## 5. ATLAS.
+## 6. ATLAS.
 
 ![](/uploads/atlas-dynamic.jpg)
 
@@ -104,7 +103,7 @@ Atlas has a height of 1.5m and a weight of 89 kg. Like ASIMO he is also one of t
 
 The robot is still too expensive at 75,000.
 
-## 6. SPOT.
+## 7. SPOT.
 
 ![](/uploads/chironix-senses-spot-leica-1.jpg)
 
