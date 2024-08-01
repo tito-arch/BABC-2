@@ -54,7 +54,7 @@ GPT4 through the discord bot interface (that it made ) accepts the inputs ie:
 
 An image
 
-A command - you instruct the bot what to do with the image. "What is funny about this image? Describe it panel by panel."
+A command - you instruct the bot what to do with the image. "What is funny about this image? Describe it panel by panel.".
 
 Here is an example:
 
