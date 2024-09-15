@@ -36,7 +36,7 @@ The 3 common gates are the **AND**, **OR,** and **NOT** gates. Other such gates 
 
 In modern computers, one or more chips are put together to form a **chip.** This chip contains the electronic circuitry needed for various operations.
 
-![/uploads/6.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/6.PNG)
+![/uploads/6.PNG](/uploads/6.PNG)
 
 A chip can contain all the components of a circuit that can act as a logic gate. This type of chip is called an integrated **circuit**. When an integrated circuit makes up all the central processing unit (CPU) except the memory. It's called a **microprocessor.**
 
@@ -73,10 +73,6 @@ The two switches are open. Any other combination of the switches (eg A open and 
 The **Logic OR Function** function states that an output action will become **TRUE** if either one “OR” more events are **TRUE,** but the order in which they occur is unimportant as it does not affect the final result.
 
 ![/uploads/11.PNG](/uploads/11.PNG)
-
-
-
-
 
 #### **A practical application of OR gate**
 
