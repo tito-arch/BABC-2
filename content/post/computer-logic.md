@@ -30,7 +30,7 @@ Electronic pulses can be made to follow a set of rules if they are passed throug
 
 The 3 common gates are the **AND**, **OR,** and **NOT** gates. Other such gates **NOR** and **NAND** are made by combining two of these together.
 
-![/uploads/1.jpg](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/1.jpg)
+![/uploads/1.jpg](/uploads/1.jpg)
 
 ## Chips
 
@@ -58,13 +58,13 @@ AND gates can have two or more inputs, but they only have one possible output. i
 
 #### **A 3-input AND logic gate**
 
-![/uploads/9.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/9.PNG)
+![/uploads/9.PNG](/uploads/9.PNG)
 
 #### **A practical application of AND gate**
 
 Gates are equivalent to combinations of switches. We can make a simple circuit using switches, a battery, and a bulb that will perform the same logical way as an AND gate.
 
-![/uploads/10.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/10.PNG)
+![/uploads/10.PNG](/uploads/10.PNG)
 
 The two switches are open. Any other combination of the switches (eg A open and B closed) means the bulb will not light up.
 
@@ -72,15 +72,17 @@ The two switches are open. Any other combination of the switches (eg A open and 
 
 The **Logic OR Function** function states that an output action will become **TRUE** if either one “OR” more events are **TRUE,** but the order in which they occur is unimportant as it does not affect the final result.
 
-![/uploads/11.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/11.PNG)
+![/uploads/11.PNG](/uploads/11.PNG)
 
-![](/uploads/8-1.PNG)
+
+
+
 
 #### **A practical application of OR gate**
 
 In an OR gate, the switches in the circuit are in parallel. in the two output circuits, the bulb will light if either switches A or B are closed. it will also light if both of the switches are closed. In the OR gates switching circuit the bulb will only write when one or more of the switches are closed.
 
-![/uploads/12-1.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/12-1.PNG)
+![/uploads/12-1.PNG](/uploads/12-1.PNG)
 
 ### The NOT gate
 
@@ -88,11 +90,11 @@ Unlike the other gates, the NOT gate has only one input. But like the other gate
 
 because it has the effect of making the output the opposite of the input, so if the input is 0 then the output is 1
 
-![/uploads/13.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/13.PNG)
+![/uploads/13.PNG](/uploads/13.PNG)
 
 **Practical application of NOT gate**
 
-![/uploads/14.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/14.PNG)
+![/uploads/14.PNG](/uploads/14.PNG)
 
 If A means that the switch is closed, then NOT A or simply Ã says that the switch is **NOT** closed or in other words, it is open. The logic NOT gate has a single input and a single output as shown
 
@@ -100,21 +102,21 @@ If A means that the switch is closed, then NOT A or simply Ã says that the swit
 
 The NAND gate is an AND gate followed by a NOT gate. To write its operation table we must follow the input firstly through the AND gate and then through the NOT gate
 
-![/uploads/15.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/15.PNG)
+![/uploads/15.PNG](/uploads/15.PNG)
 
 Suppose we want to find out what happens when the inputs A=0 and B=1 go through the NAND gate. First, we can work out what happens when they go through the AND gate. 0 and 1 through an and gate gives us 0. so this 0 is the input going into the NOT gate. A 0 going into a NOT gate gives an output of 1.
 
-![/uploads/17.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/17.PNG)
+![/uploads/17.PNG](/uploads/17.PNG)
 
-![/uploads/18.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/18.PNG)
+![/uploads/18.PNG](/uploads/18.PNG)
 
 #### The NOR gate
 
 The NOR gate is formed by combining an OR gate with a NOT gate. To work out the output we go through two steps. First, we work out the inputs and outputs for the OR gate. These are now the inputs for the NOT gate. The second step is working out the output of putting these inputs through the NOT gate.
 
-![/uploads/19.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/19.PNG)
+![/uploads/19.PNG](/uploads/19.PNG)
 
-\**NB-**like the AND and OR gates, The NAND and NOR gates may have more than one input and like all gates, there is only ever one output.
+**NB-**like the AND and OR gates, The NAND and NOR gates may have more than one input and like all gates, there is only ever one output.
 
 we saw before that 0 and 1 in actual computers do not mean off and on. But it is useful to think of them as switches for explaining logic diagrams. Actually,0 means a pulse of low voltage and 1 means a pulse of high voltage.
 
@@ -122,7 +124,7 @@ we saw before that 0 and 1 in actual computers do not mean off and on. But it is
 
 An XOR gate (also known as an EOR, or EXOR gate) – pronounced as Exclusive OR gate – is a digital logic gate that gives a true (i.e. a HIGH or 1) output when the number of true inputs is odd. An XOR gate implements an exclusive OR, i.e., a true output result occurs if one – and only one – of the gate’s inputs is true. If both inputs are false (i.e. LOW or 0) or both inputs are true, the output is false.
 
-![/uploads/20.PNG](https://app.forestry.io/sites/z6rfaq36-lcvlg/body-media//uploads/20.PNG)
+![/uploads/20.PNG](/uploads/20.PNG)
 
 #### X-NOR gate
 
